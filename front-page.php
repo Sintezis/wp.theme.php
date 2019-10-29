@@ -1,5 +1,5 @@
 
-
+<?php get_header(); ?>
   <section id="welcome" class="snt-welcome-section">
     <div class="row">
       <div class="col-md-10">
