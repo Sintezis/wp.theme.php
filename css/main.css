@@ -686,6 +686,10 @@ h4 {
 	color: white;	
 }
 
+.snt-blog-posts-container a, .snt-blog-posts-container a:hover {
+	color: white;
+}
+
 .snt-blog-posts-container hr {
 	border-color: rgba(255, 199, 0, 0.75);
 }
@@ -765,6 +769,10 @@ h4 {
 	margin: 30px 0 30px 0;
 }
 
+.snt-blog-container img {
+	width: 100%;
+}
+
 .snt-blog-container .col-md-6 {
 	padding-right: 80px;
 }
@@ -794,11 +802,11 @@ h4 {
 }
 
 
-.snt-quotes {
+.snt-blog-container blockquote {
 	border-left: solid 5px #FFC700;
 }
 
-.snt-quotes p {
+.wp-block-quote p {
 	font-family: Barlow;
 	font-style: normal;
 	font-weight: 300;
@@ -807,7 +815,7 @@ h4 {
 	color: #FFC700;
 }
 
-.snt-quotes cite {
+.wp-block-quote cite {
 	font-family: Barlow;
 	font-style: normal;
 	text-align: right;
@@ -830,6 +838,10 @@ h4 {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top:80px;
+}
+
+.snt-blog-author img {
+  border-radius: 50%;
 }
 
 /* mobile */

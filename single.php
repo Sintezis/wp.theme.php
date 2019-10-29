@@ -32,20 +32,20 @@
 	</div>
 
 	<div class="snt-blog-footer">
-		<div class="row">
+		<div class="snt-blog-author row">
 			<div class="col-md-8 col-md-offset-2"><hr></div>
 			<div class="col-md-1 col-md-offset-2">
-				<img src="<?php echo get_template_directory_uri().'/imgs/blog-author-img.png'?>" width="110" height="110"  alt="">
+				<?php echo get_avatar($post->post_author, 110); ?>
 			</div>
-			<div class="snt-blog-author col-md-7">
+			<div class="col-md-7">
 				<h4>written by</h4>
-				<h3 class="text-left">Simun Strukan</h3>
-				<p class="text-left">Co-founder | CTO @ Sintezis Startup Studio</p>
+				<h3 class="text-left"><?php the_author_meta('display_name', $post->post_author); ?></h3>
+				<p class="text-left"><?php the_author_meta('description', $post->post_author); ?></p>
 			</div>
 		</div>
 
 		
-		<div class="snt-blog-posts row">
+		<!-- <div class="snt-blog-posts row">
 			<div class="col-md-4 col-md-offset-2">
 				<h3>More from our blog</h3>
 			</div>
@@ -57,11 +57,11 @@
 			<div class="col-md-4">
 					<img src="<?php echo get_template_directory_uri().'/imgs/blog-bg-md-placeholder-2.png'?>" width="100%" alt="">
 			</div>
-		</div>
+		</div> -->
 
 		<div class="row">
 			<div class="col-md-12">
-				<button class="snt-btn btn" onclick="" >VIEW MORE ARTICLES</button>
+				<button class="snt-btn btn" onclick="window.location.href='/blog'">VIEW MORE ARTICLES</button>
 			</div>
 		</div>
 	</div>

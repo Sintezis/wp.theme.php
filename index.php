@@ -6,7 +6,7 @@
 				<img src="<?php echo get_template_directory_uri().'/imgs/blog-header-small-placholder-1.png'?>" alt="">
 			</div>
 			<div class="col-md-6">
-				<h4>meet the sinezis team </h4>
+				<h4><?php echo apply_filters( 'plugins/wp_subtitle/get_subtitle', '') ?></h4>
 				<h2><a href="<?php esc_url(the_permalink()) ?>"><?php echo the_title(); ?></a></h2>
 				<span class="snt-blog-date"> 
           <img src="<?php echo get_template_directory_uri().'/imgs/date-icon.png'?>" width="24" height="24" alt="">
