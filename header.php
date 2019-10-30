@@ -42,7 +42,14 @@ style guide rules end -->
   <nav class="snt-nav-bar navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
       <div class="navbar-header">
-        <a href="<?php echo get_home_url(); ?>"><img src="<?php echo get_template_directory_uri().'/imgs/logo-white.png'; ?>" class="navbar-brand" height="30" alt=""></a>
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="hidden-lg" href="<?php echo get_home_url(); ?>"><img src="<?php echo get_template_directory_uri().'/imgs/logomark.png'; ?>" class="navbar-brand" height="50" alt=""></a>
+        <a class="hidden-md hidden-sm hidden-xs" href="<?php echo get_home_url(); ?>"><img src="<?php echo get_template_directory_uri().'/imgs/logo-white.png'; ?>" class="navbar-brand" height="50" alt=""></a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
@@ -53,7 +60,7 @@ style guide rules end -->
           <li><a href="<?php echo get_home_url() .'/#career'?>">Career</a></li>
           <li><a href="<?php echo get_home_url() .'/#blog'?>">Blog</a></li>
           <li><a href="<?php echo get_home_url() .'/#contact'?>">Contact</a></li>
-          <li><a href="">Partnership</a></li>
+          <li><a href="/partnership">Partnership</a></li>
         </ul>
       </div>
     </div>

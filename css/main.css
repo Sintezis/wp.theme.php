@@ -32,6 +32,9 @@ section {
 	display: none;
 }
 
+.snt-nav-bar li a {
+	font-family: Overpass;
+}
 .snt-nav-bar a:hover {
 	color: #FB178A !important;
 }
@@ -58,6 +61,16 @@ section {
 .snt-btn img {
 	margin-left: 20px;
 }
+
+/* mobile */
+@media (max-width: 767px) { 
+	
+	.snt-nav-bar ul {
+		margin: 10px auto;
+		text-align: center;
+	}
+}
+
 
 /* TYPOGRAHPY */
 p {
@@ -555,7 +568,7 @@ h4 {
 .snt-contact-section input {
 	width: 100%;
 	height: 80px;
-	background-color: black;
+	background-color: transparent;
 	border-bottom: solid 2px white;
 	border-top: none;
 	border-left: none;
@@ -761,7 +774,7 @@ h4 {
 	margin: 20px 0 20px 0; 
 }
 
-.snt-blog-container span {
+.snt-blog-sidebar span {
 	color: white; 
 	font-size: 18px; 
 	line-height: 24px;
@@ -796,14 +809,19 @@ h4 {
 	line-height: 24px;
 }
 
+.snt-blog-content .post-reading-time-estimate__paragraph {
+	display: none;
+}
+
 .snt-blog-sidebar {
 	padding-left: 80px; 
 	border-left: 1px solid #FFC700;
 }
 
 
-.snt-blog-container blockquote {
+blockquote {
 	border-left: solid 5px #FFC700;
+	margin: 60px 0 60px 0;
 }
 
 .wp-block-quote p {
@@ -815,7 +833,7 @@ h4 {
 	color: #FFC700;
 }
 
-.wp-block-quote cite {
+cite {
 	font-family: Barlow;
 	font-style: normal;
 	text-align: right;
@@ -859,8 +877,98 @@ h4 {
 	.snt-blog-sidebar {
 		display: none;
 	}	
-
 }
+
+/* GENERIC PAGE TEPLATE */
+
+.snt-page-container h1, .snt-page-container h2, .snt-page-container h3, .snt-page-container h4, .snt-page-container h5 {
+	font-family: Overpass;
+	color: white;
+}
+
+.snt-page-container h1 {
+	font-size: 44px;
+	line-height: 52px;
+	margin-bottom: 7%;
+}
+
+.snt-page-container h2 {
+	font-weight: 800;
+	font-size: 36px;
+	line-height: 120.4%;
+	text-transform: uppercase;
+	margin: 12% 0 4% 0;
+} 
+
+.snt-page-container h3 {
+	font-style: normal;
+	font-weight: 800;
+	font-size: 28px;
+	line-height: 43px;
+	margin: 10% 0 4% 0;
+}
+
+.snt-page-container h4 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 34px;
+	text-transform: none;
+	margin: 4% 0 2% 0;
+}
+
+.snt-page-container h5 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 28px;
+}
+
+.snt-page-container p {
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 26px;
+	color: #F0F2FE;
+	margin-bottom: 1%;
+}
+
+.wp-block-quote p {
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 28px;
+	line-height: 42px;
+	color: #FFC700;
+}
+
+.snt-page-subtitle, .snt-toc-sidebar .lwptoc_header {
+	font-family: Telegrafico;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 8px;
+	color: #FFC700;
+	margin-bottom: 20px;;
+}
+
+.snt-toc-sidebar {
+	border-left: solid 2px #FFC700;
+	padding-left: 50px;
+	font-family: Barlow;
+}
+
+.snt-toc-sidebar .lwptoc_item {
+	margin: 30px 0 30px 0;
+}
+
+.snt-toc-sidebar .lwptoc_item_label {
+	color: white;
+	text-decoration: underline;
+	font-size: 18px;
+	line-height: 24px;
+}
+
 
 
 

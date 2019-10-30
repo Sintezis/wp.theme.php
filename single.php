@@ -1,5 +1,5 @@
-<?php global $post; $content = $post->post_content; ?>
-<?php get_header(); ?>
+
+<?php get_header(); the_post();?>
 
 	<div class="row">
 		<div class="col-md-12">
@@ -12,20 +12,14 @@
 			<div class="col-md-6 col-md-offset-2">
 				<h4><?php echo apply_filters( 'plugins/wp_subtitle/get_subtitle', '') ?></h4>
 				<h2><?php the_title(); ?></h2>
-				<?php echo apply_filters( 'the_content', $content);?>
+				<div class="snt-blog-content"><?php the_content() ?></div>
 			</div>
 			
 			<div class="snt-blog-sidebar col-md-2">
 				<h4>Published</h4>
 				<span class="snt-blog-date"><?php echo get_the_date('Y / m / d'); ?></span>
 				<h4>Read time</h4>
-					<span>8 min</span>
-				<!-- <h4>Skip to</h4>
-				<ul>
-					<li>The Silver Lining</li>
-					<li>The Meta</li>
-					<li>No realy, meet the team</li>
-				</ul> -->
+				<span><?php echo do_shortcode("[reading_time]") ?></span>
 			</div>
 
 		</div>
