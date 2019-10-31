@@ -29,16 +29,16 @@
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
         <!-- carousel -->
-        <div id="my-pics" class="snt-carousel carousel slide" data-ride="carousel"> 
+        <div id="portfolio-slider" class="snt-carousel carousel slide" data-ride="carousel"> 
           
           <div class="snt-carousel-content carousel-inner" role="listbox">
             
             <!-- Slide 1 -->
             <div class="snt-carousel-item item active">
               <div class="row">
-                <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.png'?>" alt="Republish"></div>
+                <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-elude.png'?>" alt="Republish"></div>
                 <div class="col-md-5">
-                  <h3>Republish iOS App</h3>
+                  <h3>Elude iOS App</h3>
                   <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
                 </div>
               </div>
@@ -54,24 +54,36 @@
                 </div>
               </div>
             </div>
+
+            <!-- Slide 3 -->
+            <div class="snt-carousel-item item">
+              <div class="row">
+                <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-fooc.png'?>" alt="Republish"></div>
+                <div class="col-md-5">
+                  <h3>Fooc iOS App Prototype</h3>
+                  <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
+                </div>
+              </div>
+            </div>
     
           </div>
 
           <!-- Previous/Next controls -->
-          <a class="left carousel-control" href="#my-pics" role="button" data-slide="prev">
+          <a class="left carousel-control" href="#portfolio-slider" role="button" data-slide="prev">
             <img class="snt-carousel-control-icon snt-carousel-control-prev" src="<?php echo get_template_directory_uri().'/imgs/arrow-left-grey.png'?>" alt="">
             <span class="sr-only">Previous</span>
           </a>
           
-          <a class="right carousel-control" href="#my-pics" role="button" data-slide="next">
+          <a class="right carousel-control" href="#portfolio-slider" role="button" data-slide="next">
               <img class="snt-carousel-control-icon snt-carousel-control-next" src="<?php echo get_template_directory_uri().'/imgs/arrow-right-grey.png'?>" alt="">
             <span class="sr-only">Next</span>
           </a>
 
           <!-- Indicators -->
           <ol class="carousel-indicators" style="bottom: -40px;">
-            <li data-target="#my-pics" data-slide-to="0" class="active"></li>
-            <li data-target="#my-pics" data-slide-to="1"></li>
+            <li data-target="#portfolio-slider" data-slide-to="0" class="active"></li>
+            <li data-target="#portfolio-slider" data-slide-to="1"></li>
+            <li data-target="#portfolio-slider" data-slide-to="2"></li>
           </ol>
           
         </div>
