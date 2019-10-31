@@ -7,7 +7,7 @@
           <div class="row">
               <div class="col-md-8 col-md-offset-4">
                 <img class="snt-logo" src="<?php echo get_template_directory_uri().'/imgs/logo-white.png' ?>" alt="">
-                <h2>Transforming abstract ideas into digital products</h2>
+                <h2>Edit Transforming abstract ideas into digital products</h2>
                 <p class="subtitle">We bring order to your creative chaos and make things fit perfectly togeather. We build, so you can dream.</p>
                 <button class="snt-btn btn" onclick="window.location.href='#projects'" >SEE OUR WORK <img src="<?php echo get_template_directory_uri().'/imgs/arrow-bottom.png' ?>" width="24" height="24" alt=""></button>
               </div>

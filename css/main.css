@@ -712,7 +712,7 @@ h4 {
 	padding: 0;
 }
 
-.snt-blog-posts-container .snt-blog-date img {
+.snt-blog-posts-container.snt-blog-date img {
 	margin: 0;
 }
 
