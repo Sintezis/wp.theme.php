@@ -3,7 +3,7 @@
   <div class="snt-blog-posts-container">
 		<div class="row">
 			<div class="col-md-2 col-md-offset-2">
-				<img src="<?php echo get_template_directory_uri().'/imgs/blog-header-small-placholder-1.png'?>" alt="">
+				<img class="snt-blog-thumb" src="<?php echo get_template_directory_uri().'/imgs/blog-header-small-placholder-1.png'?>" alt="">
 			</div>
 			<div class="col-md-6">
 				<h4><?php echo apply_filters( 'plugins/wp_subtitle/get_subtitle', '') ?></h4>

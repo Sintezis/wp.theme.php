@@ -13,6 +13,7 @@
 html, body, .snt-container { 
 	height: 100%;
 	background-color: black;
+	padding: 0;
 }
 
 section {
@@ -20,13 +21,31 @@ section {
 	width: 100%;
 }
 
-/* mobile section */
-@media (max-width: 1023px) {
+.snt-container .row {
+	margin-right: 0px;
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+
+/* mobile */
+@media (max-width: 1365px) {
 	section {
 		width: 100%;
 		height: initial;
 	}	
 }
+
+@media (max-width: 1023px) {
+
+	.snt-container .row {
+		margin-left: 0px;
+	}
+} 
 
 .snt-nav-bar {
 	display: none;
@@ -191,7 +210,7 @@ h4 {
 /* Portfolio Section */
 
 .snt-portfolio-section h1 {
-	margin-bottom: 180px;
+	margin-bottom: 20px;
 }
 
 .snt-portfolio-section h4 {
@@ -211,8 +230,6 @@ h4 {
 .snt-carousel-item h3 {
 	text-align: left;
 	font-weight: bold;
-	vertical-align: middle;
-	margin-top: 40%;
 }
 
 .snt-carousel-item p {
@@ -236,6 +253,18 @@ h4 {
 .snt-carousel-control-ext {
 	margin-right: -50%;
 } 
+
+.snt-protfolio-content {
+	position: relative;
+}
+
+.snt-portfolio-item-txt {
+	margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
 
 /* mobile */
 
@@ -294,12 +323,13 @@ h4 {
 }
 
 .snt-services-section p {
-	padding: 20px 110px 0 110px;
+	padding: 20px 10px 0 10px;
+	text-align: center;
 }
 
 /* mobile */
 
-@media (max-width: 1023px) {
+@media (max-width: 1365px) {
 
 	.snt-services-section h1 {
 		font-size: 40px;
@@ -313,7 +343,6 @@ h4 {
 	}
 
 	.snt-services-section p {
-		text-align: center;
 		margin-bottom: 50px;
 	}
 
@@ -327,6 +356,7 @@ h4 {
 .snt-cta-section {
 	background: url(../imgs/neon-party-bg.png) bottom center no-repeat black;
 	background-size: cover;
+	height: initial;
 }
 
 .snt-cta-section h1 {
@@ -379,7 +409,13 @@ h4 {
 	display: block-inline;
 }
 
+
 /* mobile */
+@media (max-width: 1365px) {
+	.snt-team-pic {
+		width: 100%;
+	}
+}
 
 @media (max-width: 1023px) {
 
@@ -393,6 +429,10 @@ h4 {
 	.snt-team-section h4 {
 		text-align: center;
 		margin-top: 15px;
+	}
+
+	.snt-team-pic {
+		width: initial;
 	}
 }
 
@@ -408,7 +448,7 @@ h4 {
 }
 
 .snt-jobs-section p {
-	margin-bottom: 150px;
+	margin-bottom: 75px;
 }
 
 .snt-jobs-section .btn {
@@ -641,12 +681,10 @@ h4 {
 }
 
 .snt-address-container {
-	margin-left: 50px;
 	float: left;
 }
 
 .snt-contact-container {
-	margin-right: 50px;
 	float: right;
 }
 
@@ -659,7 +697,6 @@ h4 {
 }
 
 .snt-copyright {
-	margin-left: 50px;
 	margin-top: 50px;
 }
 
@@ -691,8 +728,9 @@ h4 {
 	padding-top: 200px;
 }
 
-.snt-blog-posts-container img {
-	margin-top: 10px
+.snt-blog-thumb {
+	margin-top: 10px;
+	width: 100%;
 }
 
 .snt-blog-posts-container p {

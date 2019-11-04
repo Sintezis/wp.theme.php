@@ -35,33 +35,39 @@
             
             <!-- Slide 1 -->
             <div class="snt-carousel-item item active">
-              <div class="row">
+              <div class="row row-eq-height">
                 <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-elude.png'?>" alt="Republish"></div>
-                <div class="col-md-5">
-                  <h3>Elude iOS App</h3>
-                  <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
+                <div class="snt-protfolio-content col-md-5">
+                  <div class="snt-portfolio-item-txt">
+                    <h3>Elude iOS App</h3>
+                    <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
+                  </div>
                 </div>
               </div>
             </div>
     
             <!-- Slide 2 -->
             <div class="snt-carousel-item item">
-              <div class="row">
+              <div class="row row-eq-height">
                 <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.png'?>" alt="Republish"></div>
-                <div class="col-md-5">
-                  <h3>Republish iOS App</h3>
-                  <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
+                <div class="snt-protfolio-content col-md-5">
+                  <div class="snt-portfolio-item-txt">
+                    <h3>Elude iOS App</h3>
+                    <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
+                  </div>
                 </div>
               </div>
             </div>
 
             <!-- Slide 3 -->
             <div class="snt-carousel-item item">
-              <div class="row">
+              <div class="row row-eq-height">
                 <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-fooc.png'?>" alt="Republish"></div>
-                <div class="col-md-5">
-                  <h3>Fooc iOS App Prototype</h3>
-                  <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
+                <div class="snt-protfolio-content col-md-5">
+                  <div class="snt-portfolio-item-txt">
+                    <h3>Elude iOS App</h3>
+                    <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -155,7 +161,7 @@
         <div class="row">
         
           <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" class="center-block" alt="">
+            <img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" class="snt-team-pic center-block" alt="">
             <h3>Domagoj Bagaric</h3>
             <p>CEO</p>
             
@@ -171,7 +177,7 @@
           </div>
         
           <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_sstrukan.png'?>" class="center-block" alt="">
+            <img src="<?php echo get_template_directory_uri().'/imgs/photo_sstrukan.png'?>" class="snt-team-pic center-block" alt="">
             <h3>Simun Strukan</h3>
             <p>CTO</p>
 
@@ -192,7 +198,7 @@
           </div>
         
           <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" class="center-block" alt="">
+            <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" class="snt-team-pic center-block" alt="">
             <h3>Gordon Cindric</h3>
             <p>Lead Product Designer</p>
 
@@ -217,7 +223,7 @@
         <div class="row">
         
             <div class="col-md-4">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="center-block" alt="">
+              <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="snt-team-pic center-block" alt="">
               <h3>Zvonimir Tomesic</h3>
               <p>Lead Software Developer</p>
 
@@ -239,7 +245,7 @@
             </div>
           
             <div class="col-md-4">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_tpapic.png'?>" class="center-block" alt="">
+              <img src="<?php echo get_template_directory_uri().'/imgs/photo_tpapic.png'?>" class="snt-team-pic center-block" alt="">
               <h3>Tomislav Papic</h3>
               <p>Senior Web Developer</p>
 
@@ -261,7 +267,7 @@
             </div>
           
             <div class="col-md-4">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_tkozacinski.png'?>" class="center-block" alt="">
+              <img src="<?php echo get_template_directory_uri().'/imgs/photo_tkozacinski.png'?>" class="snt-team-pic center-block" alt="">
               <h3>Tomislav Kozacinski</h3>
               <p>Proudct Designer</p>
 

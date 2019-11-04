@@ -1,6 +1,6 @@
 	<section class="snt-footer-section">
     <div class="row" style="padding-top: 35%;">
-      <div class="col-md-6">
+      <div class="col-md-4 col-md-offset-2">
         <div class="snt-address-container">
           <h3>Sintezis Startup Studio Ltd.</h3>
           <p>Ground floor 8-9, Marino Mart, Dublin 3, D03P590</p>
@@ -9,7 +9,7 @@
         </div>
       </div>
 
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="snt-contact-container">
           <h3>Connect with Us</h3>
           <p>www.sintezis.co</p>
@@ -24,7 +24,7 @@
     </div>
 
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-8 col-md-offset-2">
         <p class="snt-copyright">Copyright © 2020 Sintezis - All right reserved</p>
       </div>
     </div>
