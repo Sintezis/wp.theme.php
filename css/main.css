@@ -26,10 +26,10 @@ section {
 }
 
 .row-eq-height {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display:         flex;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display:         flex;
 }
 
 /* mobile */
@@ -45,7 +45,16 @@ section {
 	.snt-container .row {
 		margin-left: 0px;
 	}
-} 
+
+	.row-eq-height {
+		display: initial;
+	}
+
+}
+
+@media (min-width: 1024px) {
+	
+}
 
 .snt-nav-bar {
 	display: none;
@@ -203,6 +212,11 @@ h4 {
 		margin-left:auto; 
 		margin-bottom: 100px;
 		margin-right: auto;
+		width: 100%;
+	}
+
+	.snt-btn img {
+		margin-left: 0px;
 	}
 
 }
@@ -295,8 +309,21 @@ h4 {
 		margin-top: 15px;
 		text-align: center;
 	}
-	
-	.snt-carousel-item p {
+
+	.snt-protfolio-content {
+		position: initial;
+		
+	}
+
+	.snt-portfolio-item-txt {
+		position: initial;
+		display: block;
+		-ms-transform: none;
+  	transform: none;
+
+	}
+
+	.snt-portfolio-item-txt p {
 		margin-left: auto;
 		margin-right: auto;
 		display: block;
@@ -429,10 +456,6 @@ h4 {
 	.snt-team-section h4 {
 		text-align: center;
 		margin-top: 15px;
-	}
-
-	.snt-team-pic {
-		width: initial;
 	}
 }
 
@@ -605,7 +628,7 @@ h4 {
 	margin-bottom: 100px;
 }
 
-.snt-contact-section input {
+.snt-contact-section input, .snt-contact-section textarea {
 	width: 100%;
 	height: 80px;
 	background-color: transparent;

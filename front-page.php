@@ -305,38 +305,49 @@
     </div>
 
     <div class="row">
-      <div class="col-md-3 col-md-offset-3">
-        <button class="btn snt-btn">
-          <span>Senior Backend Developer</span> <br>
-          <p>5y, Java, Spring, PostgreSQL</p>
-          <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
-        </button>
+      <div class="col-md-6 col-md-offset-3">
+
+        <div class="row">
+          <div class="col-lg-6"> 
+            <button class="btn snt-btn">
+              <span>Senior Backend Developer</span> <br>
+              <p>5y, Java, Spring, PostgreSQL</p>
+              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+            </button>
+          </div>
+
+          <div class="col-lg-6"> 
+            <button class="btn snt-btn">
+              <span>UX  Designer</span> <br>
+              <p>2y, Sketch, Figma, Zeplin</p>
+              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+            </button>
+          </div>
+
+        </div>
+
+        <div class="row">
+          
+        <div class="col-lg-6">
+            <button class="btn snt-btn">
+              <span>UX  Designer</span> <br>
+              <p>2y, Sketch, Figma, Zeplin</p>
+              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+            </button>
+          </div>
+
+          <div class="col-lg-6">
+            <button class="btn snt-btn">
+              <span>UX  Designer</span> <br>
+              <p>2y, Sketch, Figma, Zeplin</p>
+              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+            </button>
+          </div>
+
+        </div>
+
       </div>
       
-      <div class="col-md-3">
-        <button class="btn snt-btn">
-          <span>UX  Designer</span> <br>
-          <p>2y, Sketch, Figma, Zeplin</p>
-          <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
-        </button>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-3 col-md-offset-3">
-        <button class="btn snt-btn">
-          <span>UX  Designer</span> <br>
-          <p>2y, Sketch, Figma, Zeplin</p>
-          <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
-        </button>
-      </div>
-      <div class="col-md-3">
-        <button class="btn snt-btn">
-          <span>UX  Designer</span> <br>
-          <p>2y, Sketch, Figma, Zeplin</p>
-          <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
-        </button>
-      </div>
     </div>
 
   </section>
@@ -353,7 +364,13 @@
     </div>
 
     <div class="row">
-      
+      <div class="col-md-6 col-md-offset-3">
+        <?php echo do_shortcode("[wpforms id='23' title='false' description='false']")?>
+      </div>
+    </div>
+
+    <!-- <div class="row">
+  
       <div class="col-md-4 col-md-offset-2">
         <input type="text" placeholder="Your Name">
       </div>
@@ -381,7 +398,7 @@
       <div class="col-md-4"> 
         <button class="snt-btn btn">SEND</button>
       </div>
-    </div>
+    </div> -->
 
 
 	</section>
