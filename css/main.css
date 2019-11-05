@@ -658,7 +658,7 @@ h4 {
 	float: right;
 }
 
-div#wpform-field-hp {
+.wpform-field-hp {
 	display: none;
 }
 
