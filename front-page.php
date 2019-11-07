@@ -40,7 +40,7 @@
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Elude iOS App</h3>
-                    <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
+                    <p>Travel on a budget, you define it and Elude app finds it. The Elude app lets you find the best travel arrangements within your budget by searching the best flights and hotels for the destination of your choosing.</p>
                   </div>
                 </div>
               </div>
@@ -52,7 +52,7 @@
                 <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.png'?>" alt="Republish"></div>
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
-                    <h3>Elude iOS App</h3>
+                    <h3>Republish iOS App</h3>
                     <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
                   </div>
                 </div>
@@ -65,8 +65,8 @@
                 <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-fooc.png'?>" alt="Republish"></div>
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
-                    <h3>Elude iOS App</h3>
-                    <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
+                    <h3>Fooc iOS App</h3>
+                    <p>If you need to find a buddy for your football or basketball game, Fooc can help you with that. Select the number of players you are looking for, put the game court on the map and wait a while. Someone will join in.</p>
                   </div>
                 </div>
               </div>
@@ -309,17 +309,17 @@
 
         <div class="row">
           <div class="col-lg-6"> 
-            <button class="btn snt-btn">
-              <span>Senior Backend Developer</span> <br>
-              <p>5y, Java, Spring, PostgreSQL</p>
+            <button class="btn snt-btn" onclick="window.location.href='/careers'">
+              <span>Backend Web Developer</span> <br>
+              <p>PHP:Laravel, Ruby:Sinatra, Java:SpringBoot</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
             </button>
           </div>
 
           <div class="col-lg-6"> 
-            <button class="btn snt-btn">
-              <span>UX  Designer</span> <br>
-              <p>2y, Sketch, Figma, Zeplin</p>
+            <button class="btn snt-btn" onclick="window.location.href='/careers'">
+              <span>Frontend Web Developer</span> <br>
+              <p>HTML, CSS:SASS, JS:Vue.js, AngularJS, ReactJS</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
             </button>
           </div>
@@ -329,17 +329,17 @@
         <div class="row">
           
         <div class="col-lg-6">
-            <button class="btn snt-btn">
-              <span>UX  Designer</span> <br>
-              <p>2y, Sketch, Figma, Zeplin</p>
+            <button class="btn snt-btn" onclick="window.location.href='/careers'">
+              <span>iOS Developer</span> <br>
+              <p>Swift, VIPER, RxSwift</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
             </button>
           </div>
 
           <div class="col-lg-6">
-            <button class="btn snt-btn">
-              <span>UX  Designer</span> <br>
-              <p>2y, Sketch, Figma, Zeplin</p>
+            <button class="btn snt-btn" onclick="window.location.href='/careers'">
+              <span>UI/UX Designer</span> <br>
+              <p>Sketch, Figma, Zeplin, Invision</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
             </button>
           </div>
