@@ -309,7 +309,7 @@
 
         <div class="row">
           <div class="col-lg-6"> 
-            <button class="btn snt-btn" onclick="window.location.href='/careers'">
+            <button class="btn snt-btn" onclick="window.location.href='/careers/#Backend_Web_Developer'">
               <span>Backend Web Developer</span> <br>
               <p>PHP:Laravel, Ruby:Sinatra, Java:SpringBoot</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
@@ -317,7 +317,7 @@
           </div>
 
           <div class="col-lg-6"> 
-            <button class="btn snt-btn" onclick="window.location.href='/careers'">
+            <button class="btn snt-btn" onclick="window.location.href='/careers/#Frontend_Web_Developer'">
               <span>Frontend Web Developer</span> <br>
               <p>HTML, CSS:SASS, JS:Vue.js, AngularJS, ReactJS</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
@@ -329,7 +329,7 @@
         <div class="row">
           
         <div class="col-lg-6">
-            <button class="btn snt-btn" onclick="window.location.href='/careers'">
+            <button class="btn snt-btn" onclick="window.location.href='careers/#iOs_Developer'">
               <span>iOS Developer</span> <br>
               <p>Swift, VIPER, RxSwift</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
@@ -337,7 +337,7 @@
           </div>
 
           <div class="col-lg-6">
-            <button class="btn snt-btn" onclick="window.location.href='/careers'">
+            <button class="btn snt-btn" onclick="window.location.href='/careers/UIUX_designer'">
               <span>UI/UX Designer</span> <br>
               <p>Sketch, Figma, Zeplin, Invision</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">

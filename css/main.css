@@ -1005,6 +1005,11 @@ cite {
 	margin-bottom: 1%;
 }
 
+.snt-page-container ul {
+	font-size: 18px;
+	color: white;
+}
+
 .wp-block-quote p {
 	font-family: Barlow;
 	font-style: normal;
