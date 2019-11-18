@@ -168,8 +168,8 @@
             <div class="row">
               <div class="col-md-2 col-md-offset-5">
                 <div class="snt-social-block center-block" style="width: 60px">
-                  <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>">
-                  <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>">
+                  <a href="https://twitter.com/bagijaner" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+                  <a href="https://www.linkedin.com/in/domagojbagaric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                 </div>
               </div>
             </div>
@@ -186,9 +186,9 @@
               <div class="col-md-4 col-md-offset-4">
 
                 <div class="snt-social-block center-block" style="width: 90px">
-                  <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>">
-                  <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>">
-                  <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>">
+                  <a href="https://www.instagram.com/struki84/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
+                  <a href="https://www.facebook.com/struki84" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                  <a href="https://www.linkedin.com/in/šimun-strukan-91a68169/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                 </div>
                 
               </div>
@@ -207,10 +207,10 @@
               <div class="col-md-4 col-md-offset-4">
 
                 <div class="snt-social-block center-block" style="width: 120px">
-                  <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>">
-                  <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>">
-                  <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>">
-                  <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>">
+                <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
+                <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
                 </div>
                 
               </div>
@@ -232,10 +232,8 @@
                 <div class="col-md-4 col-md-offset-4">
   
                   <div class="snt-social-block center-block" style="width: 120px">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>">
+                  <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                  <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                   </div>
                   
                 </div>
@@ -254,10 +252,10 @@
                 <div class="col-md-4 col-md-offset-4">
   
                   <div class="snt-social-block center-block" style="width: 120px">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>">
+                  <a href="https://www.instagram.com/papictomislav/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
+                  <a href="https://www.facebook.com/tomislav.t.papic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                  <a href="https://www.linkedin.com/in/tomislav-papić-158276144/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                  <a href="https://twitter.com/tomislavpapic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
                   </div>
                   
                 </div>
@@ -276,10 +274,10 @@
                 <div class="col-md-4 col-md-offset-4">
   
                   <div class="snt-social-block center-block" style="width: 120px">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>">
+                  <a href="https://www.instagram.com/universeceo/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
+                  <a href="https://www.facebook.com/kozacinski" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                  <a href="https://www.linkedin.com/in/tomislav-kozacinski/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                  <a href="https://twitter.com/UniverseCEO" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
                   </div>
                   
                 </div>
@@ -368,39 +366,6 @@
         <?php echo do_shortcode("[wpforms id='23' title='false' description='false']")?>
       </div>
     </div>
-
-    <!-- <div class="row">
-  
-      <div class="col-md-4 col-md-offset-2">
-        <input type="text" placeholder="Your Name">
-      </div>
-      
-      <div class="col-md-4">
-        <input type="text" placeholder="Your E-mail">
-      </div>
-      
-      <div class="col-md-8 col-md-offset-2">
-        <input type="text" placeholder="Subject">
-      </div>
-      
-      <div class="col-md-8 col-md-offset-2">
-        <input type="text" placeholder="Message">
-      </div>
-
-    </div>
-
-    <div class="row" style="margin-top: 100px;">
-      <div class="col-md-4 col-md-offset-2">
-        <div class="snt-captcha">
-          <img src="<?php echo get_template_directory_uri().'/imgs/captcha.png'?>" alt="">
-        </div>
-      </div>
-      <div class="col-md-4"> 
-        <button class="snt-btn btn">SEND</button>
-      </div>
-    </div> -->
-
-
 	</section>
 	
 <?php get_footer(); ?>

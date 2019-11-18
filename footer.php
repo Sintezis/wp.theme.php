@@ -1,8 +1,8 @@
 	<section class="snt-footer-section">
-    <div class="row" style="padding-top: 35%;">
+    <div class="row" style="padding-top: 43.5%">
       <div class="col-md-4 col-md-offset-2">
         <div class="snt-address-container">
-          <h3>Sintezis Startup Studio Ltd.</h3>
+          <h3>Sintezis Startup Studio Limited</h3>
           <p>Ground floor 8-9, Marino Mart, Dublin 3, D03P590</p>
           <p>Dublin 3, D03P590,</p>
           <p>Ireland</p>
@@ -14,11 +14,10 @@
           <h3>Connect with Us</h3>
           <p>www.sintezis.co</p>
           <p>info@sintezis.co</p>
-          <p>+285 98 1624 339</p>
-          <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>" class="pull-right" width="35" height="35" alt="">
-          <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"  class="pull-right" width="35" height="35" alt="">
-          <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>" class="pull-right" width="35" height="35" alt="">
-          <img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>" class="pull-right" width="35" height="35" alt="">
+          <a href="https://www.facebook.com/sintezisco/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>" class="pull-right" width="35" height="35" alt=""></a>
+          <a href="https://www.linkedin.com/company/sintezis" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"  class="pull-right" width="35" height="35" alt=""></a>
+          <a href="https://twitter.com/SintezisLtd" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>" class="pull-right" width="35" height="35" alt=""></a>
+          <a href="https://www.instagram.com/sintezisco/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>" class="pull-right" width="35" height="35" alt=""></a>
         </div>
       </div>
     </div>
