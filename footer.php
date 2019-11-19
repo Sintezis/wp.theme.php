@@ -3,7 +3,7 @@
       <div class="col-md-4 col-md-offset-2">
         <div class="snt-address-container">
           <h3>Sintezis Startup Studio Limited</h3>
-          <p>Ground floor 8-9, Marino Mart, Dublin 3, D03P590</p>
+          <p>Ground floor 8-9, Marino Mart</p>
           <p>Dublin 3, D03P590,</p>
           <p>Ireland</p>
         </div>
