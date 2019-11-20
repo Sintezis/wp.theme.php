@@ -4,7 +4,7 @@
         <div class="snt-address-container">
           <h3>Sintezis Startup Studio Limited</h3>
           <p>Ground floor 8-9, Marino Mart</p>
-          <p>Dublin 3, D03P590,</p>
+          <p>Dublin 3, D03P590</p>
           <p>Ireland</p>
         </div>
       </div>
@@ -65,4 +65,13 @@
       $(".snt-nav-bar").fadeIn()
     }
   })
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57238963-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57238963-2');
 </script>
