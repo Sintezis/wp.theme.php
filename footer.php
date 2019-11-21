@@ -75,4 +75,4 @@
 
   gtag('config', 'UA-57238963-2');
 </script>
-<?php wp_footer(); ?>
+
