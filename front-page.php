@@ -119,7 +119,7 @@
         
           <div class="col-md-4">
             <img src="<?php echo get_template_directory_uri().'/imgs/icon_productdev.png'?>" class="center-block" alt="">
-            <h3 style="margin-top: 40px;">Prodcut Development</h3>
+            <h3 style="margin-top: 40px;">Product Development</h3>
             <p>We get to know you and your users, competition and domain space. We sketch, we prototype and we design usable software keeping the business needs in mind.</p>
           </div>
         
@@ -267,7 +267,7 @@
             <div class="col-md-4">
               <img src="<?php echo get_template_directory_uri().'/imgs/photo_tkozacinski.png'?>" class="snt-team-pic center-block" alt="">
               <h3>Tomislav Kozacinski</h3>
-              <p>Proudct Designer</p>
+              <p>Product Designer</p>
 
               <div class="row">
               
