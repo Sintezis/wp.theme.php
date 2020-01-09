@@ -114,7 +114,7 @@
           <div class="col-md-4">
             <img src="<?php echo get_template_directory_uri().'/imgs/icon_designsprint.png'?>" class="center-block" alt="">
             <h3>Design Sprint</h3>
-            <p>We include you in the proces with a week-long workshop helping shape your ideas into something tangible, both remotely or on-site.</p>
+            <p>We include you in the process with a week-long workshop helping shape your ideas into something tangible, both remotely or on-site.</p>
           </div>
         
           <div class="col-md-4">
@@ -298,7 +298,7 @@
       <div class="col-md-6 col-md-offset-3">
         <h4>PASSION DRIVEN, HARD-WORKING, SMART</h4>
         <h1>We are Hiring</h1>
-        <p>Sintezis a remote, paperless office with flexibale work hours. We focus on organising our workflow and process to work in our favor, applying the "work smart, not hard" approach. Sound good to you? Take a look at our open positions below. </p>
+        <p>Sintezis a remote, paperless office with flexible work hours. We focus on organising our workflow and process to work in our favor, applying the "work smart, not hard" approach. Sound good to you? Take a look at our open positions below. </p>
       </div>
     </div>
 
