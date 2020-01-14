@@ -36,8 +36,6 @@ style guide rules end -->
 <!-- here we use body tag to add custom classes to it, no need to close it, or account it in tags hierarchy  -->
 <body class="snt-body-bg">
 
-<?php echo wp_footer(); ?>
-
 <!-- content -->
 <div class="snt-container snt-landing-container container-fluid">
 
