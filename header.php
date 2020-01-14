@@ -32,6 +32,8 @@ style guide rules end -->
 <link href="<?php echo get_stylesheet_directory_uri().'/css/main.css'; ?>" rel="stylesheet">
 <!-- <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>"> -->
 
+<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri().'/imgs/favicon.png'; ?>" />
+
 
 <!-- here we use body tag to add custom classes to it, no need to close it, or account it in tags hierarchy  -->
 <body class="snt-body-bg">
