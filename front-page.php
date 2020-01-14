@@ -225,11 +225,7 @@
             <div class="col-md-4">
               <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="snt-team-pic center-block" alt="">
               <h3>Zvonimir Tomesic</h3>
-<<<<<<< HEAD
-              <p>Capo programmatore</p>
-=======
               <p>Capo Programmatore</p>
->>>>>>> master
 
               <div class="row">
               
