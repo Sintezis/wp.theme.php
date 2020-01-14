@@ -53,7 +53,7 @@
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Republish iOS App</h3>
-                    <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
+                    <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline. </p>
                   </div>
                 </div>
               </div>
@@ -207,10 +207,10 @@
               <div class="col-md-4 col-md-offset-4">
 
                 <div class="snt-social-block center-block" style="width: 120px">
-                <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+                  <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
+                  <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                  <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                  <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
                 </div>
                 
               </div>
@@ -225,15 +225,19 @@
             <div class="col-md-4">
               <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="snt-team-pic center-block" alt="">
               <h3>Zvonimir Tomesic</h3>
+<<<<<<< HEAD
               <p>Capo programmatore</p>
+=======
+              <p>Capo Programmatore</p>
+>>>>>>> master
 
               <div class="row">
               
-                <div class="col-md-4 col-md-offset-4">
+                <div class="col-md-2 col-md-offset-5">
   
                   <div class="snt-social-block center-block" style="width: 120px">
-                  <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                    <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                    <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                   </div>
                   
                 </div>
@@ -243,19 +247,17 @@
             </div>
           
             <div class="col-md-4">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_tpapic.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Tomislav Papic</h3>
-              <p>Senior Web Developer</p>
+              <img src="<?php echo get_template_directory_uri().'/imgs/photo_medak.png'?>" class="snt-team-pic center-block" alt="">
+              <h3>Hrvoje Medak</h3>
+              <p>Junior Web Developer</p>
 
               <div class="row">
               
-                <div class="col-md-4 col-md-offset-4">
+                <div class="col-md-2 col-md-offset-5">
   
                   <div class="snt-social-block center-block" style="width: 120px">
-                  <a href="https://www.instagram.com/papictomislav/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/tomislav.t.papic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/tomislav-papić-158276144/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                  <a href="https://twitter.com/tomislavpapic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+                  <a href="https://www.facebook.com/profile.php?id=100011644028318" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                  <a href="https://www.linkedin.com/in/hrvoje-medak-212a71136/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                   </div>
                   
                 </div>
@@ -310,15 +312,15 @@
             <button class="btn snt-btn" onclick="window.location.href='/careers/#Backend_Web_Developer'">
               <span>Backend Web Developer</span> <br>
               <p>PHP:Laravel, Ruby:Sinatra, Java:SpringBoot</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="snt-career-arrow pull-right" alt="">
             </button>
           </div>
 
           <div class="col-lg-6"> 
             <button class="btn snt-btn" onclick="window.location.href='/careers/#Frontend_Web_Developer'">
               <span>Frontend Web Developer</span> <br>
-              <p>HTML, CSS:SASS, JS:Vue.js, AngularJS, ReactJS</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+              <p>HTML, CSS, JS:Vue.js, AngularJS, ReactJS</p>
+              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="snt-career-arrow pull-right" alt="">
             </button>
           </div>
 
@@ -330,7 +332,7 @@
             <button class="btn snt-btn" onclick="window.location.href='careers/#iOs_Developer'">
               <span>iOS Developer</span> <br>
               <p>Swift, VIPER, RxSwift</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="snt-career-arrow pull-right" alt="">
             </button>
           </div>
 
@@ -338,7 +340,7 @@
             <button class="btn snt-btn" onclick="window.location.href='/careers/UIUX_designer'">
               <span>UI/UX Designer</span> <br>
               <p>Sketch, Figma, Zeplin, Invision</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="snt-career-arrow pull-right" alt="">
             </button>
           </div>
 
