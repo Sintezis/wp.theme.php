@@ -511,6 +511,10 @@ h4 {
 	.snt-jobs-section p {
 		margin-bottom: 50px;
 	}
+
+	.snt-jobs-section .snt-btn img {
+		display: none;
+	}
 }
 
 /* Blog Section */
