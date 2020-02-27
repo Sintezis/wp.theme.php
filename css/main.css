@@ -591,10 +591,6 @@ h4 {
 }
 
 @media (min-width: 321px) and (max-width: 374px) {
-	.snt-blog-header-md {
-		height: 500px;
-		padding-top: 250px;
-	}
 	.snt-jobs-section .btn p {
 		font-family: Barlow;
 		font-style: normal;
