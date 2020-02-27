@@ -244,17 +244,18 @@
           
             <div class="col-md-4">
               <img src="<?php echo get_template_directory_uri().'/imgs/photo_tpapic.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Hrvoje Medak</h3>
-              <p>Junior Web Developer</p>
+              <h3>Tomislav Papic</h3>
+              <p>Senior Web Developer</p>
 
               <div class="row">
               
                 <div class="col-md-4 col-md-offset-4">
   
                   <div class="snt-social-block center-block" style="width: 120px">
-                  <a href="https://www.instagram.com/hrvoje.medak/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/profile.php?id=100011644028318" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/hrvoje-medak-212a71136/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                  <a href="https://www.instagram.com/papictomislav/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
+                  <a href="https://www.facebook.com/tomislav.t.papic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                  <a href="https://hr.linkedin.com/in/tomislav-papi%C4%87-158276144" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                  <a href="https://twitter.com/tomislavpapic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
                   </div>
                   
                 </div>

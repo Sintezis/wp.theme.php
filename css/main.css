@@ -38,6 +38,15 @@ section {
 		width: 100%;
 		height: initial;
 	}	
+	.snt-jobs-section .btn p {
+		font-family: Barlow;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 22px;
+		color: #A6AAC8;
+		text-align: left;
+	}
 }
 
 @media (max-width: 1023px) {
