@@ -32,12 +32,15 @@ style guide rules end -->
 <link href="<?php echo get_stylesheet_directory_uri().'/css/main.css'; ?>" rel="stylesheet">
 <!-- <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>"> -->
 
+<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri().'/imgs/favicon.png'; ?>" />
 
 <!-- here we use body tag to add custom classes to it, no need to close it, or account it in tags hierarchy  -->
 <body class="snt-body-bg">
-<head>
+	
+	<head>
 		<link rel="stylesheet" type="text/css" href="//wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="//wpcc.io/lib/1.0.2/cookieconsent.min.js"></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"normal","corners":"large","colors":{"popup":{"background":"#f6f6f6","text":"#000000","border":"#555555"},"button":{"background":"#555555","text":"#ffffff"}},"position":"bottom","transparency":"10","content":{"href":"http://localhost:8888/sintezisdemo/cookie-policy/","link":"Learn more."}})});</script>
 	</head>
+
 <!-- content -->
 <div class="snt-container snt-landing-container container-fluid">
 
@@ -59,7 +62,7 @@ style guide rules end -->
           <li><a href="<?php echo get_home_url() .'/#projects'?>">Projects</a></li>
           <li><a href="<?php echo get_home_url() .'/#services'?>">Services</a></li>
           <li><a href="<?php echo get_home_url() .'/#team'?>">The Team</a></li>
-          <li><a href="<?php echo get_home_url() .'/#career'?>">Career</a></li>
+          <li><a href="<?php echo get_home_url() .'/#careers'?>">Careers</a></li>
           <li><a href="<?php echo get_home_url() .'/#blog'?>">Blog</a></li>
           <li><a href="<?php echo get_home_url() .'/#contact'?>">Contact</a></li>
           <li><a href="/partnership">Partnership</a></li>
