@@ -19,11 +19,11 @@
 	<div class="row">
 	<?php if (count($posts) > 1) : ?>
 
-
+		<?php foreach($posts as $post): ?>
 
 			<div class="col-md-6 col-md-offset-1">
 				<div class="snt-blog-header-lg">
-					<h2>Boost your JavaScript Debugging Skills With These Console Tricks</h2>
+					<h2><?php $posts[0]->post_title ?></h2>
 					<span class="snt-blog-date">2019 / 02/ 22</span>
 					<p class="snt-blog-description">The cookie-cutter way of debugging JavaScript code is to simply output the results via the console.log method. While it works, it’s not the most...</p>
 				</div>
@@ -33,6 +33,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="snt-blog-header-md snt-blog-header-ph-1">
+						<h2><?php $posts[1]->post_title ?></h2>
 						</div>
 					</div>
 				</div>
@@ -40,12 +41,14 @@
 				<div class="row" style="margin-top: 20px;">
 					<div class="col-md-12">
 						<div class="snt-blog-header-md snt-blog-header-ph-2">
-							<h2>Comparing iOS TableView and Android RecyclerView</h2>
+							<h2><?php $posts[2]->post_title ?></h2>
 							<span class="snt-blog-date">2019 / 02/ 22</span>
 						</div>
 					</div>
 				</div>
 			</div>
+
+		<?php endforeach ?>
 			
 		<?php wp_reset_postdata(); ?>
 	
@@ -63,7 +66,7 @@
 
 		<div class="row">
 			<div class="col-md-12">
-				<button class="snt-btn btn center-block" onclick="window.location.href='/blog'">VIEW MORE ARTICLES</button>
+				<button class="snt-btn btn center-block" onclick="window.location.href='/#blog'">VIEW MORE ARTICLES</button>
 			</div>
 		</div>
 		
