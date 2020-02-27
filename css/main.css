@@ -636,25 +636,13 @@ h4 {
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px){
 	.snt-jobs-section .btn p {
-		font-family: Barlow;
-		font-style: normal;
-		font-weight: normal;
 		font-size: 9px;
-		line-height: 22px;
-		color: #A6AAC8;
-		text-align: left;
 	}
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1500px){
 	.snt-jobs-section .btn p {
-		font-family: Barlow;
-		font-style: normal;
-		font-weight: normal;
 		font-size: 11px;
-		line-height: 22px;
-		color: #A6AAC8;
-		text-align: left;
 	}
 }
 
