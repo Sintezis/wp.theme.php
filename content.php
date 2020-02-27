@@ -29,7 +29,7 @@
 
 			<div class="col-md-4 " placeholder="failure">
 				<div class="row">
-					<div class="snt-blog-header-md snt-blog-header-ph-1">
+					<div class="snt-blog-header-md snt-blog-header-ph-2">
 						<h2><a href="<?php echo esc_url(get_post_permalink($posts[1])) ?>"><?php echo apply_filters( 'the_title', $posts[1]->post_title);?></a></h2>
 				<span class="snt-blog-date"><?php echo date('Y / m / d', strtotime($posts[1]->post_date_gmt)); ?></span>
 					</div>
