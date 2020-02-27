@@ -600,6 +600,11 @@ h4 {
 		color: #A6AAC8;
 		text-align: left;
 	}
+	.snt-blog-header-md h2 {
+		font-size: 24px;
+		line-height: 32px;
+		font-family: Overpass;
+	}
 }
 
 @media only screen and (min-width: 375px) and (max-width: 410px) {
@@ -616,6 +621,11 @@ h4 {
 		color: #A6AAC8;
 		text-align: left;
 	}
+	.snt-blog-header-md h2 {
+		font-size: 24px;
+		line-height: 32px;
+		font-family: Overpass;
+	}
 }
 
 @media only screen and (min-width: 411px) and (max-width: 767px) {
@@ -631,6 +641,11 @@ h4 {
 		line-height: 22px;
 		color: #A6AAC8;
 		text-align: left;
+	}
+	.snt-blog-header-md h2 {
+		font-size: 24px;
+		line-height: 32px;
+		font-family: Overpass;
 	}
 }
 
