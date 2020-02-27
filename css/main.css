@@ -570,8 +570,8 @@ h4 {
 }
 
 .snt-blog-header-md {
-	height: 400px;
-    padding-top: 54%;
+	height: 500px;
+    padding-top: 52%;
 }
 
 .snt-blog-header-md h2 {
@@ -587,7 +587,7 @@ h4 {
 
 .snt-blog-header-ph-2 {
 	background: url(../imgs/blog-bg-md-placeholder-2.png) top center no-repeat black;
-	background-size: 70rem;
+	background-size: cover;
 }
 
 /* mobile */
