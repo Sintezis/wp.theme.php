@@ -634,15 +634,38 @@ h4 {
 	}
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1400px){
+@media only screen and (min-width: 1200px) and (max-width: 1300px){
 	.snt-jobs-section .btn p {
 		font-size: 9px;
+	}
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1400px){
+	.snt-jobs-section .btn p {
+		font-size: 10px;
 	}
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1500px){
 	.snt-jobs-section .btn p {
 		font-size: 11px;
+	}
+}
+
+@media only screen and (min-width: 1500px) and (max-width: 1600px){
+	.snt-jobs-section .btn p {
+		font-size: 12px;
+	}
+}
+
+@media only screen and (min-width: 1600px) and (max-width: 1700px){
+	.snt-jobs-section .btn p {
+		font-size: 13px;
+	}
+}
+@media only screen and (min-width: 1700px) and (max-width: 1800px){
+	.snt-jobs-section .btn p {
+		font-size: 14px;
 	}
 }
 
