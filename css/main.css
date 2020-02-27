@@ -574,6 +574,42 @@ h4 {
     padding-top: 250px;
 }
 
+@media (min-width: 0px) and (max-width: 320px) {
+	.snt-blog-header-md {
+		height: 500px;
+		padding-top: 180px;
+	}
+	.snt-jobs-section .btn p {
+		font-family: Barlow;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		line-height: 22px;
+		color: #A6AAC8;
+		text-align: left;
+	}
+}
+
+@media (min-width: 321px) and (max-width: 374px) {
+	.snt-blog-header-md {
+		height: 500px;
+		padding-top: 180px;
+	}
+	.snt-jobs-section .btn p {
+		font-family: Barlow;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		line-height: 22px;
+		color: #A6AAC8;
+		text-align: left;
+	}
+	.snt-blog-header-md h2 {
+		font-size: 24px;
+    	line-height: 32px;
+	}
+}
+
 .snt-blog-header-md h2 {
 	padding: 0 20px 10px 20px;
 	font-family: Overpass; 
