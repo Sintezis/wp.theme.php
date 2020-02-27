@@ -582,12 +582,12 @@ h4 {
 
 .snt-blog-header-ph-1 {
 	background: url(../imgs/blog-bg-md-placeholder-1.png) top center no-repeat black;
-	background-size: 70rem;
+	background-size: cover;
 }
 
 .snt-blog-header-ph-2 {
 	background: url(../imgs/blog-bg-md-placeholder-2.png) top center no-repeat black;
-	background-size: cover;
+	background-size: 70rem;
 }
 
 /* mobile */

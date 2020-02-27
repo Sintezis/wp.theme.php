@@ -54,7 +54,7 @@
 
 		<div class="row">
 			<div class="col-md-12">
-				<button class="snt-btn btn center-block" onclick="window.location.href='/#blog'">VIEW MORE ARTICLES</button>
+				<button class="snt-btn btn center-block" onclick="window.location.href='/blog'">VIEW MORE ARTICLES</button>
 			</div>
 		</div>
 		
