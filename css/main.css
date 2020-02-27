@@ -600,10 +600,6 @@ h4 {
 		color: #A6AAC8;
 		text-align: left;
 	}
-	.snt-blog-header-md h2 {
-		font-size: 24px;
-    	line-height: 32px;
-	}
 }
 
 @media only screen and (min-width: 375px) and (max-width: 410px) {
@@ -619,10 +615,6 @@ h4 {
 		line-height: 22px;
 		color: #A6AAC8;
 		text-align: left;
-	}
-	.snt-blog-header-md h2 {
-		font-size: 24px;
-    	line-height: 32px;
 	}
 }
 
@@ -640,15 +632,13 @@ h4 {
 		color: #A6AAC8;
 		text-align: left;
 	}
-	.snt-blog-header-md h2 {
-		font-size: 24px;
-    	line-height: 32px;
-	}
 }
 
 .snt-blog-header-md h2 {
-	padding: 0 20px 10px 20px;
-	font-family: Overpass; 
+	font-size: 24px;
+    line-height: 32px;
+    padding: 0 20px 10px 20px;
+    font-family: Overpass;
 }
 
 .snt-blog-header-ph-1 {
