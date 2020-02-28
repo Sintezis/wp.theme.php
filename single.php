@@ -3,7 +3,7 @@
 
 	<div class="row">
 		<div class="col-md-12">
-			<img class="snt-blog-header" src="<?php echo get_template_directory_uri().'/imgs/blog-header-lg.png'?>" width="100%" alt="">
+			<img src="<?php header_image(); ?>" height="<?php echo get_custom_header()->height; ?>" width="<?php echo get_custom_header()->width; ?>" alt="image description" class="custom_header" />	
 		</div>
 	</div>
 

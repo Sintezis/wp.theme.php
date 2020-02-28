@@ -1,4 +1,4 @@
-	<section class="snt-footer-section">
+	<div class="snt-footer-section">
     <div class="row" style="padding-top: 43.5%">
       <div class="col-md-4 col-md-offset-2">
         <div class="snt-address-container">
@@ -28,7 +28,8 @@
       </div>
     </div>
 
-  </section>
+</div>
+      
 
 </div>
 
