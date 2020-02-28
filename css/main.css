@@ -11,9 +11,7 @@
 /* GENERAL ELEMENTS */
 
 
-img.custom_header{
-	width: 100%
-}
+
 
 html, body, .snt-container { 
 	height: 100%;
@@ -63,6 +61,10 @@ section {
 
 .snt-nav-bar {
 	display: none;
+}
+
+img.custom_header{
+	width: 100%
 }
 
 .snt-nav-bar li a {
