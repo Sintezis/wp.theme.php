@@ -10,6 +10,11 @@
 
 /* GENERAL ELEMENTS */
 
+
+img.custom_header{
+	width: 100%
+}
+
 html, body, .snt-container { 
 	height: 100%;
 	background-color: black;

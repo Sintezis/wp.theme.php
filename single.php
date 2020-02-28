@@ -3,7 +3,7 @@
 
 	<div class="row">
 		<div class="col-md-12">
-			<img src="<?php header_image(); ?>" height="<?php echo get_custom_header()->height; ?>" width="<?php echo get_custom_header()->width; ?>" alt="image description" class="custom_header" />	
+			<img src="<?php header_image(); ?>" width="<?php echo get_custom_header()->width; ?>" alt="image description" class="custom_header" />	
 		</div>
 	</div>
 
