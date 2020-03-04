@@ -38,7 +38,7 @@ style guide rules end -->
 <body class="snt-body-bg">
 	
 	<head>
-		<link rel="stylesheet" type="text/css" href="//wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="//wpcc.io/lib/1.0.2/cookieconsent.min.js"></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"normal","corners":"large","colors":{"popup":{"background":"#f6f6f6","text":"#000000","border":"#555555"},"button":{"background":"#555555","text":"#ffffff"}},"position":"bottom","transparency":"10","content":{"href":"http://localhost:8888/sintezisdemo/cookie-policy/","link":"Learn more."}})});</script>
+		<link rel="stylesheet" type="text/css" href="//wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="//wpcc.io/lib/1.0.2/cookieconsent.min.js"></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"normal","corners":"large","colors":{"popup":{"background":"#f6f6f6","text":"#000000","border":"#555555"},"button":{"background":"#555555","text":"#ffffff"}},"position":"bottom","transparency":"10","content":{"href":"http://www.sintezis.co/privacy-policy/","link":"Learn more."}})});</script>
 	</head>
 
 <!-- content -->
