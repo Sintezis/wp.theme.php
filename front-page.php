@@ -291,12 +291,12 @@
     </div>
   </section>
 
-  <section id="career" class="snt-jobs-section">
+  <section id="careers" class="snt-jobs-section">
     <div class="row">
       <div class="col-md-6 col-md-offset-3">
         <h4>PASSION DRIVEN, HARD-WORKING, SMART</h4>
         <h1>We are Hiring</h1>
-        <p>Sintezis a remote, paperless office with flexible work hours. We focus on organising our workflow and process to work in our favor, applying the "work smart, not hard" approach. Sound good to you? Take a look at our open positions below. </p>
+        <p>Sintezis is a remote, paperless office with flexible work hours. We focus on organising our workflow and process to work in our favor, applying the "work smart, not hard" approach. Sound good to you? Take a look at our open positions below. </p>
       </div>
     </div>
 
