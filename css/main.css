@@ -585,6 +585,13 @@ h4 {
     padding-top: 250px;
 }
 
+@media (min-width: 0px) and (max-width: 1024px){
+	img.custom_header{
+		margin-top: 5rem;
+		width: 100%
+	}
+}
+
 @media (min-width: 0px) and (max-width: 320px) {
 	.snt-blog-header-md {
 		height: 500px;
