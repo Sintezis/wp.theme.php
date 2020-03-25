@@ -15965,13 +15965,13 @@
 </section>
 
 
-<section>
+<section class="snt-contact-page-section">
   <div class="row">
-<div class="text-center">
-<h3 class="yellow"> BRAND EVANGELISTS </h3>
-<h1 class="ambassador">Sintezis Ambassador</h1>
-</div>
-</div>
+    <div class="text-center">
+      <h3 class="yellow"> BRAND EVANGELISTS </h3>
+      <h1 class="ambassador">Sintezis Ambassador</h1>
+    </div>
+  </div>
 
    <div class="row">
 	<div class="col-md-10 col-md-offset-1">
@@ -16077,15 +16077,15 @@
 			  
 </section>
 
-<section class="text-center">
-<img class="ambassador-photo">
-<div class="text-center" style="position:absolute; width:inherit;">
-  <h3>TAKE ACTION</h3>
-  <div style="text-align: -webkit-center; padding-top: 9rem; padding-bottom: 6rem;">
-	<h2 class="ambassador-h2">Interested in becoming a Sintezis Ambassador?</h2>
-  </div>
-  <button class="ambassador-button"> APPLY NOW</button>
-</div>
+<section class="text-center snt-contact-page-section">
+  <img class="ambassador-photo">
+    <div class="text-center" style="position:absolute; width:inherit;">
+      <h3>TAKE ACTION</h3>
+        <div style="text-align: -webkit-center; padding-top: 9rem; padding-bottom: 6rem;">
+          <h2 class="ambassador-h2">Interested in becoming a Sintezis Ambassador?</h2>
+        </div>
+      <button class="ambassador-button"> APPLY NOW</button>
+    </div>
 </section>
   
 <?php get_footer(); ?>
