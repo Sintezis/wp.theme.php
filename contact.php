@@ -1,14 +1,9 @@
-
-<?php get_header(); ?>
-
+<?php
+/*Template Name: Contact */
+get_header(); ?>
 
 <section id="services" class="snt-contact-page-section">
-  <div class="row">
-	<div class="col-md-6 col-md-offset-3">
-	  <h4>WHAT WE EXCEL AT</h4>
-	  <h1>Services we offer</h1>
-	</div>
-  </div>
+
 
   <div class="row">
 	<div class="col-md-10 col-md-offset-1">
