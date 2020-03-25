@@ -169,6 +169,11 @@ section {
 
 /* Contact page section */
 
+.snt-contact-page-section .col-md-4 {
+	border-right: groove;
+    border-right-color: #FFC700;
+}
+
 .snt-contact-page-section h1 {
 	font-family: Overpass;
 	font-style: normal;
