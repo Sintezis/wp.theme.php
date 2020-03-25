@@ -16080,7 +16080,7 @@
 <section class="text-center">
 <img class="ambassador-photo">
 <div class="text-center" style="position:absolute; width:inherit;">
-  <h3>TAKE ACTION</h3>
+  <h5>TAKE ACTION</h5>
   <div style="text-align: -webkit-center; padding-top: 9rem; padding-bottom: 6rem;">
 	<h2 class="ambassador-h2">Interested in becoming a Sintezis Ambassador?</h2>
   </div>
