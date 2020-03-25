@@ -97,6 +97,7 @@ section {
 	font-size: 44px;
 	line-height: 52px;
 	width: 1390px;
+	margin-bottom: 5rem;
 }
 
 .ambassador-block {
@@ -177,6 +178,15 @@ section {
 	display: flex;
 	align-items: center;
 	color: #FFC700;
+}
+
+.snt-contact-page-section h2 {
+	font-family: Campton;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 280px;
+	color: #FFFFFF;
 }
 
 .snt-contact-page-section h3 {

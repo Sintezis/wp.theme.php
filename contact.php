@@ -1,9 +1,13 @@
-<?php
-/*Template Name: Contact */
-get_header(); ?>
+
+<?php get_header(); ?>
+
 
 <section id="services" class="snt-contact-page-section">
-
+  <div class="row">
+	<div class="col-md-6 col-md-offset-1">
+	  <h2>Contacts</h2>
+	</div>
+  </div>
 
   <div class="row">
 	<div class="col-md-10 col-md-offset-1">
