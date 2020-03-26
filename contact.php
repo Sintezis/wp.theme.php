@@ -17,13 +17,13 @@
 		<div class="col-md-4">
 		  <div class="row">
 			<div class="col-md-2">
-			  <img src="<?php echo get_template_directory_uri().'/imgs/layer101.png'?>"  alt="" style="padding-top:3rem">
+			  <img src="<?php echo get_template_directory_uri().'/imgs/layer101.png'?>"  alt="" class="ambassador-city-icons">
 			</div>
-			<div class="col-md-10" style="float:right;">
+			<div class="col-md-10 ambassador-city-columns">
 			  <h3>HEADQUARTERS</h3>
 			  <h1>Dublin </h1>
 			  <p>Ground floor 8-9, Marino Mart,<br>  Dublin 3, D03P590,</br> Ireland</p>
-			  <p> contact@sintezis.co<br> +01234567890 </p>
+			  <p> contact@sintezis.co<br> +35314311025 </p>
 			</div>
 		  </div>
 		</div>
@@ -31,9 +31,9 @@
 		<div class="col-md-4">
 		  <div class="row">
 			<div class="col-md-2">
-			  <img src="<?php echo get_template_directory_uri().'/imgs/Zagreb.png'?>"  alt="" style="padding-top:3rem">
+			  <img src="<?php echo get_template_directory_uri().'/imgs/Zagreb.png'?>"  alt="" class="ambassador-city-icons">
 			  </div>
-			<div class="col-md-10" style="float:right;">
+			<div class="col-md-10 ambassador-city-columns">
 			  <h3>OFFICE</h3>
 			  <h1>Zagreb</h1>
 			  <p>Address Line 1 <br> 10000 Zagreb, </br> Croatia</p>
@@ -45,9 +45,9 @@
 		<div class="col-md-4">
 		  <div class="row">
 			<div class="col-md-2">
-			  <img src="<?php echo get_template_directory_uri().'/imgs/Bern.png'?>"  alt="" style="padding-top:3rem">
+			  <img src="<?php echo get_template_directory_uri().'/imgs/Bern.png'?>"  alt="" class="ambassador-city-icons">
 			</div>
-			<div class="col-md-10" style="float:right;">
+			<div class="col-md-10 ambassador-city-columns">
 			  <h3>OFFICE</h3>
 			  <h1>Bern</h1>
 			  <p>Address Line 1 <br> Bern, </br> Switzerland</p>
@@ -16080,7 +16080,7 @@
 <section class="text-center snt-contact-page-section">
   <img class="ambassador-photo">
     <div class="text-center" style="position:absolute; width:inherit;">
-      <h3>TAKE ACTION</h3>
+      <h3 class="contact-h3">TAKE ACTION</h3>
      <div class="ambassador-section">
       <h2 class="ambassador-h2">Interested in becoming a Sintezis Ambassador?</h2>
       <button class="ambassador-button"> APPLY NOW</button>
