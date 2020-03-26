@@ -33,6 +33,254 @@ section {
 }
 
 /* mobile */
+@media (min-width: 0px) and (max-width: 320px){
+	.center-block {
+		width: 31% !important;
+	}
+}
+
+@media (max-width: 767px) { 
+	.col-md-6 {
+		margin-top: 20rem;
+	}
+	.col-md-10 h3 {
+		text-align: left !important;
+	}
+	.col-md-10 {
+		float: none !important;
+		margin-right: 1rem;
+	}
+	.snt-nav-bar ul {
+		margin: 10px auto;
+		text-align: center;
+	}
+	svg {
+		display: none;
+	}
+
+	.yellow {
+		text-align: center !important;
+		width: auto !important;
+	}
+
+	.ambassador {
+		text-align: center !important;
+		width: auto !important;
+	}
+	h3.ambassador-name{
+		text-align: center !important;
+	}
+	.snt-contact-page-section .col-md-4 {
+		border-bottom: groove;
+		border-bottom-color: #FFC700;
+		border-right: none !important;
+	}
+
+	.snt-footer-section .col-md-4 {
+		border: none;
+	}
+	
+	.ambassador-photo {
+		height: 472px !important;
+		left: 0px !important;
+		width: 104% !important;
+		background-size: 120rem !important;
+    	background-position-x: center !important;
+	}
+
+	.snt-contact-page-section h3 {
+		width: 104%;
+		line-height: 121px !important;
+	}
+
+	.snt-contact-page-section h2 {
+		font-size: 30px !important;
+		line-height: 30px !important;
+		width: 104% !important;
+		margin-top: -8rem;
+	}
+
+	.ambassador-button {
+
+	}
+
+	.ambassador-section {
+		width: 100%;
+	}
+	.snt-footer-section {
+		width: 100%;
+		margin-top: 80rem;
+	}
+}
+
+@media (min-width: 767px) and (max-width: 1023px) { 
+	.col-md-6 {
+		margin-top: 20rem;
+	}
+	.center-block {
+		width: 15% !important;
+	}
+	.col-md-4 {
+		display: -webkit-inline-box;
+    	margin-right: 3rem;
+	}
+	.col-md-10 h3 {
+		text-align: left !important;
+	}
+	.col-md-10 {
+		float: left !important;
+	}
+	.snt-nav-bar ul {
+		margin: 10px auto;
+		text-align: center;
+	}
+	svg {
+		display: none;
+	}
+
+	.yellow {
+		text-align: center !important;
+		width: auto !important;
+	}
+
+	.ambassador {
+		text-align: center !important;
+		width: auto !important;
+	}
+	h3.ambassador-name{
+		text-align: center !important;
+	}
+	.snt-contact-page-section .col-md-4 {
+		border-bottom: groove;
+		border-bottom-color: #FFC700;
+		border-right: none !important;
+	}
+
+	.snt-footer-section .col-md-4 {
+		border: none;
+		display: block !important;
+		margin-right: 0rem !important;
+	}
+	
+	.ambassador-photo {
+		height: 472px !important;
+		left: 0px !important;
+		width: 104% !important;
+		background-size: 120rem !important;
+    	background-position-x: center !important;
+	}
+
+	.snt-contact-page-section h3 {
+		width: 104%;
+		line-height: 121px !important;
+	}
+
+	.snt-contact-page-section h2 {
+		font-size: 30px !important;
+		line-height: 30px !important;
+		width: 104% !important;
+		margin-top: -8rem;
+	}
+
+	.ambassador-button {
+
+	}
+
+	.ambassador-section {
+		width: 100%;
+	}
+	.snt-footer-section {
+		width: 100%;
+		margin-top: 80rem;
+	}
+}
+
+@media (min-width: 1024px) and (max-width: 1025px) { 
+	.col-md-2 {
+		width: 20% !important;
+	}
+	.col-md-6 {
+		margin-top: 20rem;
+	}
+	.center-block {
+		width: 41% !important;
+	}
+	.col-md-4 {
+		display: -webkit-inline-box;
+    	margin-right: 0rem;
+	}
+	.col-md-10 h3 {
+		text-align: left !important;
+	}
+	.col-md-10 {
+		float: left !important;
+	}
+	.snt-nav-bar ul {
+		margin: 10px auto;
+		text-align: center;
+	}
+	svg {
+		display: none;
+	}
+
+	.yellow {
+		text-align: center !important;
+		width: auto !important;
+	}
+
+	.ambassador {
+		text-align: center !important;
+		width: auto !important;
+	}
+	h3.ambassador-name{
+		text-align: center !important;
+		margin-bottom: 4rem;
+	}
+	.snt-contact-page-section .col-md-4 {
+		border-bottom: groove;
+		border-bottom-color: #FFC700;
+		border-right: none !important;
+	}
+
+	.snt-footer-section .col-md-4 {
+		border: none;
+		display: block !important;
+		margin-right: 0rem !important;
+	}
+	
+	.ambassador-photo {
+		height: 472px !important;
+		left: 0px !important;
+		width: 104% !important;
+		background-size: 120rem !important;
+    	background-position-x: center !important;
+	}
+
+	.snt-contact-page-section h3 {
+		width: 104%;
+		line-height: 121px !important;
+	}
+
+	.snt-contact-page-section h2 {
+		font-size: 30px !important;
+		line-height: 30px !important;
+		width: 104% !important;
+		margin-top: -8rem;
+	}
+
+	.ambassador-button {
+
+	}
+
+	.ambassador-section {
+		width: 100%;
+	}
+	.snt-footer-section {
+		width: 100%;
+		margin-top: 80rem;
+	}
+}
+
 @media (max-width: 1365px) {
 	section {
 		width: 100%;
@@ -54,6 +302,12 @@ section {
 
 @media (min-width: 1024px) {
 	
+}
+
+.ambassador-section {
+	text-align: -webkit-center;
+    padding-top: 9rem;
+    padding-bottom: 6rem;
 }
 
 .snt-nav-bar {
