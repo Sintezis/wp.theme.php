@@ -76,6 +76,29 @@ section {
 	color: #FB178A !important;
 }
 
+.snt-get-in-touch-btn {
+	background: #FB178A !important;
+    border: 2px solid #FB178A;
+	box-sizing: border-box;
+	border-radius: 4px;
+	width: 291px;
+	height: 57px;
+	font-family: Overpass;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 26px;
+	color: white;
+	transition: all 0.2s ease-in-out;
+}
+
+.snt-get-in-touch-btn:hover {
+	background: #B7077B !important;
+	border: 2px solid #B7077B;
+	color: white;
+	transition: all 0.2s ease-in-out;
+}
+
 .snt-btn {
 	background-color: black;
 	border: 2px solid #FFFFFF;
@@ -89,11 +112,20 @@ section {
 	font-size: 20px;
 	line-height: 26px;
 	color: white;
+	transition: all 0.2s ease-in-out;
+	text-transform: capitalize;
 }
 
+.snt-btn p {
+	color: white;
+	text-transform: none;
+}
 
 .snt-btn:hover {
-	color: #FB178A;
+	color: white;
+	background: #FB178A !important;
+    border: 2px solid #FB178A;
+	transition: all 0.2s ease-in-out;
 }
 
 .snt-btn img {
@@ -170,7 +202,7 @@ section {
 	}
 	.snt-footer-section {
 		width: 100%;
-		margin-top: 80rem;
+		margin-top: 120rem;
 	}
 	.snt-contact-page-section .col-md-2 {
 		float: left;
@@ -178,6 +210,116 @@ section {
 	.ambassador-button {
 		margin-top: 4rem !important;
 		margin-left: 2rem;
+	}
+	.snt-services-page-section .col-12 {
+		margin-bottom: 25rem !important;
+	}
+	.amadeus-photo {
+		width: 55% !important;
+		height: 30px !important;
+		left: 60px !important;
+		top: 10px !important;
+	}
+	.travelport-photo {
+		width: 60% !important;
+		height: 40px !important;
+		left: 60px !important;
+		top: 6rem !important;
+	}
+	.skyscanner-photo {
+		width: 46% !important;
+		height: 35px !important;
+		left: 60px !important;
+		top: 12rem !important;
+	}
+	.booking-photo {
+		width: 54% !important;
+		height: 33px !important;
+		left: 61px !important;
+		top: 18rem !important;
+	}
+	.snt-services-page-section .col-md-6 {
+		margin-top: 0rem !important;
+		margin-bottom: 0rem !important;
+	}
+	.snt-services-page-section h0 {
+		font-family: Overpass !important;
+		font-style: normal !important;
+		font-weight: bold !important;
+		font-size: 14px !important;
+		line-height: 21px !important;
+		text-align: center !important;
+		margin-left: 0rem !important;
+	}
+	.snt-services-page-section .col-md-4 {
+		display: inline-flex;
+		border-right: none !important;
+		border-bottom: groove #C319E1;
+		max-inline-size: min-content;
+	}
+	.thunder {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.vector {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.mouse {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.plane {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.airplane {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.rocket {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.software {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.product {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.social {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.interim {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.snt-services-page-section h2 {
+		margin-top: 10rem;
+		margin-left: 3rem;
+		margin-bottom: 12rem;
+	}
+	.snt-services-page-section .yellow{
+		margin-bottom: 6rem;
+	}
+	.snt-services-page-section h1 {
+		width: max-content;
+	}
+	.snt-services-page-section .row {
+		margin-bottom: -13rem;
 	}
 }
 
@@ -251,11 +393,121 @@ section {
 	}
 	.snt-footer-section {
 		width: 100%;
-		margin-top: 80rem;
+		margin-top: 120rem;
 	}
 	.contact-h3 {
 		width: 104%;
 		line-height: 130px !important;
+	}
+	.snt-services-page-section .col-12 {
+		margin-bottom: 25rem !important;
+	}
+	.amadeus-photo {
+		width: 55% !important;
+		height: 30px !important;
+		left: 60px !important;
+		top: 10px !important;
+	}
+	.travelport-photo {
+		width: 60% !important;
+		height: 40px !important;
+		left: 60px !important;
+		top: 6rem !important;
+	}
+	.skyscanner-photo {
+		width: 46% !important;
+		height: 35px !important;
+		left: 60px !important;
+		top: 12rem !important;
+	}
+	.booking-photo {
+		width: 54% !important;
+		height: 33px !important;
+		left: 61px !important;
+		top: 18rem !important;
+	}
+	.snt-services-page-section .col-md-6 {
+		margin-top: 0rem !important;
+		margin-bottom: 0rem !important;
+	}
+	.snt-services-page-section h0 {
+		font-family: Overpass !important;
+		font-style: normal !important;
+		font-weight: bold !important;
+		font-size: 14px !important;
+		line-height: 21px !important;
+		text-align: center !important;
+		margin-left: 0rem !important;
+	}
+	.snt-services-page-section .col-md-4 {
+		display: inline-flex;
+		border-right: none !important;
+		border-bottom: groove #C319E1;
+		max-inline-size: min-content;
+	}
+	.thunder {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.vector {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.mouse {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.plane {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.airplane {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.rocket {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.software {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.product {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.social {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.interim {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.snt-services-page-section h2 {
+		margin-top: 10rem;
+		margin-left: 3rem;
+		margin-bottom: 12rem;
+	}
+	.snt-services-page-section .yellow{
+		margin-bottom: 6rem;
+	}
+	.snt-services-page-section h1 {
+		width: max-content;
+	}
+	.snt-services-page-section .row {
+		margin-bottom: -13rem;
 	}
 }
 
@@ -334,10 +586,137 @@ section {
 
 	.ambassador-section {
 		width: 100%;
+		padding-bottom: 0rem !important;
+		padding-top: 0rem !important;
 	}
 	.snt-footer-section {
 		width: 100%;
 		margin-top: 80rem;
+	}
+	.snt-services-page-section .col-12 {
+		margin-bottom: 25rem !important;
+	}
+	.amadeus-photo {
+		width: 55% !important;
+		height: 30px !important;
+		left: 60px !important;
+		top: 10px !important;
+	}
+	.travelport-photo {
+		width: 60% !important;
+		height: 40px !important;
+		left: 60px !important;
+		top: 6rem !important;
+	}
+	.skyscanner-photo {
+		width: 46% !important;
+		height: 35px !important;
+		left: 60px !important;
+		top: 12rem !important;
+	}
+	.booking-photo {
+		width: 54% !important;
+		height: 33px !important;
+		left: 61px !important;
+		top: 18rem !important;
+	}
+	.snt-services-page-section .col-md-6 {
+		margin-top: 0rem !important;
+		margin-bottom: 0rem !important;
+	}
+	.snt-services-page-section h0 {
+		font-family: Overpass !important;
+		font-style: normal !important;
+		font-weight: bold !important;
+		font-size: 14px !important;
+		line-height: 21px !important;
+		text-align: center !important;
+		margin-left: 0rem !important;
+	}
+	.snt-services-page-section .col-md-4 {
+		display: inline-flex;
+		border-right: none !important;
+		border-bottom: groove #C319E1;
+		max-inline-size: min-content;
+	}
+	.thunder {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.vector {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.mouse {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.plane {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.airplane {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.rocket {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.software {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.product {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.social {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.interim {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.snt-services-page-section h2 {
+		margin-bottom: 12rem;
+		margin-top: 20rem;
+	}
+	.snt-services-page-section .ambassador-section h2 {
+		margin-bottom: 0rem;
+		margin-left: 3rem;
+		margin-top: 0rem;
+	}
+	.snt-services-page-section .yellow{
+		margin-bottom: 0rem;
+		width: max-content !important;
+	}
+	.snt-services-page-section h1 {
+		width: max-content;
+	}
+	.snt-services-page-section .row {
+		margin-bottom: -13rem;
+	}
+	.service-page-photo {
+		width: 101% !important;
+		position: inherit !important;
+	}
+	.snt-services-page-section .contact-h3 {
+		margin-top: -45rem;
+	}
+	.service-travel-photo {
+		background: none !important;
 	}
 }
 
@@ -424,6 +803,132 @@ section {
 	.snt-footer-section {
 		width: 100%;
 		margin-top: 80rem;
+	}
+	.snt-services-page-section .col-12 {
+		margin-bottom: 25rem !important;
+	}
+	.amadeus-photo {
+		width: 55% !important;
+		height: 30px !important;
+		left: 60px !important;
+		top: 10px !important;
+	}
+	.travelport-photo {
+		width: 60% !important;
+		height: 40px !important;
+		left: 60px !important;
+		top: 6rem !important;
+	}
+	.skyscanner-photo {
+		width: 46% !important;
+		height: 35px !important;
+		left: 60px !important;
+		top: 12rem !important;
+	}
+	.booking-photo {
+		width: 54% !important;
+		height: 33px !important;
+		left: 61px !important;
+		top: 18rem !important;
+	}
+	.snt-services-page-section .col-md-6 {
+		margin-top: 0rem !important;
+		margin-bottom: 0rem !important;
+		width: auto !important;
+	}
+	.snt-services-page-section h0 {
+		font-family: Overpass !important;
+		font-style: normal !important;
+		font-weight: bold !important;
+		font-size: 14px !important;
+		line-height: 21px !important;
+		text-align: center !important;
+		margin-left: 0rem !important;
+	}
+	.snt-services-page-section .col-md-4 {
+		display: inline-flex;
+		border-right: none !important;
+		border-bottom: groove #C319E1;
+		width: 100%;
+	}
+	.snt-services-page-section .col-md-8 {
+		width: 100%;
+	}
+	.thunder {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.vector {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.mouse {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.plane {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.airplane {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.rocket {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.software {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.product {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.social {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.interim {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+	}
+	.snt-services-page-section h2 {
+		margin-bottom: 12rem;
+		margin-top: 20rem;
+	}
+	.snt-services-page-section .ambassador-section h2 {
+		margin-bottom: 0rem;
+		margin-left: 3rem;
+		margin-top: 0rem;
+	}
+	.snt-services-page-section .yellow{
+		margin-bottom: 0rem;
+		width: max-content !important;
+	}
+	.snt-services-page-section h1 {
+		width: max-content;
+	}
+	.snt-services-page-section .row {
+		margin-bottom: -13rem;
+	}
+	.service-page-photo {
+		width: 102% !important;
+		position: inherit !important;
+	}
+	.snt-services-page-section .contact-h3 {
+		margin-top: -45rem;
 	}
 }
 
@@ -542,6 +1047,361 @@ h1 {
 	background: transparent url(../imgs/Rectangle\ 3.png);
 	margin-top: 8rem;
 }
+
+/* Services page section */
+
+.travel-btn {
+	text-align: center;
+	margin-top: 5rem;
+}
+
+.travel-text {
+	font-family: Overpass !important;
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-size: 26px !important;
+	line-height: 30px !important;
+	color: #FFFFFF !important;
+}
+
+.travel-p {
+	font-family: Barlow !important;
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-size: 18px !important;
+	line-height: 26px !important;
+	color: #A6AAC8 !important;
+}
+
+.service-h2 {
+	font-family: Overpass;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 46px;
+    line-height: 54px !important;
+    text-align: center;
+    color: #FFFFFF;
+    width: 65%;
+}
+
+.service-page-photo {
+	background: url(../imgs/Background.png) no-repeat;
+	position: absolute;
+    width: 100%;
+    height: 551px;
+    left: 0px;
+    background-size: cover;
+}
+
+.service-travel-photo {
+	background: url(../imgs/Background\ Image.png) no-repeat;
+	position: absolute;
+    width: 100%;
+    height: 1067px;
+    left: 0px;
+    background-size: cover;
+}
+
+.amadeus-photo {
+	background: url(../imgs/Amadeus.png) no-repeat;
+    position: absolute;
+    width: 35%;
+    height: 30px;
+    left: 60px;
+	top: 10px;
+	border: none;
+}
+
+.travelport-photo {
+	background: url(../imgs/Travelport.png) no-repeat;
+    position: absolute;
+    width: 45%;
+    height: 40px;
+	left: 270px;
+	border: none;
+}
+
+.skyscanner-photo {
+    background: url(../imgs/Skyscanner.png) no-repeat;
+    position: absolute;
+    width: 46%;
+    height: 35px;
+    left: 60px;
+	top: 70px;
+	border: none;
+}
+
+.booking-photo {
+	background: url(../imgs/Booking.png) no-repeat;
+    position: absolute;
+    width: 39%;
+    height: 33px;
+    left: 321px;
+	top: 70px;
+	border: none;
+}
+
+.service-page-photo-p {
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 32px;
+	text-align: center !important;
+	color: #FFFFFF;
+}
+
+.snt-services-page-section {
+	margin-bottom: 30rem;
+}
+
+.snt-services-page-section li {
+	color: #FFC700;
+	flex: none;
+	order: 0;
+	align-self: center;
+	margin: 20px 0px;
+}
+
+.snt-services-page-section li p {
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 26px;
+	color: #F0F2FE;
+	display: inline;
+}
+
+.snt-services-page-section h1 {
+	font-family: Overpass;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 44px;
+	line-height: 52px;
+	color: #FFFFFF;
+}
+
+.snt-services-page-section .col-md-4 {
+	border-right-color: #C319E1;
+	border-radius: 4px;
+	background: url(../imgs/Polygon\ 1.png) no-repeat;
+	padding-bottom: 5rem;
+}
+
+.snt-services-page-section .col-md-6 {
+	padding-left: 0;
+	margin-top: 10rem;
+    margin-bottom: 12rem;
+}
+
+.snt-services-page-section .yellow {
+	font-family: Telegrafico;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 8px;
+	color: #FFC700;
+	text-align: left;
+}
+
+.snt-services-page-section h2 {
+	font-family: Overpass;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 36px;
+	line-height: 120.4%;
+	color: #FFFFFF;
+}
+
+.snt-services-page-section h3 {
+	font-family: Telegrafico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+	text-align: center;
+	letter-spacing: 8px;
+    color: #F0F2FE;
+}
+
+.snt-services-page-section h4 {
+	margin-top: 120px; 
+	margin-bottom: 10px;
+}
+
+.snt-services-page-section p {
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 26px;
+	color: #F0F2FE;
+}
+
+.snt-services-page-section h0 {
+	font-family: Overpass;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	line-height: 43px;
+	color: #FFFFFF;
+	margin-left: 5rem;
+}
+
+.snt-services-page-section button h0:hover {
+	color: #FFC700 !important;
+}
+
+.snt-services-page-section button:hover {
+	border: none;
+	color: #FFC700 !important;
+}
+
+.software {
+	background: url(../imgs/Software.png) no-repeat;
+	height: 5rem;
+	width: 4rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+}
+
+.software:hover {
+	background: url(../imgs/Software_hover.png) no-repeat;
+}
+
+.product {
+	background: url(../imgs/product.png) no-repeat;
+	height: 6rem;
+	width: 4rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+}
+
+.product:hover {
+	background: url(../imgs/Design_hover.png) no-repeat;
+}
+
+.social {
+	background: url(../imgs/Social.png) no-repeat;
+	height: 5rem;
+	width: 4rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+}
+
+.social:hover {
+	background: url(../imgs/Social_hover.png) no-repeat;
+}
+
+.interim {
+	background: url(../imgs/interim.png) no-repeat;
+	height: 6rem;
+	width: 4rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+}
+
+.interim:hover {
+	background: url(../imgs/Interim_hover.png) no-repeat;
+}
+
+.plane {
+	background: url(../imgs/Plane.png) no-repeat;
+	height: 5rem;
+	width: 4rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+}
+
+.plane:hover {
+	background: url(../imgs/Plane_hover.png) no-repeat;
+}
+
+.airplane {
+	background: url(../imgs/Airplane.png) no-repeat;
+	height: 5rem;
+	width: 4rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+}
+
+.airplane:hover {
+	background: url(../imgs/Airplane_hover.png) no-repeat;
+}
+
+.rocket {
+	background: url(../imgs/Rocket.png) no-repeat;
+	height: 5rem;
+	width: 4rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+}
+
+.rocket:hover {
+	background: url(../imgs/Rocket_hover.png) no-repeat;
+}
+
+.thunder {
+	background: url(../imgs/Thunder.png) no-repeat;
+	height: 5rem;
+	width: 4rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+}
+
+.snt-services-page-section .thunder:hover {
+	background: url(../imgs/Thunder_hover.png) no-repeat;
+}
+
+.mouse {
+	background: url(../imgs/Mouse.png) no-repeat;
+	height: 5rem;
+	width: 5rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+}
+
+.snt-services-page-section .mouse:hover {
+	background: url(../imgs/Mouse_hover.png) no-repeat;
+}
+
+.snt-services-page-section .mouse:active {
+	background: url(../imgs/Mouse_active.png) no-repeat;
+}
+
+.vector {
+	background: url(../imgs/Vector.png) no-repeat;
+	height: 5rem;
+	width: 6rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+}
+
+.snt-services-page-section .vector:hover {
+	background: url(../imgs/Vector_hover.png) no-repeat;
+}
+
+.snt-services-page-section .col-md-12 p {
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 26px;
+	color: #A6AAC8;
+}
+
 
 /* Contact page section */
 

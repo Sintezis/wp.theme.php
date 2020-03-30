@@ -1,5 +1,7 @@
 
-<?php get_header(); ?>
+<?php get_header();
+/*Template Name: Contact */
+ ?>
 
 
 <section id="services" class="snt-contact-page-section">
