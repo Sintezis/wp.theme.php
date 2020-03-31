@@ -202,7 +202,7 @@ section {
 	}
 	.snt-footer-section {
 		width: 100%;
-		margin-top: 120rem;
+		margin-top: 130rem;
 	}
 	.snt-contact-page-section .col-md-2 {
 		float: left;
@@ -215,25 +215,25 @@ section {
 		margin-bottom: 25rem !important;
 	}
 	.amadeus-photo {
-		width: 55% !important;
+		width: 62% !important;
 		height: 30px !important;
 		left: 60px !important;
 		top: 10px !important;
 	}
 	.travelport-photo {
-		width: 60% !important;
+		width: 74% !important;
 		height: 40px !important;
 		left: 60px !important;
 		top: 6rem !important;
 	}
 	.skyscanner-photo {
-		width: 46% !important;
+		width: 73% !important;
 		height: 35px !important;
 		left: 60px !important;
 		top: 12rem !important;
 	}
 	.booking-photo {
-		width: 54% !important;
+		width: 62% !important;
 		height: 33px !important;
 		left: 61px !important;
 		top: 18rem !important;
@@ -320,6 +320,57 @@ section {
 	}
 	.snt-services-page-section .row {
 		margin-bottom: -13rem;
+	}
+	.sof-pro-soc-int {
+		overflow: auto;
+		width: 90%;
+	}
+	.pro-pro-min {
+		width: 90%;
+		overflow: auto;
+	}
+	.des-ux-int {
+		width: 90%;
+		overflow: auto;
+	}
+	.travel-h1 {
+		width: 100% !important;
+	}
+	.service-button {
+		margin-top: 2rem !important;
+	}
+	.service-section {
+		padding-top: 0rem !important;
+		padding-bottom: 0rem !important;
+	}
+	.contact-service-h3 {
+		width: 104%;
+		line-height: 130px !important;
+		margin-top: -70rem !important;
+	}
+	.service-page-photo {
+		width: 103% !important;
+		position: inherit !important;
+		height: 700px !important;
+	}
+	.service-h2 {
+		margin-top: 0rem !important;
+		margin-bottom: 0rem !important;
+	}
+	.product-h1 {
+		font-family: Overpass !important;
+		font-style: normal !important;
+		font-weight: 800 !important;
+		font-size: 44px !important;
+		line-height: 52px !important;
+		color: #FFFFFF !important;
+		width: 100% !important;
+	}
+	.consulting-display {
+		display: block !important;
+	}
+	.product-h1 {
+		width: 100% !important;
 	}
 }
 
@@ -444,6 +495,7 @@ section {
 		border-right: none !important;
 		border-bottom: groove #C319E1;
 		max-inline-size: min-content;
+		background: bottom url(../imgs/Polygon\ 2.png) no-repeat !important;
 	}
 	.thunder {
 		height: 17rem !important;
@@ -508,6 +560,43 @@ section {
 	}
 	.snt-services-page-section .row {
 		margin-bottom: -13rem;
+	}
+	.sof-pro-soc-int {
+		overflow: auto;
+		width: 100%;
+	}
+	.service-button {
+		margin-top: 2rem !important;
+	}
+	.service-section {
+		padding-top: 0rem !important;
+		padding-bottom: 0rem !important;
+	}
+	.contact-service-h3 {
+		width: 104%;
+		line-height: 130px !important;
+		margin-top: -70rem !important;
+	}
+	.service-page-photo {
+		width: 109% !important;
+		position: inherit !important;
+		height: 700px !important;
+	}
+	.service-h2 {
+		margin-top: 0rem !important;
+		margin-bottom: 0rem !important;
+	}
+	.product-h1 {
+		font-family: Overpass !important;
+		font-style: normal !important;
+		font-weight: 800 !important;
+		font-size: 44px !important;
+		line-height: 52px !important;
+		color: #FFFFFF !important;
+		width: 100% !important;
+	}
+	.consulting-display {
+		display: block !important;
 	}
 }
 
@@ -637,7 +726,7 @@ section {
 		display: inline-flex;
 		border-right: none !important;
 		border-bottom: groove #C319E1;
-		max-inline-size: min-content;
+		width: -webkit-fill-available;
 	}
 	.thunder {
 		height: 17rem !important;
@@ -717,6 +806,21 @@ section {
 	}
 	.service-travel-photo {
 		background: none !important;
+		position: inherit !important;
+	}
+	.contact-service-h3 {
+		margin-top: -45rem;
+	}
+	.service-section {
+		padding-bottom: 0rem !important;
+		padding-top: 0rem !important;
+	}
+	.service-h2 {
+		margin-top: 0rem !important;
+		margin-bottom: 0rem !important;
+	}
+	.col-md-12 {
+		width: 100%;
 	}
 }
 
@@ -930,6 +1034,17 @@ section {
 	.snt-services-page-section .contact-h3 {
 		margin-top: -45rem;
 	}
+	.contact-service-h3 {
+		margin-top: -45rem;
+	}
+	.service-section {
+		padding-top: 0rem !important;
+		padding-bottom: 0rem !important;
+	}
+	.service-h2 {
+		margin-top: 0rem !important;
+		margin-bottom: 0rem !important;
+	}
 }
 
 .col-md-4 {
@@ -1049,6 +1164,33 @@ h1 {
 }
 
 /* Services page section */
+
+.consulting-display {
+	display: inline-block;
+}
+
+.contact-service-h3 {
+
+}
+
+.service-section {
+	text-align: -webkit-center;
+    padding-top: 9rem;
+    padding-bottom: 6rem;
+}
+
+.service-button {
+	width: 291px;
+	height: 57px;
+	left: 575px;
+	top: 2546px;
+	border: 0px solid #F0F2FE;
+	box-sizing: border-box;
+	border-radius: 4px;
+	color: white;
+	background: transparent url(../imgs/Rectangle\ 3.png);
+	margin-top: 8rem;
+}
 
 .travel-btn {
 	text-align: center;
@@ -1185,7 +1327,7 @@ h1 {
 .snt-services-page-section .col-md-4 {
 	border-right-color: #C319E1;
 	border-radius: 4px;
-	background: url(../imgs/Polygon\ 1.png) no-repeat;
+	background: right url(../imgs/Polygon\ 1.png) no-repeat;
 	padding-bottom: 5rem;
 }
 
@@ -1254,6 +1396,10 @@ h1 {
 	color: #FFC700 !important;
 }
 
+.snt-services-page-section button h0:active {
+	color: #C319E1 !important;
+}
+
 .snt-services-page-section button:hover {
 	border: none;
 	color: #FFC700 !important;
@@ -1272,6 +1418,10 @@ h1 {
 	background: url(../imgs/Software_hover.png) no-repeat;
 }
 
+.software:active {
+	background: url(../imgs/software_active.png) no-repeat;
+}
+
 .product {
 	background: url(../imgs/product.png) no-repeat;
 	height: 6rem;
@@ -1282,7 +1432,11 @@ h1 {
 }
 
 .product:hover {
-	background: url(../imgs/Design_hover.png) no-repeat;
+	background: url(../imgs/product_hover.png) no-repeat;
+}
+
+.product:active {
+	background: url(../imgs/product_active.png) no-repeat;
 }
 
 .social {
@@ -1298,6 +1452,10 @@ h1 {
 	background: url(../imgs/Social_hover.png) no-repeat;
 }
 
+.social:active {
+	background: url(../imgs/social_active.png) no-repeat;
+}
+
 .interim {
 	background: url(../imgs/interim.png) no-repeat;
 	height: 6rem;
@@ -1309,6 +1467,10 @@ h1 {
 
 .interim:hover {
 	background: url(../imgs/Interim_hover.png) no-repeat;
+}
+
+.interim:active {
+	background: url(../imgs/interim_active.png) no-repeat;
 }
 
 .plane {
@@ -1324,6 +1486,10 @@ h1 {
 	background: url(../imgs/Plane_hover.png) no-repeat;
 }
 
+.plane:active {
+	background: url(../imgs/Plane_active.png) no-repeat;
+}
+
 .airplane {
 	background: url(../imgs/Airplane.png) no-repeat;
 	height: 5rem;
@@ -1337,6 +1503,10 @@ h1 {
 	background: url(../imgs/Airplane_hover.png) no-repeat;
 }
 
+.airplane:active {
+	background: url(../imgs/Airplane_active.png) no-repeat;
+}
+
 .rocket {
 	background: url(../imgs/Rocket.png) no-repeat;
 	height: 5rem;
@@ -1348,6 +1518,16 @@ h1 {
 
 .rocket:hover {
 	background: url(../imgs/Rocket_hover.png) no-repeat;
+	height: 5rem;
+    width: 4rem;
+    border: none;
+    inline-size: fit-content;
+    margin-top: 4rem;
+}
+
+.rocket:active {
+	background: url(../imgs/Rocket_active.png) no-repeat;
+	border: none !important;
 }
 
 .thunder {
@@ -1359,8 +1539,12 @@ h1 {
 	margin-top: 4rem;
 }
 
-.snt-services-page-section .thunder:hover {
+.thunder:hover {
 	background: url(../imgs/Thunder_hover.png) no-repeat;
+}
+
+.thunder:active {
+	background: url(../imgs/Thunder_active.png) no-repeat;
 }
 
 .mouse {
@@ -1372,11 +1556,11 @@ h1 {
 	margin-top: 4rem;
 }
 
-.snt-services-page-section .mouse:hover {
+.mouse:hover {
 	background: url(../imgs/Mouse_hover.png) no-repeat;
 }
 
-.snt-services-page-section .mouse:active {
+.mouse:active {
 	background: url(../imgs/Mouse_active.png) no-repeat;
 }
 
@@ -1389,8 +1573,12 @@ h1 {
 	margin-top: 4rem;
 }
 
-.snt-services-page-section .vector:hover {
+.vector:hover {
 	background: url(../imgs/Vector_hover.png) no-repeat;
+}
+
+.vector:active {
+	background: url(../imgs/Vector_active.png) no-repeat;
 }
 
 .snt-services-page-section .col-md-12 p {
@@ -1404,6 +1592,17 @@ h1 {
 
 
 /* Contact page section */
+
+.p-ux-design {
+	font-family: Barlow !important;
+	font-style: normal !important;
+	font-weight: 300 !important;
+	font-size: 28px !important;
+	line-height: 42px !important;
+	color: #FFC700 !important;
+	border-left-color: rgba(255, 199, 0, 0.75);
+	border-left: solid;
+}
 
 .snt-contact-page-section h1 {
 	font-family: Overpass;
@@ -2412,3 +2611,8 @@ cite {
 	font-size: 18px;
 	line-height: 24px;
 }
+
+
+
+
+
