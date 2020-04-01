@@ -1406,16 +1406,7 @@ h1 {
 	font-weight: normal;
 	font-size: 28px;
 	line-height: 43px;
-	color: #FFFFFF;
 	margin-left: 5rem;
-}
-
-.snt-services-page-section button h0:hover {
-	color: #FFC700 !important;
-}
-
-.snt-services-page-section button h0:active {
-	color: #C319E1 !important;
 }
 
 .snt-services-page-section button:hover {
@@ -1430,14 +1421,11 @@ h1 {
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
+	color: white;
 }
 
 .software:hover {
-	background: url(../imgs/Software_hover.png) no-repeat;
-}
-
-.software:active {
-	background: url(../imgs/software_active.png) no-repeat;
+	background: url(../imgs/Software_hover.png) no-repeat !important;
 }
 
 .product {
@@ -1447,14 +1435,11 @@ h1 {
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
+	color: white;
 }
 
 .product:hover {
-	background: url(../imgs/product_hover.png) no-repeat;
-}
-
-.product:active {
-	background: url(../imgs/product_active.png) no-repeat;
+	background: url(../imgs/product_hover.png) no-repeat !important;
 }
 
 .social {
@@ -1464,14 +1449,11 @@ h1 {
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
+	color: white;
 }
 
 .social:hover {
-	background: url(../imgs/Social_hover.png) no-repeat;
-}
-
-.social:active {
-	background: url(../imgs/social_active.png) no-repeat;
+	background: url(../imgs/Social_hover.png) no-repeat !important;
 }
 
 .interim {
@@ -1481,14 +1463,11 @@ h1 {
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
+	color: white;
 }
 
 .interim:hover {
-	background: url(../imgs/Interim_hover.png) no-repeat;
-}
-
-.interim:active {
-	background: url(../imgs/interim_active.png) no-repeat;
+	background: url(../imgs/Interim_hover.png) no-repeat !important;
 }
 
 .plane {
@@ -1498,14 +1477,11 @@ h1 {
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
+	color: white;
 }
 
 .plane:hover {
-	background: url(../imgs/Plane_hover.png) no-repeat;
-}
-
-.plane:active {
-	background: url(../imgs/Plane_active.png) no-repeat;
+	background: url(../imgs/Plane_hover.png) no-repeat !important;
 }
 
 .airplane {
@@ -1515,14 +1491,11 @@ h1 {
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
+	color: white;
 }
 
 .airplane:hover {
-	background: url(../imgs/Airplane_hover.png) no-repeat;
-}
-
-.airplane:active {
-	background: url(../imgs/Airplane_active.png) no-repeat;
+	background: url(../imgs/Airplane_hover.png) no-repeat !important;
 }
 
 .rocket {
@@ -1532,20 +1505,16 @@ h1 {
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
+	color: white;
 }
 
 .rocket:hover {
-	background: url(../imgs/Rocket_hover.png) no-repeat;
+	background: url(../imgs/Rocket_hover.png) no-repeat !important;
 	height: 5rem;
     width: 4rem;
     border: none;
     inline-size: fit-content;
     margin-top: 4rem;
-}
-
-.rocket:active {
-	background: url(../imgs/Rocket_active.png) no-repeat;
-	border: none !important;
 }
 
 .thunder {
@@ -1555,14 +1524,11 @@ h1 {
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
+	color: white;
 }
 
 .thunder:hover {
-	background: url(../imgs/Thunder_hover.png) no-repeat;
-}
-
-.thunder:active {
-	background: url(../imgs/Thunder_active.png) no-repeat;
+	background: url(../imgs/Thunder_hover.png) no-repeat !important;
 }
 
 .mouse {
@@ -1572,14 +1538,11 @@ h1 {
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
+	color: white;
 }
 
 .mouse:hover {
-	background: url(../imgs/Mouse_hover.png) no-repeat;
-}
-
-.mouse:active {
-	background: url(../imgs/Mouse_active.png) no-repeat;
+	background: url(../imgs/Mouse_hover.png) no-repeat !important;
 }
 
 .vector {
@@ -1589,14 +1552,11 @@ h1 {
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
+	color: white;
 }
 
 .vector:hover {
-	background: url(../imgs/Vector_hover.png) no-repeat;
-}
-
-.vector:active {
-	background: url(../imgs/Vector_active.png) no-repeat;
+	background: url(../imgs/Vector_hover.png) no-repeat !important;
 }
 
 .snt-services-page-section .col-md-12 p {

@@ -34,17 +34,17 @@
 	<div class="row">
 		<div id="product" class="col-md-4 des-ux-int">
 			<div class="col-md-12">
-				<button class="thunder" value="showDesign" onclick="showDesign()">
+				<button id="c1" class="thunder" value="showDesign" onclick="showDesign()">
 					<h0> Design Sprint </h0>
 				</button>
 			</div>
 			<div class="col-md-12">
-				<button class="vector" value="showUx" onclick="showUx()">
+				<button id="c2" class="vector" value="showUx" onclick="showUx()">
 					<h0> UX/UI Design </h0>
 				</button>
 			</div>
 			<div class="col-md-12">
-				<button class="mouse" value="showInteraction" onclick="showInteraction()">
+				<button id="c3" class="mouse" value="showInteraction" onclick="showInteraction()">
 					<h0> Interaction Design </h0>
 				</button>
 			</div>
@@ -108,17 +108,17 @@
 	<div class="row">
 		<div class="col-md-4 pro-pro-min">
 			<div class="col-md-12">
-				<button class="plane" value="showProof" onclick="showProof()">
+				<button id="c4" class="plane" value="showProof" onclick="showProof()">
 					<h0> Proof of Concept </h0>
 				</button>
 			</div>
 			<div class="col-md-12">
-				<button class="airplane" value="showPrototype" onclick="showPrototype()">
+				<button id="c5" class="airplane" value="showPrototype" onclick="showPrototype()">
 					<h0> Prototype </h0>
 				</button>
 			</div>
 			<div class="col-md-12">
-				<button class="rocket" value="showMinimum" onclick="showMinimum()">
+				<button id="c6" class="rocket" value="showMinimum" onclick="showMinimum()">
 					<h0> Minimum Viable Product </h0>
 				</button>
 			</div>
@@ -172,22 +172,22 @@
 	<div class="row consulting-display">
 		<div class="col-md-4 sof-pro-soc-int">
 			<div class="col-md-12">
-				<button class="software" value="showSoftware" onclick="showSoftware()">
+				<button id="c7" class="software" value="showSoftware" onclick="showSoftware()">
 					<h0> Software Development </h0>
 				</button>
 			</div>
 			<div class="col-md-12">
-				<button class="product" value="showProductDesign" onclick="showProductDesign()">
+				<button id="c8" class="product" value="showProductDesign" onclick="showProductDesign()">
 					<h0> Product Design </h0>
 				</button>
 			</div>
 			<div class="col-md-12">
-				<button class="social" value="showSocial" onclick="showSocial()">
+				<button id="c9" class="social" value="showSocial" onclick="showSocial()">
 					<h0> Social Media </h0>
 				</button>
 			</div>
 			<div class="col-md-12">
-				<button class="interim" value="showInterim" onclick="showInterim()">
+				<button id="c10" class="interim" value="showInterim" onclick="showInterim()">
 					<h0> Interim CTO </h0>
 				</button>
 			</div>
@@ -284,12 +284,21 @@ function showDesign() {
 	var x = document.getElementById("design");
 	var y = document.getElementById("ux");
 	var z = document.getElementById("interaction");
+	var c1 = document.getElementById("c1");
 	if (x.style.display === "none") {
 		x.style.display = "block";
+		c1.style.color = "#C319E1";
+		c1.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Thunder_active.png) no-repeat";
+		c2.style.color = "";   
+		c2.style.background = "";
+		c3.style.color = "";
+		c3.style.background = "";
 		y.style.display = "none";
 		z.style.display = "none";
 	} else {
 		x.style.display = "none";
+		c1.style.color = "white";
+		c1.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Thunder.png) no-repeat";
 	}
 }
 
@@ -297,12 +306,21 @@ function showUx() {
 	var x = document.getElementById("ux");
 	var y = document.getElementById("design");
 	var z = document.getElementById("interaction");
+	var c2 = document.getElementById("c2");
 	if (x.style.display === "none") {
 		x.style.display = "block";
+		c1.style.color = "";   
+		c1.style.background = "";
+		c2.style.color = "#C319E1";
+		c2.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Vector_active.png) no-repeat";
+		c3.style.color = "";
+		c3.style.background = "";
 		y.style.display = "none";
 		z.style.display = "none";
 	} else {
 		x.style.display = "none";
+		c2.style.color = "white";
+		c2.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Vector.png) no-repeat";
 	}
 }
 
@@ -310,12 +328,21 @@ function showInteraction() {
 	var x = document.getElementById("interaction");
 	var y = document.getElementById("design");
 	var z = document.getElementById("ux");
+	var c3 = document.getElementById("c3");
 	if (x.style.display === "none") {
 		x.style.display = "block";
+		c1.style.color = "";
+		c1.style.background = "";
+		c2.style.color = "";   
+		c2.style.background = "";
+		c3.style.color = "#C319E1";
+		c3.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Mouse_active.png) no-repeat";
 		y.style.display = "none";
 		z.style.display = "none";
 	} else {
 		x.style.display = "none";
+		c3.style.color = "white";
+		c3.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Mouse.png) no-repeat";
 	}
 }
 
@@ -323,12 +350,21 @@ function showProof() {
   var x = document.getElementById("proof");
   var y = document.getElementById("prototype");
   var z = document.getElementById("minimum");
+  var c4 = document.getElementById("c4");
   if (x.style.display === "none") {
 	x.style.display = "block";
+	c4.style.color = "#C349E1";
+	c4.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Plane_active.png) no-repeat";
+	c5.style.color = "";   
+	c5.style.background = "";
+	c6.style.color = "";
+	c6.style.background = "";
 	y.style.display = "none";
 	z.style.display = "none";
   } else {
-    x.style.display = "none";
+	x.style.display = "none";
+	c4.style.color = "white";
+	c4.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Plane.png) no-repeat";
   }
 }
 
@@ -336,12 +372,21 @@ function showPrototype() {
   var x = document.getElementById("prototype");
   var y = document.getElementById("proof");
   var z = document.getElementById("minimum");
+  var c5 = document.getElementById("c5");
   if (x.style.display === "none") {
 	x.style.display = "block";
+	c4.style.color = "";
+  	c4.style.background = "";
+  	c5.style.color = "#C319E1";
+  	c5.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Airplane_active.png) no-repeat";
+  	c6.style.color = "";
+  	c6.style.background = "";	
 	y.style.display = "none";
 	z.style.display = "none"
   } else {
 	x.style.display = "none";
+	c5.style.color = "white";
+  	c5.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Airplane.png) no-repeat";
 	y.style.display = "block";
 	z.style.display = "none";
   }
@@ -351,12 +396,21 @@ function showMinimum() {
   var x = document.getElementById("minimum");
   var y = document.getElementById("prototype");
   var z = document.getElementById("proof");
+  var c6 = document.getElementById("c6");
   if (x.style.display === "none") {
 	x.style.display = "block";
+	c4.style.color = "";   
+  	c4.style.background = "";
+  	c5.style.color = "";
+  	c5.style.background = "";	 
+  	c6.style.color = "#C319E1";
+  	c6.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Rocket_active.png) no-repeat";
 	y.style.display = "none";
 	z.style.display = "none";
   } else {
 	x.style.display = "none";
+	c6.style.color = "white";
+  	c6.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Rocket.png) no-repeat";
 	y.style.display = "none";
 	z.style.display = "block";
   }
@@ -367,13 +421,24 @@ function showSoftware() {
   var y = document.getElementById("product-d");
   var z = document.getElementById("social");
   var m = document.getElementById("interim");
+  var c7 = document.getElementById("c7");
   if (x.style.display === "none") {
 	x.style.display = "block";
+	c7.style.color = "#C319E1";   
+    c7.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/software_active.png) no-repeat";
+    c8.style.color = "";
+    c8.style.background = "";	 
+    c9.style.color = "";
+    c9.style.background = "";
+    c10.style.color = "";
+    c10.style.background = "";
 	y.style.display = "none";
 	z.style.display = "none";
 	m.style.display = "none";
   } else {
-    x.style.display = "none";
+	x.style.display = "none";
+	c7.style.color = "white";
+    c7.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Software.png) no-repeat";
   }
 }
 
@@ -382,13 +447,24 @@ function showProductDesign() {
   var y = document.getElementById("software");
   var z = document.getElementById("social");
   var m = document.getElementById("interim");
+  var c8 = document.getElementById("c8");
   if (x.style.display === "none") {
 	x.style.display = "block";
+	c7.style.color = "";   
+    c7.style.background = "";
+    c8.style.color = "#C319E1";
+    c8.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/product_active.png) no-repeat";	 
+    c9.style.color = "";
+    c9.style.background = "";
+    c10.style.color = "";
+    c10.style.background = "";
 	y.style.display = "none";
 	z.style.display = "none";
 	m.style.display = "none";
   } else {
 	x.style.display = "none";
+    c8.style.color = "white";
+    c8.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/product.png) no-repeat";	 
 	y.style.display = "block";
 	z.style.display = "none";
 	m.style.display = "none";
@@ -400,13 +476,24 @@ function showSocial() {
   var y = document.getElementById("product-d");
   var z = document.getElementById("software");
   var m = document.getElementById("interim");
+  var c9 = document.getElementById("c9");
   if (x.style.display === "none") {
 	x.style.display = "block";
+	c7.style.color = "";   
+    c7.style.background = "";
+	c8.style.color = "";
+	c8.style.background = "";
+	c9.style.color = "#C319E1";
+	c9.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/social_active.png) no-repeat";
+	c10.style.color = "";
+    c10.style.background = "";
 	y.style.display = "none";
 	z.style.display = "none";
 	m.style.display = "none";
   } else {
 	x.style.display = "none";
+	c9.style.color = "white";
+	c9.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/social.png) no-repeat";
 	y.style.display = "none";
 	z.style.display = "block";
 	m.style.display = "none";
@@ -418,19 +505,29 @@ function showInterim() {
   var y = document.getElementById("product-d");
   var z = document.getElementById("software");
   var m = document.getElementById("social");
+  var c10 = document.getElementById("c10");
   if (x.style.display === "none") {
 	x.style.display = "block";
+	c7.style.color = "";   
+    c7.style.background = "";
+	c8.style.color = "";
+	c8.style.background = "";
+	c9.style.color = "";
+    c9.style.background = "";
+    c10.style.color = "#C319E1";
+    c10.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/interim_active.png) no-repeat";
 	y.style.display = "none";
 	z.style.display = "none";
 	m.style.display = "none";
   } else {
+	c10.style.color = "white";
+    c10.style.background = "url(/sintezisdemo/wp-content/themes/wp.theme.php/imgs/interim.png) no-repeat";
 	x.style.display = "none";
 	y.style.display = "none";
 	z.style.display = "block";
 	m.style.display = "none";
   }
 }
-
 </script>
 
 <?php get_footer(); ?>
