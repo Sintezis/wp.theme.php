@@ -727,6 +727,7 @@ section {
 		border-right: none !important;
 		border-bottom: groove #C319E1;
 		width: -webkit-fill-available;
+		background: bottom url(../imgs/Polygon\ 2.png) no-repeat !important;
 	}
 	.thunder {
 		height: 17rem !important;
@@ -954,6 +955,7 @@ section {
 		border-right: none !important;
 		border-bottom: groove #C319E1;
 		width: 100%;
+		background: bottom url(../imgs/Polygon\ 2.png) no-repeat !important;
 	}
 	.snt-services-page-section .col-md-8 {
 		width: 100%;
@@ -1050,6 +1052,22 @@ section {
 .col-md-4 {
 	border-right: groove;
     border-right-color: #FFC700;
+}
+
+.snt-team-section .col-md-4 {
+	border: none;
+}
+
+.snt-blog-section .col-md-4 {
+	border: none;
+}
+
+.snt-footer-section .col-md-4 {
+	border: none;
+}
+
+.welcome-col-md-4 {
+	border: none;
 }
 
 .ambassador-section {
@@ -1884,6 +1902,14 @@ h4 {
 
 /* Services section */
 
+.snt-services-welcome-section h1 {
+	font-style: normal;
+    font-weight: 800;
+    font-size: 44px;
+    line-height: 52px;
+    color: white;
+}
+
 .snt-services-section h1 {
 	font-family: Overpass;
 	font-style: normal;
@@ -2612,7 +2638,6 @@ cite {
 	line-height: 24px;
 }
 
-
-
-
-
+.service-btn {
+	margin-top: 5rem;
+}

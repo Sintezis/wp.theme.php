@@ -1,4 +1,3 @@
-
 <?php get_header(); ?>
   <section id="welcome" class="snt-welcome-section">
     <div class="row">
@@ -98,7 +97,7 @@
     </div>
   </section>
 
-  <section id="services" class="snt-services-section">
+  <section id="services" class="snt-services-welcome-section">
     <div class="row">
       <div class="col-md-6 col-md-offset-3">
         <h4>WHAT WE EXCEL AT</h4>
@@ -111,24 +110,27 @@
         
         <div class="row">
         
-          <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/icon_designsprint.png'?>" class="center-block" alt="">
-            <h3>Design Sprint</h3>
-            <p>We include you in the proces with a week-long workshop helping shape your ideas into something tangible, both remotely or on-site.</p>
+          <div class="welcome-col-md-4 col-md-4">
+            <img src="<?php echo get_template_directory_uri().'/imgs/Vector_desktop.png'?>" class="center-block" alt="">
+            <h3 style="margin-top: 40px;">Product Design</h3>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet libero eu lectus lobortis scelerisque. Etiam congue eget mauris ac auctor.</p>
           </div>
         
-          <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/icon_productdev.png'?>" class="center-block" alt="">
+          <div class="welcome-col-md-4 col-md-4">
+            <img src="<?php echo get_template_directory_uri().'/imgs/Rocket_desktop.png'?>" class="center-block" alt="">
             <h3 style="margin-top: 40px;">Prodcut Development</h3>
-            <p>We get to know you and your users, competition and domain space. We sketch, we prototype and we design usable software keeping the business needs in mind.</p>
+            <p class="text-center">Phasellus vel mattis purus. Fusce consequat urna in mattis tempor. In quis iaculis nunc. Fusce id felis ullamcorper lacus condimentum dapibus.</p>
           </div>
         
-          <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/icon_dev.png'?>" class="center-block" alt="">
-            <h3 style="margin-top: 40px;">Software Development</h3>
-            <p>After measuring - we cut with passion. Our code is written for the long run, optimized for speed and efficiency. It makes your product come to life.</p>
-          </div>
-
+          <div class="welcome-col-md-4 col-md-4">
+            <img src="<?php echo get_template_directory_uri().'/imgs/Software_desktop.png'?>" class="center-block" alt="">
+            <h3 style="margin-top: 30px;">Consulting</h3>
+            <p class="text-center">Vivamus hendrerit, quam sit amet laoreet dictum, urna sem tristique massa, sit amet consequat ante ligula eu nisl. Nam et est aliquet, porttitor neque et, sollicitudin diam. Etiam quis ante vel ligula rutrum aliquet.</p>
+		  </div>
+		  
+		  <div class="col-md-12 text-center service-btn">
+		  	<button class="snt-btn" onclick="window.location.href='/services'"=>SEE ALL SERVICES</button>
+		  </div>
         </div>
 
       </div>
