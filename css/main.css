@@ -25,6 +25,16 @@ section {
 	margin-right: 0px;
 }
 
+.snt-services-page-section .row {
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+}
+
+.snt-footer-section .row {
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+}
+
 .row {
 	margin-right: -15px !important;
 	margin-left: -15px !important;
@@ -95,7 +105,7 @@ section {
 .snt-get-in-touch-btn:hover {
 	background: #B7077B !important;
 	border: 2px solid #B7077B;
-	color: white;
+	color: white !important;
 	transition: all 0.2s ease-in-out;
 }
 
@@ -215,27 +225,27 @@ section {
 		margin-bottom: 25rem !important;
 	}
 	.amadeus-photo {
-		width: 62% !important;
+		width: 60% !important;
 		height: 30px !important;
-		left: 60px !important;
+		left: 40px !important;
 		top: 10px !important;
 	}
 	.travelport-photo {
-		width: 74% !important;
+		width: 80% !important;
 		height: 40px !important;
-		left: 60px !important;
+		left: 40px !important;
 		top: 6rem !important;
 	}
 	.skyscanner-photo {
-		width: 73% !important;
+		width: 80% !important;
 		height: 35px !important;
-		left: 60px !important;
+		left: 40px !important;
 		top: 12rem !important;
 	}
 	.booking-photo {
-		width: 62% !important;
+		width: 70% !important;
 		height: 33px !important;
-		left: 61px !important;
+		left: 40px !important;
 		top: 18rem !important;
 	}
 	.snt-services-page-section .col-md-6 {
@@ -309,7 +319,6 @@ section {
 	}
 	.snt-services-page-section h2 {
 		margin-top: 10rem;
-		margin-left: 3rem;
 		margin-bottom: 12rem;
 	}
 	.snt-services-page-section .yellow{
@@ -338,24 +347,26 @@ section {
 	}
 	.service-button {
 		margin-top: 2rem !important;
+		margin-bottom: 10px;
 	}
 	.service-section {
 		padding-top: 0rem !important;
 		padding-bottom: 0rem !important;
 	}
 	.contact-service-h3 {
-		width: 104%;
+		width: 100%;
 		line-height: 130px !important;
-		margin-top: -70rem !important;
+		margin-top: -74rem !important;
 	}
 	.service-page-photo {
-		width: 103% !important;
+		width: 100% !important;
 		position: inherit !important;
 		height: 700px !important;
 	}
 	.service-h2 {
 		margin-top: 0rem !important;
 		margin-bottom: 0rem !important;
+		width: 80% !important;
 	}
 	.product-h1 {
 		font-family: Overpass !important;
@@ -364,13 +375,15 @@ section {
 		font-size: 44px !important;
 		line-height: 52px !important;
 		color: #FFFFFF !important;
-		width: 100% !important;
+		width: auto !important;
 	}
 	.consulting-display {
 		display: block !important;
 	}
-	.product-h1 {
+	.snt-services-page-section li {
 		width: 100% !important;
+		padding-left: 2rem;
+    	display: inline-table;
 	}
 }
 
@@ -460,19 +473,19 @@ section {
 		top: 10px !important;
 	}
 	.travelport-photo {
-		width: 60% !important;
+		width: 70% !important;
 		height: 40px !important;
 		left: 60px !important;
 		top: 6rem !important;
 	}
 	.skyscanner-photo {
-		width: 46% !important;
+		width: 70% !important;
 		height: 35px !important;
 		left: 60px !important;
 		top: 12rem !important;
 	}
 	.booking-photo {
-		width: 54% !important;
+		width: 60% !important;
 		height: 33px !important;
 		left: 61px !important;
 		top: 18rem !important;
@@ -495,7 +508,6 @@ section {
 		border-right: none !important;
 		border-bottom: groove #C319E1;
 		max-inline-size: min-content;
-		background: bottom url(../imgs/Polygon\ 2.png) no-repeat !important;
 	}
 	.thunder {
 		height: 17rem !important;
@@ -556,10 +568,15 @@ section {
 		margin-bottom: 6rem;
 	}
 	.snt-services-page-section h1 {
-		width: max-content;
+		width: auto !important;
 	}
 	.snt-services-page-section .row {
 		margin-bottom: -13rem;
+	}
+	.snt-services-page-section li {
+		width: 100% !important;
+		padding-left: 2rem;
+    	display: inline-table;
 	}
 	.sof-pro-soc-int {
 		overflow: auto;
@@ -567,24 +584,26 @@ section {
 	}
 	.service-button {
 		margin-top: 2rem !important;
+		margin-bottom: 10px;
 	}
 	.service-section {
 		padding-top: 0rem !important;
 		padding-bottom: 0rem !important;
 	}
 	.contact-service-h3 {
-		width: 104%;
+		width: 100%;
 		line-height: 130px !important;
 		margin-top: -70rem !important;
 	}
 	.service-page-photo {
-		width: 109% !important;
+		width: 100% !important;
 		position: inherit !important;
 		height: 700px !important;
 	}
 	.service-h2 {
 		margin-top: 0rem !important;
 		margin-bottom: 0rem !important;
+		width: auto !important;
 	}
 	.product-h1 {
 		font-family: Overpass !important;
@@ -694,8 +713,7 @@ section {
 	.travelport-photo {
 		width: 60% !important;
 		height: 40px !important;
-		left: 60px !important;
-		top: 6rem !important;
+		left: 310px !important;
 	}
 	.skyscanner-photo {
 		width: 46% !important;
@@ -706,8 +724,8 @@ section {
 	.booking-photo {
 		width: 54% !important;
 		height: 33px !important;
-		left: 61px !important;
-		top: 18rem !important;
+		left: 310px !important;
+		top: 12.5rem !important;
 	}
 	.snt-services-page-section .col-md-6 {
 		margin-top: 0rem !important;
@@ -727,7 +745,6 @@ section {
 		border-right: none !important;
 		border-bottom: groove #C319E1;
 		width: -webkit-fill-available;
-		background: bottom url(../imgs/Polygon\ 2.png) no-repeat !important;
 	}
 	.thunder {
 		height: 17rem !important;
@@ -793,13 +810,13 @@ section {
 		width: max-content !important;
 	}
 	.snt-services-page-section h1 {
-		width: max-content;
+		width: auto !important;
 	}
 	.snt-services-page-section .row {
 		margin-bottom: -13rem;
 	}
 	.service-page-photo {
-		width: 101% !important;
+		width: 99% !important;
 		position: inherit !important;
 	}
 	.snt-services-page-section .contact-h3 {
@@ -810,18 +827,24 @@ section {
 		position: inherit !important;
 	}
 	.contact-service-h3 {
-		margin-top: -45rem;
+		margin-top: -50rem;
 	}
 	.service-section {
 		padding-bottom: 0rem !important;
 		padding-top: 0rem !important;
 	}
 	.service-h2 {
-		margin-top: 0rem !important;
+		margin-top: 5rem !important;
 		margin-bottom: 0rem !important;
+		width: 70% !important;
 	}
 	.col-md-12 {
 		width: 100%;
+	}
+	.snt-services-page-section li {
+		width: 100% !important;
+		padding-left: 2rem;
+    	display: inline-table;
 	}
 }
 
@@ -921,8 +944,7 @@ section {
 	.travelport-photo {
 		width: 60% !important;
 		height: 40px !important;
-		left: 60px !important;
-		top: 6rem !important;
+		left: 350px !important;
 	}
 	.skyscanner-photo {
 		width: 46% !important;
@@ -933,8 +955,8 @@ section {
 	.booking-photo {
 		width: 54% !important;
 		height: 33px !important;
-		left: 61px !important;
-		top: 18rem !important;
+		left: 350px !important;
+		top: 12.5rem !important;
 	}
 	.snt-services-page-section .col-md-6 {
 		margin-top: 0rem !important;
@@ -955,7 +977,6 @@ section {
 		border-right: none !important;
 		border-bottom: groove #C319E1;
 		width: 100%;
-		background: bottom url(../imgs/Polygon\ 2.png) no-repeat !important;
 	}
 	.snt-services-page-section .col-md-8 {
 		width: 100%;
@@ -1024,28 +1045,39 @@ section {
 		width: max-content !important;
 	}
 	.snt-services-page-section h1 {
-		width: max-content;
+		width: auto !important;
 	}
 	.snt-services-page-section .row {
 		margin-bottom: -13rem;
 	}
 	.service-page-photo {
-		width: 102% !important;
+		width: 99% !important;
 		position: inherit !important;
 	}
 	.snt-services-page-section .contact-h3 {
 		margin-top: -45rem;
 	}
 	.contact-service-h3 {
-		margin-top: -45rem;
+		margin-top: -50rem;
 	}
 	.service-section {
 		padding-top: 0rem !important;
 		padding-bottom: 0rem !important;
 	}
 	.service-h2 {
-		margin-top: 0rem !important;
+		margin-top: 3rem !important;
 		margin-bottom: 0rem !important;
+	}
+	.snt-services-page-section li {
+		width: 100% !important;
+		padding-left: 2rem;
+    	display: inline-table;
+	}
+	.col-md-5 {
+		width: 100% !important;
+	}
+	.service-travel-photo {
+		background: none !important;
 	}
 }
 
@@ -1182,18 +1214,17 @@ h1 {
 }
 
 /* Services page section */
-
 .consulting-display {
 	display: inline-block;
 }
 
 .contact-service-h3 {
-
+	padding-top: 6rem;
 }
 
 .service-section {
 	text-align: -webkit-center;
-    padding-top: 9rem;
+    padding-top: 3rem;
     padding-bottom: 6rem;
 }
 
@@ -1212,7 +1243,6 @@ h1 {
 
 .travel-btn {
 	text-align: center;
-	margin-top: 5rem;
 }
 
 .travel-text {
@@ -1222,6 +1252,7 @@ h1 {
 	font-size: 26px !important;
 	line-height: 30px !important;
 	color: #FFFFFF !important;
+	margin-top: 5rem;
 }
 
 .travel-p {
@@ -1231,6 +1262,7 @@ h1 {
 	font-size: 18px !important;
 	line-height: 26px !important;
 	color: #A6AAC8 !important;
+	margin-bottom: 5rem;
 }
 
 .service-h2 {
@@ -1241,7 +1273,7 @@ h1 {
     line-height: 54px !important;
     text-align: center;
     color: #FFFFFF;
-    width: 65%;
+    width: 40%;
 }
 
 .service-page-photo {
@@ -1265,9 +1297,9 @@ h1 {
 .amadeus-photo {
 	background: url(../imgs/Amadeus.png) no-repeat;
     position: absolute;
-    width: 35%;
+    width: 40%;
     height: 30px;
-    left: 60px;
+    left: 30px;
 	top: 10px;
 	border: none;
 }
@@ -1275,18 +1307,18 @@ h1 {
 .travelport-photo {
 	background: url(../imgs/Travelport.png) no-repeat;
     position: absolute;
-    width: 45%;
+    width: 50%;
     height: 40px;
-	left: 270px;
+	left: 240px;
 	border: none;
 }
 
 .skyscanner-photo {
     background: url(../imgs/Skyscanner.png) no-repeat;
     position: absolute;
-    width: 46%;
+    width: 50%;
     height: 35px;
-    left: 60px;
+    left: 30px;
 	top: 70px;
 	border: none;
 }
@@ -1294,9 +1326,9 @@ h1 {
 .booking-photo {
 	background: url(../imgs/Booking.png) no-repeat;
     position: absolute;
-    width: 39%;
+    width: 42%;
     height: 33px;
-    left: 321px;
+    left: 271px;
 	top: 70px;
 	border: none;
 }
@@ -1316,11 +1348,15 @@ h1 {
 }
 
 .snt-services-page-section li {
-	color: #FFC700;
+	background: url(../imgs/Ellipse\ 5.png) no-repeat;
 	flex: none;
 	order: 0;
 	align-self: center;
-	margin: 20px 0px;
+	margin: 12px 0px;
+	color: transparent;
+	background-position-y: center;
+	margin-top: auto;
+	width: 120%;
 }
 
 .snt-services-page-section li p {
@@ -1340,12 +1376,12 @@ h1 {
 	font-size: 44px;
 	line-height: 52px;
 	color: #FFFFFF;
+	width: max-content;
 }
 
 .snt-services-page-section .col-md-4 {
 	border-right-color: #C319E1;
 	border-radius: 4px;
-	background: right url(../imgs/Polygon\ 1.png) no-repeat;
 	padding-bottom: 5rem;
 }
 
@@ -1414,8 +1450,8 @@ h1 {
 	color: #FFC700 !important;
 }
 
-.software {
-	background: url(../imgs/Software.png) no-repeat;
+.thunder {
+	background: url(../imgs/thunder.png) no-repeat;
 	height: 5rem;
 	width: 4rem;
 	border: none;
@@ -1424,50 +1460,41 @@ h1 {
 	color: white;
 }
 
-.software:hover {
-	background: url(../imgs/Software_hover.png) no-repeat !important;
+.thunder:hover {
+	background: url(../imgs/thunder_hover.png) no-repeat !important;
 }
 
-.product {
-	background: url(../imgs/product.png) no-repeat;
-	height: 6rem;
-	width: 4rem;
-	border: none;
-	inline-size: fit-content;
-	margin-top: 4rem;
-	color: white;
+.thunder_background {
+	background: url(../imgs/thunder_background.png) no-repeat;
+	height: 50rem;
+	width: 50rem;
 }
 
-.product:hover {
-	background: url(../imgs/product_hover.png) no-repeat !important;
-}
-
-.social {
-	background: url(../imgs/Social.png) no-repeat;
+.vector {
+	background: url(../imgs/Vector.png) no-repeat;
 	height: 5rem;
-	width: 4rem;
+	width: 6rem;
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
 	color: white;
 }
 
-.social:hover {
-	background: url(../imgs/Social_hover.png) no-repeat !important;
+.vector:hover {
+	background: url(../imgs/Vector_hover.png) no-repeat !important;
 }
-
-.interim {
-	background: url(../imgs/interim.png) no-repeat;
-	height: 6rem;
-	width: 4rem;
+.mouse {
+	background: url(../imgs/Mouse.png) no-repeat;
+	height: 5rem;
+	width: 5rem;
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
 	color: white;
 }
 
-.interim:hover {
-	background: url(../imgs/Interim_hover.png) no-repeat !important;
+.mouse:hover {
+	background: url(../imgs/Mouse_hover.png) no-repeat !important;
 }
 
 .plane {
@@ -1517,8 +1544,37 @@ h1 {
     margin-top: 4rem;
 }
 
-.thunder {
-	background: url(../imgs/Thunder.png) no-repeat;
+.software {
+	background: url(../imgs/software.png) no-repeat;
+	height: 5rem;
+	width: 4rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+	color: white;
+	fill: white;
+}
+
+.software:hover {
+	background: url(../imgs/software_hover.png) no-repeat !important;
+}
+
+.product {
+	background: url(../imgs/product.png) no-repeat;
+	height: 6rem;
+	width: 4rem;
+	border: none;
+	inline-size: fit-content;
+	margin-top: 4rem;
+	color: white;
+}
+
+.product:hover {
+	background: url(../imgs/product_hover.png) no-repeat !important;
+}
+
+.social {
+	background: url(../imgs/Social.png) no-repeat;
 	height: 5rem;
 	width: 4rem;
 	border: none;
@@ -1527,36 +1583,22 @@ h1 {
 	color: white;
 }
 
-.thunder:hover {
-	background: url(../imgs/Thunder_hover.png) no-repeat !important;
+.social:hover {
+	background: url(../imgs/Social_hover.png) no-repeat !important;
 }
 
-.mouse {
-	background: url(../imgs/Mouse.png) no-repeat;
-	height: 5rem;
-	width: 5rem;
+.interim {
+	background: url(../imgs/interim.png) no-repeat;
+	height: 6rem;
+	width: 4rem;
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
 	color: white;
 }
 
-.mouse:hover {
-	background: url(../imgs/Mouse_hover.png) no-repeat !important;
-}
-
-.vector {
-	background: url(../imgs/Vector.png) no-repeat;
-	height: 5rem;
-	width: 6rem;
-	border: none;
-	inline-size: fit-content;
-	margin-top: 4rem;
-	color: white;
-}
-
-.vector:hover {
-	background: url(../imgs/Vector_hover.png) no-repeat !important;
+.interim:hover {
+	background: url(../imgs/Interim_hover.png) no-repeat !important;
 }
 
 .snt-services-page-section .col-md-12 p {
@@ -1580,6 +1622,7 @@ h1 {
 	color: #FFC700 !important;
 	border-left-color: rgba(255, 199, 0, 0.75);
 	border-left: solid;
+	padding-left: 2rem;
 }
 
 .snt-contact-page-section h1 {
