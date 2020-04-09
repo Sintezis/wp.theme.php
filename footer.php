@@ -1,11 +1,31 @@
-	<div class="snt-footer-section">
+<div class="snt-footer-section">
     <div class="row" style="padding-top: 43.5%">
-      <div class="col-md-4 col-md-offset-2">
+      <div class="col-md-4">
         <div class="snt-address-container">
-          <h3>Sintezis Startup Studio Limited</h3>
+          <h3>Sintezis Startup Studio Ltd.</h3>
           <p>Ground floor 8-9, Marino Mart</p>
-          <p>Dublin 3, D03P590,</p>
+          <p>Dublin 3, D03P590</p>
           <p>Ireland</p>
+        </div>
+      </div>
+
+      <div class="col-md-2" style="padding-top:6.5%;">
+        <div class="snt-pages-container">
+          <a href="/home"><u> Home </u></a>
+          <a href="/aboutUs"><u> About Us </u></a>
+          <a href="/services"><u> Services </u></a>
+          <a href="/projects"><u> Projects </u></a>
+          <a href="/contact"><u> Contact </u></a>
+        </div>
+      </div>
+
+      <div class="col-md-2" style="padding-top:6.5%;">
+        <div class="snt-pages-container">
+          <a href="/home"><u> Products </u></a>
+          <a href="/aboutUs"><u> Career </u></a>
+          <a href="/services"><u> Partnership </u></a>
+          <a href="/projects"><u> Blog </u></a>
+          <a href="/contact"><u> Privacy policy </u></a>
         </div>
       </div>
 
@@ -13,23 +33,25 @@
         <div class="snt-contact-container">
           <h3>Connect with Us</h3>
           <p>www.sintezis.co</p>
-          <p>info@sintezis.co</p>
-          <a href="https://www.facebook.com/sintezisco/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>" class="pull-right" width="35" height="35" alt=""></a>
-          <a href="https://www.linkedin.com/company/sintezis" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"  class="pull-right" width="35" height="35" alt=""></a>
-          <a href="https://twitter.com/SintezisLtd" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>" class="pull-right" width="35" height="35" alt=""></a>
-          <a href="https://www.instagram.com/sintezisco/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>" class="pull-right" width="35" height="35" alt=""></a>
+          <p>contact@sintezis.co</p>
+          <p>+01234567890</p>
+          
         </div>
       </div>
     </div>
 
     <div class="row">
-      <div class="col-md-8 col-md-offset-2">
+      <div class="col-md-8" style="margin-left:5rem; margin-bottom:5rem;">
         <p class="snt-copyright">Copyright © 2020 Sintezis - All right reserved</p>
+      </div>
+      <div class="col-md-3">
+        <a href="https://www.linkedin.com/company/sintezis" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"  class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:-2rem;"></a>
+        <a href="https://twitter.com/SintezisLtd" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>" class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
+        <a href="https://www.instagram.com/sintezisco/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>" class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
       </div>
     </div>
 
-</div>
-      
+  </div>
 
 </div>
 
@@ -65,4 +87,13 @@
       $(".snt-nav-bar").fadeIn()
     }
   })
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57238963-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57238963-2');
 </script>

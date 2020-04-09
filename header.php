@@ -58,14 +58,11 @@ style guide rules end -->
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="<?php echo get_home_url().'/#welcome' ?>">Welcome</a></li>
-          <li><a href="<?php echo get_home_url() .'/#projects'?>">Projects</a></li>
-          <li><a href="<?php echo get_home_url() .'/#services'?>">Services</a></li>
-          <li><a href="<?php echo get_home_url() .'/#team'?>">The Team</a></li>
-          <li><a href="<?php echo get_home_url() .'/#careers'?>">Careers</a></li>
-          <li><a href="<?php echo get_home_url() .'/#blog'?>">Blog</a></li>
-          <li><a href="<?php echo get_home_url() .'/#contact'?>">Contact</a></li>
-          <li><a href="/partnership">Partnership</a></li>
+          <li><a href="<?php echo get_home_url().'/' ?>">Home</a></li>
+          <li><a href="<?php echo get_home_url().'/aboutUs' ?>">About Us</a></li>
+          <li><a href="<?php echo get_home_url() .'/services'?>">Services</a></li>
+          <li><a href="<?php echo get_home_url() .'/projects'?>">Projects</a></li>
+          <li><a href="<?php echo get_home_url() .'/contact'?>">Contact</a></li>
         </ul>
       </div>
     </div>

@@ -39,7 +39,10 @@
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Elude iOS App</h3>
-                    <p>Travel on a budget, you define it and Elude app finds it. The Elude app lets you find the best travel arrangements within your budget by searching the best flights and hotels for the destination of your choosing.</p>
+					<p>Travel on a budget, you define it and Elude app finds it. The Elude app lets you find the best travel arrangements within your budget by searching the best flights and hotels for the destination of your choosing.</p>
+					<button class="apple_store">
+						<p class="apple_p">APPLE STORE</p>
+					</button>
                   </div>
                 </div>
               </div>
@@ -53,7 +56,10 @@
                   <div class="snt-portfolio-item-txt">
                     <h3>Republish iOS App</h3>
                     <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
-                  </div>
+					<button class="apple_store">
+						<p class="apple_p">APPLE STORE</p>
+					</button>
+				</div>
                 </div>
               </div>
             </div>
@@ -65,8 +71,11 @@
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Fooc iOS App</h3>
-                    <p>If you need to find a buddy for your football or basketball game, Fooc can help you with that. Select the number of players you are looking for, put the game court on the map and wait a while. Someone will join in.</p>
-                  </div>
+					<p>If you need to find a buddy for your football or basketball game, Fooc can help you with that. Select the number of players you are looking for, put the game court on the map and wait a while. Someone will join in.</p>
+					<button class="apple_store">
+						<p class="apple_p">APPLE STORE</p>
+					</button>
+				</div>
                 </div>
               </div>
             </div>
@@ -111,21 +120,27 @@
         <div class="row">
         
           <div class="welcome-col-md-4 col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/Vector_desktop.png'?>" class="center-block" alt="">
-            <h3 style="margin-top: 40px;">Product Design</h3>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet libero eu lectus lobortis scelerisque. Etiam congue eget mauris ac auctor.</p>
+			  <button class="welcome-services-button">
+				<img src="<?php echo get_template_directory_uri().'/imgs/Vector_desktop.png'?>" class="center-block" alt="">
+				<h3 style="margin-top: 40px;">Product Design</h3>
+				<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet libero eu lectus lobortis scelerisque. Etiam congue eget mauris ac auctor.</p>
+			  </button>
           </div>
         
           <div class="welcome-col-md-4 col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/Rocket_desktop.png'?>" class="center-block" alt="">
-            <h3 style="margin-top: 40px;">Prodcut Development</h3>
-            <p class="text-center">Phasellus vel mattis purus. Fusce consequat urna in mattis tempor. In quis iaculis nunc. Fusce id felis ullamcorper lacus condimentum dapibus.</p>
+		 	 <button class="welcome-services-button">
+				<img src="<?php echo get_template_directory_uri().'/imgs/Rocket_desktop.png'?>" class="center-block" alt="">
+				<h3 style="margin-top: 40px;">Prodcut Development</h3>
+				<p class="text-center">Phasellus vel mattis purus. Fusce consequat urna in mattis tempor. In quis iaculis nunc. Fusce id felis ullamcorper lacus condimentum dapibus.</p>
+			 </button>
           </div>
         
           <div class="welcome-col-md-4 col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/Software_desktop.png'?>" class="center-block" alt="">
-            <h3 style="margin-top: 30px;">Consulting</h3>
-            <p class="text-center">Vivamus hendrerit, quam sit amet laoreet dictum, urna sem tristique massa, sit amet consequat ante ligula eu nisl. Nam et est aliquet, porttitor neque et, sollicitudin diam. Etiam quis ante vel ligula rutrum aliquet.</p>
+			<button class="welcome-services-button">
+				<img src="<?php echo get_template_directory_uri().'/imgs/Software_desktop.png'?>" class="center-block" alt="">
+				<h3 style="margin-top: 40px;">Consulting</h3>
+				<p class="text-center">Vivamus hendrerit, quam sit amet laoreet dictum, urna sem tristique massa, sit amet consequat ante ligula eu nisl. Nam et est aliquet, porttitor neque et, sollicitudin diam. Etiam quis ante vel ligula rutrum aliquet.</p>
+			</button>
 		  </div>
 		  
 		  <div class="col-md-12 text-center service-btn">
@@ -144,153 +159,102 @@
         <h4>TAKE ACTION</h4>
         <h1>You have an abstract software idea <br> that needs some Sintezis?</h1>
         <p>Let's talk about it</p>
-        <button class="btn snt-btn center-block" onclick="window.location.href='#contact'">GET IN TOUCH</button>
+        <button class="btn snt-btn" onclick="window.location.href='#contact'">GET IN TOUCH</button>
       </div>
     </div>
   </section>
 
-  <section id="team" class="snt-team-section">
+  <section id="testimonials" class="snt-testimonials-section">
     <div class="row">
       <div class="col-md-6 col-md-offset-3">
-        <h4>FACES BEHIND THE CODE</h4>
-        <h1>Meet the Team</h1>
+        <h4>OUR CLIENTS ABOUT US</h4>
+        <h1>Testimonials</h1>
       </div>
     </div>
 
      <div class="row">
       <div class="col-md-10 col-md-offset-1">
+
+	  <!-- carousel -->
+	  <div id="portfolio-slider" class="snt-carousel carousel slide" data-ride="carousel"> 
+          
+          <div class="snt-carousel-content carousel-inner" role="listbox">
         
         <div class="row">
         
           <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" class="snt-team-pic center-block" alt="">
-            <h3>Domagoj Bagaric</h3>
-            <p>CEO</p>
-            
+            <p class="punctuation-up center-block"></p>
+            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+            <p class="punctuation-down center-block"></p>
             <div class="row">
-              <div class="col-md-2 col-md-offset-5">
-                <div class="snt-social-block center-block" style="width: 60px">
-                  <a href="https://twitter.com/bagijaner" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/domagojbagaric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                </div>
+              <div class="col-md-2 col-md-offset-5 testimonial-mobile">
+				<div class="snt-social-block center-block" style="display: inline-flex; margin-left: -3rem; margin-top: 20px;">
+					<img src="<?php echo get_template_directory_uri().'/imgs/photo-silvije.png'?>" alt="">
+				<div style="margin-left:10px;">
+					<p class="name">Silvije S. Kranjčević</p>
+					<p class="position">CTO</p>
+				</div>
+			</div>
+              </div>
+            </div>
+            
+          </div>
+        
+		  <div class="col-md-4">
+            <p class="punctuation-up center-block"></p>
+            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+            <p class="punctuation-down center-block"></p>
+            <div class="row">
+              <div class="col-md-2 col-md-offset-5 testimonial-mobile">
+				<div class="snt-social-block center-block" style="display: inline-flex; margin-left: -3rem; margin-top: 20px;">
+					<img src="<?php echo get_template_directory_uri().'/imgs/photo-someone.png'?>" alt="">
+				<div style="margin-left:10px;">
+					<p class="name">Someone Elsić</p>
+					<p class="position">CTO</p>
+				</div>
+			</div>
               </div>
             </div>
             
           </div>
         
           <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_sstrukan.png'?>" class="snt-team-pic center-block" alt="">
-            <h3>Simun Strukan</h3>
-            <p>CTO</p>
-
+            <p class="punctuation-up center-block"></p>
+            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+            <p class="punctuation-down center-block"></p>
             <div class="row">
-              
-              <div class="col-md-4 col-md-offset-4">
-
-                <div class="snt-social-block center-block" style="width: 90px">
-                  <a href="https://www.instagram.com/struki84/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/struki84" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/šimun-strukan-91a68169/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                </div>
-                
+              <div class="col-md-2 col-md-offset-5 testimonial-mobile">
+				<div class="snt-social-block center-block" style="display: inline-flex; margin-left: -3rem; margin-top: 20px;">
+					<img src="<?php echo get_template_directory_uri().'/imgs/photo-loremka.png'?>" alt="">
+				<div style="margin-left:10px;">
+					<p class="name">Loremka Ipsumović</p>
+					<p class="position">CTO</p>
+				</div>
+			</div>
               </div>
-
             </div>
             
-          </div>
-        
-          <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" class="snt-team-pic center-block" alt="">
-            <h3>Gordon Cindric</h3>
-            <p>Lead Product Designer</p>
+		  </div>
+		  
+		  <!-- Previous/Next controls -->
+          <a class="left carousel-control" href="#portfolio-slider" role="button" data-slide="prev">
+            <img class="snt-carousel-control-icon snt-carousel-control-prev" src="<?php echo get_template_directory_uri().'/imgs/arrow-left-grey.png'?>" alt="">
+            <span class="sr-only">Previous</span>
+          </a>
+          
+          <a class="right carousel-control" href="#portfolio-slider" role="button" data-slide="next">
+              <img class="snt-carousel-control-icon snt-carousel-control-next" src="<?php echo get_template_directory_uri().'/imgs/arrow-right-grey.png'?>" alt="">
+            <span class="sr-only">Next</span>
+          </a>
 
-            <div class="row">
-              
-              <div class="col-md-4 col-md-offset-4">
-
-                <div class="snt-social-block center-block" style="width: 120px">
-                <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                </div>
-                
-              </div>
-              
-            </div>
-
-          </div>
+          <!-- Indicators -->
+          <ol class="carousel-indicators" style="bottom: -40px;">
+            <li data-target="#portfolio-slider" data-slide-to="0" class="active"></li>
+            <li data-target="#portfolio-slider" data-slide-to="1"></li>
+            <li data-target="#portfolio-slider" data-slide-to="2"></li>
+          </ol>
 
         </div>
-        <div class="row">
-        
-            <div class="col-md-4">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Zvonimir Tomesic</h3>
-              <p>Lead Software Developer</p>
-
-              <div class="row">
-              
-                <div class="col-md-4 col-md-offset-4">
-  
-                  <div class="snt-social-block center-block" style="width: 120px">
-                  <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                  </div>
-                  
-                </div>
-                
-              </div>
-              
-            </div>
-          
-            <div class="col-md-4">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_tpapic.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Tomislav Papic</h3>
-              <p>Senior Web Developer</p>
-
-              <div class="row">
-              
-                <div class="col-md-4 col-md-offset-4">
-  
-                  <div class="snt-social-block center-block" style="width: 120px">
-                  <a href="https://www.instagram.com/papictomislav/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/tomislav.t.papic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://hr.linkedin.com/in/tomislav-papi%C4%87-158276144" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                  <a href="https://twitter.com/tomislavpapic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                  </div>
-                  
-                </div>
-                
-              </div>
-
-            </div>
-          
-            <div class="col-md-4">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_tkozacinski.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Tomislav Kozacinski</h3>
-              <p>Proudct Designer</p>
-
-              <div class="row">
-              
-                <div class="col-md-4 col-md-offset-4">
-  
-                  <div class="snt-social-block center-block" style="width: 120px">
-                  <a href="https://www.instagram.com/universeceo/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/kozacinski" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/tomislav-kozacinski/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                  <a href="https://twitter.com/UniverseCEO" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                  </div>
-                  
-                </div>
-                
-              </div>
-
-            </div>
-  
-          </div>
-
-      </div>
 
     </div>
   </section>

@@ -1,4 +1,6 @@
-<?php get_header(); ?>
+<?php get_header(); 
+/*Template Name: Service */
+?>
 
 
 <section id="product-design" class="snt-services-page-section">
