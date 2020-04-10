@@ -42,7 +42,7 @@
 			  <p> contact@sintezis.co<br> +01234567890 </p>
 			</div>
 		  </div>
-		  </div>
+		</div>
 	  
 		<div class="col-md-4">
 		  <div class="row">
@@ -66,7 +66,7 @@
 
 <section class="text-center snt-contact-page-section">
 
-  <svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <svg class="locations" width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M137.369 146.768V143.658C137.369 142.774 138.086 142.058 138.969 142.058H142.08C142.963 142.058 143.68 142.774 143.68 143.658V146.768C143.68 147.651 142.963 148.368 142.08 148.368H138.969C138.086 148.368 137.369 147.653 137.369 146.768Z" fill="url(#paint0_diamond)"/>
 <path d="M169.303 154.678V151.568C169.303 150.685 170.02 149.968 170.903 149.968H174.013C174.896 149.968 175.613 150.685 175.613 151.568V154.678C175.613 155.561 174.896 156.278 174.013 156.278H170.903C170.02 156.278 169.303 155.563 169.303 154.678Z" fill="url(#paint1_diamond)"/>
 <path d="M145.279 146.768V143.658C145.279 142.774 145.996 142.058 146.879 142.058H150.282C151.166 142.058 151.882 142.774 151.882 143.658V146.768C151.882 147.651 151.166 148.368 150.282 148.368H146.879C145.996 148.368 145.279 147.653 145.279 146.768Z" fill="url(#paint2_diamond)"/>
@@ -15969,11 +15969,11 @@
 
 <section>
   <div class="row">
-<div class="text-center">
-<h3 class="yellow"> BRAND EVANGELISTS </h3>
-<h1 class="ambassador">Sintezis Ambassador</h1>
-</div>
-</div>
+		<div class="text-center brand-evangelists">
+			<h3 class="yellow"> BRAND EVANGELISTS </h3>
+			<h1 class="ambassador">Sintezis Ambassador</h1>
+		</div>
+  </div>
 
    <div class="row">
 	<div class="col-md-10 col-md-offset-1">
