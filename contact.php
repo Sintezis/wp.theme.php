@@ -7,7 +7,7 @@
 <section id="services" class="snt-contact-page-section">
   <div class="row">
 	<div class="col-md-6 col-md-offset-1">
-	  <h2>Contacts</h2>
+	  <h2 class="contacts-title">Contacts</h2>
 	</div>
   </div>
 
