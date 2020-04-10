@@ -15991,7 +15991,7 @@
 		  
 		  <div class="row">
 			<div class="text-center">
-			  <div class="snt-social-block center-block" style="width: 30%">
+			  <div class="snt-social-block center-block" style="width: 32%">
 				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
 				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
 				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
@@ -16015,7 +16015,7 @@
 			
 			<div class="text-center">
 
-			  <div class="snt-social-block center-block" style="width: 30%">
+			  <div class="snt-social-block center-block" style="width: 32%">
 			  <a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
 				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
 				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
@@ -16041,7 +16041,7 @@
 			
 			<div class="text-center">
 
-			  <div class="snt-social-block center-block" style="width: 30%">
+			  <div class="snt-social-block center-block" style="width: 32%">
 				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
 				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
 				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
@@ -16067,7 +16067,7 @@
 			
 			  <div class="text-center">
 
-				<div class="snt-social-block center-block" style="width: 30%">
+				<div class="snt-social-block center-block" style="width: 32%">
 				  <a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
 				  <a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
 				  <a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
@@ -16080,10 +16080,10 @@
 </section>
 
 <section class="text-center snt-contact-page-section">
-  <img class="ambassador-photo">
-    <div class="text-center" style="position:absolute; width:inherit;">
-      <h3 class="contact-h3">TAKE ACTION</h3>
-     <div class="ambassador-section">
+
+    <div class="text-center">
+     <div class="ambassador-photo">
+	 <h3 class="contact-h3">TAKE ACTION</h3>
       <h2 class="ambassador-h2">Interested in becoming a Sintezis Ambassador?</h2>
       <button class="ambassador-button"> APPLY NOW</button>
       </div>
