@@ -50,7 +50,7 @@
 			<div class="col-md-2">
 			  <img src="<?php echo get_template_directory_uri().'/imgs/Bern.png'?>"  alt="" class="ambassador-city-icons">
 			</div>
-			<div class="col-md-10 ambassador-city-columns">
+			<div id="bern" class="col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
 			  <h1>Bern</h1>
 			  <p>Address Line 1 <br> Bern, </br> Switzerland</p>

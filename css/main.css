@@ -254,6 +254,7 @@ section {
 @media (min-width: 0px) and (max-width: 320px){
 	.ambassador-city-icons {
 		padding-top: 0rem !important;
+		margin-left: -4rem !important;
 	}
 	.ambassador-city-columns {
 		float: right;
@@ -287,10 +288,16 @@ section {
 	h3.ambassador-name{
 		text-align: center !important;
 	}
-	.snt-contact-page-section .col-md-4 {
-		border-bottom: groove;
-		border-bottom-color: #FFC700;
+	div#dublin {
 		border-right: none !important;
+		margin-right: 3rem !important;
+	}
+	div#zagreb {
+		border-right: none !important;
+		margin-right: 3rem !important;
+	}
+	div#bern {
+		margin-right: 3rem !important;
 	}
 	.snt-footer-section .col-md-4 {
 		border: none;
@@ -298,18 +305,21 @@ section {
 	.ambassador-photo {
 		height: 472px !important;
 		left: 0px !important;
-		width: 108% !important;
+		width: 100% !important;
 		background-size: 120rem !important;
     	background-position-x: center !important;
 	}
 	.contact-h3 {
-		width: 109%;
+		width: 100%;
 		line-height: 130px !important;
+		margin-left: 0.5rem !important;
+		padding-bottom: 3rem;
+		margin-top: -56rem !important;
 	}
 	.snt-contact-page-section h2 {
 		font-size: 30px !important;
 		line-height: 30px !important;
-		width: 104% !important;
+		width: 100% !important;
 		margin-top: -8rem;
 	}
 	.ambassador-section {
@@ -324,7 +334,7 @@ section {
 	}
 	.ambassador-button {
 		margin-top: 4rem !important;
-		margin-left: 2rem;
+		margin-left: 0rem !important;
 	}
 	.snt-services-page-section .col-12 {
 		margin-bottom: 25rem !important;
@@ -1978,6 +1988,10 @@ h1 {
 	color: white
 }
 
+.snt-social-block.center-block {
+	display: inline-flex;
+}
+
 .ambassador {
 	font-family: Overpass;
 	font-style: normal;
@@ -1989,6 +2003,7 @@ h1 {
 
 .ambassador-city-icons {
 	padding-top: 3rem;
+	margin-left: -2rem;
 }
 
 .ambassador-block {
