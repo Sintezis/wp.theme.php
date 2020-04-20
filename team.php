@@ -2,6 +2,9 @@
 /*Template Name: Team */
 ?>
 
+<div class="container">
+	
+
 <div class="row">
 	    <div class="col-md-10 col-md-offset-1">
 	  
@@ -23,8 +26,10 @@
 	</div>
 </div>
 </div>
-
+</div>
 <section id="team" class="snt-team-section">
+	<div class="container">
+		
     <div class="row">
       <div class="col-md-12 col-md-offset-1">
         <h4 class="yellow">FACES BEHIND THE CODE</h4>
@@ -166,12 +171,14 @@
 
       </div>
 
+	</div>
     </div>
   </section>
 
   <section class="text-center snt-hire-section">
-
-    <div class="text-center" style="position:absolute; width:inherit;">
+	  <div class="container">
+		  
+    <div class="text-center">
       
      <div class="service-section">
         <img class="hire-photo">
@@ -180,12 +187,15 @@
         <p class="hire-p">Let us know!</p>
         <button class="snt-get-in-touch-btn"> GET IN TOUCH </button>
       </div>
-    </div>
+	  </div>
+	  </div>
+
 </section>
 
   <section id="career" class="snt-jobs-section">
+	  <div class="container">
     <div class="row">
-      <div class="col-md-12 col-md-offset-1">
+      <div id="hire" class="col-md-12 col-md-offset-1">
         <h4 class="yellow-hire">PASSION DRIVEN, HARD-WORKING, SMART</h4>
 		<h1 class="hire-h1">We're Hiring</h1>
 		<div class="col-md-6">
@@ -237,7 +247,8 @@
         </div>
 
       </div>
-      
+		  
+	  </div>
     </div>
 
   </section>

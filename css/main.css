@@ -2717,7 +2717,18 @@ h1 {
 	text-align: center;
 	letter-spacing: 8px;
 	color: #F0F2FE;
-	margin-top: -47rem;
+}
+
+div#dublin {
+	border-right: groove #FFC700;
+}
+
+div#zagreb {
+	border-right: groove #FFC700;
+}
+
+div#hire {
+	margin-top: 10rem;
 }
 
 .snt-contact-page-section h4 {
