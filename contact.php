@@ -21,7 +21,7 @@
 			<div class="col-md-2">
 			  <img src="<?php echo get_template_directory_uri().'/imgs/layer101.png'?>"  alt="" class="ambassador-city-icons">
 			</div>
-			<div class="col-md-10 ambassador-city-columns">
+			<div id="dublin" class="col-md-10 ambassador-city-columns">
 			  <h3>HEADQUARTERS</h3>
 			  <h1>Dublin </h1>
 			  <p>Ground floor 8-9, Marino Mart,<br>  Dublin 3, D03P590,</br> Ireland</p>
@@ -35,7 +35,7 @@
 			<div class="col-md-2">
 			  <img src="<?php echo get_template_directory_uri().'/imgs/Zagreb.png'?>"  alt="" class="ambassador-city-icons">
 			  </div>
-			<div class="col-md-10 ambassador-city-columns">
+			<div id="zagreb" class="col-md-10 ambassador-city-columns">
 			  <h3>OFFICE</h3>
 			  <h1>Zagreb</h1>
 			  <p>Address Line 1 <br> 10000 Zagreb, </br> Croatia</p>
