@@ -23,7 +23,7 @@
 			  <img src="<?php echo get_template_directory_uri().'/imgs/layer101.png'?>"  alt="" class="ambassador-city-icons">
 			</div>
 			<div id="dublin" class="col-md-10 ambassador-city-columns">
-			  <h3>HEADQUARTERS</h3>
+			  <h3 id="office">HEADQUARTERS</h3>
 			  <h1>Dublin </h1>
 			  <p>Ground floor 8-9, Marino Mart,<br>  Dublin 3, D03P590,</br> Ireland</p>
 			  <p> contact@sintezis.co<br> +35314311025 </p>
@@ -37,7 +37,7 @@
 			  <img src="<?php echo get_template_directory_uri().'/imgs/Zagreb.png'?>"  alt="" class="ambassador-city-icons">
 			  </div>
 			<div id="zagreb" class="col-md-10 ambassador-city-columns">
-			  <h3>OFFICE</h3>
+			  <h3 id="office">OFFICE</h3>
 			  <h1>Zagreb</h1>
 			  <p>Address Line 1 <br> 10000 Zagreb, </br> Croatia</p>
 			  <p> contact@sintezis.co<br> +01234567890 </p>
@@ -51,7 +51,7 @@
 			  <img src="<?php echo get_template_directory_uri().'/imgs/Bern.png'?>"  alt="" class="ambassador-city-icons">
 			</div>
 			<div class="col-md-10 ambassador-city-columns">
-			  <h3>OFFICE</h3>
+			  <h3 id="office">OFFICE</h3>
 			  <h1>Bern</h1>
 			  <p>Address Line 1 <br> Bern, </br> Switzerland</p>
 			  <p> contact@sintezis.co<br> +01234567890 </p>
