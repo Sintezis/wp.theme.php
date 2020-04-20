@@ -1,16 +1,17 @@
-
 <?php get_header();
 /*Template Name: Contact */
  ?>
 
 
 <section id="services" class="snt-contact-page-section">
+<div class="container">
   <div class="row">
 	<div class="col-md-6 col-md-offset-1">
 	  <h2 class="contacts-title">Contacts</h2>
 	</div>
   </div>
-
+  </div>
+<div class="container">
   <div class="row">
 	<div class="col-md-10 col-md-offset-1">
 	  
@@ -60,11 +61,12 @@
 		</div>
 
 	</div>
-
+</div>
   </div>
 </section>
 
 <section class="text-center snt-contact-page-section">
+<div class="container">
 
   <svg class="locations" width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M137.369 146.768V143.658C137.369 142.774 138.086 142.058 138.969 142.058H142.08C142.963 142.058 143.68 142.774 143.68 143.658V146.768C143.68 147.651 142.963 148.368 142.08 148.368H138.969C138.086 148.368 137.369 147.653 137.369 146.768Z" fill="url(#paint0_diamond)"/>
@@ -15964,17 +15966,21 @@
 </radialGradient>
 </defs>
 </svg>
+</div>
 </section>
 
 
 <section>
+<div class="container">
   <div class="row">
 		<div class="text-center brand-evangelists">
 			<h3 class="yellow"> BRAND EVANGELISTS </h3>
 			<h1 class="ambassador">Sintezis Ambassador</h1>
 		</div>
   </div>
+  </div>
 
+<div class="container">
    <div class="row">
 	<div class="col-md-10 col-md-offset-1">
 	  
@@ -16076,18 +16082,20 @@
 			  </div>
 		  </div>
 		  <p style="margin-top: 2rem; text-align:center;"> Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. </p>
-			  
+			  </div>
 </section>
 
 <section class="text-center snt-contact-page-section">
-
+<div class="container">
     <div class="text-center">
-     <div class="ambassador-photo">
+     <div class="ambassador-section">
+    <img class="ambassador-photo">
 	 <h3 class="contact-h3">TAKE ACTION</h3>
       <h2 class="ambassador-h2">Interested in becoming a Sintezis Ambassador?</h2>
       <button class="ambassador-button"> APPLY NOW</button>
       </div>
     </div>
+	</div>
 </section>
   
 <?php get_footer(); ?>
