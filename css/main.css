@@ -366,12 +366,6 @@ section {
 		text-align: center !important;
 		margin-left: 0rem !important;
 	}
-	.snt-services-page-section .col-md-4 {
-		display: inline-flex;
-		border-right: none !important;
-		border-bottom: groove #C319E1;
-		max-inline-size: min-content;
-	}
 	.thunder {
 		height: 17rem !important;
 		margin-bottom: -10rem;
@@ -474,9 +468,8 @@ section {
 		margin-top: -74rem !important;
 	}
 	.service-page-photo {
-		width: 100% !important;
-		position: inherit !important;
-		height: 700px !important;
+		padding-top: 70rem !important;
+		background-size: cover !important;
 	}
 	.service-h2 {
 		margin-top: 0rem !important;
@@ -613,6 +606,51 @@ section {
 	.hire-h1 {
 		margin-bottom: -170px !important;
 	}
+	div#product {
+		margin-bottom: 25px;
+		display: flex;
+	}
+	div#btn1 {
+		margin-left: 0rem !important;
+	}
+	div#btn2 {
+		margin-left: 0rem !important;
+	}
+	.service-travel-photo {
+		background: none !important;
+		width: 100% !important;
+	}
+	div#travel {
+		width: 100% !important;
+	}
+	div#finance {
+		width: 100% !important;
+		margin-left: 23rem;
+		margin-top: 100rem;
+		float: left !important;
+	}
+	.finance-photo {
+		background: none !important;
+		width: 100% !important;
+	}
+	.behaving-wealthy {
+		width: 110% !important;
+	}
+	.bitcoin {
+		width: 100% !important;
+		margin-top: 10rem;
+		margin-left: -31rem;
+	}
+	.travel-h1 {
+		width: auto !important;
+	}
+	div#footer {
+		margin-top: 210rem;
+	}
+	.border {
+		border-left: none !important;
+		border-top: groove #C319E1;
+	}
 }
 
 @media (min-width: 321px) and (max-width: 767px) { 
@@ -711,9 +749,6 @@ section {
 	.apple_store {
 		width: 100% !important;
 	}
-
-
-
 	.ambassador-button {
 		margin-left: 2rem;
 	}
@@ -826,11 +861,9 @@ section {
 		text-align: center !important;
 		margin-left: 0rem !important;
 	}
-	.snt-services-page-section .col-md-4 {
-		display: inline-flex;
-		border-right: none !important;
-		border-bottom: groove #C319E1;
-		max-inline-size: min-content;
+	.border {
+		border-left: none !important;
+		border-top: groove #C319E1;
 	}
 	.thunder {
 		height: 17rem !important;
@@ -914,19 +947,59 @@ section {
 		padding-bottom: 0rem !important;
 	}
 	.contact-service-h3 {
-		width: 100%;
 		line-height: 130px !important;
 		margin-top: -70rem !important;
+		padding-top: 0rem !important;
 	}
 	.service-page-photo {
-		width: 100% !important;
-		position: inherit !important;
-		height: 700px !important;
+		padding-top: 70rem !important;
+		background-size: cover !important;
 	}
 	.service-h2 {
 		margin-top: 0rem !important;
 		margin-bottom: 0rem !important;
 		width: auto !important;
+	}
+	div#product {
+		margin-bottom: 25px;
+		display: flex;
+	}
+	div#btn1 {
+		margin-left: 0rem !important;
+	}
+	div#btn2 {
+		margin-left: 0rem !important;
+	}
+	.service-travel-photo {
+		background: none !important;
+		width: 100% !important;
+	}
+	div#travel {
+		width: 100% !important;
+	}
+	div#finance {
+		width: 100% !important;
+		margin-left: 23rem;
+		margin-top: 100rem;
+		float: left !important;
+	}
+	.finance-photo {
+		background: none !important;
+		width: 100% !important;
+	}
+	.behaving-wealthy {
+		width: 100% !important;
+	}
+	.bitcoin {
+		width: 100% !important;
+		margin-top: 10rem;
+		margin-left: -31rem;
+	}
+	.travel-h1 {
+		width: auto !important;
+	}
+	div#footer {
+		margin-top: 210rem;
 	}
 	.product-h1 {
 		font-family: Overpass !important;
@@ -961,6 +1034,51 @@ section {
 }
 
 @media (min-width: 767px) and (max-width: 1023px) { 
+	div#product {
+		margin-bottom: 25px;
+		display: flex;
+	}
+	div#btn1 {
+		margin-left: 0rem !important;
+	}
+	div#btn2 {
+		margin-left: 0rem !important;
+	}
+	.service-travel-photo {
+		background: none !important;
+		width: 100% !important;
+	}
+	div#travel {
+		width: 100% !important;
+	}
+	div#finance {
+		width: 100% !important;
+		margin-left: 23rem;
+		margin-top: 100rem;
+		float: left !important;
+	}
+	.finance-photo {
+		background: none !important;
+		width: 100% !important;
+	}
+	.behaving-wealthy {
+		width: 110% !important;
+	}
+	.bitcoin {
+		width: 100% !important;
+		margin-top: 10rem;
+		margin-left: -31rem;
+	}
+	.travel-h1 {
+		width: auto !important;
+	}
+	div#footer {
+		margin-top: 0rem;
+	}
+	.border {
+		border-left: none !important;
+		border-top: groove #C319E1;
+	}
 	.snt-team-section .col-md-10.col-md-offset-1 {
 		float: unset !important;
 	}
@@ -1140,6 +1258,7 @@ section {
 		border: none;
 		display: block !important;
 		margin-right: 0rem !important;
+		margin-top: -23rem !important;
 	}
 	
 	.ambassador-photo {
@@ -1213,12 +1332,6 @@ section {
 		line-height: 21px !important;
 		text-align: center !important;
 		margin-left: 0rem !important;
-	}
-	.snt-services-page-section .col-md-4 {
-		display: inline-flex;
-		border-right: none !important;
-		border-bottom: groove #C319E1;
-		width: -webkit-fill-available;
 	}
 	.thunder {
 		height: 17rem !important;
@@ -1300,8 +1413,8 @@ section {
 		margin-bottom: -13rem;
 	}
 	.service-page-photo {
-		width: 99% !important;
-		position: inherit !important;
+		padding-top: 70rem !important;
+		background-size: cover !important;
 	}
 	.snt-services-page-section .contact-h3 {
 		margin-top: -45rem;
@@ -1337,6 +1450,56 @@ section {
 }
 
 @media (min-width: 1024px) and (max-width: 1025px) { 
+	div#product {
+		margin-bottom: 25px;
+		display: flex;
+	}
+	div#btn1 {
+		margin-left: 17rem !important;
+		margin-top: -29rem !important;
+	}
+	div#btn2 {
+		margin-left: 47rem !important;
+		margin-top: -29rem !important;
+	}
+	.service-travel-photo {
+		background: none !important;
+		width: 100% !important;
+	}
+	div#travel {
+		width: 100% !important;
+		margin-left: 5rem;
+	}
+	div#finance {
+		width: 100% !important;
+		margin-left: 28rem;
+		float: inherit;
+	}
+	.finance-photo {
+		background: none !important;
+		width: 100% !important;
+	}
+	.behaving-wealthy {
+		width: 110% !important;
+	}
+	.bitcoin {
+		width: 100% !important;
+		margin-top: 10rem;
+		margin-left: -31rem;
+	}
+	.travel-h1 {
+		width: auto !important;
+	}
+	div#footer {
+		margin-top: 0rem;
+	}
+	.border {
+		border-left: none !important;
+		border-top: groove #C319E1;
+	}
+	div#col-md-12 {
+		margin-top: -8rem !important;
+	}
 	.snt-team-section .col-md-10.col-md-offset-1 {
 		float: unset !important;
 	}
@@ -1421,12 +1584,12 @@ section {
 	}
 	.snt-jobs-section p{
 		font-family: Barlow;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 11px;
-    line-height: 22px;
-    color: #A6AAC8;
-    text-align: left;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		line-height: 22px;
+		color: #A6AAC8;
+		text-align: left;
 	}
 	.snt-testimonials-section h1 {
 		font-family: Overpass;
@@ -1612,9 +1775,6 @@ section {
 		margin-left: 0rem !important;
 	}
 	.snt-services-page-section .col-md-4 {
-		display: inline-flex;
-		border-right: none !important;
-		border-bottom: groove #C319E1;
 		width: 100%;
 	}
 	.snt-services-page-section .col-md-8 {
@@ -1968,7 +2128,6 @@ h1 {
 	border-radius: 4px;
 	color: white;
 	background: transparent url(../imgs/Rectangle\ 3.png);
-	margin-top: 8rem;
 }
 
 .travel-btn {
@@ -2042,7 +2201,7 @@ h1 {
     line-height: 54px !important;
     text-align: center;
     color: #FFFFFF;
-    width: 40%;
+    width: 60%;
 }
 
 .service-page-photo {
@@ -2050,7 +2209,7 @@ h1 {
     width: 100%;
 	padding-top: 55rem;
 	margin-top: 30rem;
-    background-size: cover;
+    background-size: contain;
 }
 
 .hire-photo {
@@ -2062,25 +2221,27 @@ h1 {
 }
 
 .service-travel-photo {
-	background: url(../imgs/Background\ Image.png) no-repeat;
-	position: absolute;
-    width: 100%;
+    background: url(../imgs/Background\ Image.png) no-repeat;
+    position: absolute;
+    width: 1440px;
     height: 1067px;
     left: 0px;
-    background-size: cover;
+    background-position: center;
+    background-size: contain;
 }
 
 .finance-photo {
-	background: url(../imgs/Mask.png) no-repeat;
-	position: absolute;
-    width: 100%;
+    background: url(../imgs/Mask.png) no-repeat;
+    position: absolute;
+    width: 1440px;
     height: 1067px;
-    left: 0px;
+    left: -240px;
     background-size: cover;
 }
 
 .finance {
-	float: right;
+    float: right;
+    margin-right: -10rem;
 }
 
 .amadeus-photo {
@@ -2161,7 +2322,7 @@ h1 {
 	flex: none;
 	order: 0;
 	align-self: center;
-	margin: 12px 0px;
+	margin: 14px 0px;
 	color: transparent;
 	background-position-y: center;
 	margin-top: auto;
@@ -2199,9 +2360,7 @@ h1 {
 }
 
 .snt-services-page-section .col-md-4 {
-    border-right: groove #C319E1;
     border-radius: 4px;
-    padding-bottom: 5rem;
 	margin-top: 0rem !important;
 }
 
@@ -3781,4 +3940,8 @@ cite {
 
 .service-btn {
 	margin-top: 5rem;
+}
+
+.border {
+    border-left: groove #C319E1;
 }
