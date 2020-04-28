@@ -11,7 +11,7 @@
 	</div>
   </div>
   </div>
-<div class="container">
+<div class="container" style="margin-top:100px;">
   <div class="row">
 	
 		<div class="col-sm-4 col-md-4 col-lg-4">
@@ -61,7 +61,7 @@
   </div>
 </section>
 
-<section class="text-center snt-contact-page-section">
+<section class="text-center snt-contact-page-section" style="margin-top:100px; margin-bottom: 100px;">
 <div class="container">
 
   <svg class="locations" width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -16081,7 +16081,7 @@
 			  </div>
 </section>
 
-<section class="text-center snt-contact-page-section">
+<section class="text-center snt-contact-page-section" style="margin-top:200px; margin-bottom:100px;">
 <div class="container">
     <div class="text-center">
      <div class="ambassador-section">
