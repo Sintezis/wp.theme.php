@@ -23,6 +23,10 @@ html, body, .snt-container {
 	display:         flex;
 }
 
+.ambassador-p {
+	text-align: center !important;
+}
+
 /* mobile */
 @media (max-width: 1365px) {
 
@@ -613,13 +617,10 @@ html, body, .snt-container {
 		margin-top: 10rem !important;
 	}
 	.partnership {
-		margin-left: 0rem !important;
+		padding-left: 0rem !important;
 	}
 	.quote-p {
 		margin-left: 6rem !important;
-	}
-	.testimonial-mobile {
-		text-align: -webkit-center;
 	}
 	.snt-pages-container {
 		display: none;
@@ -654,16 +655,19 @@ html, body, .snt-container {
 		margin-top: 0rem !important;
 	}
 	div#product-des {
-		margin-bottom: 25px;
+		padding-bottom: 0px !important;
 		display: flex;
+		border-right: none !important;
 	}
 	div#product-dev {
-		margin-bottom: 25px;
+		padding-bottom: 0px !important;
 		display: flex;
+		border-right: none !important;
 	}
 	div#consulting {
-		margin-bottom: 25px;
+		padding-bottom: 0px !important;
 		display: flex;
+		border-right: none !important;
 	}
 	div#btn1 {
 		margin-left: -1.5rem !important;
@@ -764,7 +768,7 @@ html, body, .snt-container {
 		margin-top: 10rem !important;
 	}
 	.partnership {
-		margin-left: 0rem !important;
+		padding-left: 0rem !important;
 	}
 	.quote-p {
 		margin-left: 6rem !important;
@@ -1093,16 +1097,19 @@ html, body, .snt-container {
 		width: auto !important;
 	}
 	div#product-dev {
-		margin-bottom: 25px;
+		padding-bottom: 0px !important;
 		display: flex;
+		border-right: none !important;
 	}
 	div#product-des {
-		margin-bottom: 25px;
+		padding-bottom: 0px !important;
 		display: flex;
+		border-right: none !important;
 	}
 	div#consulting {
-		margin-bottom: 25px;
+		padding-bottom: 0px !important;
 		display: flex;
+		border-right: none !important;
 	}
 	div#btn1 {
 		margin-left: 0rem !important;
@@ -1233,19 +1240,22 @@ html, body, .snt-container {
 		margin-right: -3rem !important;
 	}
 	div#product-dev {
-		margin-bottom: 25px;
+		padding-bottom: 0px !important;
 		display: flex;
-		width: 100% !important;
+		border-right: none !important;
+		width: 100%;
 	}
 	div#product-des {
-		margin-bottom: 25px;
+		padding-bottom: 0px !important;
 		display: flex;
-		width: 100% !important;
+		border-right: none !important;
+		width: 100%;
 	}
 	div#consulting {
-		margin-bottom: 25px;
+		padding-bottom: 0px !important;
 		display: flex;
-		width: 100% !important;
+		border-right: none !important;
+		width: 100%;
 	}
 	div#btn1 {
 		margin-left: 0rem !important;
@@ -1664,7 +1674,7 @@ html, body, .snt-container {
 		margin-left: 0rem !important;
 	}
 	.partnership {
-		margin-left: 0rem !important;
+		padding-left: 0rem !important;
 		text-align: center;
 	}
 	.testimonial-cyan {
@@ -2128,6 +2138,15 @@ html, body, .snt-container {
 		position: inherit !important;
 		width: 100% !important;
 		left: -200px !important;
+	}
+}
+
+@media (min-width: 1300px) and (max-width: 1400px) {
+	.row.service-travel-photo {
+		right: -128px !important;
+	}
+	.finance {
+		margin-right: -30rem !important;
 	}
 }
 

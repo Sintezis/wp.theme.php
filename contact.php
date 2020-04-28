@@ -15986,9 +15986,9 @@
 		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_31.png'?>" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Jennifer Doe Frankovic</h3>
 		  <div style="text-align-last:center;">
-			<p>San Francisco, CA, USA</p>
-			<p>+123456789</p>
-			<p>jennifer.d.frankovic@sintezis.co</p>
+			<p class="ambassador-p">San Francisco, CA, USA</p>
+			<p class="ambassador-p">+123456789</p>
+			<p class="ambassador-p">jennifer.d.frankovic@sintezis.co</p>
 		  </div>
 		  
 		  <div class="row">
@@ -16008,9 +16008,9 @@
 		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_32.png'?>" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Klaus Muller</h3>
 		  <div style="text-align-last:center;">
-			<p>Leipzig, DE</p>
-			<p>+123456789</p>
-			<p>k-muller@sintezis.co</p>
+			<p class="ambassador-p">Leipzig, DE</p>
+			<p class="ambassador-p">+123456789</p>
+			<p class="ambassador-p">k-muller@sintezis.co</p>
 		  </div>
 
 		  <div class="row">
@@ -16034,9 +16034,9 @@
 		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_29.png'?>" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Edith Piaf</h3>
 		  <div style="text-align-last:center;">
-			<p>London, UK</p>
-			<p>+123456789</p>
-			<p>edith.piaf@sintezis.co</p>
+			<p class="ambassador-p">London, UK</p>
+			<p class="ambassador-p">+123456789</p>
+			<p class="ambassador-p">edith.piaf@sintezis.co</p>
 		  </div>
 
 		  <div class="row">
@@ -16060,9 +16060,9 @@
 			<img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_30.png'?>" class="ambassador-block" alt="">
 			<h3 class="ambassador-name">Hrvoje Horvat</h3>
 			<div style="text-align-last:center;">
-			  <p>Pula, Croatia</p>
-			  <p>123456789</p>
-			  <p>hrvoje.horvat@sintezis.co</p>
+			  <p class="ambassador-p">Pula, Croatia</p>
+			  <p class="ambassador-p">123456789</p>
+			  <p class="ambassador-p">hrvoje.horvat@sintezis.co</p>
 			</div>
 
 			<div class="row">
