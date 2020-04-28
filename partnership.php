@@ -22,7 +22,7 @@
 </div>
 </section>
 
-<section id="partnership" class="snt-partnership-section">
+<section id="partnership" class="snt-partnership-section" style="margin-top:100px;">
 	<div class="container">
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-12 partnership-col">
@@ -67,7 +67,7 @@
 
 </section>
 
-<section>
+<section style="margin-top:100px;">
 	<div class="container">
 		
   	<div class="row">
@@ -183,7 +183,7 @@
 		  </div>
 </div></div></div></div></section>
 
-<section class="text-center snt-contact-page-section">
+<section class="text-center snt-contact-page-section" style="margin-top:200px; margin-bottom:200px;">
   <div class="container">
 		
     <div class="text-center">
@@ -295,7 +295,7 @@
     </div>
   </div></div></div></section>
 
-  <section id="product-design" class="snt-services-page-section">
+  <section id="product-design" class="snt-services-page-section" style="margin-top:100px;">
 <div class="container">
 		
   	<div class="row">
