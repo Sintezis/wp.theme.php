@@ -1,4 +1,5 @@
 <div class="snt-footer-section">
+<div class="container">
     <div class="row" style="padding-top: 43.5%">
       <div class="col-md-4">
         <div class="snt-address-container">
@@ -9,7 +10,7 @@
         </div>
       </div>
 
-      <div class="col-md-2" style="padding-top:6.5%;">
+      <div class="col-md-2" style="padding-top:2.5%;">
         <div class="snt-pages-container">
           <a href="/home"><u> Home </u></a>
           <a href="/aboutUs"><u> About Us </u></a>
@@ -19,7 +20,7 @@
         </div>
       </div>
 
-      <div class="col-md-2" style="padding-top:6.5%;">
+      <div class="col-md-2" style="padding-top:2.5%;">
         <div class="snt-pages-container">
           <a href="/home"><u> Products </u></a>
           <a href="/aboutUs"><u> Career </u></a>
@@ -39,9 +40,11 @@
         </div>
       </div>
     </div>
+    </div>
 
+<div class="container">
     <div class="row">
-      <div class="col-md-8" style="margin-left:5rem; margin-bottom:5rem;">
+      <div class="col-md-8" style="margin-right:8rem; margin-bottom:5rem;">
         <p class="snt-copyright">Copyright © 2020 Sintezis - All right reserved</p>
       </div>
       <div class="col-md-3">
@@ -49,6 +52,7 @@
         <a href="https://twitter.com/SintezisLtd" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>" class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
         <a href="https://www.instagram.com/sintezisco/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>" class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
       </div>
+    </div>
     </div>
 
   </div>

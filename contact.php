@@ -6,59 +6,55 @@
 <section id="services" class="snt-contact-page-section">
 <div class="container">
   <div class="row">
-	<div class="col-md-6 col-md-offset-1">
+	<div class="col-sm-12 col-md-12 col-lg-12">
 	  <h2 class="contacts-title">Contacts</h2>
 	</div>
   </div>
   </div>
 <div class="container">
   <div class="row">
-	<div class="col-md-10 col-md-offset-1">
-	  
-	  <div class="row">
-	  
-		<div class="col-md-4">
+	
+		<div class="col-sm-4 col-md-4 col-lg-4">
 		  <div class="row">
 			<div class="col-md-2">
-			  <img src="<?php echo get_template_directory_uri().'/imgs/layer101.png'?>"  alt="" class="ambassador-city-icons">
+			  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/layer101.png" alt="" class="ambassador-city-icons">
 			</div>
 			<div id="dublin" class="col-md-10 ambassador-city-columns">
 			  <h3 id="office">HEADQUARTERS</h3>
 			  <h1>Dublin </h1>
-			  <p>Ground floor 8-9, Marino Mart,<br>  Dublin 3, D03P590,</br> Ireland</p>
+			  <p>Ground floor 8-9, Marino Mart,<br>  Dublin 3, D03P590,<br> Ireland</p>
 			  <p> contact@sintezis.co<br> +35314311025 </p>
 			</div>
 		  </div>
 		</div>
 	  
-		<div class="col-md-4">
+		<div class="col-sm-4 col-md-4 col-lg-4">
 		  <div class="row">
 			<div class="col-md-2">
-			  <img src="<?php echo get_template_directory_uri().'/imgs/Zagreb.png'?>"  alt="" class="ambassador-city-icons">
+			  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Zagreb.png" alt="" class="ambassador-city-icons">
 			  </div>
 			<div id="zagreb" class="col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
 			  <h1>Zagreb</h1>
-			  <p>Address Line 1 <br> 10000 Zagreb, </br> Croatia</p>
+			  <p>Address Line 1 <br> 10000 Zagreb, <br> Croatia</p>
 			  <p> contact@sintezis.co<br> +01234567890 </p>
 			</div>
 		  </div>
 		</div>
 	  
-		<div class="col-md-4">
+		<div class="col-sm-4 col-md-4 col-lg-4">
 		  <div class="row">
 			<div class="col-md-2">
-			  <img src="<?php echo get_template_directory_uri().'/imgs/Bern.png'?>"  alt="" class="ambassador-city-icons">
+			  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Bern.png" alt="" class="ambassador-city-icons">
 			</div>
 			<div id="bern" class="col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
 			  <h1>Bern</h1>
-			  <p>Address Line 1 <br> Bern, </br> Switzerland</p>
+			  <p>Address Line 1 <br> Bern, <br> Switzerland</p>
 			  <p> contact@sintezis.co<br> +01234567890 </p>
 			</div>
 		  </div>
-		  </div>
-		</div>
+		
 
 	</div>
 </div>
@@ -15982,7 +15978,7 @@
 
 <div class="container">
    <div class="row">
-	<div class="col-md-10 col-md-offset-1">
+	<div class="col-sm-12 col-md-12 col-lg-12">
 	  
 	  <div class="row">
 	  
