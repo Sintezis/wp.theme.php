@@ -690,12 +690,10 @@ html, body, .snt-container {
 	}
 	div#finance {
 		width: 100% !important;
-		margin-top: 120rem;
 		float: left !important;
 	}
 	#finance {
 		width: 100% !important;
-		margin-top: 120rem;
 		float: left !important;
 	}
 	.finance-photo {
@@ -1121,7 +1119,6 @@ html, body, .snt-container {
 	}
 	div#travel {
 		width: 100% !important;
-		margin-top: 200px !important;
 		margin-left: 0rem !important;
 	}
 	.row.consulting-display {
@@ -1132,12 +1129,10 @@ html, body, .snt-container {
 	}
 	div#finance {
 		width: 100% !important;
-		margin-top: 50rem;
 		float: left !important;
 	}
 	#finance {
 		width: 100% !important;
-		margin-top: 50rem;
 		float: left !important;
 	}
 	.finance-photo {
@@ -1263,6 +1258,7 @@ html, body, .snt-container {
 		width: 100% !important;
 		position: inherit !important;
 		right: 0 !important;
+		height: 0 !important;
 	}
 	div#travel {
 		width: 100% !important;
@@ -1475,7 +1471,6 @@ html, body, .snt-container {
 	}
 	.snt-footer-section {
 		width: 100%;
-		margin-top: 80rem;
 	}
 	.snt-services-page-section .col-12 {
 		margin-bottom: 25rem !important;
@@ -1774,6 +1769,7 @@ html, body, .snt-container {
 		background: none !important;
 		width: 100% !important;
 		right: 0 !important;
+		height: 0 !important;
 	}
 	div#travel {
 		width: 100% !important;
@@ -1791,9 +1787,6 @@ html, body, .snt-container {
 		width: 100% !important;
 		position: initial;
 		margin-left: 24rem;
-	}
-	.behaving-wealthy {
-		width: 30% !important;
 	}
 	.bitcoin {
 		width: 100% !important;
@@ -1826,17 +1819,11 @@ html, body, .snt-container {
 	.snt-jobs-section .col-md-12.col-md-offset-1 {
 		width: 100%;
 	}
-	.snt-team-section .yellow {
-		text-align: left !important;
-	}
 	.partnership-h3 {
 		text-align: left !important;
 	}
 	.hire-h2 {
 		width: 80% !important;
-	}
-	.yellow-hire {
-		margin-top: 10rem !important; 
 	}
 	.col-md-10 .col-md-6 {
 		margin-top: 0rem !important;
@@ -1915,9 +1902,6 @@ html, body, .snt-container {
 	}
 	.snt-pages-container {
 		float: right !important;
-		margin-top: 50px !important;
-		margin-left: auto !important;
-		margin-right: 10rem !important;
 	}
 	.snt-contact-container {
   	  	float: right !important;
@@ -2143,6 +2127,7 @@ html, body, .snt-container {
 		background: none !important;
 		position: inherit !important;
 		width: 100% !important;
+		left: -200px !important;
 	}
 }
 
@@ -2198,8 +2183,6 @@ div#btn2 {
 
 .ambassador-section {
 	text-align: -webkit-center;
-    padding-top: 200px;
-    padding-bottom: 200px;
 }
 
 .partnership-h3 {
@@ -2466,7 +2449,6 @@ h1 {
 	background: url(../imgs/hire_background.png) no-repeat;
     width: 100%;
 	padding-top: 55rem;
-    margin-top: 30rem;
     background-size: cover;
 }
 
@@ -2713,13 +2695,13 @@ h1 {
 }
 
 .equity {
-	background: url(../imgs/equity.png) no-repeat;
+	background: url(../imgs/equity_active.png) no-repeat;
 	height: 5rem;
 	width: 4rem;
 	border: none;
 	inline-size: fit-content;
 	margin-top: 4rem;
-	color: white;
+	color: #26D0E5;
 	outline: none;
 }
 
@@ -3443,7 +3425,6 @@ h4 {
 }
 
 .snt-team-section h4 {
-	margin-top: 120px; 
 	margin-bottom: 10px;
 	text-align: left;
 }
@@ -4175,47 +4156,8 @@ cite {
 .border {
 	margin-left: 8rem;
 	width: 54%;
-	border-left: groove #C319E1;
 }
 
 .snt-cta-section .col-md-6.col-md-offset-3 {
     text-align: center;
-}
-
-@media (min-width: 0px) and (max-width: 5000px) {
-	.col-md-3 p {
-		text-align: center;
-	}
-	#product-development {
-		margin-top: 19rem;
-	}
-}
-
-@media (min-width: 1020px) and (max-width: 1400px) {
-	.pull-right{
-		display: none;
-	}
-	.service-travel-photo {
-		background: none;
-		position: initial;
-	}
-	.finance-photo {
-		background: none;
-		position: -webkit-sticky;
-	}
-	.finance {
-		float: left;
-	}
-	#software {
-		margin-left: 10rem;
-	}
-	#product-d {
-		margin-left: 10rem;		
-	}
-	#social {
-		margin-left: 10rem;		
-	}
-	#interim {
-		margin-left: 10rem;		
-	}
 }

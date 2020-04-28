@@ -19,7 +19,7 @@
 </div>
 </div>
 </div>
-<section id="team" class="snt-team-section">
+<section id="team" class="snt-team-section" style="margin-top:100px;">
 	<div class="container">
 		
     <div class="row">
@@ -122,7 +122,7 @@
     </div>
   </section>
 
-  <section class="text-center snt-hire-section">
+  <section class="text-center snt-hire-section" style="margin-top:200px; margin-bottom:200px;">
 	  <div class="container">
 		  
     <div class="text-center">

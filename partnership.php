@@ -387,8 +387,8 @@ function showInvesting() {
 	var c2 = document.getElementById("c2");
 	if (x.style.display === "none") {
 		x.style.display = "block";
-		c1.style.color = "";   
-		c1.style.background = "";
+		c1.style.color = "white";   
+		c1.style.background = "url(/wp-content/themes/wp.theme.php/imgs/equity.png) no-repeat";
 		c2.style.color = "#26D0E5";
 		c2.style.background = "url(/wp-content/themes/wp.theme.php/imgs/revenue_active.png) no-repeat";
 		y.style.display = "none";
