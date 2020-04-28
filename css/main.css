@@ -1745,17 +1745,17 @@ html, body, .snt-container {
 	div#product-des {
 		margin-bottom: 25px;
 		border-right: groove #C319E1;
-		padding-bottom: 110px;
+		padding-bottom: 110px !important;
 	}
 	div#product-dev {
 		margin-bottom: 25px;
 		border-right: groove #C319E1;
-		padding-bottom: 140px;
+		padding-bottom: 140px !important;
 	}
 	div#consulting {
 		margin-bottom: 25px;
 		border-right: groove #C319E1;
-		padding-bottom: 20px;
+		padding-bottom: 20px !important;
 	}
 	div#btn1 {
 		margin-left: 17rem !important;
@@ -2129,6 +2129,22 @@ html, body, .snt-container {
 		width: 100% !important;
 		left: -200px !important;
 	}
+}
+
+div#product-des {
+	margin-bottom: 25px;
+	border-right: groove #C319E1;
+	padding-bottom: 170px;
+}
+div#product-dev {
+	margin-bottom: 25px;
+	border-right: groove #C319E1;
+	padding-bottom: 160px;
+}
+div#consulting {
+	margin-bottom: 25px;
+	border-right: groove #C319E1;
+	padding-bottom: 20px;
 }
 
 

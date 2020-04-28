@@ -16,7 +16,7 @@
 	  
 	  <div class="row">
 	  
-		<div id="serv" class="col-md-4" style="border:none; background:none;">
+		<div id="serv" class="col-md-12" style="border:none; background:none;">
 		  <div class="row">
 			<div class="col-md-12">
 			  <h3 class="yellow">FLOW, FORM and function</h3>
@@ -110,7 +110,7 @@
 	  
 	  <div class="row">
 	  
-		<div id="serv" class="col-sm-4 col-md-4 col-lg-4"style="border:none; background:none;">
+		<div id="serv" class="col-sm-12"style="border:none; background:none;">
 		  <div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
 			  <h3 class="yellow">CODE THAT CRUNCHES THE DATA</h3>
@@ -202,7 +202,7 @@
 	  
 	  <div class="row">
 	  
-		<div id="serv" class="col-sm-4 col-md-4 col-lg-4"style="border:none; background:none;">
+		<div id="serv" class="col-sm-12"style="border:none; background:none;">
 		  <div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
 			  <h3 class="yellow">WE OFFER OUR KNOW - HOW</h3>

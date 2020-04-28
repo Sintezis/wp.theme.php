@@ -85,7 +85,7 @@
 	  <div class="row">
 	  
 		<div class="col-md-3">
-		  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Rectangle_31.png" class="ambassador-block" alt="">
+		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_31.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Jennifer Doe Frankovic</h3>
 		  <div style="text-align-last:center;">
 			<p>San Francisco, CA, USA</p>
@@ -96,9 +96,9 @@
 		  <div class="row">
 			<div class="text-center">
 			  <div style="width: 100%">
-				<a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				<a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				<a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
+				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
+				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
+				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
 			  </div>
 			</div>
 		  </div>
@@ -107,7 +107,7 @@
 		</div>
 	  
 		<div class="col-md-3">
-		  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Rectangle_32.png" class="ambassador-block" alt="">
+		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_32.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Klaus Muller</h3>
 		  <div style="text-align-last:center;">
 			<p>Leipzig, DE</p>
@@ -120,9 +120,9 @@
 			<div class="text-center">
 
 			  <div style="width: 100%">
-			  <a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				<a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				<a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
+			  <a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
+				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
+				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
 			  </div>
 			  
 			</div>
@@ -133,7 +133,7 @@
 		</div>
 	  
 		<div class="col-md-3">
-		  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Rectangle_29.png" class="ambassador-block" alt="">
+		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_29.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Edith Piaf</h3>
 		  <div style="text-align-last:center;">
 			<p>London, UK</p>
@@ -146,9 +146,9 @@
 			<div class="text-center">
 
 			  <div style="width: 100%">
-				<a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				<a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				<a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
+				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
+				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
+				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
 			  </div>
 			  
 			</div>
@@ -159,7 +159,7 @@
 		</div>
 	  
 		  <div class="col-md-3">
-			<img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Rectangle_30.png" class="ambassador-block" alt="">
+			<img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_30.png" class="ambassador-block" alt="">
 			<h3 class="ambassador-name">Hrvoje Horvat</h3>
 			<div style="text-align-last:center;">
 			  <p>Pula, Croatia</p>
@@ -172,9 +172,9 @@
 			  <div class="text-center">
 
 				<div style="width: 100%">
-				  <a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				  <a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				  <a target="_blank"><img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
+				  <a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
+				  <a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
+				  <a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
 				</div>
 				
 			  </div>
@@ -225,7 +225,7 @@
             <div class="row">
               <div class="col-md-4 testimonial-mobile">
 				<div class="snt-social-block center-block" style="display: inline-flex; margin-top: 20px;">
-					<img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/photo-silvije.png" alt="">
+					<img src="/wp-content/themes/wp.theme.php/imgs/photo-silvije.png" alt="">
 				<div style="margin-left:10px;">
 					<p class="name testimonial-cyan">Silvije S. Kranjčević</p>
 					<p class="position">CTO</p>
@@ -243,7 +243,7 @@
             <div class="row">
               <div class="col-md-4 testimonial-mobile">
 				<div class="snt-social-block center-block" style="display: inline-flex; margin-top: 20px;">
-					<img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/photo-someone.png" alt="">
+					<img src="/wp-content/themes/wp.theme.php/imgs/photo-someone.png" alt="">
 				<div style="margin-left:10px;">
 					<p class="name testimonial-cyan">Someone Elsić</p>
 					<p class="position">CTO</p>
@@ -261,7 +261,7 @@
             <div class="row">
               <div class="col-md-4 testimonial-mobile">
 				<div class="snt-social-block center-block" style="display: inline-flex; margin-top: 20px;">
-					<img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/photo-loremka.png" alt="">
+					<img src="/wp-content/themes/wp.theme.php/imgs/photo-loremka.png" alt="">
 				<div style="margin-left:10px;">
 					<p class="name testimonial-cyan">Loremka Ipsumović</p>
 					<p class="position">CTO</p>
@@ -274,12 +274,12 @@
 		  
 		  <!-- Previous/Next controls -->
           <a class="left carousel-control" href="#portfolio-slider" role="button" data-slide="prev">
-            <img class="snt-carousel-control-icon snt-carousel-control-prev" src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/arrow-left-grey.png" alt="">
+            <img class="snt-carousel-control-icon snt-carousel-control-prev" src="/wp-content/themes/wp.theme.php/imgs/arrow-left-grey.png" alt="">
             <span class="sr-only">Previous</span>
           </a>
           
           <a class="right carousel-control" href="#portfolio-slider" role="button" data-slide="next">
-              <img class="snt-carousel-control-icon snt-carousel-control-next" src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/arrow-right-grey.png" alt="">
+              <img class="snt-carousel-control-icon snt-carousel-control-next" src="/wp-content/themes/wp.theme.php/imgs/arrow-right-grey.png" alt="">
             <span class="sr-only">Next</span>
           </a>
 
