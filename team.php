@@ -8,9 +8,10 @@
 <div class="row">
 	    	  
 	  <div class="col-sm-12 col-md-12 col-lg-12">
-			  <h1 class="hero">Meet The Sintezis Team</h1>
+			  <h1 class="hero" style="margin-top: 100px; margin-bottom:100px;">Meet The Sintezis Team</h1>
 			</div>
 		 
+			<div class="container">
 	  <div class="col-sm-6 col-md-6 col-lg-6">
 		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
 	</div>
@@ -19,7 +20,8 @@
 </div>
 </div>
 </div>
-<section id="team" class="snt-team-section" style="margin-top:100px;">
+</div>
+<section id="team" class="snt-team-section" style="margin-top: 100px; margin-bottom:100px;">
 	<div class="container">
 		
     <div class="row">
@@ -34,7 +36,7 @@
         
         <div class="row">
         
-          <div class="col-md-4">
+          <div class="col-md-4 col-sm-4">
             <img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" class="snt-team-pic center-block" alt="">
             <h3>Domagoj Bagaric</h3>
             <p>CEO</p>
@@ -46,7 +48,7 @@
             
           </div>
         
-          <div class="col-md-4">
+          <div class="col-md-4 col-sm-4">
             <img src="<?php echo get_template_directory_uri().'/imgs/photo_sstrukan.png'?>" class="snt-team-pic center-block" alt="">
             <h3>Simun Strukan</h3>
             <p>CTO</p>
@@ -58,7 +60,7 @@
             
           </div>
         
-          <div class="col-md-4">
+          <div class="col-md-4 col-sm-4">
             <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" class="snt-team-pic center-block" alt="">
             <h3>Gordon Cindric</h3>
             <p>Lead Product Designer</p>
@@ -74,7 +76,7 @@
         </div>
         <div class="row">
         
-            <div class="col-md-4">
+            <div class="col-md-4 col-sm-4">
 				<div class="text-center">
               <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="snt-team-pic center-block" alt="">
               <h3>Zvonimir Tomesic</h3>
@@ -87,7 +89,7 @@
               
             </div>
           
-            <div class="col-md-4">
+            <div class="col-md-4 col-sm-4">
               <img src="<?php echo get_template_directory_uri().'/imgs/photo_medak.png'?>" class="snt-team-pic center-block" alt="">
               <h3>Hrvoje Medak</h3>
               <p>Junior Web Developer</p>
@@ -99,7 +101,7 @@
 
             </div>
           
-            <div class="col-md-4">
+            <div class="col-md-4 col-sm-4">
 				<div class="text-center">
 		
               <img src="<?php echo get_template_directory_uri().'/imgs/photo_tkozacinski.png'?>" class="snt-team-pic center-block" alt="">
@@ -122,7 +124,7 @@
     </div>
   </section>
 
-  <section class="text-center snt-hire-section" style="margin-top:200px; margin-bottom:200px;">
+  <section class="text-center snt-hire-section" style="margin-top: 100px; margin-bottom:200px;">
 	  <div class="container">
 		  
     <div class="text-center">
@@ -152,7 +154,7 @@
     </div>
 
     <div class="row">
-      <div class="col-sm-12 col-md-6 col-lg-6 col-md-offset-3">
+      <div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
 
         <div class="row">
           <div class="col-lg-6"> 

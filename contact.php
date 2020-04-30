@@ -7,11 +7,11 @@
 <div class="container">
   <div class="row">
 	<div class="col-sm-12 col-md-12 col-lg-12">
-	  <h2 class="contacts-title">Contacts</h2>
+	  <h1 class="hero" style="margin-top:100px; margin-bottom:100px;">Contacts</h1>
 	</div>
   </div>
   </div>
-<div class="container" style="margin-top:100px;">
+<div class="container">
   <div class="row">
 	
 		<div class="col-sm-4 col-md-4 col-lg-4">
@@ -61,7 +61,7 @@
   </div>
 </section>
 
-<section class="text-center snt-contact-page-section" style="margin-top:100px; margin-bottom: 100px;">
+<section class="text-center snt-contact-page-section" style="margin-top:100px; margin-bottom:100px;">
 <div class="container">
 
   <svg class="locations" width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -15982,106 +15982,99 @@
 	  
 	  <div class="row">
 	  
-		<div class="col-md-3">
+		<div class="col-md-3 col-sm-6">
 		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_31.png'?>" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Jennifer Doe Frankovic</h3>
 		  <div style="text-align-last:center;">
-			<p class="ambassador-p">San Francisco, CA, USA</p>
-			<p class="ambassador-p">+123456789</p>
-			<p class="ambassador-p">jennifer.d.frankovic@sintezis.co</p>
+			<p>San Francisco, CA, USA</p>
+			<p>+123456789</p>
+			<p>jennifer.d.frankovic@sintezis.co</p>
 		  </div>
 		  
 		  <div class="row">
-			<div class="text-center">
-			  <div class="snt-social-block center-block" style="width: 32%">
-				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+			<div class="text-center" style="margin-bottom:100px;">
+			  <div style="width: 100%">
+				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
 			  </div>
 			</div>
-		  </div>
-		  <p style="margin-top: 2rem; text-align:center;"> Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. </p>
-		   
+		  </div>		   
 		</div>
 	  
-		<div class="col-md-3">
+		<div class="col-md-3 col-sm-6">
 		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_32.png'?>" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Klaus Muller</h3>
 		  <div style="text-align-last:center;">
-			<p class="ambassador-p">Leipzig, DE</p>
-			<p class="ambassador-p">+123456789</p>
-			<p class="ambassador-p">k-muller@sintezis.co</p>
+			<p>Leipzig, DE</p>
+			<p>+123456789</p>
+			<p>k-muller@sintezis.co</p>
 		  </div>
 
 		  <div class="row">
 			
-			<div class="text-center">
+			<div class="text-center" style="margin-bottom:100px;">
 
-			  <div class="snt-social-block center-block" style="width: 32%">
-			  <a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+			  <div style="width: 100%">
+			  <a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
 			  </div>
 			  
 			</div>
 
-		  </div>
-		  <p style="margin-top: 2rem; text-align:center;"> Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. </p>
-		   
+		  </div>		   
 		</div>
 	  
-		<div class="col-md-3">
+		<div class="col-md-3 col-sm-6">
 		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_29.png'?>" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Edith Piaf</h3>
 		  <div style="text-align-last:center;">
-			<p class="ambassador-p">London, UK</p>
-			<p class="ambassador-p">+123456789</p>
-			<p class="ambassador-p">edith.piaf@sintezis.co</p>
+			<p>London, UK</p>
+			<p>+123456789</p>
+			<p>edith.piaf@sintezis.co</p>
 		  </div>
 
 		  <div class="row">
 			
-			<div class="text-center">
+			<div class="text-center" style="margin-bottom:100px;">
 
-			  <div class="snt-social-block center-block" style="width: 32%">
-				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-				<a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+			  <div style="width: 100%">
+				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
 			  </div>
 			  
 			</div>
 			
-		  </div>
-		  <p style="margin-top: 2rem; text-align:center;"> Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. </p>
-		   
+		  </div>		   
 		</div>
 	  
-		  <div class="col-md-3">
+		  <div class="col-md-3 col-sm-6">
 			<img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_30.png'?>" class="ambassador-block" alt="">
 			<h3 class="ambassador-name">Hrvoje Horvat</h3>
 			<div style="text-align-last:center;">
-			  <p class="ambassador-p">Pula, Croatia</p>
-			  <p class="ambassador-p">123456789</p>
-			  <p class="ambassador-p">hrvoje.horvat@sintezis.co</p>
+			  <p>Pula, Croatia</p>
+			  <p>123456789</p>
+			  <p>hrvoje.horvat@sintezis.co</p>
 			</div>
 
 			<div class="row">
 			
 			  <div class="text-center">
 
-				<div class="snt-social-block center-block" style="width: 32%">
-				  <a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-				  <a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-				  <a target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+				<div style="width: 100%">
+				  <a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+				  <a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+				  <a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
 				</div>
 				
 			  </div>
 		  </div>
-		  <p style="margin-top: 2rem; text-align:center;"> Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. </p>
 			  </div>
 </section>
 
-<section class="text-center snt-contact-page-section" style="margin-top:200px; margin-bottom:100px;">
+<section class="text-center snt-contact-page-section" style="margin-top: 100px; margin-bottom:200px;">
 <div class="container">
     <div class="text-center">
      <div class="ambassador-section">

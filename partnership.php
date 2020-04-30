@@ -6,59 +6,63 @@
 <div class="container">
 <div class="row">
 	    	  
-	  		<div class="col-sm-12 col-md-12 col-lg-12" style="border:none; background:none;">
+	  		<div class="col-sm-12 col-md-12 col-lg-12" style="border:none; background:none; margin-top: 100px; margin-bottom: 100px;">
 
 			  <h1 class="hero">Partner-up With Sintezis</h1>
 			</div>
 		 
+		 <div class="container">
 	  <div class="col-sm-6 col-md-6 col-lg-6">
 		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
 	</div>
 	<div class="col-sm-6 col-md-6 col-lg-6">
 		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
 	</div>
+	</div>
 
 </div>
 </div>
 </section>
 
-<section id="partnership" class="snt-partnership-section" style="margin-top:100px;">
+<section id="partnership" class="snt-partnership-section">
 	<div class="container">
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-12 partnership-col">
         <h4 class="partnership-yellow">EARN WITH SINTEZIS</h4>
-        <h1 class="partnership-h1">Brand Ambassador Programme</h1>
+        <h1 class="partnership-h1" style="margin-bottom: 100px;">Brand Ambassador Programme</h1>
       </div>
     </div>
 
+	<div class="container">
     <div class="col-sm-12 col-md-12 col-sm-12 partnership">
         <p class="quote">If opportunity doesn’t knock, build a door.</p>
         <p class="quote-p">- Milton Berle</p>
 	</div>
+	</div>
 
-	<div class="col-sm-12 col-md-6 col-lg-6 col-md-offset-3">
-		<h2 class="introduction">Introduction</h2>
+	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
+		<h2 class="introduction" style="margin-top:75px;">Introduction</h2>
 		<p class="introduction-p"> <b>Sintezis Startup Studio Limited</b> is product development &amp; design studio founded by IT experts, located between Bern, Dublin, London and Zagreb specialised in solving problems by building first class digital products. </p>
 		<p class="introduction-p">Our clients are startups that need to transform their ideas into objects of reality (MVP, be it iOS, Android or web application). First step in our mutual cooperation is to discover each other. This is where our Brand Ambassadors come into play. We offer simple, transparent &amp; lucrative way for any lead generation.</p>
 	</div>
 
-	<div class="col-sm-12 col-md-6 col-lg-6 col-md-offset-3">
-		<h2 class="introduction">Brand Ambassadors</h2>
+	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
+		<h2 class="introduction" style="margin-top:63px;">Brand Ambassadors</h2>
 		<h3 class="partnership-h3">Who can be a Sintezis Ambassador?</h3>
 		<p class="introduction-p">Anyone, meeting a small set of required skill/affinities, can be our Brand Ambassador. Anyone with some soft skills, savoir faire, basic understanding about software development (we provide step-by-step instructions about our SW development process, so no worries here), knowledge of Startup scene,..</p>
 	</div>
 
-	<div class="col-sm-12 col-md-6 col-lg-6 col-md-offset-3">
+	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
 		<h3 class="partnership-h3">Benefits and opportunities</h3>
 		<p class="introduction-p">We offer various levels of compensation (reimbursement for organising meetups, giving talks, etc), but our tour de force is 10% commission fee for the project that Brand Ambassador brings onboard. Another option is to uplift our initial offer, and keep the difference.</p>
 	</div>
 
-	<div class="col-sm-12 col-md-6 col-lg-6 col-md-offset-3">
+	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
 		<h3 class="partnership-h3">How to join?</h3>
 		<p class="introduction-p">Simply send us an email to dom@sintezis.co with some basic details (link to your web page, LinkedIn profile, etc), and we’ll take it from there.</p>
 	</div>
 
-	<div class="col-sm-12 col-md-6 col-lg-6 col-md-offset-3">
+	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
 		<h3 class="partnership-h3">Training?</h3>
 		<p class="introduction-p">We will showcase you our approach to Sales, from initial contact, discussing about the scope of the project, basic project development methodologies (design sprints, product development, agile), technology stack, tools, etc, to our prices (per day, project, etc).</p>
 		<p class="introduction-p"> We also provide pitch decks, company brief, templates (email, word, excel, etc), case studies, etc. Or if there is a special need, we can always create bespoke materials.</p>
@@ -67,13 +71,13 @@
 
 </section>
 
-<section style="margin-top:100px;">
+<section>
 	<div class="container">
 		
   	<div class="row">
 		<div class="col-sm-12 col-md-12 col-lg-12 partnership-col brand">
-		<h3 class="yellow" style="text-align:left"> BRAND EVANGELISTS </h3>
-		<h1 class="ambassador">Sintezis Ambassador</h1>
+		<h3 class="yellow" style="text-align:left; margin-top: 100px;"> BRAND EVANGELISTS </h3>
+		<h1 class="ambassador" style="margin-bottom:60px;">Sintezis Ambassador</h1>
 		</div>
 	</div>
 	</div>
@@ -88,83 +92,77 @@
 		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_31.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Jennifer Doe Frankovic</h3>
 		  <div style="text-align-last:center;">
-			<p class="ambassador-p">San Francisco, CA, USA</p>
-			<p class="ambassador-p">+123456789</p>
-			<p class="ambassador-p">jennifer.d.frankovic@sintezis.co</p>
+			<p>San Francisco, CA, USA</p>
+			<p>+123456789</p>
+			<p><u>jennifer.d.frankovic@sintezis.co</u></p>
 		  </div>
 		  
 		  <div class="row">
-			<div class="text-center">
+			<div class="text-center" style="margin-bottom:100px;">
 			  <div style="width: 100%">
-				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
 			  </div>
 			</div>
-		  </div>
-		  <p style="margin-top: 2rem; text-align:center;"> Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. </p>
-		   
+		  </div>		   
 		</div>
 	  
 		<div class="col-md-3">
 		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_32.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Klaus Muller</h3>
 		  <div style="text-align-last:center;">
-			<p class="ambassador-p">Leipzig, DE</p>
-			<p class="ambassador-p">+123456789</p>
-			<p class="ambassador-p">k-muller@sintezis.co</p>
+			<p>Leipzig, DE</p>
+			<p>+123456789</p>
+			<p><u>k-muller@sintezis.co</u></p>
 		  </div>
 
 		  <div class="row">
 			
-			<div class="text-center">
+			<div class="text-center" style="margin-bottom:100px;">
 
 			  <div style="width: 100%">
-			  <a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
+			  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
 			  </div>
 			  
 			</div>
 
-		  </div>
-		  <p style="margin-top: 2rem; text-align:center;"> Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. </p>
-		   
+		  </div>		   
 		</div>
 	  
 		<div class="col-md-3">
 		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_29.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Edith Piaf</h3>
 		  <div style="text-align-last:center;">
-			<p class="ambassador-p">London, UK</p>
-			<p class="ambassador-p">+123456789</p>
-			<p class="ambassador-p">edith.piaf@sintezis.co</p>
+			<p>London, UK</p>
+			<p>+123456789</p>
+			<p><u>edith.piaf@sintezis.co</u></p>
 		  </div>
 
 		  <div class="row">
 			
-			<div class="text-center">
+			<div class="text-center" style="margin-bottom:100px;">
 
 			  <div style="width: 100%">
-				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				<a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
 			  </div>
 			  
 			</div>
 			
-		  </div>
-		  <p style="margin-top: 2rem; text-align:center;"> Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. </p>
-		   
+		  </div>		   
 		</div>
 	  
 		  <div class="col-md-3">
 			<img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_30.png" class="ambassador-block" alt="">
 			<h3 class="ambassador-name">Hrvoje Horvat</h3>
 			<div style="text-align-last:center;">
-			  <p class="ambassador-p">Pula, Croatia</p>
-			  <p class="ambassador-p">123456789</p>
-			  <p class="ambassador-p">hrvoje.horvat@sintezis.co</p>
+			  <p>Pula, Croatia</p>
+			  <p>123456789</p>
+			  <p><u>hrvoje.horvat@sintezis.co</u></p>
 			</div>
 
 			<div class="row">
@@ -172,18 +170,17 @@
 			  <div class="text-center">
 
 				<div style="width: 100%">
-				  <a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				  <a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				  <a target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
+				  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
+				  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
+				  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
 				</div>
 				
 			  </div>
 		  </div>
-		  <p style="margin-top: 2rem; text-align:center;"> Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. </p>
 		  </div>
 </div></div></div></div></section>
 
-<section class="text-center snt-contact-page-section" style="margin-top:200px; margin-bottom:200px;">
+<section class="text-center snt-contact-page-section" style="margin-top:200px; margin-bottom: 200px;">
   <div class="container">
 		
     <div class="text-center">
@@ -204,7 +201,7 @@
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-12 partnership-col">
         <h4 class="testimonial-cyan">OUR PARTNERS ABOUT US</h4>
-        <h1 class="testimonial-cyan-h1">What Our Partners Say</h1>
+        <h1 class="testimonial-cyan-h1" style="margin-bottom:60px;">What Our Partners Say</h1>
       </div>
     </div>
 
@@ -218,7 +215,7 @@
         
         <div class="row">
         
-          <div class="col-md-4">
+          <div class="col-md-3 col-md-offset-1">
             <p class="punctuation-up center-block"></p>
             <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
             <p class="punctuation-down center-block"></p>
@@ -227,7 +224,7 @@
 				<div class="snt-social-block center-block" style="display: inline-flex; margin-top: 20px;">
 					<img src="/wp-content/themes/wp.theme.php/imgs/photo-silvije.png" alt="">
 				<div style="margin-left:10px;">
-					<p class="name testimonial-cyan">Silvije S. Kranjčević</p>
+					<p class="name-test testimonial-cyan">Silvije S. Kranjčević</p>
 					<p class="position">CTO</p>
 				</div>
 			</div>
@@ -236,7 +233,7 @@
             
           </div>
         
-		  <div class="col-md-4">
+		  <div class="col-md-3">
             <p class="punctuation-up center-block"></p>
             <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
             <p class="punctuation-down center-block"></p>
@@ -245,7 +242,7 @@
 				<div class="snt-social-block center-block" style="display: inline-flex; margin-top: 20px;">
 					<img src="/wp-content/themes/wp.theme.php/imgs/photo-someone.png" alt="">
 				<div style="margin-left:10px;">
-					<p class="name testimonial-cyan">Someone Elsić</p>
+					<p class="name-test testimonial-cyan">Someone Elsić</p>
 					<p class="position">CTO</p>
 				</div>
 			</div>
@@ -254,7 +251,7 @@
             
           </div>
         
-          <div class="col-md-4">
+          <div class="col-md-3">
             <p class="punctuation-up center-block"></p>
             <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
             <p class="punctuation-down center-block"></p>
@@ -263,7 +260,7 @@
 				<div class="snt-social-block center-block" style="display: inline-flex; margin-top: 20px;">
 					<img src="/wp-content/themes/wp.theme.php/imgs/photo-loremka.png" alt="">
 				<div style="margin-left:10px;">
-					<p class="name testimonial-cyan">Loremka Ipsumović</p>
+					<p class="name-test testimonial-cyan">Loremka Ipsumović</p>
 					<p class="position">CTO</p>
 				</div>
 			</div>
@@ -307,7 +304,7 @@
 		  <div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
 			  <h4 class="testimonial-cyan">BUT WAIT - THERE'S MORE</h4>
-			  <h1 class="product-h1">Other Partnership Models</h1>
+			  <h1 class="product-h1" style="margin-bottom:60px;">Other Partnership Models</h1>
 			</div>
 		  </div>
 		</div>
@@ -328,14 +325,14 @@
 			</div>
 		</div>
 		<div class="col-md-8 partner-model" id="equity">
-			<div class="col-md-12">
+			<div class="col-md-10">
 				<h2>EQUITY SHARING</h2>
 				<p>Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
 				<button style="margin-top:5rem;" class="snt-btn"> FIND OUT MORE</button>
-				<svg width="501" height="500" viewBox="0 0 501 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -45rem; margin-left: 20rem;">
+				<svg width="501" height="500" viewBox="0 0 501 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -35rem; margin-left: 30rem;">
 				<g opacity="0.05">
 				<rect x="0.75" width="500" height="500" fill="black" fill-opacity="0.25"></rect>
-				<path fill-rule="evenodd" clip-rule="evenodd" d="M256.48 194.652C267.216 192.473 275.672 184.016 277.852 173.28H283.88H349.64C352.666 173.28 355.12 170.827 355.12 167.8C355.12 164.774 352.666 162.32 349.64 162.32H283.88H277.852C275.313 149.813 264.256 140.4 251 140.4C237.744 140.4 226.687 149.813 224.148 162.32H152.36C149.333 162.32 146.88 164.774 146.88 167.8C146.88 170.827 149.333 173.28 152.36 173.28H224.148C226.327 184.016 234.784 192.473 245.52 194.652L245.52 343.16H190.72C187.693 343.16 185.24 345.614 185.24 348.64C185.24 351.667 187.693 354.12 190.72 354.12H311.28C314.306 354.12 316.76 351.667 316.76 348.64C316.76 345.614 314.306 343.16 311.28 343.16H256.48L256.48 194.652ZM251 184.24C258.158 184.24 264.248 179.665 266.504 173.28C267.11 171.566 267.44 169.722 267.44 167.8C267.44 158.72 260.079 151.36 251 151.36C241.92 151.36 234.56 158.72 234.56 167.8C234.56 169.722 234.89 171.566 235.495 173.28C237.752 179.665 243.842 184.24 251 184.24Z" fill="white"></path>
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M256.48 194.652C267.216 192.473 275.672 184.016 277.852 173.28H283.88H349.64C352.666 173.28 355.10 170.827 355.12 167.8C355.12 164.774 352.666 162.32 349.64 162.32H283.88H277.852C275.313 149.813 264.256 140.4 251 140.4C237.744 140.4 226.687 149.813 224.148 162.32H152.36C149.333 162.32 146.88 164.774 146.88 167.8C146.88 170.827 149.333 173.28 152.36 173.28H224.148C226.327 184.016 234.784 192.473 245.52 194.652L245.52 343.16H190.72C187.693 343.16 185.24 345.614 185.24 348.64C185.24 351.667 187.693 354.12 190.72 354.12H311.28C314.306 354.12 316.76 351.667 316.76 348.64C316.76 345.614 314.306 343.16 311.28 343.16H256.48L256.48 194.652ZM251 184.24C258.158 184.24 264.248 179.665 266.504 173.28C267.11 171.566 267.44 169.722 267.44 167.8C267.44 158.72 260.079 151.36 251 151.36C241.92 151.36 234.56 158.72 234.56 167.8C234.56 169.722 234.89 171.566 235.495 173.28C237.752 179.665 243.842 184.24 251 184.24Z" fill="white"></path>
 				<path fill-rule="evenodd" clip-rule="evenodd" d="M198.351 286.035C198.381 285.997 198.413 285.959 198.446 285.922L198.6 285.749C199.575 284.65 200.114 283.233 200.114 281.764V274.266C200.114 273.396 199.925 272.537 199.56 271.748L165.78 198.682C164.798 196.559 162.672 195.2 160.334 195.2H153.781C151.442 195.2 149.316 196.559 148.335 198.682L114.554 271.748C114.189 272.537 114 273.396 114 274.266V282.54C114 283.895 114.501 285.203 115.407 286.211L115.408 286.211C120.683 292.075 127.085 296.753 134.209 299.951C141.333 303.15 149.025 304.8 156.8 304.8H156.999C164.795 304.772 172.502 303.085 179.631 299.843C186.732 296.615 193.106 291.914 198.351 286.035ZM189.537 278.83C189.539 279.434 189.304 280.014 188.883 280.443C180.424 289.07 168.961 293.914 157.009 293.897H156.572C144.891 293.914 133.667 289.285 125.263 281C125.244 280.982 125.226 280.964 125.208 280.946L125.198 280.935C124.71 280.436 124.496 279.766 124.557 279.118V275.928C124.557 275.595 124.629 275.266 124.769 274.964L154.988 209.609C155.36 208.805 156.161 208.29 157.042 208.29C157.923 208.29 158.724 208.805 159.096 209.609L189.315 274.964C189.454 275.263 189.526 275.59 189.527 275.92L189.537 278.83Z" fill="white"></path>
 				<path fill-rule="evenodd" clip-rule="evenodd" d="M384.672 286.035C384.702 285.997 384.733 285.959 384.766 285.922L384.92 285.749C385.896 284.65 386.435 283.233 386.435 281.764V274.266C386.435 273.396 386.246 272.537 385.881 271.748L352.1 198.682C351.118 196.559 348.993 195.2 346.654 195.2H340.101C337.762 195.2 335.636 196.559 334.655 198.682L300.874 271.748C300.509 272.537 300.32 273.396 300.32 274.266V282.54C300.32 283.895 300.822 285.203 301.728 286.211L301.728 286.211C307.004 292.075 313.406 296.753 320.529 299.951C327.653 303.15 335.345 304.8 343.121 304.8H343.319C351.116 304.772 358.822 303.085 365.951 299.843C373.052 296.615 379.426 291.914 384.672 286.035ZM375.857 278.83C375.86 279.434 375.624 280.014 375.203 280.443C366.744 289.07 355.282 293.914 343.329 293.897H342.892C331.211 293.914 319.988 289.285 311.583 281C311.565 280.982 311.546 280.964 311.528 280.946L311.518 280.935C311.03 280.436 310.817 279.766 310.877 279.118V275.928C310.877 275.595 310.95 275.266 311.089 274.964L341.308 209.609C341.68 208.805 342.481 208.29 343.362 208.29C344.243 208.29 345.044 208.805 345.417 209.609L375.635 274.964C375.774 275.263 375.846 275.59 375.847 275.92L375.857 278.83Z" fill="white"></path>
 				</g>
@@ -343,11 +340,11 @@
 			</div>
 		</div>
 		<div class="col-md-8 partner-model" id="investing" style="display:none;">
-			<div class="col-md-12">
+			<div class="col-md-10">
 				<h2>INVESTING</h2>
 				<p>Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
 				<button style="margin-top:5rem;" class="snt-btn"> FIND OUT MORE</button>
-				<svg width="501" height="500" viewBox="0 0 501 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -45rem; margin-left: 20rem;">
+				<svg width="501" height="500" viewBox="0 0 501 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -35rem; margin-left: 30rem;">
 				<g opacity="0.05">
 				<rect x="0.75" width="500" height="500" fill="black" fill-opacity="0.25"></rect>
 				<path d="M349.416 275.402L349.418 275.401C363.558 271.594 377.976 279.75 382.603 293.625C384.779 300.972 383.963 308.589 380.426 315.117C376.891 321.643 370.909 326.267 363.836 328.171L363.833 328.172L292.319 348.722L292.319 348.722L275.331 353.654L275.329 353.654C267.129 356.114 258.655 357.208 250.452 357.208C236.51 357.208 222.567 353.927 209.993 347.367L209.99 347.365L203.414 344.077L203.285 344.013L203.183 344.115L202.909 344.389C198.835 348.463 193.131 350.906 187.432 350.906H139.756C128.083 350.906 118.31 341.404 118.31 329.46V269.18C118.31 257.231 127.814 247.46 139.756 247.46H187.158C196.66 247.46 204.533 253.432 207.52 261.849L207.567 261.982H207.708H260.042C274.178 261.982 285.324 273.399 285.324 287.264C285.324 288.912 285.324 290.262 285.054 291.609L284.992 291.921L285.3 291.842L349.416 275.402ZM359.834 314.308L359.834 314.308L359.847 314.304C362.894 313.196 365.679 311.251 367.352 308.184C369.018 305.129 369.576 301.516 368.74 298.175L368.738 298.167L368.735 298.158C366.509 291.758 359.829 288.141 353.154 289.81L353.152 289.81L275.61 309.812L275.56 309.825L275.523 309.861C270.354 314.758 263.279 317.752 255.384 317.752H239.766C235.493 317.752 232.294 314.554 232.294 310.28C232.294 306.011 235.762 302.808 239.766 302.808H255.384C263.712 302.808 270.654 296.145 270.654 287.538C270.654 281.674 265.907 276.926 260.042 276.926H209.078H208.878V277.126V329.46V329.462V329.463V329.465V329.466V329.468V329.47V329.471V329.473V329.474V329.476V329.478V329.479V329.481V329.482V329.484V329.486V329.487V329.489V329.491V329.492V329.494V329.495V329.497V329.499V329.5V329.502V329.503V329.505V329.507V329.508V329.51V329.511V329.513V329.515V329.516V329.518V329.519V329.521V329.523V329.524V329.526V329.527V329.529V329.531V329.532V329.534V329.535V329.537V329.539V329.54V329.542V329.543V329.545V329.547V329.548V329.55V329.552V329.553V329.555V329.556V329.558V329.56V329.561V329.563V329.564V329.566V329.568V329.569V329.571V329.572V329.574V329.576V329.577V329.579V329.58V329.582V329.584V329.585V329.587V329.588V329.59V329.592V329.593V329.595V329.596V329.598V329.6V329.601V329.603V329.605V329.606V329.608V329.609V329.611V329.613V329.614V329.616V329.617V329.619V329.621V329.622V329.624V329.625V329.627V329.629V329.63V329.632V329.633V329.635V329.637V329.638V329.64V329.641V329.643V329.645V329.646V329.648V329.649V329.651V329.653V329.654V329.656V329.657V329.659V329.661V329.662V329.664V329.666V329.667V329.669V329.67V329.672V329.674V329.675V329.677V329.678V329.68V329.682V329.683V329.685V329.686V329.688V329.69V329.691V329.693V329.694V329.696V329.698V329.699V329.701V329.702V329.704V329.706V329.707V329.709V329.71V329.712V329.714V329.715V329.717V329.718V329.72V329.722V329.723V329.725V329.727V329.728V329.73V329.731V329.733V329.735V329.736V329.738V329.739V329.741V329.743V329.744V329.746V329.747V329.749V329.751V329.752V329.754V329.755V329.757V329.759V329.76V329.762V329.763V329.765V329.767V329.768V329.77V329.771V329.773V329.775V329.776V329.778V329.78V329.781V329.783V329.784V329.786V329.788V329.789V329.791V329.792V329.794V329.796V329.797V329.799V329.8V329.802V329.804V329.805V329.807V329.808V329.81V329.812V329.813V329.815V329.816V329.818V329.82V329.821V329.823V329.824V329.826V329.828V329.829V329.831V329.832V329.834V329.836V329.837V329.839V329.841V329.842V329.844V329.845V329.847V329.849V329.85V329.852V329.853V329.855V329.857V329.858V329.86V329.861V329.863V329.865V329.866V329.868V329.869V329.871V329.873V329.874V329.876V329.877V329.879V329.881V329.882V329.884V329.885V329.887V329.889V329.89V329.892V329.893V329.895V329.897V329.898V329.9V329.902V329.903V329.905V329.906V329.908V329.91V329.911V329.913V329.914V329.916V329.918V329.919V329.921V329.922V329.924V329.926V329.927V329.929V329.93V329.932V329.934V329.935V329.937V329.938V329.94V329.942V329.943V329.945V329.946V329.948V329.95V329.951V329.953V329.954V329.956V329.958V329.959V329.961V329.963V329.964V329.966V329.967V329.969V329.971V329.972V329.974V329.975V329.977V329.979V329.98V329.982V329.983V329.985V329.987V329.988V329.99V329.991V329.993V329.995V329.996V329.998V329.999V330.001V330.003V330.004V330.006V330.007V330.009V330.011V330.012V330.014V330.015V330.017V330.019V330.02V330.022V330.024V330.025V330.027V330.028V330.03V330.032V330.033V330.035V330.036V330.038V330.04V330.041V330.043V330.044V330.046V330.048V330.049V330.051V330.052V330.054V330.056V330.057V330.059V330.06V330.062V330.064V330.065V330.067V330.068V330.07V330.072V330.073V330.075V330.076V330.078V330.08V330.081V330.083V330.085V330.086V330.088V330.089V330.091V330.093V330.094V330.096V330.097V330.099V330.101V330.102V330.104V330.105V330.107V330.109V330.11V330.112V330.113V330.115V330.117V330.118V330.12V330.121V330.123V330.125V330.126V330.128V330.129V330.131V330.133V330.134V330.136V330.138V330.139V330.141V330.142V330.144V330.146V330.147V330.149V330.15V330.152V330.154V330.155V330.157V330.158V330.16V330.162V330.163V330.165V330.166V330.168V330.17V330.171V330.173V330.174V330.176V330.178V330.179V330.181V330.182V330.184V330.186V330.187V330.189V330.19V330.192V330.194V330.195V330.197V330.199V330.2V330.202V330.203V330.205V330.207V330.208V330.21V330.211V330.213V330.215V330.216V330.218V330.219V330.221V330.223V330.224V330.226V330.227V330.229V330.231V330.232V330.234V330.235V330.237V330.239V330.24V330.242V330.243V330.245V330.247V330.248V330.25V330.251V330.253V330.255V330.256V330.258V330.26V330.261V330.263V330.264V330.266V330.268V330.269V330.271V330.272V330.274V330.276V330.277V330.279V330.28V330.282V330.404L208.986 330.46L216.932 334.57L216.934 334.57C233.693 343.087 252.925 345.01 271.331 339.79L271.332 339.79L339.85 319.862V319.87V320.137L340.106 320.062L359.834 314.308ZM187.706 336.236C189.398 336.236 191.094 335.671 192.506 334.259C193.638 333.127 194.214 331.428 193.934 329.988V269.454C193.934 265.518 191.115 262.404 187.158 262.404H139.756C136.089 262.404 132.98 265.228 132.98 269.18V329.46C132.98 333.127 135.804 336.236 139.756 336.236H187.706Z" fill="white" stroke="black" stroke-width="0.4"></path>
@@ -387,8 +384,8 @@ function showInvesting() {
 	var c2 = document.getElementById("c2");
 	if (x.style.display === "none") {
 		x.style.display = "block";
-		c1.style.color = "white";   
-		c1.style.background = "url(/wp-content/themes/wp.theme.php/imgs/equity.png) no-repeat";
+		c1.style.color = "";   
+		c1.style.background = "";
 		c2.style.color = "#26D0E5";
 		c2.style.background = "url(/wp-content/themes/wp.theme.php/imgs/revenue_active.png) no-repeat";
 		y.style.display = "none";

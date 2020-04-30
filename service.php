@@ -5,7 +5,7 @@
 <div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
-			<h1 style="margin-top: 80px; margin-bottom: 100px;">Our Services</h1>
+			<h1 class="hero" style="margin-top: 100px; margin-bottom: 100px;">Our Services</h1>
 			</div>
 	  </div>
 	</div>
@@ -36,7 +36,7 @@
 	<div class="row">
 		<div id="product-des" class="col-sm-4 col-md-4 col-lg-4 des-ux-int">
 			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
-				<button class="thunder" id="c1" value="showDesign" onclick="showDesign()">
+				<button class="thunder" id="c1" value="showDesign" onclick="showDesign()" style="color: rgb(195, 25, 225); background: url(&quot;/wp-content/themes/wp.theme.php/imgs/Thunder_active.png&quot;) no-repeat;">
 					<h0> Design Sprint </h0>
 				</button>
 			</div>
@@ -103,7 +103,7 @@
 
 </section>
 
-<section id="product-development" class="snt-services-page-section" style="margin-top:100px;">
+<section id="product-development" class="snt-services-page-section" style="margin-top: 100px;">
 	<div class="container">
   	<div class="row">
 	<div class="col-sm-12 col-md-12 col-lg-12">
@@ -195,7 +195,7 @@
 		</div>
 </section>
 
-<section id="consulting" class="snt-services-page-section" style="margin-top:100px;">
+<section id="consulting" class="snt-services-page-section" style="margin-top: 100px;">
 	<div class="container">
   	<div class="row">
 	<div class="col-sm-12 col-md-12 col-lg-12">
@@ -313,7 +313,7 @@
 </div>
 </section>
 
-<section class="text-center snt-services-page-section" style="margin-top:200px; margin-bottom:200px;">
+<section class="text-center snt-services-page-section" style="margin-top: 200px; margin-bottom: 200px;">
 	<div class="container">
 	    <div class="text-center">
       
@@ -360,7 +360,7 @@
 										<div class="col-md-12">
 											<button class="skyscanner-photo">
 										</button></div>
-										<div class="col-md-12" style="margin-bottom:15rem;">
+										<div class="col-md-12 booking">
 											<button class="booking-photo">
 										</button></div>
 									</div>
@@ -378,7 +378,7 @@
 		</div>
 </div></section>
 
-<section id="service-travel" class="snt-services-finance-page-section" style="margin-top: 100px;">
+<section id="service-travel" class="snt-services-finance-page-section" style="margin-top: 100px; margin-bottom: 100px;">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
