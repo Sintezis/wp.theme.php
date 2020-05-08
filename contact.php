@@ -14,12 +14,12 @@
 <div class="container">
   <div class="row">
 	
-		<div class="col-sm-4 col-md-4 col-lg-4">
+		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 		  <div class="row">
-			<div class="col-md-2">
+			<div class="col-xs-3 col-sm-3 col-md-3">
 			  <img src="/wp-content/themes/wp.theme.php/imgs/layer101.png" alt="" class="ambassador-city-icons">
 			</div>
-			<div id="dublin" class="col-md-10 ambassador-city-columns">
+			<div id="dublin" class="col-xs-9 col-sm-9 col-md-9 ambassador-city-columns">
 			  <h3 id="office">HEADQUARTERS</h3>
 			  <h1>Dublin </h1>
 			  <p>Ground floor 8-9, Marino Mart,<br>  Dublin 3, D03P590,<br> Ireland</p>
@@ -28,12 +28,12 @@
 		  </div>
 		</div>
 	  
-		<div class="col-sm-4 col-md-4 col-lg-4">
+		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 		  <div class="row">
-			<div class="col-md-2">
+			<div class="col-xs-3 col-sm-3 col-md-3">
 			  <img src="/wp-content/themes/wp.theme.php/imgs/Zagreb.png" alt="" class="ambassador-city-icons">
 			  </div>
-			<div id="zagreb" class="col-md-10 ambassador-city-columns">
+			<div id="zagreb" class="col-xs-9 col-sm-9 col-md-9 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
 			  <h1>Zagreb</h1>
 			  <p>Address Line 1 <br> 10000 Zagreb, <br> Croatia</p>
@@ -42,12 +42,12 @@
 		  </div>
 		</div>
 	  
-		<div class="col-sm-4 col-md-4 col-lg-4">
+		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 		  <div class="row">
-			<div class="col-md-2">
+			<div class="col-xs-3 col-sm-3 col-md-3">
 			  <img src="/wp-content/themes/wp.theme.php/imgs/Bern.png" alt="" class="ambassador-city-icons">
 			</div>
-			<div id="bern" class="col-md-10 ambassador-city-columns">
+			<div id="bern" class="col-xs-9 col-sm-9 col-md-9 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
 			  <h1>Bern</h1>
 			  <p>Address Line 1 <br> Bern, <br> Switzerland</p>
@@ -15969,7 +15969,7 @@
 <section>
 <div class="container">
   <div class="row">
-		<div class="text-center brand-evangelists">
+		<div class="col-xs-12 text-center brand-evangelists">
 			<h3 class="yellow"> BRAND EVANGELISTS </h3>
 			<h1 class="ambassador">Sintezis Ambassador</h1>
 		</div>
