@@ -1,24 +1,21 @@
 <?php get_header(); ?>
-<section id="welcome" class="snt-welcome-section" style="">
-	  <div class="container">
-	  <div class="snt-magenta-picture">
+ <section id="welcome" class="snt-welcome-section">
+		  <div class="container-fluid">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-10">
         <div class="snt-welcome-container">
           <div class="row">
-              <div class="col-md-8 col-md-offset-2">
-                <img class="snt-logo" src="/wp-content/themes/wp.theme.php/imgs/logo-white.png" alt="">
+              <div class="col-md-8 col-md-offset-4">
+                <img class="snt-logo" src="http://www.sintezis.co/wp-content/themes/wp.theme.php/imgs/logo-white.png" alt="">
                 <h2>Transforming abstract ideas into digital products</h2>
-                <p class="subtitle">We bring order to your creative chaos and make things fit perfectly togeather. We build, so you can dream.</p>
-                <button class="snt-btn btn" onclick="window.location.href='#projects'">SEE OUR WORK <img src="/wp-content/themes/wp.theme.php/imgs/arrow-bottom.png" width="24" height="24" alt=""></button>
+                <p class="subtitle">We bring order to your creative chaos and make things fit perfectly together. We build, so you can dream.</p>
+                <button class="snt-btn btn" onclick="window.location.href='#projects'">SEE OUR WORK <img src="http://www.sintezis.co/wp-content/themes/wp.theme.php/imgs/arrow-bottom.png" width="24" height="24" alt=""></button>
               </div>
           </div>
         </div>
-		</div>
       </div>
+              </div>
     </div>
-		  
-	  </div>
     <div class="snt-waypoint"></div>
   </section>
 
@@ -283,7 +280,7 @@
   <section id="contact" class="snt-contact-section">
 	  <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-3">
+      <div class="col-md-6 col-md-offset-2">
         <h4>FIRST CONTACT</h4>
         <h1>Send us a Message</h1>
         <p>Ready to talk? Contact us for a free consult and we’ll get back to you in 24 hours. You’re contact information is kept private and we will never send you spam.</p>

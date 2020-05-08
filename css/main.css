@@ -94,6 +94,12 @@ html, body, .snt-container {
 .snt-btn p {
 	color: white;
 	text-transform: none;
+	font-family: Barlow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    color: #A6AAC8;
 }
 
 .snt-btn:hover {
@@ -107,6 +113,10 @@ html, body, .snt-container {
 	margin-left: 20px;
 }
 
+.social-ft {
+	display: none;
+}
+
 @media (min-width: 0px) and (max-width: 1024px){
 	img.custom_header{
 		margin-top: 5rem;
@@ -115,6 +125,46 @@ html, body, .snt-container {
 	.locations {
 		display: none;
 		margin-left: -12rem;
+	}
+	#c1:hover {
+		background: url(../imgs/Thunder_hover.png) no-repeat center top !important;
+		outline: none;
+	}
+	#c2:hover {
+		background: url(../imgs/Vector_hover.png) no-repeat center top !important;
+		outline: none;
+	}
+	#c3:hover {
+		background: url(../imgs/Mouse_hover.png) no-repeat center top !important;
+		outline: none;
+	}
+	#c4:hover {
+		background: url(../imgs/Plane_hover.png) no-repeat center top !important;
+		outline: none;
+	}
+	#c5:hover {
+		background: url(../imgs/Airplane_hover.png) no-repeat center top !important;
+		outline: none;
+	}
+	#c6:hover {
+		background: url(../imgs/Rocket_hover.png) no-repeat center top !important;
+		outline: none;
+	}
+	#c7:hover {
+		background: url(../imgs/Software_hover.png) no-repeat center top !important;
+		outline: none;
+	}
+	#c8:hover {
+		background: url(../imgs/product_hover.png) no-repeat center top !important;
+		outline: none;
+	}
+	#c9:hover {
+		background: url(../imgs/Social_hover.png) no-repeat center top !important;
+		outline: none;
+	}
+	#c10:hover {
+		background: url(../imgs/Interim_hover.png) no-repeat center top !important;
+		outline: none;
 	}
 }
 
@@ -136,6 +186,21 @@ html, body, .snt-container {
 		font-size: 24px;
 		line-height: 32px;
 		font-family: Overpass;
+	}
+	.pull-right {
+		margin-right: 0rem !important;
+	}
+	.snt-footer-section .col-md-2 {
+		display: none;
+	}
+	.projects-btn {
+		width: 240px;
+	}
+	.ft-social {
+		display: none;
+	}
+	.social-ft {
+		display: block !important;
 	}
 }
 
@@ -162,13 +227,7 @@ html, body, .snt-container {
 		padding-top: 250px;
 	}
 	.snt-jobs-section .btn p {
-		font-family: Barlow;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 12px;
-		line-height: 22px;
-		color: #A6AAC8;
-		text-align: left;
+		font-size: 13px;
 	}
 	.snt-blog-header-md h2 {
 		font-size: 24px;
@@ -196,6 +255,10 @@ html, body, .snt-container {
 		line-height: 32px;
 		font-family: Overpass;
 	}
+	.snt-team-section .col-md-4 a {
+		margin-right: 10px !important;
+		margin-left: 10px !important;
+	}
 }
 
 @media only screen and (min-width:1020px) and (max-width:1025px){
@@ -204,60 +267,11 @@ html, body, .snt-container {
 	}
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1300px){
-	.snt-jobs-section .btn p {
-		font-size: 8px;
-	}
-}
-
-@media only screen and (min-width: 1300px) and (max-width: 1400px){
-	.snt-jobs-section .btn p {
-		font-size: 10px;
-	}
-}
-
-@media only screen and (min-width: 1400px) and (max-width: 1500px){
-	.snt-jobs-section .btn p {
-		font-size: 11px;
-	}
-}
-
-@media only screen and (min-width: 1500px) and (max-width: 1600px){
-	.snt-jobs-section .btn p {
-		font-size: 12px;
-	}
-}
-
-@media only screen and (min-width: 1600px) and (max-width: 1700px){
-	.snt-jobs-section .btn p {
-		font-size: 9px;
-	}
-	.snt-jobs-section .btn img {
-		margin-top: 0px !important;
-	}
-	.snt-btn img {
-		margin-left: 0px !important;
-	}
-}
-@media only screen and (min-width: 1700px) and (max-width: 1800px){
-	.snt-jobs-section .btn p {
-		font-size: 14px;
-	}
-}
-
 .elude-mob {
 	display: none;
 }
 /* mobile */
 @media (min-width: 0px) and (max-width: 320px){
-	.snt-magenta-picture {
-		width: initial !important;
-		margin-left: 0px !important;
-		background: url(../imgs/wes-hicks-ZEZeFBLfiLs-unsplash2.png) bottom !important;
-	}
-	.snt-welcome-container {
-		background: transparent !important;
-	}
 	.snt-services-welcome-section h1 {
 		text-align: center;
 	}
@@ -276,18 +290,6 @@ html, body, .snt-container {
 	.snt-btn span {
 		font-size: 19px;
 	}
-	.snt-btn p {
-		font-size: 10px !important;
-	}
-	.snt-team-section .col-md-4 h3 {
-		width: 100% !important;
-	}
-	.snt-team-section .col-md-4 p {
-		width: 100% !important;
-	}
-	.sm {
-		width: 100% !important;
-	}
 	.punctuation-up {
 		background-position: left !important;
 	}
@@ -305,12 +307,6 @@ html, body, .snt-container {
 		width: 70%;
 		margin-top: -12rem;
 		margin-bottom: 15rem;
-	}
-	.snt-footer-section .col-md-8 {
-		margin-bottom: -15rem !important;
-		width: 100%;
-		margin-top: 10rem;
-		margin-left: 0rem !important;
 	}
 	.punctuation-down {
 		margin-left: 18rem !important;
@@ -370,17 +366,9 @@ html, body, .snt-container {
 	}
 	div#dublin {
 		border-right: none !important;
-		margin-right: 3rem !important;
 	}
 	div#zagreb {
 		border-right: none !important;
-		margin-right: 3rem !important;
-	}
-	div#bern {
-		margin-right: 3rem !important;
-	}
-	.snt-footer-section .col-md-4 {
-		border: none;
 	}
 	.ambassador-photo {
 		height: 472px !important;
@@ -563,60 +551,8 @@ html, body, .snt-container {
 		padding-left: 2rem;
     	display: inline-table;
 	}
-	#c1:hover {
-		background: url(../imgs/Thunder_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c2:hover {
-		background: url(../imgs/Vector_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c3:hover {
-		background: url(../imgs/Mouse_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c4:hover {
-		background: url(../imgs/Plane_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c5:hover {
-		background: url(../imgs/Airplane_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c6:hover {
-		background: url(../imgs/Rocket_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c7:hover {
-		background: url(../imgs/Software_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c8:hover {
-		background: url(../imgs/product_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c9:hover {
-		background: url(../imgs/Social_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c10:hover {
-		background: url(../imgs/Interim_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	.snt-btn {
-		width: 100%;
-	}
 	.welcome-services-button h3 {
 		text-align-last: center;
-	}
-	.snt-jobs-section p{
-		font-family: Barlow;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 18px;
-		line-height: 26px;
-		color: #A6AAC8;
-		text-align: left;
 	}
 	.snt-testimonials-section h1 {
 		font-family: Overpass;
@@ -645,12 +581,6 @@ html, body, .snt-container {
 		width: 70%;
 		margin-top: -12rem;
 		margin-bottom: 15rem;
-	}
-	.snt-footer-section .col-md-8 {
-		margin-bottom: -15rem !important;
-		width: 100%;
-		margin-top: 10rem;
-		margin-left: 0rem !important;
 	}
 	.apple_p {
 		text-align-last: center;
@@ -771,9 +701,29 @@ html, body, .snt-container {
 	.quote {
 		margin-left: 3rem !important;
 	}
+	.soc {
+		margin-right: 3rem !important;
+    	margin-left: 3rem;
+	}
+	.snt-copyright {
+		font-size: 14px;
+	}
 }
 
 @media (min-width: 321px) and (max-width: 767px) {
+	.soc {
+		margin-right: 5rem;
+    	margin-left: 5rem;
+	}
+	.social-ft {
+		display: block !important;
+	}
+	.ft-social {
+		display: none;
+	}
+	.snt-footer-section .col-md-2 {
+		display: none;
+	}
 	.snt-services-welcome-section h1 {
 		text-align: center;
 	}
@@ -792,14 +742,6 @@ html, body, .snt-container {
 	.quote {
 		margin-left: 3rem !important;
 	}
-	.snt-magenta-picture {
-		width: initial !important;
-		margin-left: 0px !important;
-		background: url(../imgs/wes-hicks-ZEZeFBLfiLs-unsplash2.png) bottom !important;
-	}
-	.snt-welcome-container {
-		background: transparent !important;
-	}
 	.snt-social-block.center-block {
 		text-align: center;
 		width: 25% !important;
@@ -807,15 +749,6 @@ html, body, .snt-container {
 	#product {
 		display: flex;
 		margin-bottom: 25px;
-	}
-	.snt-team-section .col-md-4 h3 {
-		width: 100% !important;
-	}
-	.snt-team-section .col-md-4 p {
-		width: 100% !important;
-	}
-	.sm {
-		width: 100% !important;
 	}
 	.snt-testimonials-section {
 		margin-top: 10rem !important;
@@ -825,49 +758,6 @@ html, body, .snt-container {
 	}
 	.quote-p {
 		margin-left: 13rem !important;
-	}
-	#c1:hover {
-		background: url(../imgs/Thunder_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c2:hover {
-		background: url(../imgs/Vector_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c3:hover {
-		background: url(../imgs/Mouse_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c4:hover {
-		background: url(../imgs/Plane_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c5:hover {
-		background: url(../imgs/Airplane_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c6:hover {
-		background: url(../imgs/Rocket_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c7:hover {
-		background: url(../imgs/Software_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c8:hover {
-		background: url(../imgs/product_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c9:hover {
-		background: url(../imgs/Social_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c10:hover {
-		background: url(../imgs/Interim_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	.snt-btn {
-		width: 100%;
 	}
 	.welcome-services-button h3 {
 		text-align-last: center;
@@ -912,12 +802,6 @@ html, body, .snt-container {
 		width: 70%;
 		margin-top: -12rem;
 		margin-bottom: 15rem;
-	}
-	.snt-footer-section .col-md-8 {
-		margin-bottom: -15rem !important;
-		width: 100%;
-		margin-top: 10rem;
-		margin-left: 0rem !important;
 	}
 	.punctuation-down {
 		margin-left: 24rem !important;
@@ -988,9 +872,6 @@ html, body, .snt-container {
 	}
 	h3.ambassador-name{
 		text-align: center !important;
-	}
-	.snt-footer-section .col-md-4 {
-		border: none;
 	}
 	.ambassador-photo {
 		height: 472px !important;
@@ -1254,13 +1135,6 @@ html, body, .snt-container {
 }
 
 @media (min-width: 767px) and (max-width: 1000px) {
-	.snt-magenta-picture {
-		width: initial !important;
-		margin-left: -30px !important;
-	}
-	.snt-welcome-container {
-		margin-left: 300px !important;
-	}
 	.projectsh1 {
 		text-align: left !important;
 	}
@@ -1275,15 +1149,6 @@ html, body, .snt-container {
 	}
 	section#testimonials {
 		margin-top: 0rem !important;
-	}
-	.snt-team-section .col-md-4 h3 {
-		width: 100% !important;
-	}
-	.snt-team-section .col-md-4 p {
-		width: 100% !important;
-	}
-	.sm {
-		width: 100% !important;
 	}
 	section#testimonials {
 		margin-top: 10rem !important;
@@ -1410,49 +1275,6 @@ html, body, .snt-container {
 	.col-md-10 .col-md-6 {
 		margin-top: 0rem !important;
 	}
-	#c1:hover {
-		background: url(../imgs/Thunder_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c2:hover {
-		background: url(../imgs/Vector_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c3:hover {
-		background: url(../imgs/Mouse_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c4:hover {
-		background: url(../imgs/Plane_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c5:hover {
-		background: url(../imgs/Airplane_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c6:hover {
-		background: url(../imgs/Rocket_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c7:hover {
-		background: url(../imgs/Software_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c8:hover {
-		background: url(../imgs/product_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c9:hover {
-		background: url(../imgs/Social_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c10:hover {
-		background: url(../imgs/Interim_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	.snt-btn {
-		width: 100%;
-	}
 	.welcome-services-button h3 {
 		text-align-last: center;
 	}
@@ -1518,12 +1340,6 @@ html, body, .snt-container {
 	}
 	h3.ambassador-name{
 		text-align: center !important;
-	}
-	.snt-footer-section .col-md-4 {
-		border: none;
-		display: block !important;
-		margin-right: 0rem !important;
-		margin-top: -17rem !important;
 	}
 	.ambassador-h2 {
 		margin-top: -90px !important
@@ -1724,11 +1540,8 @@ html, body, .snt-container {
 		margin-top: -12rem;
 		margin-bottom: 15rem;
 	}
-	.snt-footer-section .col-md-8 {
-		margin-bottom: 3rem !important;
-		width: 100%;
-		margin-top: 10rem;
-		margin-left: -21rem !important;
+	.snt-footer-section .col-md-2 {
+		display: none;
 	}
 	.testimonial-mobile {
 		text-align: center;
@@ -1754,15 +1567,9 @@ html, body, .snt-container {
 		place-content: center;	}
 }
 
-@media (min-width: 1000px) and (max-width: 1025px) { 
-	.snt-magenta-picture {
-		margin-left: -50px !important;
-	}
+@media (min-width: 1000px) and (max-width: 1025px) {
 	.snt-social-block.center-block {
 		width: 38% !important;
-	}
-	.pull-right {
-		display: none;
 	}
 	.service-btn {
 		margin-bottom: 5rem;
@@ -1772,15 +1579,6 @@ html, body, .snt-container {
 	}
 	section#testimonials {
 		margin-top: 0rem !important;
-	}
-	.snt-team-section .col-md-4 h3 {
-		width: 100% !important;
-	}
-	.snt-team-section .col-md-4 p {
-		width: 100% !important;
-	}
-	.sm {
-		width: 100% !important;
 	}
 	section#testimonials {
 		margin-top: 10rem !important;
@@ -1837,7 +1635,6 @@ html, body, .snt-container {
 		padding-bottom: 20px;
 	}
 	div#btn1 {
-		margin-left: 17rem !important;
 		margin-top: -29rem !important;
 	}
 	div#btn2 {
@@ -1915,49 +1712,6 @@ html, body, .snt-container {
 	.col-md-10 .col-md-6 {
 		margin-top: 0rem !important;
 	}
-	#c1:hover {
-		background: url(../imgs/Thunder_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c2:hover {
-		background: url(../imgs/Vector_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c3:hover {
-		background: url(../imgs/Mouse_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c4:hover {
-		background: url(../imgs/Plane_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c5:hover {
-		background: url(../imgs/Airplane_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c6:hover {
-		background: url(../imgs/Rocket_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c7:hover {
-		background: url(../imgs/Software_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c8:hover {
-		background: url(../imgs/product_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c9:hover {
-		background: url(../imgs/Social_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	#c10:hover {
-		background: url(../imgs/Interim_hover.png) no-repeat center top !important;
-		outline: none;
-	}
-	.snt-btn {
-		width: 100%;
-	}
 	.welcome-services-button h3 {
 		text-align-last: center;
 	}
@@ -1965,7 +1719,7 @@ html, body, .snt-container {
 		font-family: Barlow;
 		font-style: normal;
 		font-weight: normal;
-		font-size: 11px;
+		font-size: 10px;
 		line-height: 22px;
 		color: #A6AAC8;
 		text-align: left;
@@ -1983,12 +1737,6 @@ html, body, .snt-container {
 	}
 	.snt-pages-container {
 		float: right !important;
-		margin-top: 50px !important;
-		margin-left: auto !important;
-		margin-right: 10rem !important;
-	}
-	.snt-contact-container {
-  	  	float: right !important;
 	}
 	.snt-footer-section .col-md-3 {
 		width: 94%;
@@ -2057,11 +1805,6 @@ html, body, .snt-container {
 	h3.ambassador-name{
 		text-align: center !important;
 		margin-bottom: 4rem;
-	}
-	.snt-footer-section .col-md-4 {
-		border: none;
-		display: block !important;
-		margin-right: 0rem !important;
 	}
 	.ambassador-photo {
 		height: 472px !important;
@@ -2237,10 +1980,6 @@ div#btn2 {
 }
 
 .snt-blog-section .col-md-4 {
-	border: none;
-}
-
-.snt-footer-section .col-md-4 {
 	border: none;
 }
 
@@ -2945,7 +2684,7 @@ h1 {
 }
 
 .product:hover {
-	background: url(../imgs/Product_hover.png) no-repeat !important;
+	background: url(../imgs/product_hover.png) no-repeat !important;
 }
 
 .social {
@@ -3117,11 +2856,6 @@ h4 {
 	background-size: cover;
 }
 
-.snt-magenta-picture {
-	background: url(../imgs/wes-hicks-ZEZeFBLfiLs-unsplash.png) left no-repeat transparent;
-    margin-left: -270px;
-}
-
 .snt-welcome-section h2 {
 	margin-bottom: 40px;
 }
@@ -3141,7 +2875,7 @@ h4 {
 	height: 100%;
     margin-top: 100px;
     background-color: rgba(0, 0, 0, 0.9);
-    margin-left: 390px;
+    padding-right: 150px;
 }
 
 .snt-logo {
@@ -3155,8 +2889,9 @@ h4 {
 @media (max-width: 1023px) {
 	
 	.snt-welcome-container {
-		margin: 100px 10px;
+		margin: 100px 0px;
 		padding: 0 20px;
+		width: 100%;
 	}
 
 	.snt-welcome-container h2 {
@@ -3604,9 +3339,6 @@ svg.locations {
 		margin-bottom: 50px;
 	}
 
-	.snt-jobs-section .snt-btn img {
-		display: none;
-	}
 }
 
 /* Blog Section */
@@ -3678,11 +3410,6 @@ svg.locations {
 
 .snt-blog-header-ph-1 {
 	background: url(../imgs/blog-bg-md-placeholder-1.png) top center no-repeat black;
-	background-size: cover;
-}
-
-.snt-blog-header-ph-2 {
-	background: url(../imgs/blog-bg-md-placeholder-2.png) top center no-repeat black;
 	background-size: cover;
 }
 
@@ -3855,18 +3582,6 @@ svg.locations {
 	margin-top: 50px;
 }
 
-/* mobile */
-
-@media (max-width: 1023px) {
-
-	.snt-copyright {
-		text-align: center;
-		margin-left: 0px;
-		width: 100%;
-	}
-
-}
-
 /* TESTIMONIAL POSTS PAGE */
 
 @media (min-width: 992px) {
@@ -4030,6 +3745,7 @@ svg.locations {
 .snt-blog-header-ph-2 {
 	background: url(../imgs/blog-bg-md-placeholder-2.png) top center no-repeat black;
 	background-size: cover;
+	width: auto;
 }
 .snt-blog-header {
 	margin-top: 60px;
@@ -4267,16 +3983,29 @@ cite {
 	margin-top: 5rem;
 }
 
+
 .snt-team-section .col-md-4 h3 {
-	width: 105%;
+	font-family: Overpass;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 26px;
+	line-height: 30px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 0px;
+}
+
+.snt-team-section .col-md-4 a {
+	margin-right: 18px;
+    margin-left: 18px;
 }
 
 .snt-team-section .col-md-4 p {
-	width: 105%;
+	width: 100%;
 }
 
 .sm {
-	width: 105%
+	width: 100%
 }
 
 .border {

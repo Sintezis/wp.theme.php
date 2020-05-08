@@ -25,7 +25,9 @@
 					<button class="apple_store_projects" style="margin-top:56px; margin-bottom:57px; width:100%;">
 						<p class="apple_p">APPLE STORE</p>
 					</button>
-					<button class="btn snt-btn" style="margin-bottom:100px;"> READ MORE</button>
+					<div class="col-md-12">
+					<button class="btn snt-btn projects-btn" style="margin-bottom:100px;"> READ MORE</button>
+					</div>
                 </div>
 				</div>
 
@@ -48,7 +50,9 @@
 					<button class="apple_store" style="margin-top:56px; margin-bottom:57px; width:100%;">
 						<p class="apple_p">APPLE STORE</p>
 					</button>
-					<button class="btn snt-btn" style="margin-bottom:100px;"> READ MORE</button>
+					<div class="col-md-12">
+					<button class="btn snt-btn projects-btn" style="margin-bottom:100px;"> READ MORE</button>
+					</div>
                 </div>
 				</div>
 				
@@ -63,7 +67,9 @@
 					<button class="apple_store_projects" style="margin-top:56px; margin-bottom:57px; width:100%;">
 						<p class="apple_p">APPLE STORE</p>
 					</button>
-					<button class="btn snt-btn"> READ MORE</button>
+					<div class="col-md-12">
+					<button class="btn snt-btn projects-btn"> READ MORE</button>
+					</div>
               </div>
             </div>
           </div>

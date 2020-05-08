@@ -88,7 +88,7 @@
 	  
 	  <div class="row">
 	  
-		<div class="col-md-3">
+		<div class="col-md-3 col-sm-6">
 		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_31.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Jennifer Doe Frankovic</h3>
 		  <div style="text-align-last:center;">
@@ -108,7 +108,7 @@
 		  </div>		   
 		</div>
 	  
-		<div class="col-md-3">
+		<div class="col-md-3 col-sm-6">
 		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_32.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Klaus Muller</h3>
 		  <div style="text-align-last:center;">
@@ -132,7 +132,7 @@
 		  </div>		   
 		</div>
 	  
-		<div class="col-md-3">
+		<div class="col-md-3 col-sm-6">
 		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_29.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Edith Piaf</h3>
 		  <div style="text-align-last:center;">
@@ -156,7 +156,7 @@
 		  </div>		   
 		</div>
 	  
-		  <div class="col-md-3">
+		  <div class="col-md-3 col-sm-6">
 			<img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_30.png" class="ambassador-block" alt="">
 			<h3 class="ambassador-name">Hrvoje Horvat</h3>
 			<div style="text-align-last:center;">
