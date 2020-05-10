@@ -1,6 +1,6 @@
-<div class="snt-footer-section">
+<div class="">
 <div class="container">
-    <div class="row" style="padding-top: 43.5%">
+    <div class="row snt-footer-section" style="padding-top: 43.5%;">
       <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="snt-address-container">
           <h3>Sintezis Startup Studio Ltd.</h3>
@@ -39,28 +39,26 @@
           
         </div>
       </div>
-    </div>
-    </div>
-
-<div class="container">
-    <div class="row">
 		<div class="col-xs-12 col-sm-4 col-md-4 social-ft">
-        <a href="https://www.linkedin.com/company/sintezis" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"  class="pull-right soc" width="35" height="35" alt="" style="margin-top:50px;"></a>
-        <a href="https://twitter.com/SintezisLtd" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>" class="pull-right soc" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
-        <a href="https://www.instagram.com/sintezisco/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>" class="pull-right soc" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
+        <a href="https://www.linkedin.com/company/sintezis" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_li.png" class="pull-right soc" width="35" height="35" alt="" style="margin-top:50px;"></a>
+        <a href="https://twitter.com/SintezisLtd" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png" class="pull-right soc" width="35" height="35" alt="" style="margin-top:50px;"></a>
+        <a href="https://www.instagram.com/sintezisco/" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_insta.png" class="pull-right soc" width="35" height="35" alt="" style="margin-top:50px;"></a>
       </div>
-      <div class="col-xs-12 col-sm-8 col-md-8">
+      <div class="col-xs-12 col-sm-8 col-md-10">
         <p class="snt-copyright">Copyright © 2020 Sintezis - All right reserved</p>
       </div>
-      <div class="col-xs-12 col-sm-4 col-md-4 ft-social">
-        <a href="https://www.linkedin.com/company/sintezis" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"  class="pull-right" width="35" height="35" alt="" style="margin-top:50px;"></a>
-        <a href="https://twitter.com/SintezisLtd" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>" class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
-        <a href="https://www.instagram.com/sintezisco/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>" class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
+      <div class="col-xs-12 col-sm-4 col-md-2 ft-social">
+        <a href="https://www.linkedin.com/company/sintezis" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_li.png" class="pull-right" width="35" height="35" alt="" style="margin-top:50px;"></a>
+        <a href="https://twitter.com/SintezisLtd" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png" class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
+        <a href="https://www.instagram.com/sintezisco/" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_insta.png" class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
       </div>
+    </div>
+    
     </div>
     </div>
 
-  </div>
+
+
 
 
 <!-- jQuery -->

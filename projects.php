@@ -26,7 +26,8 @@
 						<p class="apple_p">APPLE STORE</p>
 					</button>
 					<div class="col-md-12">
-					<button class="btn snt-btn projects-btn" style="margin-bottom:100px;"> READ MORE</button>
+					<button class="btn snt-btn projects-btn" style="margin-bottom:100px;"> READ MORE
+						<img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/arrow-right.png" width="24" height="24" class="pull-right" alt=""></button>
 					</div>
                 </div>
 				</div>
@@ -40,7 +41,7 @@
 					<button class="apple_store_projects" style="margin-top:56px; margin-bottom:57px; width:100%;">
 						<p class="apple_p">APPLE STORE</p>
 					</button>
-					<button class="btn snt-btn" style="margin-bottom:100px;"> READ MORE</button>
+					<button class="btn snt-btn" style="margin-bottom:100px;"> READ MORE<img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/arrow-right.png" width="24" height="24" class="pull-right" alt=""></button>
                 </div>
 			 <div class="col-sm-6"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-elude.png'?>" alt="Republish" style="width:100%;"></div>
 			 <div class="col-sm-6 elude-mob">
@@ -51,7 +52,7 @@
 						<p class="apple_p">APPLE STORE</p>
 					</button>
 					<div class="col-md-12">
-					<button class="btn snt-btn projects-btn" style="margin-bottom:100px;"> READ MORE</button>
+						<button class="btn snt-btn" style="margin-bottom:100px;"> READ MORE<img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/arrow-right.png" width="24" height="24" class="pull-right" alt=""></button>
 					</div>
                 </div>
 				</div>
@@ -68,7 +69,7 @@
 						<p class="apple_p">APPLE STORE</p>
 					</button>
 					<div class="col-md-12">
-					<button class="btn snt-btn projects-btn"> READ MORE</button>
+					<button class="btn snt-btn projects-btn"> READ MORE<img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/arrow-right.png" width="24" height="24" class="pull-right" alt=""></button>
 					</div>
               </div>
             </div>

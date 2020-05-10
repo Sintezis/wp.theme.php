@@ -5,7 +5,7 @@
       <div class="col-md-10">
         <div class="snt-welcome-container">
           <div class="row">
-              <div class="col-md-8 col-md-offset-4">
+              <div class="col-md-7 col-md-offset-4">
                 <img class="snt-logo" src="http://www.sintezis.co/wp-content/themes/wp.theme.php/imgs/logo-white.png" alt="">
                 <h2>Transforming abstract ideas into digital products</h2>
                 <p class="subtitle">We bring order to your creative chaos and make things fit perfectly together. We build, so you can dream.</p>
@@ -131,7 +131,7 @@
 			  <button class="welcome-services-button">
 				<img src="<?php echo get_template_directory_uri().'/imgs/Vector_desktop.png'?>" class="center-block" alt="">
 				<h3 style="margin-top: 40px;">Product Design</h3>
-				<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet libero eu lectus lobortis scelerisque. Etiam congue eget mauris ac auctor.</p>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet libero eu lectus lobortis scelerisque. Etiam congue eget mauris ac auctor.</p>
 			  </button>
           </div>
         
@@ -139,7 +139,7 @@
 		 	 <button class="welcome-services-button">
 				<img src="<?php echo get_template_directory_uri().'/imgs/Rocket_desktop.png'?>" class="center-block" alt="">
 				<h3 style="margin-top: 40px;">Product Development</h3>
-				<p class="text-center">Phasellus vel mattis purus. Fusce consequat urna in mattis tempor. In quis iaculis nunc. Fusce id felis ullamcorper lacus condimentum dapibus.</p>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px;">Phasellus vel mattis purus. Fusce consequat urna in mattis tempor. In quis iaculis nunc. Fusce id felis ullamcorper lacus condimentum dapibus.</p>
 			 </button>
           </div>
         
@@ -147,7 +147,7 @@
 			<button class="welcome-services-button">
 				<img src="<?php echo get_template_directory_uri().'/imgs/Software_desktop.png'?>" class="center-block" alt="">
 				<h3 style="margin-top: 30px;">Consulting</h3>
-				<p class="text-center">Vivamus hendrerit, quam sit amet laoreet dictum, urna sem tristique massa, sit amet consequat ante ligula eu nisl. Nam et est aliquet, porttitor neque et, sollicitudin diam. Etiam quis ante vel ligula rutrum aliquet.</p>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px;">Vivamus hendrerit, quam sit amet laoreet dictum, urna sem tristique massa, sit amet consequat ante ligula eu nisl. Nam et est aliquet, porttitor neque et, sollicitudin diam.</p>
 			</button>
 		  </div>
 		  
@@ -169,7 +169,7 @@
         <h1>You have an abstract software idea <br> that needs some Sintezis?</h1>
         <p>Let's talk about it</p>
         <div class="col-md-12 text-center">
-<button class="btn snt-btn" onclick="window.location.href='#contact'">GET IN TOUCH</button>
+<button class="btn snt-get-in-touch-btn" onclick="window.location.href='#contact'">GET IN TOUCH</button>
 </div>
       </div>
     </div>

@@ -7,7 +7,7 @@
 <div class="container">
   <div class="row">
 	<div class="col-sm-12 col-md-12 col-lg-12">
-	  <h1 class="hero" style="margin-top:100px; margin-bottom:100px;">Contacts</h1>
+	  <h1 class="hero" style="margin-top:100px; margin-bottom:100px;">Contact</h1>
 	</div>
   </div>
   </div>
@@ -16,10 +16,10 @@
 	
 		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 		  <div class="row">
-			<div class="col-xs-3 col-sm-3 col-md-3">
-			  <img src="/wp-content/themes/wp.theme.php/imgs/layer101.png" alt="" class="ambassador-city-icons">
+			<div class="col-xs-3 col-sm-3 col-md-2">
+			  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/layer101.png" alt="" class="ambassador-city-icons">
 			</div>
-			<div id="dublin" class="col-xs-9 col-sm-9 col-md-9 ambassador-city-columns">
+			<div id="dublin" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">HEADQUARTERS</h3>
 			  <h1>Dublin </h1>
 			  <p>Ground floor 8-9, Marino Mart,<br>  Dublin 3, D03P590,<br> Ireland</p>
@@ -30,10 +30,10 @@
 	  
 		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 		  <div class="row">
-			<div class="col-xs-3 col-sm-3 col-md-3">
-			  <img src="/wp-content/themes/wp.theme.php/imgs/Zagreb.png" alt="" class="ambassador-city-icons">
+			<div class="col-xs-3 col-sm-3 col-md-2">
+			  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Zagreb.png" alt="" class="ambassador-city-icons">
 			  </div>
-			<div id="zagreb" class="col-xs-9 col-sm-9 col-md-9 ambassador-city-columns">
+			<div id="zagreb" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
 			  <h1>Zagreb</h1>
 			  <p>Address Line 1 <br> 10000 Zagreb, <br> Croatia</p>
@@ -44,10 +44,10 @@
 	  
 		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 		  <div class="row">
-			<div class="col-xs-3 col-sm-3 col-md-3">
-			  <img src="/wp-content/themes/wp.theme.php/imgs/Bern.png" alt="" class="ambassador-city-icons">
+			<div class="col-xs-3 col-sm-3 col-md-2">
+			  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Bern.png" alt="" class="ambassador-city-icons">
 			</div>
-			<div id="bern" class="col-xs-9 col-sm-9 col-md-9 ambassador-city-columns">
+			<div id="bern" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
 			  <h1>Bern</h1>
 			  <p>Address Line 1 <br> Bern, <br> Switzerland</p>
@@ -15971,7 +15971,7 @@
   <div class="row">
 		<div class="col-xs-12 text-center brand-evangelists">
 			<h3 class="yellow"> BRAND EVANGELISTS </h3>
-			<h1 class="ambassador">Sintezis Ambassador</h1>
+			<h1 class="ambassador">Sintezis Ambassadors</h1>
 		</div>
   </div>
   </div>
@@ -15985,7 +15985,7 @@
 		<div class="col-md-3 col-sm-6">
 		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_31.png'?>" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Jennifer Doe Frankovic</h3>
-		  <div style="text-align-last:center;">
+		  <div style="text-align-last:center; margin-top: 20px;">
 			<p>San Francisco, CA, USA</p>
 			<p>+123456789</p>
 			<p>jennifer.d.frankovic@sintezis.co</p>
@@ -16005,7 +16005,7 @@
 		<div class="col-md-3 col-sm-6">
 		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_32.png'?>" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Klaus Muller</h3>
-		  <div style="text-align-last:center;">
+		  <div style="text-align-last:center; margin-top: 20px;">
 			<p>Leipzig, DE</p>
 			<p>+123456789</p>
 			<p>k-muller@sintezis.co</p>
@@ -16029,7 +16029,7 @@
 		<div class="col-md-3 col-sm-6">
 		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_29.png'?>" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">Edith Piaf</h3>
-		  <div style="text-align-last:center;">
+		  <div style="text-align-last:center; margin-top: 20px;">
 			<p>London, UK</p>
 			<p>+123456789</p>
 			<p>edith.piaf@sintezis.co</p>
@@ -16053,7 +16053,7 @@
 		  <div class="col-md-3 col-sm-6">
 			<img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_30.png'?>" class="ambassador-block" alt="">
 			<h3 class="ambassador-name">Hrvoje Horvat</h3>
-			<div style="text-align-last:center;">
+			<div style="text-align-last:center; margin-top: 20px;">
 			  <p>Pula, Croatia</p>
 			  <p>123456789</p>
 			  <p>hrvoje.horvat@sintezis.co</p>

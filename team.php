@@ -8,7 +8,7 @@
 <div class="row">
 	    	  
 	  <div class="col-sm-12 col-md-12 col-lg-12">
-			  <h1 class="hero" style="margin-top: 100px; margin-bottom:100px;">Meet The Sintezis Team</h1>
+			  <h1 class="hero" style="margin-top: 100px; margin-bottom:40px;">Meet The Sintezis Team</h1>
 			</div>
 		 
 			<div class="container">
@@ -21,13 +21,13 @@
 </div>
 </div>
 </div>
-<section id="team" class="snt-team-section" style="margin-top: 100px; margin-bottom:100px;">
+<section id="team" class="snt-team-section" style="margin-top: 100px; margin-bottom:40px;">
 	<div class="container">
 		
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-12">
         <h4 class="yellow">FACES BEHIND THE CODE</h4>
-        <h1>Meet the Team</h1>
+        <h1>Meet The Team</h1>
       </div>
     </div>
 
@@ -53,8 +53,9 @@
             <h3>Simun Strukan</h3>
             <p>CTO</p>
 			  <div class="text-center sm" style="margin-top: 30px;">
-				    <a href="https://www.instagram.com/struki84/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/struki84" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+				  <a href="https://www.facebook.com/struki84" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>  
+				  <a href="https://www.instagram.com/struki84/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
+                 
                   <a href="https://www.linkedin.com/in/šimun-strukan-91a68169/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
 			  </div>
             
@@ -64,11 +65,12 @@
             <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" class="snt-team-pic center-block" alt="">
             <h3>Gordon Cindric</h3>
             <p>Lead Product Designer</p>
-			  <div class="text-center sm" style="margin-top: 30px;">
-				                  <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+			  <div class="text-center sm" style="margin-top: 30px;">    
+				  <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+				  <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
+				  <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
                 <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+                
 			  </div>
 
           </div>
@@ -94,8 +96,8 @@
               <h3>Hrvoje Medak</h3>
               <p>Junior Web Developer</p>
 				<div class="text-center sm" style="margin-top: 30px;">
+					 <a href="https://www.facebook.com/hrvoje.medak" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
 					                  <a href="https://www.instagram.com/hrvoje.medak/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/hrvoje.medak" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
                   <a href="https://www.linkedin.com/in/hrvoje-medak-212a71136/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
 				</div>
 
@@ -108,10 +110,10 @@
               <h3>Tomislav Kozacinski</h3>
               <p>Proudct Designer</p>
 				<div class="text-center sm" style="margin-top: 30px;">
+					  <a href="https://www.facebook.com/kozacinski" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
 					                  <a href="https://www.instagram.com/universeceo/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/kozacinski" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/tomislav-kozacinski/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                   <a href="https://twitter.com/UniverseCEO" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+                  <a href="https://www.linkedin.com/in/tomislav-kozacinski/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
 					</div>
 				</div>
             </div>
@@ -132,9 +134,11 @@
      <div class="service-section">
         <img class="hire-photo">
         <h3 class="hire-h3">TAKE ACTION</h3>
-        <h2 class="hire-h2">Ready to hire an awesome  design & development team?</h2>
+        <h2 class="hire-h2 desktop">Ready to hire an awesome  design & development team?</h2>
+		 <h2 class="hire-h2 mobile">You want to hire this awesome team?</h2>
         <p class="hire-p">Let us know!</p>
         <button class="snt-get-in-touch-btn"> GET IN TOUCH </button>
+		 <button class="snt-btn mobile"> VIEW OUR WORK </button>
       </div>
 	  </div>
 	  </div>
@@ -145,9 +149,9 @@
 	  <div class="container">
     <div class="row">
       <div id="hire" class="col-sm-12 col-md-12 col-lg-12">
-        <h4 class="yellow-hire">PASSION DRIVEN, HARD-WORKING, SMART</h4>
+        <h4 class="yellow-hire">PASSION DRIVEN AND HARD-WORKING</h4>
 		<h1 class="hire-h1">We're Hiring</h1>
-		<div class="col-md-12">
+		<div class="col-md-8">
 			<p>Sintezis a remote, paperless office with flexibale work hours. We focus on organising our workflow and process to work in our favor, applying the "work smart, not hard" approach. Sound good to you? Take a look at our open positions below. </p>
 		</div>
       </div>
@@ -159,16 +163,16 @@
         <div class="row">
           <div class="col-sm-6 col-lg-6"> 
             <button class="btn snt-btn" onclick="window.location.href='/careers/#Backend_Web_Developer'">
-              <span>Backend Web Developer</span> <br>
-              <p>PHP:Laravel, Ruby:Sinatra, Java:SpringBoot</p>
+              <span>Senior Backend Developer</span> <br>
+              <p>5y, Java, Spring, PostgreSQL</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
             </button>
           </div>
 
           <div class="col-sm-6 col-lg-6"> 
             <button class="btn snt-btn" onclick="window.location.href='/careers/#Frontend_Web_Developer'">
-              <span>Frontend Web Developer</span> <br>
-              <p>HTML, CSS:SASS, JS:Vue.js, AngularJS, ReactJS</p>
+              <span>UX Designer</span> <br>
+              <p>2y, Sketch, Figma, Zeplin</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
             </button>
           </div>
@@ -179,16 +183,16 @@
           
         <div class="col-sm-6 col-lg-6">
             <button class="btn snt-btn" onclick="window.location.href='careers/#iOs_Developer'">
-              <span>iOS Developer</span> <br>
-              <p>Swift, VIPER, RxSwift</p>
+              <span>Junior Frontend Developer</span> <br>
+              <p>1y, HTML/CSS, Javascript, Bootstrap</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
             </button>
           </div>
 
           <div class="col-sm-6 col-lg-6">
             <button class="btn snt-btn" onclick="window.location.href='/careers/UIUX_designer'">
-              <span>UI/UX Designer</span> <br>
-              <p>Sketch, Figma, Zeplin, Invision</p>
+              <span>Frontend Developer</span> <br>
+              <p>2y, HTML/CSS, LESS, Typescript</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
             </button>
           </div>

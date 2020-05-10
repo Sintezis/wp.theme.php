@@ -55,7 +55,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>DESIGN SPRINT</h2>
 				<p>The Design Sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. Developed at Google Ventures, it’s a “greatest hits” of business strategy, innovation, behavior science, design thinking, and more—packaged into a battle-tested process that any team can use.</p>
-				<p> Working together in a sprint, you can shortcut the endless-debate cycle and compress months of time into a single week. Instead of waiting to launch a minimal product to understand if an idea is any good, you’ll get clear data from a realistic prototype. The sprint gives you a superpower: You can fast-forward into the future to see your finished product and customer reactions, before making any expensive commitments. Read More</p>
+				<p> Working together in a sprint, you can shortcut the endless-debate cycle and compress months of time into a single week. Instead of waiting to launch a minimal product to understand if an idea is any good, you’ll get clear data from a realistic prototype. The sprint gives you a superpower: You can fast-forward into the future to see your finished product and customer reactions, before making any expensive commitments. <button class="read-more"><p style="color:#FFC700;"><u>Read More</u></p></button></p>
 				<p> We facilitate Design Sprints on-site or remote.</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:15rem;">
 				<g opacity="0.05">
@@ -71,7 +71,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>UX/UI DESIGN</h2>
 				<p>User eXperience (UX) design is the process of manipulating user behavior through usability, usefulness, and desirability provided in the interaction with a product. User experience design encompasses traditional human–computer interaction design and extends it by addressing all aspects of a product or service as perceived by users. </p>
-				<p><u>Read more</u></p>
+				<button class="read-more"><p style="color:#FFC700;"><u>Read More</u></p></button>
 				<p class="p-ux-design"> "UX design is like telling a joke, if you have to explain it: you’ve failed."</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-48rem; margin-left:15rem;">
 				<g opacity="0.05">
@@ -126,12 +126,12 @@
 		<p> In other words, product development incorporates a product's entire journey, including: </p>
 	</div>
 	<div class="col-sm-6 col-md-6 col-lg-6">
-		<li> <p> Identifying a market need </p></li>
-		<li> <p> Conceptualizing and designing the product </p></li>
-		<li> <p> Building the product roadmap </p></li>
-		<li> <p> Developing a minimum viable product (MVP) </p></li>
-		<li> <p> Releasing the MVP to users </p></li>
-		<li> <p> Iterating based on user feedback </p></li>
+		<ol><li> <p> Identifying a market need </p></li></ol>
+		<ol><li> <p> Conceptualizing and designing the product </p></li></ol>
+		<ol><li> <p> Building the product roadmap </p></li></ol>
+		<ol><li> <p> Developing a minimum viable product (MVP) </p></li></ol>
+		<ol><li> <p> Releasing the MVP to users </p></li></ol>
+		<ol><li> <p> Iterating based on user feedback </p></li></ol>
 	</div>
 
 	<div class="row">
@@ -181,7 +181,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>MINIMUM VIABLE PRODUCT</h2>
 				<p>A minimum viable product (MVP) is a concept from Lean Startup that stresses the impact of learning in new product development. Eric Ries, defined an MVP as that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort. This validated learning comes in the form of whether your customers will actually purchase your product.</p>
-				<p> A key premise behind the idea of MVP is that you produce an actual product (which may be no more than a landing page, or a service with an appearance of automation, but which is fully manual behind the scenes) that you can offer to customers and observe their actual behavior with the product or service. Seeing what people actually do with respect to a product is much more reliable than asking people what they would do. Read more</p>
+				<p> A key premise behind the idea of MVP is that you produce an actual product (which may be no more than a landing page, or a service with an appearance of automation, but which is fully manual behind the scenes) that you can offer to customers and observe their actual behavior with the product or service. Seeing what people actually do with respect to a product is much more reliable than asking people what they would do. <button class="read-more"><p style="color:#FFC700;"><u>Read More</u></p></button></p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:15rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
@@ -246,11 +246,11 @@
 			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>SOFTWARE DEV CONSULTING</h2>
 				<p>Building a usable software that’s loved by many is hard, but our experts can guide you along the way, helping you with:</p>
-					<li> <p> Best software development practices, methodologies and procedures </p></li>
-					<li> <p> Agile project life cycle, from roles such as Scrum Master, Product Owner to different ceremonies (Sprint Planning, Demo, Retro) </p></li>
-					<li> <p> Who, when and how to hire developers, designers, testers and other roles </p></li>
-					<li> <p> Security </p></li>
-					<li> <p> Technology </p></li>
+					<ol><li> <p> Best software development practices, methodologies and procedures </p></li></ol>
+					<ol><li> <p> Agile project life cycle, from roles such as Scrum Master, Product Owner to different ceremonies (Sprint Planning, Demo, Retro) </p></li></ol>
+					<ol><li> <p> Who, when and how to hire developers, designers, testers and other roles </p></li></ol>
+					<ol><li> <p> Security </p></li></ol>
+					<ol><li> <p> Technology </p></li></ol>
 					<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:15rem;">
 					<g opacity="0.05">
 					<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
@@ -324,11 +324,14 @@
 					<h2 class="service-h2">You have an abstract software idea that needs some Sintezis?</h2>
 					<p class="service-page-photo-p">Let's talk about it</p>
 				</div>
-				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6">
+				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6 desktop">
 					<button class="service-button"> VIEW OUR WORK</button>
 				</div>
 				<div id="btn2" class="col-sm-6 col-md-6 col-lg-6">
 					<button class="snt-get-in-touch-btn"> GET IN TOUCH </button>
+				</div>
+				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6 mobile">
+					<button class="service-button"> VIEW OUR WORK</button>
 				</div>
 			</div>
 	</div>
@@ -351,16 +354,16 @@
 								<p class="travel-text">Our Experience</p>
 								<p class="travel-p"> We have successfully implemented (and certified) various third party APIs for our clients:</p>
 									<div class="col-md-12">
-										<div class="col-md-12">
+										<div class="col-md-6">
 											<button class="amadeus-photo">
 										</button></div>
-										<div class="col-md-12">
+										<div class="col-md-6">
 											<button class="travelport-photo">
 										</button></div>
-										<div class="col-md-12">
+										<div class="col-md-6">
 											<button class="skyscanner-photo">
 										</button></div>
-										<div class="col-md-12 booking">
+										<div class="col-md-6 booking">
 											<button class="booking-photo">
 										</button></div>
 									</div>
@@ -368,7 +371,7 @@
 								<p class="travel-text"> Custom Built Software </p>
 								<p class="travel-p" x=""> Got a brand new travel tech idea? Need the muscle to bring it to the life? You are at the right place. Feel free to contact us and get a free quote!</p>
 								<div class="travel-btn">
-									<button class="snt-get-in-touch-btn"> GET FREE QUOTE</button>
+									<button class="snt-get-quote-btn"> GET FREE QUOTE</button>
 								</div>
 							</div>
 		  				</div>
@@ -394,10 +397,10 @@
 								<p class="travel-text">Our Solutions</p>
 								<p class="travel-p"> In esse ad ut esse voluptate. Consectetur quis id quis quis exercitation voluptate occaecat ea dolore cupidatat tempor culpa.</p>
 								<div class="col-md-12">
-									<div class="col-md-12">
+									<div class="col-md-6">
 										<button class="behaving-wealthy">
 									</div>
-									<div class="col-md-12" style="margin-bottom:15rem;">
+									<div class="col-md-6" style="margin-bottom:15rem;">
 										<button class="bitcoin">
 									</div>
 								</div>
