@@ -17,7 +17,7 @@
 		<div class="col-sm-12 col-md-4 col-lg-4">
 		  <div class="row">
 			<div class="col-xs-3 col-sm-3 col-md-2">
-			  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/layer101.png" alt="" class="ambassador-city-icons">
+			  <img src="/wp-content/themes/wp.theme.php/imgs/layer101.png" alt="" class="ambassador-city-icons">
 			</div>
 			<div id="dublin" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">HEADQUARTERS</h3>
@@ -31,7 +31,7 @@
 		<div class="col-sm-12 col-md-4 col-lg-4">
 		  <div class="row">
 			<div class="col-xs-3 col-sm-3 col-md-2">
-			  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Zagreb.png" alt="" class="ambassador-city-icons">
+			  <img src="/wp-content/themes/wp.theme.php/imgs/Zagreb.png" alt="" class="ambassador-city-icons">
 			  </div>
 			<div id="zagreb" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
@@ -45,7 +45,7 @@
 		<div class="col-sm-12 col-md-4 col-lg-4">
 		  <div class="row">
 			<div class="col-xs-3 col-sm-3 col-md-2">
-			  <img src="http://localhost:8888/sintezisdemo/wp-content/themes/wp.theme.php/imgs/Bern.png" alt="" class="ambassador-city-icons">
+			  <img src="/wp-content/themes/wp.theme.php/imgs/Bern.png" alt="" class="ambassador-city-icons">
 			</div>
 			<div id="bern" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
