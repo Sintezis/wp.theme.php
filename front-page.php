@@ -127,7 +127,7 @@
         <div class="row">
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-			  <button class="welcome-services-button">
+			  <button class="welcome-services-button" onclick="window.location.href='/services/#product-design'">
 				<img src="<?php echo get_template_directory_uri().'/imgs/Vector_desktop.png'?>" class="center-block" alt="" style="margin-bottom:59px;">
 				<h0 style="margin-top: 40px;">Product Design</h0>
 				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet libero eu lectus lobortis scelerisque. Etiam congue eget mauris ac auctor.</p>
@@ -135,7 +135,7 @@
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-		 	 <button class="welcome-services-button">
+		 	 <button class="welcome-services-button" onclick="window.location.href='/services/#product-development'">
 				<img src="<?php echo get_template_directory_uri().'/imgs/Rocket_desktop.png'?>" class="center-block" alt="" style="margin-bottom:59px;">
 				<h0 style="margin-top: 40px;">Product Development</h0>
 				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Phasellus vel mattis purus. Fusce consequat urna in mattis tempor. In quis iaculis nunc. Fusce id felis ullamcorper lacus condimentum dapibus.</p>
@@ -143,7 +143,7 @@
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-			<button class="welcome-services-button">
+			<button class="welcome-services-button" onclick="window.location.href='/services/#consulting'">
 				<img src="<?php echo get_template_directory_uri().'/imgs/Software_desktop.png'?>" class="center-block" alt="" style="margin-bottom:50px;">
 				<h0 style="margin-top: 30px;">Consulting</h0>
 				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Vivamus hendrerit, quam sit amet laoreet dictum, urna sem tristique massa, sit amet consequat ante ligula eu nisl. Nam et est aliquet, porttitor neque et, sollicitudin diam.</p>
