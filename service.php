@@ -1,4 +1,5 @@
-<?php get_header(); ?>
+<?php get_header(); 
+/*Template Name: Services */?>
 
 
 <section id="product-design" class="snt-services-page-section">
@@ -26,15 +27,15 @@
 		</div>
 
   	</div>
-  	<div class="col-sm-6 col-sm-6 col-md-6 col-lg-6 col-lg-6">
+  	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 		<p> Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
 	</div>
-	<div class="col-sm-6 col-sm-6 col-md-6 col-lg-6 col-lg-6">
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 		<p> Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
 	</div>
 
 	<div class="row">
-		<div id="product-des" class="col-sm-4 col-md-4 col-lg-4 des-ux-int">
+		<div class="col-sm-4 col-md-4 col-lg-4 des-ux-int">
 			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
 				<button class="thunder" id="c1" value="showDesign" onclick="showDesign()" style="color: rgb(195, 25, 225); background: url(&quot;/wp-content/themes/wp.theme.php/imgs/Thunder_active.png&quot;) no-repeat;">
 					<h0> Design Sprint </h0>
@@ -55,7 +56,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>DESIGN SPRINT</h2>
 				<p>The Design Sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. Developed at Google Ventures, it’s a “greatest hits” of business strategy, innovation, behavior science, design thinking, and more—packaged into a battle-tested process that any team can use.</p>
-				<p> Working together in a sprint, you can shortcut the endless-debate cycle and compress months of time into a single week. Instead of waiting to launch a minimal product to understand if an idea is any good, you’ll get clear data from a realistic prototype. The sprint gives you a superpower: You can fast-forward into the future to see your finished product and customer reactions, before making any expensive commitments. <button class="read-more"><p style="color:#FFC700;"><u>Read More</u></p></button></p>
+				<p> Working together in a sprint, you can shortcut the endless-debate cycle and compress months of time into a single week. Instead of waiting to launch a minimal product to understand if an idea is any good, you’ll get clear data from a realistic prototype. The sprint gives you a superpower: You can fast-forward into the future to see your finished product and customer reactions, before making any expensive commitments. Read More</p>
 				<p> We facilitate Design Sprints on-site or remote.</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:15rem;">
 				<g opacity="0.05">
@@ -71,7 +72,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>UX/UI DESIGN</h2>
 				<p>User eXperience (UX) design is the process of manipulating user behavior through usability, usefulness, and desirability provided in the interaction with a product. User experience design encompasses traditional human–computer interaction design and extends it by addressing all aspects of a product or service as perceived by users. </p>
-				<button class="read-more"><p style="color:#FFC700;"><u>Read More</u></p></button>
+				<p><u>Read more</u></p>
 				<p class="p-ux-design"> "UX design is like telling a joke, if you have to explain it: you’ve failed."</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-48rem; margin-left:15rem;">
 				<g opacity="0.05">
@@ -120,12 +121,12 @@
 		</div>
 
   	</div>
-  	<div class="col-sm-6 col-md-6 col-lg-6">
+  	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 		<p> We get to know you and your users, competition and domain space. We sketch, prototype and design usable software keeping the business needs in mind.</p>
 		<p> Product development typically refers to all of the stages involved in bringing a product from concept or idea, through market release and beyond.</p>
 		<p> In other words, product development incorporates a product's entire journey, including: </p>
 	</div>
-	<div class="col-sm-6 col-md-6 col-lg-6">
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 		<ol><li> <p> Identifying a market need </p></li></ol>
 		<ol><li> <p> Conceptualizing and designing the product </p></li></ol>
 		<ol><li> <p> Building the product roadmap </p></li></ol>
@@ -135,7 +136,7 @@
 	</div>
 
 	<div class="row">
-		<div id="product-dev" class="col-sm-4 col-md-4 col-lg-4 pro-pro-min">
+		<div class="col-sm-4 col-md-4 col-lg-4 pro-pro-min">
 			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
 				<button id="c4" class="plane" value="showProof" onclick="showProof()">
 					<h0> Proof of Concept </h0>
@@ -181,7 +182,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>MINIMUM VIABLE PRODUCT</h2>
 				<p>A minimum viable product (MVP) is a concept from Lean Startup that stresses the impact of learning in new product development. Eric Ries, defined an MVP as that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort. This validated learning comes in the form of whether your customers will actually purchase your product.</p>
-				<p> A key premise behind the idea of MVP is that you produce an actual product (which may be no more than a landing page, or a service with an appearance of automation, but which is fully manual behind the scenes) that you can offer to customers and observe their actual behavior with the product or service. Seeing what people actually do with respect to a product is much more reliable than asking people what they would do. <button class="read-more"><p style="color:#FFC700;"><u>Read More</u></p></button></p>
+				<p> A key premise behind the idea of MVP is that you produce an actual product (which may be no more than a landing page, or a service with an appearance of automation, but which is fully manual behind the scenes) that you can offer to customers and observe their actual behavior with the product or service. Seeing what people actually do with respect to a product is much more reliable than asking people what they would do. Read more</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:15rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
@@ -212,15 +213,15 @@
 		</div>
 
   	</div>
-  	<div class="col-sm-6 col-md-6 col-lg-6">
+  	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 		<p> Adipisicing cupidatat aliquip sunt ullamco cillum nulla adipisicing in aute enim. Et veniam in aliqua aute ex cupidatat. Commodo laborum laborum voluptate exercitation id do non. Consequat ipsum eu eu nisi veniam tempor id ullamco. Culpa velit eu sint cillum voluptate dolor incididunt proident non do. Nulla est ullamco eu amet ad exercitation et eu.</p>
 	</div>
-	<div class="col-sm-6 col-md-6 col-lg-6">
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 		<p> Occaecat laborum culpa mollit tempor reprehenderit enim voluptate eu ex irure minim cillum quis. Aliqua laboris anim voluptate non commodo proident elit. Non adipisicing et culpa minim non esse ut officia commodo laboris exercitation sunt consectetur. Minim reprehenderit cupidatat sunt esse velit do voluptate proident et. </p>
 	</div>
 
 	<div class="row consulting-display">
-		<div id="consulting" class="col-sm-4 col-md-4 col-lg-4 sof-pro-soc-int">
+		<div class="col-sm-4 col-md-4 col-lg-4 sof-pro-soc-int">
 			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
 				<button id="c7" class="software" value="showSoftware" onclick="showSoftware()">
 					<h0> Software Development </h0>
@@ -323,7 +324,6 @@
 					<h3 class="contact-service-h3">TAKE ACTION</h3>
 					<h2 class="service-h2">You have an abstract software idea that needs some Sintezis?</h2>
 					<p class="service-page-photo-p">Let's talk about it</p>
-				</div>
 				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6 desktop">
 					<button class="service-button"> VIEW OUR WORK</button>
 				</div>
@@ -333,6 +333,7 @@
 				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6 mobile">
 					<button class="service-button"> VIEW OUR WORK</button>
 				</div>
+</div>
 			</div>
 	</div>
     </div>
@@ -343,9 +344,9 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
 	  
-	  			<div class="row service-travel-photo">
+	  			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 service-travel-photo"></div>
 
-					<div id="travel" class="col-sm-6 col-md-6 col-lg-6 travel" style="margin-top:0rem;border:none; background: none !important;">
+					<div id="travel" class="col-xs-12 col-sm-12 col-md-6 col-lg-6 travel" style="margin-top:0rem;border:none; background: none !important;">
 		  				<div class="row">
 							<div class="col-md-12">
 								<h3 class="yellow">WHAT WE ARE REALLY GOOD AT</h3>
@@ -353,17 +354,17 @@
 								<p>With our extensive knowledge of the travel industry and experience with building various travel tech products/sites, we can get your project of the ground easily.</p>
 								<p class="travel-text">Our Experience</p>
 								<p class="travel-p"> We have successfully implemented (and certified) various third party APIs for our clients:</p>
-									<div class="col-md-12">
-										<div class="col-md-6">
+									<div class="col-xs-12 col-md-12">
+										<div class="col xs-12 cpl-sm-12 col-md-6">
 											<button class="amadeus-photo">
 										</button></div>
-										<div class="col-md-6">
+										<div class="col xs-12 cpl-sm-12 col-md-6">
 											<button class="travelport-photo">
 										</button></div>
-										<div class="col-md-6">
+										<div class="col xs-12 cpl-sm-12 col-md-6">
 											<button class="skyscanner-photo">
 										</button></div>
-										<div class="col-md-6 booking">
+										<div class="col xs-12 cpl-sm-12 col-md-6 booking">
 											<button class="booking-photo">
 										</button></div>
 									</div>
@@ -371,24 +372,23 @@
 								<p class="travel-text"> Custom Built Software </p>
 								<p class="travel-p" x=""> Got a brand new travel tech idea? Need the muscle to bring it to the life? You are at the right place. Feel free to contact us and get a free quote!</p>
 								<div class="travel-btn">
-									<button class="snt-get-quote-btn"> GET FREE QUOTE</button>
+									<button class="snt-get-in-touch-btn"> GET FREE QUOTE</button>
 								</div>
 							</div>
 		  				</div>
 					</div>
-				</div>
 			</div>
 		</div>
 </div></section>
 
-<section id="service-travel" class="snt-services-finance-page-section" style="margin-top: 100px; margin-bottom: 100px;">
+<section id="service-travel" class="snt-services-finance-page-section" style="margin-top: 200px; margin-bottom: 100px;">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
 	  
-	 			 <div class="row finance-photo">
+	 			 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 finance-photo"></div>
 	  
-					<div id="finance" class="col-sm-6 col-md-6 col-lg-6 finance"style="border:none; background: none !important;">
+					<div id="finance" class="col-xs-12 col-sm-12 col-md-6 col-lg-6 finance"style="border:none; background: none !important;">
 						<div class="row">
 							<div class="col-md-12">
 								<h3 class="cyan">WHAT WE ARE REALLY GOOD AT</h3>
@@ -396,11 +396,11 @@
 								<p>Cupidatat aute ullamco adipisicing sunt do quis sint id occaecat ea fugiat labore ex. Consectetur magna mollit eu ullamco voluptate duis id cillum fugiat eu. Est dolore sunt ipsum laboris pariatur sit. Eiusmod adipisicing cupidatat voluptate enim sunt. Duis qui eiusmod do irure commodo sint irure ullamco.</p>
 								<p class="travel-text">Our Solutions</p>
 								<p class="travel-p"> In esse ad ut esse voluptate. Consectetur quis id quis quis exercitation voluptate occaecat ea dolore cupidatat tempor culpa.</p>
-								<div class="col-md-12">
-									<div class="col-md-6">
+								<div class="col-xs-12 col-md-12">
+									<div class="col-xs-12 col-sm-12 col-md-6">
 										<button class="behaving-wealthy">
 									</div>
-									<div class="col-md-6" style="margin-bottom:15rem;">
+									<div class="col-xs-12 col-sm-12 col-md-6" style="margin-bottom:15rem;">
 										<button class="bitcoin">
 									</div>
 								</div>
@@ -411,7 +411,6 @@
 							</div>
 						</div>
 					</div>
-				</div>
 			</div>
 		</div>
 	</div>

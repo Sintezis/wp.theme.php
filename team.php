@@ -11,13 +11,11 @@
 			  <h1 class="hero" style="margin-top: 100px; margin-bottom:40px;">Meet The Sintezis Team</h1>
 			</div>
 		 
-			<div class="container">
 	  <div class="col-sm-6 col-md-6 col-lg-6">
 		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
 	</div>
 	<div class="col-sm-6 col-md-6 col-lg-6">
 		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
-</div>
 </div>
 </div>
 </div>
@@ -34,7 +32,7 @@
      <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-12">
         
-        <div class="row">
+        <div class="row" style="margin-bottom:94px;">
         
           <div class="col-md-4 col-sm-4">
             <img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" class="snt-team-pic center-block" alt="">
@@ -149,10 +147,10 @@
 	  <div class="container">
     <div class="row">
       <div id="hire" class="col-sm-12 col-md-12 col-lg-12">
-        <h4 class="yellow-hire">PASSION DRIVEN AND HARD-WORKING</h4>
+        <h4 class="yellow-hire">PASSION-DRIVEN and HARD-WORKING</h4>
 		<h1 class="hire-h1">We're Hiring</h1>
 		<div class="col-md-8">
-			<p>Sintezis a remote, paperless office with flexibale work hours. We focus on organising our workflow and process to work in our favor, applying the "work smart, not hard" approach. Sound good to you? Take a look at our open positions below. </p>
+			<p>Sintezis a remote, paperless office with flexibale work hours. We focus on organising our workflow and process to work in our favor, applying the "work smart, not hard" approach. Sound good to you?<br> Take a look at our open positions below. </p>
 		</div>
       </div>
     </div>
@@ -161,7 +159,7 @@
       <div class="col-sm-12 col-md-8 col-lg-8 col-lg-offset-2 col-md-offset-2">
 
         <div class="row">
-          <div class="col-sm-6 col-lg-6"> 
+          <div class="col-sm-6 col-lg-6 jobs"> 
             <button class="btn snt-btn" onclick="window.location.href='/careers/#Backend_Web_Developer'">
               <span>Senior Backend Developer</span> <br>
               <p>5y, Java, Spring, PostgreSQL</p>
@@ -169,7 +167,7 @@
             </button>
           </div>
 
-          <div class="col-sm-6 col-lg-6"> 
+          <div class="col-sm-6 col-lg-6 jobs"> 
             <button class="btn snt-btn" onclick="window.location.href='/careers/#Frontend_Web_Developer'">
               <span>UX Designer</span> <br>
               <p>2y, Sketch, Figma, Zeplin</p>
@@ -181,7 +179,7 @@
 
         <div class="row">
           
-        <div class="col-sm-6 col-lg-6">
+        <div class="col-sm-6 col-lg-6 jobs">
             <button class="btn snt-btn" onclick="window.location.href='careers/#iOs_Developer'">
               <span>Junior Frontend Developer</span> <br>
               <p>1y, HTML/CSS, Javascript, Bootstrap</p>
@@ -189,7 +187,7 @@
             </button>
           </div>
 
-          <div class="col-sm-6 col-lg-6">
+          <div class="col-sm-6 col-lg-6 jobs">
             <button class="btn snt-btn" onclick="window.location.href='/careers/UIUX_designer'">
               <span>Frontend Developer</span> <br>
               <p>2y, HTML/CSS, LESS, Typescript</p>

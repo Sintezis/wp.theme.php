@@ -2,18 +2,13 @@
  <section id="welcome" class="snt-welcome-section">
 		  <div class="container-fluid">
     <div class="row">
-      <div class="col-md-10">
-        <div class="snt-welcome-container">
-          <div class="row">
-              <div class="col-md-7 col-md-offset-4">
+              <div class="col-md-10 snt-welcome-container">
+                <div class="col-md-7 col-md-offset-4">
                 <img class="snt-logo" src="http://www.sintezis.co/wp-content/themes/wp.theme.php/imgs/logo-white.png" alt="">
                 <h2>Transforming abstract ideas into digital products</h2>
-                <p class="subtitle">We bring order to your creative chaos and make things fit perfectly together. We build, so you can dream.</p>
+                <p class="subtitle">We bring order to your creative chaos and make things fit perfectly togeather. We build, so you can dream.</p>
                 <button class="snt-btn btn" onclick="window.location.href='#projects'">SEE OUR WORK <img src="http://www.sintezis.co/wp-content/themes/wp.theme.php/imgs/arrow-bottom.png" width="24" height="24" alt=""></button>
-              </div>
-          </div>
-        </div>
-      </div>
+        </div></div>
               </div>
     </div>
     <div class="snt-waypoint"></div>
@@ -29,7 +24,6 @@
     </div>
 
     <div class="row">
-		<div class="container">
       <div class="col-md-12">
         <!-- carousel -->
         <div id="portfolio-slider" class="snt-carousel carousel slide"> 
@@ -39,14 +33,16 @@
             <!-- Slide 1 -->
             <div class="snt-carousel-item item active">
               <div class="row row-eq-height">
-                <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-elude.png'?>" alt="Republish"></div>
+                <div class="col-md-6 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-elude.png'?>" alt="Republish"></div>
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Elude iOS App</h3>
 					<p>Travel on a budget, you define it and Elude app finds it. The Elude app lets you find the best travel arrangements within your budget by searching the best flights and hotels for the destination of your choosing.</p>
-					<button class="apple_store">
-						<p class="apple_p">APPLE STORE</p>
-					</button>
+          <div class="col-md-12 apple-btn">
+            <button class="apple_store">
+              <p class="apple_p">APPLE STORE</p>
+            </button>
+          </div>
                   </div>
                 </div>
               </div>
@@ -55,14 +51,16 @@
             <!-- Slide 2 -->
             <div class="snt-carousel-item item">
               <div class="row row-eq-height">
-                <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.png'?>" alt="Republish"></div>
+                <div class="col-md-6 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.png'?>" alt="Republish"></div>
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Republish iOS App</h3>
-                    <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling </p>
-					<button class="apple_store">
-						<p class="apple_p">APPLE STORE</p>
-					</button>
+                    <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling “Your Digest”. </p>
+                    <div class="col-md-12 apple-btn">
+            <button class="apple_store">
+              <p class="apple_p">APPLE STORE</p>
+            </button>
+          </div>
 				</div>
                 </div>
               </div>
@@ -71,14 +69,16 @@
             <!-- Slide 3 -->
             <div class="snt-carousel-item item">
               <div class="row row-eq-height">
-                <div class="col-md-5 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-fooc.png'?>" alt="Republish"></div>
+                <div class="col-md-6 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-fooc.png'?>" alt="Republish"></div>
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Fooc iOS App</h3>
 					<p>If you need to find a buddy for your football or basketball game, Fooc can help you with that. Select the number of players you are looking for, put the game court on the map and wait a while. Someone will join in.</p>
-					<button class="apple_store">
-						<p class="apple_p">APPLE STORE</p>
-					</button>
+					<div class="col-md-12 apple-btn">
+            <button class="apple_store">
+              <p class="apple_p">APPLE STORE</p>
+            </button>
+          </div>
 				</div>
                 </div>
               </div>
@@ -104,7 +104,6 @@
             <li data-target="#portfolio-slider" data-slide-to="2"></li>
           </ol>
           
-        </div>
 
       </div>
 		</div>
@@ -129,25 +128,25 @@
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
 			  <button class="welcome-services-button">
-				<img src="<?php echo get_template_directory_uri().'/imgs/Vector_desktop.png'?>" class="center-block" alt="">
-				<h3 style="margin-top: 40px;">Product Design</h3>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet libero eu lectus lobortis scelerisque. Etiam congue eget mauris ac auctor.</p>
+				<img src="<?php echo get_template_directory_uri().'/imgs/Vector_desktop.png'?>" class="center-block" alt="" style="margin-bottom:59px;">
+				<h0 style="margin-top: 40px;">Product Design</h0>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet libero eu lectus lobortis scelerisque. Etiam congue eget mauris ac auctor.</p>
 			  </button>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
 		 	 <button class="welcome-services-button">
-				<img src="<?php echo get_template_directory_uri().'/imgs/Rocket_desktop.png'?>" class="center-block" alt="">
-				<h3 style="margin-top: 40px;">Product Development</h3>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px;">Phasellus vel mattis purus. Fusce consequat urna in mattis tempor. In quis iaculis nunc. Fusce id felis ullamcorper lacus condimentum dapibus.</p>
+				<img src="<?php echo get_template_directory_uri().'/imgs/Rocket_desktop.png'?>" class="center-block" alt="" style="margin-bottom:59px;">
+				<h0 style="margin-top: 40px;">Product Development</h0>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Phasellus vel mattis purus. Fusce consequat urna in mattis tempor. In quis iaculis nunc. Fusce id felis ullamcorper lacus condimentum dapibus.</p>
 			 </button>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
 			<button class="welcome-services-button">
-				<img src="<?php echo get_template_directory_uri().'/imgs/Software_desktop.png'?>" class="center-block" alt="">
-				<h3 style="margin-top: 30px;">Consulting</h3>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px;">Vivamus hendrerit, quam sit amet laoreet dictum, urna sem tristique massa, sit amet consequat ante ligula eu nisl. Nam et est aliquet, porttitor neque et, sollicitudin diam.</p>
+				<img src="<?php echo get_template_directory_uri().'/imgs/Software_desktop.png'?>" class="center-block" alt="" style="margin-bottom:50px;">
+				<h0 style="margin-top: 30px;">Consulting</h0>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Vivamus hendrerit, quam sit amet laoreet dictum, urna sem tristique massa, sit amet consequat ante ligula eu nisl. Nam et est aliquet, porttitor neque et, sollicitudin diam.</p>
 			</button>
 		  </div>
 		  
@@ -280,10 +279,10 @@
   <section id="contact" class="snt-contact-section">
 	  <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-2">
-        <h4>FIRST CONTACT</h4>
-        <h1>Send us a Message</h1>
-        <p>Ready to talk? Contact us for a free consult and we’ll get back to you in 24 hours. You’re contact information is kept private and we will never send you spam.</p>
+      <div class="col-md-6 col-md-offset-1">
+        <h4>JOIN OUR TEAM</h4>
+        <h1>Drop Us a Message</h1>
+        <p>You are interested in becoming our Ambassador? Let’s keep in touch!</p>
       </div>
 		  </div>
     </div>

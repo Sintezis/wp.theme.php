@@ -24,17 +24,6 @@ html, body, .snt-container {
 }
 
 /* mobile */
-@media (max-width: 1365px) {
-
-}
-
-@media (max-width: 1023px) {
-
-	.row-eq-height {
-		display: initial;
-	}
-
-}
 
 @media (min-width: 1024px) and (max-width: 1200px) {
 	.snt-btn p {
@@ -93,7 +82,7 @@ html, body, .snt-container {
     border: 2px solid #FB178A;
 	box-sizing: border-box;
 	border-radius: 4px;
-	width: 291px;
+	width: 260px;
 	height: 57px;
 	font-family: Overpass;
 	font-style: normal;
@@ -116,7 +105,7 @@ html, body, .snt-container {
 	border: 2px solid #FFFFFF;
 	box-sizing: border-box;
 	border-radius: 4px;
-	width: 291px;
+	width: 260px;
 	height: 57px;
 	font-family: Overpass;
 	font-style: normal;
@@ -154,7 +143,13 @@ html, body, .snt-container {
 	display: none;
 }
 
-@media (min-width: 0px) and (max-width: 1024px){
+@media (min-width: 0px) and (max-width: 1023px){
+	.apple_p {
+		margin-left: 60px !important;
+	}
+	.apple-btn {
+		text-align: center !important;
+	}
 	img.custom_header{
 		margin-top: 5rem;
 		width: 100%
@@ -240,12 +235,13 @@ html, body, .snt-container {
 	.projects-btn {
 		width: 240px;
 	}
-	.ft-social {
-		display: none;
+	.behaving-wealthy {
+		width: 122% !important;
+		left: -10px;
+		right: 0;
 	}
-	.social-ft {
-		display: flex !important;
-		place-content: center;
+	.service-travel-photo {
+		background-size: cover !important;
 	}
 }
 
@@ -264,6 +260,12 @@ html, body, .snt-container {
 		line-height: 32px;
 		font-family: Overpass;
 	}
+	.behaving-wealthy {
+		width: 100% !important;
+	}
+	.service-travel-photo {
+		background-size: cover !important;
+	}
 }
 
 @media only screen and (min-width: 375px) and (max-width: 410px) {
@@ -275,6 +277,12 @@ html, body, .snt-container {
 		font-size: 24px;
 		line-height: 32px;
 		font-family: Overpass;
+	}
+	.behaving-wealthy {
+		width: 100% !important;
+	}
+	.service-travel-photo {
+		background-size: cover !important;
 	}
 }
 
@@ -301,6 +309,49 @@ html, body, .snt-container {
 		margin-right: 10px !important;
 		margin-left: 10px !important;
 	}
+	.behaving-wealthy {
+		width: 100% !important;
+	}
+	.service-travel-photo {
+		background-size: cover !important;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+	div#btn1 {
+		margin-top: -1rem !important;
+		text-align: center !important;
+	}
+	.finance-photo {
+		left: 0px !important;
+	}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	.service-travel-photo {
+		left: 530px !important;
+	}
+	svg {
+		display: none;
+	}
+	.amadeus-photo {
+		width: 100% !important;
+	}
+	.travelport-photo {
+		width: 100% !important;
+	}
+	.skyscanner-photo {
+		width: 100% !important;
+	}
+	.booking-photo {
+		width: 100% !important;
+	}
+	.behaving-wealthy {
+		width: 100% !important;
+	}
+	.bitcoin {
+		width: 100% !important;
+	}
 }
 
 @media only screen and (min-width:1020px) and (max-width:1025px){
@@ -313,1691 +364,6 @@ html, body, .snt-container {
 	display: none;
 }
 /* mobile */
-@media (min-width: 0px) and (max-width: 320px){
-	.snt-services-welcome-section h1 {
-		text-align: center;
-	}
-	.snt-services-welcome-section h4 {
-		text-align: center;
-	}
-	.projects-p {
-		text-align: center !important;
-	}
-	.elude {
-		display: none;
-	}
-	.elude-mob {
-		display: block !important;
-	}
-	.snt-btn span {
-		font-size: 19px;
-	}
-	.punctuation-up {
-		background-position: left !important;
-	}
-	.punctuation-p {
-		width: 100% !important;
-		margin-left: 0rem !important;
-	}
-	.testimonial-mobile {
-		margin-bottom: 20px;
-	}
-	.snt-pages-container {
-		display: none;
-	}
-	.snt-footer-section .col-md-3 {
-		width: 70%;
-		margin-top: -12rem;
-		margin-bottom: 15rem;
-	}
-	.punctuation-down {
-		margin-left: 18rem !important;
-	}
-	div#equity {
-		border-left: none !important;
-    	border-top: groove #3BDDDA;
-	}
-	div#investing {
-	    border-left: none !important;
-    	border-top: groove #3BDDDA;
-	}
-	.equity {
-		height: 15rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.investing {
-		height: 15rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.snt-team-section .col-md-10 h3 {
-		text-align: center !important;
-	}
-	.snt-team-section .snt-social-block.center-block {
-		display: inherit !important;
-	}
-	.snt-nav-bar ul {
-		margin: 10px auto;
-		text-align: center;
-	}
-	svg {
-		display: none;
-	}
-	.brand .yellow {
-		text-align: left !important;
-	}
-	.ambassador {
-		width: auto !important;
-	}
-	.ambassador-h2 {
-		margin-top: 0px !important;
-	}
-	.testimonial-cyan-h1 {
-		text-align: left !important;
-	}
-	h3.ambassador-name{
-		text-align: center !important;
-	}
-	div#dublin {
-		border-right: none !important;
-	}
-	div#zagreb {
-		border-right: none !important;
-	}
-	.ambassador-photo {
-		height: 472px !important;
-		left: 0px !important;
-		width: 100% !important;
-		background-size: 120rem !important;
-    	background-position-x: center !important;
-	}
-	.contact-h3 {
-		width: 100%;
-		line-height: 130px !important;
-		margin-left: 0.5rem !important;
-		padding-bottom: 3rem;
-		margin-top: -56rem !important;
-	}
-	.snt-contact-page-section h2 {
-		font-size: 28px !important;
-		line-height: 30px !important;
-		width: 100% !important;
-		margin-top: 100px;
-		font-family: Overpass !important;
-	}
-	.snt-contact-page-section .col-md-2 {
-		float: left;
-	}
-	.ambassador-button {
-		margin-top: 4rem !important;
-		margin-left: 0rem !important;
-	}
-	.snt-services-page-section .col-12 {
-		margin-bottom: 25rem !important;
-	}
-	.amadeus-photo {
-		width: 100% !important;
-		position: initial !important;
-		margin-bottom: 60px;
-	}
-	.travelport-photo {
-		width: 105% !important;
-		position: initial !important;
-		margin-bottom: 60px;
-	}
-	.skyscanner-photo {
-		width: 108% !important;
-		position: initial !important;
-		margin-bottom: 60px;
-	}
-	.booking-photo {
-		width: 100% !important;
-		position: initial !important;
-		margin-bottom: 20px;
-	}
-	.booking {
-		margin-bottom: 2rem !important;
-	}
-	.snt-services-page-section h0 {
-		font-family: Overpass !important;
-		font-style: normal !important;
-		font-weight: bold !important;
-		font-size: 14px !important;
-		line-height: 21px !important;
-		text-align: center !important;
-		margin-left: 0rem !important;
-		margin-right: 0rem !important;
-	}
-	.thunder {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.vector {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.mouse {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.plane {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.airplane {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.rocket {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.software {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.product {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.social {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.interim {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.snt-services-page-section .yellow{
-		text-align: left !important;
-		margin-top: 60px;
-	}
-	.sof-pro-soc-int {
-		width: 100%;
-		overflow-y: hidden;
-	}
-	.pro-pro-min {
-		width: 100%;
-		overflow-y: hidden;
-	}
-	.des-ux-int {
-		width: 100%;
-		overflow-y: hidden;
-	}
-	.travel-h1 {
-		width: 100% !important;
-	}
-	.service-button {
-		margin-top: 2rem !important;
-		margin-bottom: 10px;
-	}
-	.service-section {
-		padding-top: 0rem !important;
-		padding-bottom: 0rem !important;
-	}
-	.contact-service-h3 {
-		width: 100%;
-		line-height: 130px !important;
-		margin-top: -80rem !important;
-	}
-	.service-page-photo {
-		padding-top: 70rem !important;
-		background-size: cover !important;
-	}
-	.service-h2 {
-		margin-top: 0rem !important;
-		margin-bottom: 0rem !important;
-		width: 80% !important;
-	}
-	.product-h1 {
-		font-family: Overpass !important;
-		font-style: normal !important;
-		font-weight: 800 !important;
-		font-size: 44px !important;
-		line-height: 52px !important;
-		color: #FFFFFF !important;
-		width: auto !important;
-	}
-	.snt-services-page-section li {
-		width: 100% !important;
-		padding-left: 2rem;
-    	display: inline-table;
-	}
-	.welcome-services-button h3 {
-		text-align-last: center;
-	}
-	.snt-testimonials-section h1 {
-		font-family: Overpass;
-		font-style: normal;
-		font-weight: 800;
-		font-size: 40px;
-		line-height: 52px;
-		text-align: center;
-	}
-	.snt-testimonials-section h4 {
-		text-align: center;
-	}
-	.snt-testimonials-section {
-		margin-top: 10rem !important;
-	}
-	.partnership {
-		padding-left: 0rem !important;
-	}
-	.quote-p {
-		margin-left: 13rem !important;
-	}
-	.snt-pages-container {
-		display: none;
-	}
-	.snt-footer-section .col-md-3 {
-		width: 70%;
-		margin-top: -12rem;
-		margin-bottom: 15rem;
-	}
-	.apple_p {
-		text-align-last: center;
-	}
-	.apple_store {
-		width: 100% !important;
-	}
-	.partnership-h3 {
-		font-weight: bold !important;
-		font-size: 22px !important;
-		line-height: 34px !important;
-		text-transform: uppercase;
-	}
-	.introduction {
-		font-size: 28px !important;
-		line-height: 43px !important;
-	}
-	.hire-h2 {
-		width: 100% !important;
-	}
-	.yellow-hire {
-		margin-top: 10rem !important; 
-	}
-	.col-md-10 .col-md-6 {
-		margin-top: 0rem !important;
-	}
-	.border {
-		border-left: none !important;
-	}
-	div#product-des {
-		margin-bottom: 75px;
-		display: flex;
-	}
-	div#product-dev {
-		margin-bottom: 75px;
-		display: flex;
-	}
-	div#consulting {
-		margin-bottom: 35px;
-		display: flex;
-	}
-	div#btn1 {
-		margin-left: -1.5rem !important;
-		margin-top: 0 !important;
-		text-align: unset !important;
-	}
-	div#btn2 {
-		margin-left: -1.5rem !important;
-		margin-top: 0 !important;
-		text-align: unset !important;
-	}
-	.service-travel-photo {
-		padding-right: 72rem;
-		margin-left: -42rem;
-		position: initial !important;
-		background-position: top !important;
-	}
-	div#travel {
-		margin-left: 40rem !important;
-		padding-top: 30rem !important;
-	}
-	.row.consulting-display {
-		display: block !important;
-	}
-	div#finance {
-		width: 100% !important;
-		float: left !important;
-		margin-top: 50rem;
-	}
-	#finance {
-		width: 100% !important;
-		float: left !important;
-	}
-	.finance-photo {
-		background-position: top !important;
-		background: url(../imgs/13917\ 1.png) no-repeat !important;
-		width: 100% !important;
-		position: initial !important;
-		background-size: contain !important;
-	}
-	.behaving-wealthy {
-		position: initial !important;
-		width: 142% !important;
-		margin-left: -25px !important;
-	}
-	.bitcoin {
-		margin-top: 3rem;
-	}
-	.travel-h1 {
-		width: auto !important;
-	}
-	.border {
-		border-left: none !important;
-		border-top: groove #C319E1;
-		width: 100% !important;
-		margin-left: 0rem !important;
-		margin-top: 0px !important;
-	}
-	.service-btn {
-		margin-bottom: 5rem;
-	}
-	section#career {
-		margin-top: 5rem;
-	}
-	section#testimonials {
-		margin-top: 0rem !important;
-	}
-	#product {
-		display: flex;
-		margin-bottom: 25px;
-	}
-	.snt-social-block.center-block {
-		text-align: center;
-		width: 29% !important;
-	}	
-	.quote {
-		margin-left: 3rem !important;
-	}
-	.soc {
-    	margin-left: 3rem;
-		margin-right: 3rem !important;
-	}
-	.snt-copyright {
-		font-size: 14px;
-	}
-}
-
-@media (min-width: 321px) and (max-width: 767px) {
-	.snt-copyright {
-		font-size: 17px !important;	
-	}
-	.soc {
-    	margin-left: 4rem;
-		margin-right: 4rem;
-	}
-	.social-ft {
-		display: flex !important;
-		place-content: center;
-	}
-	.ft-social {
-		display: none;
-	}
-	.snt-footer-section .col-md-2 {
-		display: none;
-	}
-	.snt-services-welcome-section h1 {
-		text-align: center;
-	}
-	.snt-services-welcome-section h4 {
-		text-align: center;
-	}
-	.projects-p {
-		text-align: center !important;
-	}
-	.elude {
-		display: none;
-	}
-	.elude-mob {
-		display: block !important;
-	}
-	.quote {
-		margin-left: 3rem !important;
-	}
-	.snt-social-block.center-block {
-		text-align: center;
-		width: 25% !important;
-	}
-	#product {
-		display: flex;
-		margin-bottom: 25px;
-	}
-	.snt-testimonials-section {
-		margin-top: 10rem !important;
-	}
-	.partnership {
-		padding-left: 0rem !important;
-	}
-	.quote-p {
-		margin-left: 13rem !important;
-	}
-	.welcome-services-button h3 {
-		text-align-last: center;
-	}
-	.snt-jobs-section p{
-		font-family: Barlow;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 18px;
-		line-height: 26px;
-		color: #A6AAC8;
-		text-align: left;
-	}
-	.snt-testimonials-section h1 {
-		font-family: Overpass;
-		font-style: normal;
-		font-weight: 800;
-		font-size: 40px;
-		line-height: 52px;
-		text-align: center;
-	}
-	.snt-testimonials-section h4 {
-		text-align: center;
-	}
-	.testimonial-cyan-h1 {
-		text-align: left !important;
-	}
-	.punctuation-up {
-		background-position: left !important;
-	}
-	.punctuation-p {
-		width: 100% !important;
-		margin-left: 0rem !important;
-	}
-	.testimonial-mobile {
-		margin-bottom: 20px;
-	}
-	.snt-pages-container {
-		display: none;
-	}
-	.snt-footer-section .col-md-3 {
-		width: 70%;
-		margin-top: -12rem;
-		margin-bottom: 15rem;
-	}
-	.punctuation-down {
-		margin-left: 24rem !important;
-	}
-
-	#punctuation-down {
-		margin-left: 20rem !important;
-	}
-	div#equity {
-		border-left: none !important;
-    	border-top: groove #3BDDDA;
-	}
-	div#investing {
-	    border-left: none !important;
-    	border-top: groove #3BDDDA;
-	}
-	.equity {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.investing {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.apple_p {
-		text-align-last: center;
-	}
-	.apple_store {
-		width: 100% !important;
-	}
-	.ambassador-h2 {
-		margin-top: 0px !important;
-	}
-	div#dublin {
-		border-right: none !important;
-	}
-	div#zagreb {
-		border-right: none !important;
-	}
-	div#bern {
-	}
-	.snt-contact-page-section .col-md-2 {
-		float: left;
-	}
-	.snt-team-section .col-md-10 h3 {
-		text-align: center !important;
-	}
-	.snt-nav-bar ul {
-		margin: 10px auto;
-		text-align: center;
-	}
-	svg {
-		display: none;
-	}
-	.brand .yellow {
-		text-align: left !important;
-	}
-	.ambassador {
-		width: auto !important;
-	}
-	h3.ambassador-name{
-		text-align: center !important;
-	}
-	.ambassador-photo {
-		height: 472px !important;
-		left: 0px !important;
-		width: 100% !important;
-		background-size: 120rem !important;
-    	background-position-x: center !important;
-	}
-	.snt-contact-page-section h2 {
-		font-size: 28px !important;
-		line-height: 30px !important;
-		width: 100% !important;
-		margin-top: 100px;
-		font-family: Overpass !important;
-	}
-	.contact-h3 {
-		width: 100%;
-		line-height: 130px !important;
-		margin-left: 0.5rem !important;
-		padding-bottom: 3rem;
-		margin-top: -59rem !important;
-	}
-	.amadeus-photo {
-		width: 100% !important;
-		position: initial !important;
-		margin-bottom: 60px;
-	}
-	.travelport-photo {
-		width: 100% !important;
-		position: initial !important;
-		margin-bottom: 60px;
-	}
-	.skyscanner-photo {
-		width: 100% !important;
-		position: initial !important;
-		margin-bottom: 60px;
-	}
-	.booking-photo {
-		width: 100% !important;
-		position: initial !important;
-		margin-bottom: 20px;
-	}
-	.booking {
-		margin-bottom: 2rem !important;
-	}
-	.snt-services-page-section h0 {
-		font-family: Overpass !important;
-		font-style: normal !important;
-		font-weight: bold !important;
-		font-size: 14px !important;
-		line-height: 21px !important;
-		text-align: center !important;
-		margin-left: 0rem !important;
-		margin-right: 0rem !important;
-	}
-	.border {
-		border-left: none !important;
-		border-top: groove #C319E1;
-		width: 100% !important;
-		margin-left: 0rem !important;
-		margin-top: 0px !important;
-	}
-	.thunder {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-	}
-	.vector {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-	}
-	.mouse {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-	}
-	.plane {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-	}
-	.airplane {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-	}
-	.rocket {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-	}
-	.software {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-	}
-	.product {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-	}
-	.social {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-	}
-	.interim {
-		height: 17rem !important;
-		margin-bottom: -6rem;
-		background-position-x: center !important;
-	}
-	.snt-services-page-section .yellow{
-		text-align: left !important;
-    	margin-top: 60px;
-	}
-	.snt-services-page-section h1 {
-		width: auto !important;
-	}
-	.snt-services-page-section li {
-		width: 100% !important;
-		padding-left: 2rem;
-    	display: inline-table;
-	}
-	.sof-pro-soc-int {
-		overflow-y: hidden;
-		width: 100%;
-	}
-	.service-button {
-		margin-top: 2rem !important;
-		margin-bottom: 10px;
-	}
-	.service-section {
-		padding-top: 0rem !important;
-		padding-bottom: 0rem !important;
-	}
-	.contact-service-h3 {
-		line-height: 130px !important;
-		margin-top: -70rem !important;
-		padding-top: 0rem !important;
-	}
-	.service-page-photo {
-		padding-top: 70rem !important;
-		background-size: cover !important;
-	}
-	.service-h2 {
-		margin-top: 0rem !important;
-		margin-bottom: 0rem !important;
-		width: auto !important;
-	}
-	.border {
-		border-left: none !important;
-	}
-	div#product-dev {
-		margin-bottom: 75px;
-		display: flex;
-	}
-	div#product-des {
-		margin-bottom: 75px;
-		display: flex;
-	}
-	div#consulting {
-		margin-bottom: 35px;
-		display: flex;
-	}
-	div#btn1 {
-		margin-left: 0rem !important;
-		margin-top: 0rem !important;
-		text-align: unset !important;
-	}
-	div#btn2 {
-		margin-left: 0rem !important;
-		margin-top: 0rem !important;
-		text-align: unset !important;
-	}
-	.service-travel-photo {
-		padding-right: 82rem;
-		margin-left: -46rem;
-		position: initial !important;
-		background-position: top !important;
-	}
-	div#travel {
-		margin-left: 45rem !important;
-		padding-top: 40rem !important;
-		margin-right: -82rem !important;
-	}
-	.row.consulting-display {
-		display: block !important;
-	}
-	div#finance {
-		width: 100% !important;
-		float: left !important;
-		margin-top: 60rem;
-	}
-	#finance {
-		width: 100% !important;
-		float: left !important;
-	}
-	.finance-photo {
-		background-position: top !important;
-		background: url(../imgs/13917\ 1.png) no-repeat !important;
-		width: 100% !important;
-		position: initial !important;
-		background-size: contain !important;
-	}
-	.behaving-wealthy {
-		width: 100% !important;
-	}
-	.bitcoin {
-		margin-top: 7rem;
-	}
-	.travel-h1 {
-		width: auto !important;
-	}
-	div#footer {
-		margin-top: 210rem;
-	}
-	.product-h1 {
-		font-family: Overpass !important;
-		font-style: normal !important;
-		font-weight: 800 !important;
-		font-size: 44px !important;
-		line-height: 52px !important;
-		color: #FFFFFF !important;
-		width: 100% !important;
-	}
-	.partnership-h3 {
-		font-weight: bold !important;
-		font-size: 22px !important;
-		line-height: 34px !important;
-		text-transform: uppercase;
-	}
-	.introduction {
-		font-size: 28px !important;
-		line-height: 43px !important;
-	}
-	.hire-h2 {
-		width: 80% !important;
-	}
-	.yellow-hire {
-		margin-top: 10rem !important; 
-	}
-	.snt-team-section .snt-social-block.center-block {
-		display: inherit !important;
-	}
-	.col-md-10 .col-md-6 {
-		margin-top: 0rem !important;
-	}
-	.service-btn {
-		margin-bottom: 5rem;
-	}
-	section#career {
-		margin-top: 5rem;
-	}
-	section#testimonials {
-		margin-top: 0rem !important;
-	}
-}
-
-@media (min-width: 767px) and (max-width: 1000px) {
-	.ft-social {
-		display: block !important;
-		place-content: center;
-	}
-	.projectsh1 {
-		text-align: left !important;
-	}
-	.snt-blog-header-ph-2 {
-		width: 100%;
-	}
-	.service-btn {
-		margin-bottom: 5rem;
-	}
-	section#career {
-		margin-top: 5rem;
-	}
-	section#testimonials {
-		margin-top: 0rem !important;
-	}
-	section#testimonials {
-		margin-top: 10rem !important;
-	}
-	.contact-h3 {
-		width: 100%;
-		line-height: 130px !important;
-		margin-left: 0.5rem !important;
-		padding-bottom: 11rem;
-		margin-top: -56rem !important;
-	}
-	div#dublin {
-		border-right: none !important;
-		margin-right: -4rem !important;
-	}
-	div#zagreb {
-		border-right: none !important;
-		margin-right: -3rem !important;
-	}
-	div#bern {
-		margin-right: -3rem !important;
-	}
-	.border {
-		border-left: none !important;
-	}
-	div#product-dev {
-		margin-bottom: 75px;
-		display: flex;
-		width: 100% !important;
-	}
-	div#product-des {
-		margin-bottom: 75px;
-		display: flex;
-		width: 100% !important;
-	}
-	div#consulting {
-		margin-bottom: 35px;
-		display: flex;
-		width: 100% !important;
-	}
-	div#btn1 {
-		margin-left: 0rem !important;
-	}
-	div#btn2 {
-		margin-left: 0rem !important;
-	}
-	.service-travel-photo {
-		width: 100% !important;
-		position: inherit !important;
-		background-position: top !important;
-		right: 0 !important;
-		background-size: auto !important;
-	}
-	div#travel {
-		width: 60% !important;
-		margin-left: 0px !important;
-	}
-	#travel {
-		width: 100%;
-		margin-left: 0 !important;
-	}
-	#finance {
-		width: 50% !important;
-		float: right !important;
-	}
-	div#finance {
-		width: 50% !important;
-		float: right !important;
-		margin-right: 0 !important;
-	}
-	.finance-photo {
-		width: 100% !important;
-		position: inherit !important;
-		left: 0 !important;
-		background-position: top !important;
-		background-size: auto !important;
-	}
-	.behaving-wealthy {
-		width: 100% !important;
-	}
-	.bitcoin {
-		margin-top: 7rem;
-	}
-	.travel-h1 {
-		width: auto !important;
-	}
-	div#footer {
-		margin-top: 0rem;
-	}
-	.border {
-		border-left: none !important;
-		border-top: groove #C319E1;
-		width: 100% !important;
-		margin-left: 0rem !important;
-		margin-top: 0px !important;
-	}
-	.snt-team-section .col-md-10.col-md-offset-1 {
-		float: unset !important;
-	}
-	.snt-team-section .col-md-10.col-md-offset-1 .col-md-4 {
-		display: block !important;
-	}
-	.partnership-h3 {
-		font-weight: bold !important;
-		font-size: 22px !important;
-		line-height: 34px !important;
-		text-transform: uppercase;	
-	}
-	.introduction {
-		font-size: 28px !important;
-		line-height: 43px !important;
-	}
-	.hire-h2 {
-		width: 80% !important;
-	}
-	.yellow-hire {
-		margin-top: 10rem !important; 
-	}
-	.snt-team-section .snt-social-block.center-block {
-		display: inherit !important;
-	}
-	.col-md-10 .col-md-6 {
-		margin-top: 0rem !important;
-	}
-	.welcome-services-button h3 {
-		text-align-last: center;
-	}
-	.snt-jobs-section p{
-		font-family: Barlow;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 11px;
-		line-height: 22px;
-		color: #A6AAC8;
-		text-align: left;
-	}
-	.snt-testimonials-section h1 {
-		font-family: Overpass;
-		font-style: normal;
-		font-weight: 800;
-		font-size: 40px;
-		line-height: 52px;
-		text-align: center;
-	}
-	.snt-testimonials-section h4 {
-		text-align: center;
-	}
-	.snt-pages-container {
-		display: none;
-	}
-	.snt-footer-section .col-md-3 {
-		width: 60%;
-		margin-top: -12rem;
-		margin-bottom: 15rem;
-	}
-	.apple_p {
-		text-align-last: center;
-	}
-	.apple_store {
-		width: 40% !important;
-    	margin-left: 23rem;
-	}
-	.snt-services-welcome-section h1 {
-		text-align: center;
-	}
-	.snt-services-welcome-section h4 {
-		text-align: center;
-	}
-	.snt-team-section .col-md-10 h3 {
-		text-align: center !important;
-	}
-	.col-md-10 {
-		float: left !important;
-	}
-	.snt-nav-bar ul {
-		margin: 10px auto;
-		text-align: center;
-	}
-	svg {
-		display: none;
-	}
-	.brand .yellow {
-		text-align: left !important;
-	}
-	.ambassador {
-		width: auto !important;
-	}
-	h3.ambassador-name{
-		text-align: center !important;
-	}
-	.ambassador-h2 {
-		margin-top: -90px !important
-	}
-	.ambassador-photo {
-		height: 472px !important;
-		left: 0px !important;
-		width: 100% !important;
-		background-size: 120rem !important;
-    	background-position-x: center !important;
-	}
-
-	.snt-contact-page-section h3 {
-		width: 100%;
-		letter-spacing: 3px !important;
-	}
-
-	.snt-contact-page-section h2 {
-		font-size: 30px !important;
-		line-height: 30px !important;
-		width: 100% !important;
-		margin-top: 100px;
-	}
-	.snt-footer-section {
-		width: 100%;
-	}
-	.snt-services-page-section .col-12 {
-		margin-bottom: 25rem !important;
-	}
-	.amadeus-photo {
-		width: 100% !important;
-		top: 10px !important;
-	}
-	.travelport-photo {
-		width: 100% !important;
-		top: 6rem;
-	}
-	.skyscanner-photo {
-		width: 100% !important;
-		top: 12rem !important;
-	}
-	.booking-photo {
-		width: 100% !important;
-		top: 18rem !important;
-	}
-	.booking {
-		margin-bottom: 23rem !important;
-	}
-	.snt-services-page-section .col-md-6 {
-		margin-top: 0rem !important;
-	}
-	.snt-services-page-section h0 {
-		font-family: Overpass !important;
-		font-style: normal !important;
-		font-weight: bold !important;
-		font-size: 14px !important;
-		line-height: 21px !important;
-		text-align: center !important;
-		margin-left: 0rem !important;
-		margin-right: 0rem !important;
-	}
-	.thunder {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.vector {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.mouse {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.plane {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.airplane {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.rocket {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.software {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.product {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.social {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.interim {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.snt-services-page-section .ambassador-section h2 {
-		margin-bottom: 0rem;
-		margin-left: 3rem;
-		margin-top: 0rem;
-	}
-	.snt-services-page-section .yellow{
-		margin-bottom: 0rem;
-		width: max-content !important;
-	}
-	.snt-services-page-section h1 {
-		width: auto !important;
-	}
-	.service-page-photo {
-		padding-top: 70rem !important;
-		background-size: cover !important;
-	}
-	.snt-services-page-section .contact-h3 {
-		margin-top: -45rem;
-	}
-	.contact-service-h3 {
-		padding-top: 0rem !important;
-	}
-	.service-section {
-		padding-bottom: 0rem !important;
-		padding-top: 0rem !important;
-	}
-	.service-h2 {
-		margin-top: 5rem !important;
-		margin-bottom: 0rem !important;
-		width: 70% !important;
-	}
-	.snt-services-page-section li {
-		width: 100% !important;
-		padding-left: 2rem;
-    	display: inline-table;
-	}
-	.investing {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.equity {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.partner-model {
-		border-top: groove #3BDDDA;
-	}
-	div#equity {
-		border-left: none !important;
-	}
-	div#investing {
-		border-left: none !important;
-	}
-	.punctuation-up {
-		background-position: left !important;
-	}
-	.punctuation-p {
-		width: 100% !important;
-		margin-left: 0rem !important;
-	}
-	.snt-pages-container {
-		display: none;
-	}
-	.snt-footer-section .col-md-3 {
-		width: 97%;
-		margin-top: -12rem;
-		margin-bottom: 15rem;
-	}
-	.snt-footer-section .col-md-2 {
-		display: none;
-	}
-	.testimonial-mobile {
-		text-align: center;
-	}
-	.testimonial-mobile .snt-social-block.center-block {
-		margin-left: 0rem !important;
-	}
-	#product {
-		display: flex;
-		margin-bottom: 25px;
-	}
-	.partnership-col {
-		margin-left: 0rem !important;
-	}
-	.partnership {
-		margin-left: 0rem !important;
-		text-align: center;
-	}
-	.testimonial-cyan-h1 {
-		text-align: left !important;
-	}
-	.snt-social-block.center-block {
-		place-content: center;	}
-}
-
-@media (min-width: 1000px) and (max-width: 1025px) {
-	.snt-social-block.center-block {
-		width: 38% !important;
-	}
-	.service-btn {
-		margin-bottom: 5rem;
-	}
-	section#career {
-		margin-top: 5rem;
-	}
-	section#testimonials {
-		margin-top: 0rem !important;
-	}
-	section#testimonials {
-		margin-top: 10rem !important;
-	}
-	.investing {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.equity {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	div#investing {
-		border-left: none !important;
-	}
-	.partnership {
-		margin-left: 0rem !important;
-	}
-	.contact-h3 {
-		width: 100%;
-		line-height: 130px !important;
-		margin-left: 0.5rem !important;
-		padding-bottom: 11rem;
-		margin-top: -56rem !important;
-	}
-	div#dublin {
-		border-right: none !important;
-	}
-	div#zagreb {
-		border-right: none !important;
-	}
-	div#bern {
-	}
-	.border {
-		border-left: none !important;
-	}
-	div#product-des {
-		margin-bottom: 75px;
-		border-right: groove #C319E1;
-		padding-bottom: 110px;
-	}
-	div#product-dev {
-		margin-bottom: 75px;
-		border-right: groove #C319E1;
-		padding-bottom: 140px;
-	}
-	div#consulting {
-		margin-bottom: 35px;
-		border-right: groove #C319E1;
-		padding-bottom: 20px;
-	}
-	div#btn1 {
-		margin-top: -29rem !important;
-	}
-	div#btn2 {
-		margin-left: 47rem !important;
-		margin-top: -29rem !important;
-	}
-	.service-travel-photo {
-		background-size: auto !important;
-		width: 100% !important;
-		right: 0 !important;
-	}
-	div#travel {
-		width: 50% !important;
-		margin-left: 0 !important;
-	}
-	#travel {
-		width: 50% !important;
-	}
-	div#finance {
-		width: 50% !important;
-		position: initial;
-		margin-left: 24rem;
-	}
-	#finance {
-		width: 50% !important;
-		position: initial;
-		margin-left: 24rem;
-	}
-	.behaving-wealthy {
-		width: 140% !important;
-	}
-	.bitcoin {
-		margin-top: 7rem;
-		margin-left: -13rem;
-	}
-	.travel-h1 {
-		width: auto !important;
-	}
-	div#footer {
-		margin-top: 0rem;
-	}
-	.border {
-		margin-left: 0rem !important;
-		margin-top: 0px !important;
-	}
-	div#col-md-12 {
-		margin-top: -8rem !important;
-	}
-	.snt-team-section .col-md-10.col-md-offset-1 {
-		float: unset !important;
-	}
-	.snt-team-section .col-md-10.col-md-offset-1 .col-md-4 {
-		display: block !important;
-	}
-	.snt-team-section .col-md-12.col-md-offset-1 {
-		width: 100%;
-		margin-left: 0% !important;
-	}
-	.snt-jobs-section .col-md-12.col-md-offset-1 {
-		width: 100%;
-	}
-	.snt-team-section .yellow {
-		text-align: left !important;
-	}
-	.partnership-h3 {
-		text-align: left !important;
-	}
-	.hire-h2 {
-		width: 80% !important;
-	}
-	.yellow-hire {
-		margin-top: 10rem !important; 
-	}
-	.col-md-10 .col-md-6 {
-		margin-top: 0rem !important;
-	}
-	.welcome-services-button h3 {
-		text-align-last: center;
-	}
-	.snt-jobs-section p{
-		font-family: Barlow;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 10px;
-		line-height: 22px;
-		color: #A6AAC8;
-		text-align: left;
-	}
-	.snt-testimonials-section h1 {
-		font-family: Overpass;
-		font-style: normal;
-		font-weight: 800;
-		font-size: 40px;
-		line-height: 52px;
-		text-align: left;
-	}
-	.testimonial-cyan-h1 {
-		text-align: left !important;
-	}
-	.snt-pages-container {
-		float: right !important;
-	}
-	.snt-footer-section .col-md-3 {
-		width: 94%;
-		margin-top: -15rem;
-	}
-	.punctuation-up {
-		background-position: left !important;
-	}
-	.punctuation-p {
-		width: 100% !important;
-		margin-left: 0rem !important;
-	}
-	.apple_p {
-		text-align-last: center;
-	}
-	.apple_store {
-		width: 100% !important;
-	}
-	div#product {
-		display: block !important;
-	}
-	.snt-blog-section .btn {
-		display: block;
-		margin-right: auto;
-		margin-left: auto;
-		margin-top: 100px !important;
-		width: auto;
-	}
-	.snt-services-welcome-section h1 {
-		font-size: 40px !important;
-		line-height: 52px !important;
-	}
-	.snt-portfolio-section h1 {
-		font-size: 40px !important;
-		line-height: 52px !important;
-	}
-	.snt-blog-section h1 {
-		font-size: 40px !important;
-		line-height: 52px !important;
-	}
-	.snt-contact-section h1 {
-		font-size: 40px !important;
-		line-height: 52px !important;
-		text-align: left !important;
-	}
-	.snt-team-section .col-md-10 h3 {
-		text-align: center !important;
-	}
-	.snt-team-section .snt-social-block.center-block {
-		display: inherit !important;
-	}
-	.snt-nav-bar ul {
-		margin: 10px auto;
-		text-align: center;
-	}
-	svg {
-		display: none;
-	}
-	.brand .yellow{
-		text-align: left !important;
-		width: auto !important;
-	}
-	.ambassador {
-		width: auto !important;
-	}
-	h3.ambassador-name{
-		text-align: center !important;
-		margin-bottom: 4rem;
-	}
-	.ambassador-photo {
-		height: 472px !important;
-		left: 0px !important;
-		width: 100% !important;
-		background-size: 120rem !important;
-    	background-position-x: center !important;
-	}
-	.snt-contact-page-section h2 {
-		font-size: 30px !important;
-		line-height: 30px !important;
-		width: 100% !important;
-		margin-top: 100px;
-	}
-	.ambassador-h2 {
-		margin-top: -90px !important;
-	}
-	.snt-footer-section {
-		width: 100%;
-	}
-	.snt-services-page-section .col-12 {
-		margin-bottom: 25rem !important;
-	}
-	.amadeus-photo {
-		width: 100% !important;
-		height: 30px !important;
-		top: 10px !important;
-	}
-	.travelport-photo {
-		width: 110% !important;
-		height: 40px !important;
-		top: 6rem;
-	}
-	.skyscanner-photo {
-		width: 110% !important;
-		height: 35px !important;
-		top: 12rem !important;
-	}
-	.booking-photo {
-		width: 100% !important;
-		height: 33px !important;
-		top: 18rem !important;
-	}
-	.booking {
-		margin-bottom: 22rem !important;
-	}
-	.snt-services-page-section h0 {
-		font-family: Overpass !important;
-		font-style: normal !important;
-		font-weight: bold !important;
-		font-size: 14px !important;
-		line-height: 21px !important;
-		text-align: center !important;
-		margin-left: 0rem !important;
-		margin-right: 0rem !important;
-	}
-	.thunder {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.vector {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.mouse {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.plane {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.airplane {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.rocket {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.software {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.product {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.social {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.interim {
-		height: 17rem !important;
-		margin-bottom: -10rem;
-		background-position-x: center !important;
-		width: 100% !important;
-	}
-	.snt-services-page-section .ambassador-section h2 {
-		margin-bottom: 0rem;
-		margin-left: 3rem;
-		margin-top: 0rem;
-	}
-	.snt-services-page-section .yellow{
-		margin-bottom: 0rem;
-		width: max-content !important;
-	}
-	.service-page-photo {
-		width: 99% !important;
-		position: inherit !important;
-	}
-	.snt-services-page-section .contact-h3 {
-		margin-top: -45rem;
-	}
-	.contact-service-h3 {
-		margin-top: -50rem;
-	}
-	.service-section {
-		padding-top: 0rem !important;
-		padding-bottom: 0rem !important;
-	}
-	.service-h2 {
-		margin-top: 3rem !important;
-		margin-bottom: 0rem !important;
-	}
-	.snt-services-page-section li {
-		width: 100% !important;
-		padding-left: 2rem;
-    	display: inline-table;
-	}
-	.col-md-5 {
-		width: 100% !important;
-	}
-	.finance-photo {
-		background-size: auto !important;
-		position: inherit !important;
-		width: 100% !important;
-	}
-}
-
-
-div#btn1 {
-	margin-top: -30rem;
-	text-align: -webkit-right;
-}
-
-div#btn2 {
-	margin-top: -30rem;
-	margin-left: 60rem;
-	text-align: -webkit-left;
-}
 
 .snt-team-section .col-md-4 {
 	border: none;
@@ -2016,6 +382,8 @@ div#btn2 {
 	background: transparent;
 	border: 4px solid black;
 	margin: 0;
+	color: white;
+	outline: none;
 }
 
 .welcome-services-button .center-block {
@@ -2025,15 +393,12 @@ div#btn2 {
     margin-top: 3rem;
 }
 
-.welcome-services-button:hover {
+.snt-services-welcome-section button:hover {
 	border: 4px solid #EC009C;
 	box-shadow: 0px 0px 20px #C319E1;
-	color: #EC009C;
+	color: #EC009C !important;
 }
 
-.welcome-services-button h3:hover {
-	color: #EC009C;
-}
 
 .ambassador-section {
 	text-align: -webkit-center;
@@ -2189,7 +554,7 @@ h1 {
     line-height: 32px;
     text-align: center !important;
 	color: #FFFFFF;
-	margin-bottom: 10rem;
+	margin-bottom: 88px;
 }
 
 .hire-h2 {
@@ -2208,11 +573,12 @@ h1 {
 }
 
 .service-button {
-	width: 291px;
+	width: 260px;
 	height: 57px;
 	left: 575px;
 	top: 2546px;
-	border: 0px solid #F0F2FE;
+	border-width: 1px;
+	border-style: solid;
 	box-sizing: border-box;
 	border-radius: 4px;
 	color: white;
@@ -2304,35 +670,31 @@ h1 {
 	background: url(../imgs/hire_background.png) no-repeat;
     width: 100%;
 	padding-top: 55rem;
-    background-size: auto;
-}
-
-.service-travel-photo {
-	background: url(../imgs/Background\ Image.png) no-repeat;
-    position: inherit;
-    width: 100%;
-    height: 100%;
-    right: -283px;
-    background-position: center;
     background-size: contain;
 }
 
 .finance-photo {
-	background: url(../imgs/Mask.png) no-repeat;
+    background: url(../imgs/Mask.png) no-repeat;
     position: inherit;
-    width: 100%;
-    height: 100%;
-    left: -260px;
+    height: 760px;
+    left: -270px;
+    right: 0;
 }
 
+.service-travel-photo {
+	background: url(../imgs/Background\ Image.png) no-repeat top right;
+    position: inherit;
+    height: 760px;
+    left: 840px;
+    right: 0;
+}
 .finance {
     float: right;
-    margin-right: -20rem;
 }
 
 .travel {
-	margin-left: -20rem;
 	float: left;
+	position: absolute;
 }
 
 .amadeus-photo {
@@ -2918,7 +1280,6 @@ h4 {
 
 .snt-welcome-container {
 	height: 100%;
-    margin-top: 100px;
     background-color: rgba(0, 0, 0, 0.9);
     padding-right: 150px;
 	margin-left: -2rem;
@@ -2935,9 +1296,8 @@ h4 {
 @media (max-width: 1023px) {
 	
 	.snt-welcome-container {
-		margin: 100px 0px;
+		margin: 100px 10px;
 		padding: 0 20px;
-		width: 100%;
 	}
 
 	.snt-welcome-container h2 {
@@ -2980,11 +1340,12 @@ h4 {
 }
 
 .apple_store {
-	background: url(../imgs/apple_store.png) no-repeat;
-	border: none;
-	height: 5rem;
-	width: 20rem;
-	margin-top: 30px;
+	margin-left: -10px;
+    background: url(../imgs/apple_store.png) no-repeat;
+    border: none;
+    height: 5rem;
+    width: 20rem;
+    margin-top: 30px;
 }
 
 .apple_store_projects {
@@ -3005,6 +1366,9 @@ h4 {
 	display: flex;
 	align-items: flex-end;
 	color: #FFFFFF;
+}
+.apple-btn {
+	text-align: left;
 }
 
 .snt-carousel {
@@ -3044,7 +1408,11 @@ h4 {
 }
 
 .snt-carousel-control-prev {
-	margin-left: -50%;
+	left: 0;
+}
+
+.snt-carousel-control-next {
+	right: 0;
 }
 
 .snt-carousel-control-ext {
@@ -3067,12 +1435,6 @@ h4 {
 
 @media (max-width: 1023px) { 
 	
-	.snt-portfolio-section h1 {
-		font-size: 40px;
-		line-height: 52px;
-		margin-bottom: 10px;
-		text-align: center;
-	}
 
 	.snt-portfolio-section h4 {
 		font-size: 18px;
@@ -3196,10 +1558,21 @@ img.snt-team-pic.center-block {
 
 .snt-services-welcome-section h1 {
 	font-style: normal;
-    font-weight: 800;
-    font-size: 44px;
-    line-height: 52px;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 64px;
     color: white;
+}
+
+.snt-services-welcome-section h0 {
+	font-family: Overpass;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	line-height: 30px;
+	text-align: center;
+	margin-top: 59px;
+	margin-bottom: 6px;
 }
 
 .snt-services-section h1 {
@@ -3353,10 +1726,205 @@ svg.locations {
     display: none;
 }
 .desktop {
-    display: auto;
+	display: auto;
 }
 
-@media screen and (max-width: 769px) {
+
+@media (min-width: 0px) and (max-width: 767px) {
+	.snt-team-pic {
+		width: 80% !important;
+	}
+	.snt-team-section .col-md-4 a {
+		margin-left: 10px !important;
+		margin-right: 10px !important;
+	}
+	.elude {
+		display: none;
+	}
+	.elude-mob {
+		display: block;
+	}
+	div#btn1 {
+		margin-top: 0rem !important;
+		text-align: center !important;
+	}
+	.finance-photo {
+		left: 0px !important;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+	.snt-team-pic {
+		width: 80% !important;
+	}
+	.snt-team-section .col-md-4 a {
+		margin-left: 10px !important;
+		margin-right: 10px !important;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.service-page-photo {
+		background-size: auto !important;
+	}
+	div#btn2 {
+		margin-top: 0rem !important;
+		margin-left: 0rem !important;		
+		text-align: center !important;
+	}
+	.service-button {
+		width: 260px;
+		margin-top: 10px;
+		border-width: 1px;
+		border-style: solid;
+	}
+	.finance-cyan-btn {
+		width: 260px !important;
+	}
+	.snt-services-finance-page-section h1 {
+		width: auto;
+		text-align: left;
+	}
+	.row.consulting-display {
+		display: block !important;
+	}
+	.amadeus-photo {
+		width: 100%;
+	}
+	.travelport-photo{
+		top: 60px;
+		width: 100%;
+	}
+	.skyscanner-photo {
+		top: 120px;
+		width: 100%;
+	}
+	.booking-photo {
+		top: 180px;
+		width: 100%;
+	}
+	.booking {
+		margin-bottom: 236px !important;
+	}
+	.travel {
+		position: unset;
+	}
+	.service-travel-photo {
+		height: 670px;
+		left: 0;
+		right: 0;
+		float: right;
+		position: inherit;
+	}
+	.bitcoin {
+		margin-top: 67px;
+	}
+	.snt-services-page-section h0 {
+		font-family: Overpass !important;
+		font-style: normal !important;
+		font-weight: bold !important;
+		font-size: 14px !important;
+		line-height: 21px !important;
+		text-align: center !important;
+		margin-left: 0rem !important;
+		margin-right: 0rem !important;
+	}
+	.snt-services-page-section h1 {
+		text-align: left;
+	}
+	.thunder {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+		width: 100% !important;
+	}
+	.vector {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+		width: 100% !important;
+	}
+	.mouse {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+		width: 100% !important;
+	}
+	.plane {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+		width: 100% !important;
+	}
+	.airplane {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+		width: 100% !important;
+	}
+	.rocket {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+		width: 100% !important;
+	}
+	.software {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+		width: 100% !important;
+	}
+	.product {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+		width: 100% !important;
+	}
+	.social {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+		width: 100% !important;
+	}
+	.interim {
+		height: 17rem !important;
+		margin-bottom: -10rem;
+		background-position-x: center !important;
+		width: 100% !important;
+	}
+	.product-h1 {
+		text-align: left;
+	}
+	.des-ux-int {
+		margin-bottom: 75px;
+		display: flex;
+		width: 100% !important;
+	}
+	.pro-pro-min {
+		margin-bottom: 75px;
+		display: flex;
+		width: 100% !important;
+	}
+	.sof-pro-soc-int {
+		margin-bottom: 75px;
+		display: flex;
+		width: 100% !important;
+		overflow-y: hidden;
+	}
+	.border {
+		margin-left: 3rem !important;
+		width: auto !important;
+		border-top: groove #C319E1;
+		border-left: none !important;
+	}
+	.snt-services-page-section li {
+		width: 100% !important;
+		padding-left: 2rem;
+		display: inline-table;
+	}
+	svg {
+		display: none;
+	}
     .mobile {
         display: block;
     }
@@ -3370,21 +1938,49 @@ svg.locations {
 		margin-bottom: 6rem;
    		margin-top: 100px;
 	}
+	.row-eq-height {
+		display: initial;
+	}
+	.apple-btn-projects {
+		display: none;
+	}
+	.read-more {
+		text-align: center;
+		margin-top: 23px;
+	}
+	div#dublin {
+		border-right: none;
+	}
+	div#bern {
+		border-right: none;
+	}
+	div#zagreb {
+		border-right: none;
+	}
+	.ambassador-h2 {
+		width: 100%;
+		font-size: 28px !important;
+		line-height: 43px !important;
+		font-family: Overpass !important;
+		font-weight: 800 !important;
+	}
+	.ambassador-photo {
+		background-size: 120rem !important;
+		background-position-x: center !important;
+	}
 }
 
 /* mobile */
 @media (max-width: 1365px) {
-	.snt-team-pic {
-		width: 80%;
-	}
+
 }
 
 @media (max-width: 1023px) {
-
 	.snt-team-section h1 {
 		font-size: 44px;
 		line-height: 52px;
 		margin-bottom: 30px;
+		text-align: left;
 	}
 }
 
@@ -3396,6 +1992,7 @@ svg.locations {
 
 .snt-jobs-section p {
 	margin-bottom: 75px;
+	font-size: 17px;
 }
 
 .snt-jobs-section .btn {
@@ -3411,6 +2008,7 @@ svg.locations {
 .snt-jobs-section .btn p {
 	text-align: left;
 	display: inline;
+	font-size: 14px;
 }
 
 .snt-jobs-section .btn img {
@@ -3427,10 +2025,14 @@ svg.locations {
 		font-size: 40px;
 		line-height: 52px;
 		margin-bottom: 30px;
+		text-align: left;
 	}
 
 	.snt-jobs-section p {
 		margin-bottom: 50px;
+	}
+	.hire-photo {
+		background-size: auto;
 	}
 
 }
@@ -3438,7 +2040,13 @@ svg.locations {
 /* Blog Section */
 
 .snt-blog-section h1 {
-	margin-bottom: 120px;
+	margin-bottom: 90px;
+	font-family: Overpass;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 60px;
+	line-height: 70px;
+	color: #FFFFFF;
 }
 
 .snt-blog-section h4 {
@@ -3460,10 +2068,20 @@ svg.locations {
 } 
 
 .snt-blog-header-lg {
-	background: url(../imgs/blog-header-bg-lg-placeholder.png) top center no-repeat black;
-	background-size: cover;
-	height: 500px;
-	padding-top: 250px;
+    outline: none;
+    text-align: left;
+    background: url(../imgs/blog-header-bg-lg-placeholder.png) top center no-repeat black;
+    background-size: cover;
+    height: 500px;
+    padding-top: 220px;
+    border: none;
+	transition: 1s;
+}
+
+.snt-blog-header-lg:hover {
+	opacity: 0.8;
+    border-radius: 100px;
+    transition: 1s;
 }
 
 .snt-blog-header-lg h2 {
@@ -3544,13 +2162,49 @@ svg.locations {
 
 /* Contact Section */
 
+.snt-contact-section h1 {
+	font-family: Overpass;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 36px;
+	line-height: 120.4%;
+	color: #FFFFFF;
+}
+
+.snt-contact-message-section h1 {
+	text-align: left;
+	font-family: Overpass;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 44px;
+	line-height: 52px;
+}
+
+.snt-contact-message-section h4 {
+	margin-top: 120px; 
+	margin-bottom: 10px;
+	font-family: Telegrafico;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 8px;
+	color: #FFC700;
+	text-align: left;
+}
+
 .snt-contact-section h4 {
 	margin-top: 120px; 
 	margin-bottom: 10px;
+	font-family: Telegrafico;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 8px;
+	color: #FFC700;
 }
 
 .snt-contact-section p {
 	margin-bottom: 100px;
+	font-size: 18px;
+	line-height: 26px;
 }
 
 .snt-contact-section input, .snt-contact-section textarea {
@@ -3630,9 +2284,49 @@ svg.locations {
 	background-size: cover;
 }
 
-@media(min-width: 0px) and (max-width: 767px) {
+@media(min-width: 0px) and (max-width: 991px) {
+	.hero {
+		text-align: left !important;
+	}
+	.snt-footer-section .col-md-2 {
+		display: none;
+	}
 	.snt-footer-section {
-		background: url(../imgs/charlota-blunarova-hmzKFGDeOV4-unsplash\ copy.png.png) bottom no-repeat !important;
+		background: url(../imgs/charlota-blunarova-hmzKFGDeOV4-unsplash\ 2.png) bottom no-repeat !important;
+	}
+	h1 {
+		font-family: Overpass;
+		font-weight: 800;
+		font-size: 40px;
+		line-height: 52px;
+		text-align: center;
+	}
+	h4 {
+		text-align: center;
+	}
+	.snt-carousel-control-prev {
+		left: 0;
+	}
+	.snt-carousel-control-next {
+		right: 0;
+	}
+	.apple_store {
+		margin-left: 20px !important;
+	}
+	.snt-services-welcome-section h1 {
+		font-size: 44px !important;
+		line-height: 52px !important;
+	}
+	.soc {
+		margin-left: 3rem;
+		margin-right: 3rem;
+	}
+	.ft-social {
+		display: none;
+	}
+	.social-ft {
+		display: flex !important;
+		place-content: center;
 	}
 }
 
@@ -3685,6 +2379,9 @@ svg.locations {
 /* TESTIMONIAL POSTS PAGE */
 
 @media (min-width: 992px) {
+	.ft-social {
+		display: block !important;
+	}
 }
 
 .punctuation-up {
@@ -3844,8 +2541,17 @@ svg.locations {
 
 .snt-blog-header-ph-2 {
 	background: url(../imgs/blog-bg-md-placeholder-2.png) top center no-repeat black;
-	background-size: cover;
-	width: auto;
+    background-size: cover;
+    width: auto;
+    border: none;
+    outline: none;
+    text-align: left;
+	transition: 1s;
+}
+.snt-blog-header-ph-2:hover {
+	border-radius: 100px;
+	opacity: 0.8;
+	transition: 1s;
 }
 .snt-blog-header {
 	margin-top: 60px;

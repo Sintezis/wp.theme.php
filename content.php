@@ -24,18 +24,18 @@
 	<?php if (count($posts) > 1) : ?>
 
 		<div class="col-md-6">
-			<div class="snt-blog-header-lg">
+			<button class="snt-blog-header-lg" onclick="window.location.href='http://beta.sintezis.co/is-it-time-for-you-to-dump-the-office-desk-and-start-working-remotely/'">
 				<h2><a href="<?php echo esc_url(get_post_permalink($posts[0])) ?>"><?php echo apply_filters( 'the_title', $posts[0]->post_title);?></a></h2>
 				<span class="snt-blog-date"><?php echo date('Y / m / d', strtotime($posts[0]->post_date_gmt)); ?></span>
 				<p class="snt-blog-description"><?php echo apply_filters( 'get_the_excerpt', $posts[0]->post_excerpt); ?></p>
-			</div>
+			</button>
 		</div>
 
 		<div class="col-md-6" placeholder="failure">
-				<div class="snt-blog-header-md snt-blog-header-ph-2" style="margin-top: 0.1rem;">
+				<button class="snt-blog-header-md snt-blog-header-ph-2" style="margin-top: 0.1rem;" onclick="window.location.href='http://beta.sintezis.co/we-failed-plenty-so-you-dont-have-to/'">
 					<h2><a href="<?php echo esc_url(get_post_permalink($posts[1])) ?>"><?php echo apply_filters( 'the_title', $posts[1]->post_title);?></a></h2>
 			<span class="snt-blog-date"><?php echo date('Y / m / d', strtotime($posts[1]->post_date_gmt)); ?></span>
-				</div>
+				</button>
 
 		</div>
 

@@ -39,15 +39,15 @@
           
         </div>
       </div>
-		<div class="col-xs-12 col-sm-4 col-md-4 social-ft">
+		<div class="col-xs-12 col-sm-12 col-md-4 social-ft">
         <a href="https://www.linkedin.com/company/sintezis" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_li.png" class="pull-right soc" width="35" height="35" alt="" style="margin-top:50px;"></a>
         <a href="https://twitter.com/SintezisLtd" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png" class="pull-right soc" width="35" height="35" alt="" style="margin-top:50px;"></a>
         <a href="https://www.instagram.com/sintezisco/" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_insta.png" class="pull-right soc" width="35" height="35" alt="" style="margin-top:50px;"></a>
       </div>
-      <div class="col-xs-12 col-sm-8 col-md-10">
+      <div class="col-xs-12 col-sm-8 col-md-9">
         <p class="snt-copyright">Copyright © 2020 Sintezis - All right reserved</p>
       </div>
-      <div class="col-xs-12 col-sm-4 col-md-2 ft-social">
+      <div class="col-xs-12 col-sm-4 col-md-3 ft-social">
         <a href="https://www.linkedin.com/company/sintezis" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_li.png" class="pull-right" width="35" height="35" alt="" style="margin-top:50px;"></a>
         <a href="https://twitter.com/SintezisLtd" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png" class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
         <a href="https://www.instagram.com/sintezisco/" target="_blank"><img src="http://beta.sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_insta.png" class="pull-right" width="35" height="35" alt="" style="margin-top:50px; margin-right:2rem;"></a>
@@ -56,10 +56,6 @@
     
     </div>
     </div>
-
-
-
-
 
 <!-- jQuery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
