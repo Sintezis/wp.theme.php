@@ -240,9 +240,6 @@ html, body, .snt-container {
 		left: -10px;
 		right: 0;
 	}
-	.service-travel-photo {
-		background-size: cover !important;
-	}
 }
 
 @media (min-width: 321px) and (max-width: 374px) {
@@ -263,9 +260,6 @@ html, body, .snt-container {
 	.behaving-wealthy {
 		width: 100% !important;
 	}
-	.service-travel-photo {
-		background-size: cover !important;
-	}
 }
 
 @media only screen and (min-width: 375px) and (max-width: 410px) {
@@ -280,9 +274,6 @@ html, body, .snt-container {
 	}
 	.behaving-wealthy {
 		width: 100% !important;
-	}
-	.service-travel-photo {
-		background-size: cover !important;
 	}
 }
 
@@ -312,9 +303,6 @@ html, body, .snt-container {
 	.behaving-wealthy {
 		width: 100% !important;
 	}
-	.service-travel-photo {
-		background-size: cover !important;
-	}
 }
 
 @media only screen and (min-width: 768px) and (max-width: 992px) {
@@ -328,9 +316,6 @@ html, body, .snt-container {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-	.service-travel-photo {
-		left: 530px !important;
-	}
 	svg {
 		display: none;
 	}
@@ -1810,11 +1795,8 @@ svg.locations {
 		position: unset;
 	}
 	.service-travel-photo {
-		height: 670px;
 		left: 0;
-		right: 0;
-		float: right;
-		position: inherit;
+		transform: matrix(1, 0, 0, 1, 0, 0);
 	}
 	.bitcoin {
 		margin-top: 67px;
