@@ -4,29 +4,18 @@
 
 <section id="product-design" class="snt-services-page-section">
 <div class="container">
-		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
 			<h1 class="hero" style="margin-top: 100px; margin-bottom: 100px;">Our Services</h1>
-			</div>
 	  </div>
 	</div>
 	
 	<div class="container">
-  	<div class="row">
-	    <div class="col-sm-12 col-md-12 col-lg-12">
 	  
-	  <div class="row">
 	  
-		<div id="serv" class="col-md-12" style="border:none; background:none;">
-		  <div class="row">
-			<div class="col-md-12">
+			<div id="serv" class="col-md-12">
 			  <h3 class="yellow">FLOW, FORM and function</h3>
 			  <h1 class="product-h1" style="margin-top: 10px; margin-bottom: 40px;">Product Design </h1>
 			</div>
-		  </div>
-		</div>
-
-  	</div>
   	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 		<p> Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
 	</div>
@@ -34,26 +23,25 @@
 		<p> Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
 	</div>
 
-	<div class="row">
+	<div class="col-xs-12" style="margin-top:65px;">
 		<div class="col-sm-4 col-md-4 col-lg-4 des-ux-int">
-			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
+			<div class="col-xs-4 col-sm-12 col-md-12 col-lg-12">
 				<button class="thunder" id="c1" value="showDesign" onclick="showDesign()" style="color: rgb(195, 25, 225); background: url(&quot;/wp-content/themes/wp.theme.php/imgs/Thunder_active.png&quot;) no-repeat;">
 					<h0> Design Sprint </h0>
 				</button>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
+			<div class="col-xs-4 col-sm-12 col-md-12 col-lg-12">
 				<button id="c2" class="vector" value="showUx" onclick="showUx()" style="">
 					<h0> UX/UI Design </h0>
 				</button>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
+			<div class="col-xs-4 col-sm-12 col-md-12 col-lg-12">
 				<button id="c3" class="mouse" value="showInteraction" onclick="showInteraction()" style="">
 					<h0> Interaction Design </h0>
 				</button>
 			</div>
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="design" style="display: block;">
-			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>DESIGN SPRINT</h2>
 				<p>The Design Sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. Developed at Google Ventures, it’s a “greatest hits” of business strategy, innovation, behavior science, design thinking, and more—packaged into a battle-tested process that any team can use.</p>
 				<p> Working together in a sprint, you can shortcut the endless-debate cycle and compress months of time into a single week. Instead of waiting to launch a minimal product to understand if an idea is any good, you’ll get clear data from a realistic prototype. The sprint gives you a superpower: You can fast-forward into the future to see your finished product and customer reactions, before making any expensive commitments. Read More</p>
@@ -66,10 +54,8 @@
 				<path fill-rule="evenodd" clip-rule="evenodd" d="M276.811 379.686C274.397 378.387 273.425 375.65 274.261 372.959L274.263 372.952L291.642 320.362H275.167C273.316 320.362 271.636 319.352 270.53 317.947C269.364 316.465 269.392 314.303 270.081 312.622L270.082 312.619L293.005 258.04C293.849 256.039 295.821 254.6 298.09 254.6H339.875C341.715 254.6 343.547 255.602 344.537 257.183C345.525 258.761 345.663 260.761 344.961 262.473L344.957 262.482L333.022 289.61H339.089C341.211 289.61 343.048 290.765 344.03 292.757C345.024 294.638 344.73 296.93 343.472 298.634L343.47 298.637L283.733 378.25C282.613 379.674 281.058 380.4 279.489 380.4C278.624 380.4 277.645 380.11 276.819 379.691L276.811 379.686ZM343.674 292.939C342.757 291.075 341.054 290.01 339.089 290.01H332.409L344.591 262.321C345.246 260.724 345.115 258.86 344.198 257.396C343.281 255.931 341.578 255 339.875 255H298.09C295.994 255 294.16 256.331 293.374 258.194L270.451 312.774C269.796 314.371 269.796 316.368 270.844 317.699C271.892 319.03 273.464 319.962 275.167 319.962H292.195L274.643 373.077C273.857 375.607 274.774 378.136 277.001 379.334C277.786 379.733 278.703 380 279.489 380C280.93 380 282.371 379.334 283.419 378.003L343.15 298.397C344.329 296.799 344.591 294.669 343.674 292.939ZM336.732 262.454H299.4L278.31 312.774H302.15L285.515 363.226L334.898 297.332H321.275L336.732 262.454ZM334.098 297.732H320.66L336.117 262.854H299.666L278.912 312.374H302.704L286.66 361.032L334.098 297.732Z" fill="white"></path>
 				</g>
 				</svg>
-			</div>
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="ux" style="display: none;">
-			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>UX/UI DESIGN</h2>
 				<p>User eXperience (UX) design is the process of manipulating user behavior through usability, usefulness, and desirability provided in the interaction with a product. User experience design encompasses traditional human–computer interaction design and extends it by addressing all aspects of a product or service as perceived by users. </p>
 				<p><u>Read more</u></p>
@@ -80,10 +66,8 @@
 				<path d="M373.348 146.233C371.825 145.315 369.936 145.219 368.326 145.98L327.047 165.209C312.493 171.987 302.726 185.956 301.452 201.814L300.387 214.855L278.999 249.986V234.986C278.999 234.937 278.973 234.896 278.973 234.843C278.965 234.327 278.882 233.814 278.721 233.322L268.77 203.798L289.089 163.624C289.981 161.836 289.775 159.701 288.556 158.111L256.61 115.988C254.675 113.662 251.199 113.329 248.845 115.243C248.57 115.466 248.318 115.717 248.092 115.988L216.144 158.111C214.934 159.707 214.738 161.84 215.638 163.624L235.957 203.798L226.006 233.322C225.845 233.814 225.762 234.327 225.754 234.843V234.986V256L192.583 206.21C192.541 206.153 192.478 206.12 192.44 206.069C192.119 205.63 191.734 205.243 191.296 204.92C191.195 204.847 191.104 204.763 190.997 204.694C190.892 204.626 190.874 204.589 190.806 204.551L171.286 193.389L163.183 181.226L151.469 163.64C150.124 161.624 147.565 160.772 145.261 161.572L124.543 168.758C121.773 169.732 120.324 172.742 121.309 175.481C121.452 175.883 121.644 176.264 121.882 176.618L136.529 198.608L144.606 210.765L147.267 232.912C147.281 232.982 147.299 233.053 147.321 233.122C147.345 233.233 147.372 233.345 147.406 233.453C147.527 234.01 147.739 234.545 148.035 235.033C148.072 235.086 148.072 235.155 148.11 235.208C148.148 235.259 227.289 353.883 227.672 354.204C231.566 364.32 241.374 371.004 252.319 371C254.492 370.998 256.657 370.737 258.767 370.222C265.627 368.557 271.53 364.251 275.16 358.257L345.974 242.084L357.155 235.086C363.03 231.392 367.959 226.406 371.564 220.516C376.138 213.024 378.362 204.355 377.952 195.612L375.876 150.531C375.813 148.77 374.865 147.156 373.348 146.233ZM334.784 240.061L326.545 253.588L299.183 237.267L307.432 223.739L334.784 240.061ZM236.404 319.848V240.251H268.35V267.452L236.404 319.848ZM245.568 208.659H259.187L266.284 229.72H238.47L245.568 208.659ZM252.377 171.801C249.436 171.801 247.053 169.444 247.053 166.536C247.053 163.628 249.436 161.272 252.377 161.272C255.317 161.272 257.702 163.628 257.702 166.536C257.702 169.444 255.317 171.801 252.377 171.801ZM252.377 127.925L278.089 161.824L259.735 198.128H257.7V181.363C266.018 178.456 270.378 169.43 267.436 161.205C264.495 152.98 255.371 148.67 247.053 151.578C238.735 154.485 234.377 163.511 237.318 171.736C238.926 176.234 242.504 179.773 247.053 181.363V198.128H245.019L226.664 161.824L252.377 127.925ZM178.012 209.4L176.445 210.422L156.836 223.196L155.032 208.275C154.932 207.463 154.645 206.687 154.189 206.004L148.334 197.212L157.225 191.42L163.082 200.212C163.538 200.895 164.146 201.461 164.86 201.871L178.012 209.4ZM144.866 172.854L151.362 182.61L142.471 188.403L134.484 176.452L144.866 172.854ZM173.283 225.082L186.595 216.388L225.754 275.135V332.563L159.945 233.78L173.283 225.082ZM266.056 352.787C261.541 360.282 251.738 362.741 244.158 358.277C236.578 353.814 234.094 344.118 238.606 336.622C238.64 336.569 238.672 336.518 238.704 336.465L278.908 270.527H278.999V270.386L293.683 246.296L307.362 254.468L321.061 262.607L266.056 352.787ZM362.469 215.057C359.723 219.543 355.963 223.343 351.486 226.155L342.028 232.078L326.589 222.886L311.147 213.692L312.026 202.636C313.001 190.546 320.446 179.899 331.54 174.728L365.615 158.864L366.293 173.538C365.76 173.481 365.221 173.503 364.695 173.607L351.799 176.767C339.798 179.665 330.507 189.057 327.84 200.987C327.198 203.824 329.002 206.638 331.871 207.273C332.254 207.361 332.644 207.406 333.037 207.406C335.527 207.402 337.684 205.693 338.228 203.289C340.028 195.267 346.276 188.952 354.345 186.997L366.783 183.948L367.342 196.059C367.654 202.728 365.958 209.34 362.469 215.057Z" fill="white"></path>
 				</g>
 				</svg>
-			</div>
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="interaction" style="display: none;">
-			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>INTERACTION DESIGN</h2>
 				<p>Reprehenderit elit officia reprehenderit commodo consectetur irure adipisicing non ex aliqua adipisicing velit sunt amet. Veniam qui tempor cupidatat Lorem nostrud eu culpa laboris eu.</p>
 				<p> Fugiat occaecat reprehenderit cupidatat fugiat in proident anim pariatur pariatur sunt. Anim reprehenderit fugiat voluptate ex nisi non labore anim proident. Labore magna fugiat qui ad eiusmod.</p>
@@ -97,10 +81,9 @@
 				<path d="M314.219 177.369C317.257 177.369 319.72 174.906 319.72 171.867C319.72 151.129 302.848 134.256 282.109 134.256C279.071 134.256 276.608 136.719 276.608 139.758C276.608 142.797 279.071 145.259 282.109 145.259C296.781 145.259 308.717 157.196 308.717 171.867C308.717 174.906 311.18 177.369 314.219 177.369Z" fill="white" stroke="white" stroke-width="0.3"></path>
 				</g>
 				</svg>
-			</div>
 		</div></div>
 
-</div></div></div>
+</div>
 
 </section>
 
@@ -109,18 +92,13 @@
   	<div class="row">
 	<div class="col-sm-12 col-md-12 col-lg-12">
 	  
-	  <div class="row">
-	  
-		<div id="serv" class="col-sm-12"style="border:none; background:none;">
-		  <div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-12">
+
+			<div id="serv" class="col-sm-12 col-md-12 col-lg-12">
 			  <h3 class="yellow">CODE THAT CRUNCHES THE DATA</h3>
 			  <h1 class="product-h1" style="margin-top: 10px; margin-bottom: 40px;">Product Development </h1>
 			</div>
-		  </div>
-		</div>
 
-  	</div>
+
   	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 		<p> We get to know you and your users, competition and domain space. We sketch, prototype and design usable software keeping the business needs in mind.</p>
 		<p> Product development typically refers to all of the stages involved in bringing a product from concept or idea, through market release and beyond.</p>
@@ -135,26 +113,25 @@
 		<ol><li> <p> Iterating based on user feedback </p></li></ol>
 	</div>
 
-	<div class="row">
+	<div class="col-xs-12" style="margin-top:65px;">
 		<div class="col-sm-4 col-md-4 col-lg-4 pro-pro-min">
-			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
+			<div class="col-xs-4 col-sm-12 col-md-12 col-lg-12">
 				<button id="c4" class="plane" value="showProof" onclick="showProof()">
 					<h0> Proof of Concept </h0>
 				</button>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
+			<div class="col-xs-4 col-sm-12 col-md-12 col-lg-12">
 				<button id="c5" class="airplane" value="showPrototype" onclick="showPrototype()">
 					<h0> Prototype </h0>
 				</button>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
+			<div class="col-xs-4 col-sm-12 col-md-12 col-lg-12">
 				<button id="c6" class="rocket" value="showMinimum" onclick="showMinimum()">
 					<h0> Minimum Viable Product </h0>
 				</button>
 			</div>
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border"  id="proof">
-			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>PROOF OF CONCEPT</h2>
 				<p>A Proof of Concept is a small exercise to test the design idea or assumption. The main purpose of developing a POC is to demonstrate the functionality and to verify a certain concept or theory that can be achieved in development.</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-30rem; margin-left:15rem;">
@@ -163,10 +140,8 @@
 				<path d="M364.173 121.058C362.902 121.213 361.675 121.622 360.565 122.261L129.67 247.333C128.033 248.237 126.698 249.603 125.833 251.26C124.967 252.918 124.608 254.793 124.801 256.653C124.994 258.513 125.73 260.275 126.917 261.719C128.105 263.164 129.691 264.227 131.479 264.776L192.81 283.113C194.244 294.456 200.632 343.581 201.825 353.163C203.018 362.707 209.502 364.362 215.957 355.568C220.325 349.613 246.012 313.477 246.022 313.477L300.744 368.201C301.922 369.383 303.391 370.234 305.002 370.67C306.613 371.105 308.31 371.11 309.924 370.683C311.537 370.257 313.01 369.413 314.195 368.238C315.38 367.063 316.236 365.597 316.676 363.987L374.4 133.085C374.818 131.583 374.863 130.003 374.528 128.48C374.194 126.958 373.491 125.542 372.481 124.354C371.472 123.167 370.186 122.246 368.738 121.671C367.289 121.097 365.722 120.886 364.173 121.058ZM350.358 149.325L301.947 342.946L247.532 288.52L326.595 178.784L203.633 266.575L158.84 253.346L350.338 149.315L350.358 149.325Z" fill="white"/>
 				</g>
 				</svg>
-			</div>
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border"  id="prototype" style="display:none;">
-			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>PROTOTYPE</h2>
 				<p>While PoC is focused on technical feasibility of the Idea, Prototype focuses more on the usability and desirability. It’s a interactive application that demonstrates the final product.</p>
 				<p> Albeit, the Prototype will not deliver actual functional business logic (nor is this needed at this stage), usable (“clickable”) application is delivered.</p>
@@ -176,10 +151,8 @@
 				<path d="M352.458 141.498C354.552 141.498 356.324 141.74 357.773 142.225C358.096 143.193 358.297 144.404 358.378 145.857C358.458 147.31 358.378 149.166 358.136 151.426C357.894 153.687 357.008 156.189 355.478 158.933C353.948 161.678 351.894 164.342 349.316 166.925L293.499 222.863L293.983 229.643C294.627 241.912 295.916 262.899 297.849 292.604C299.299 318.595 300.104 331.995 300.265 332.802C300.265 333.771 299.943 334.658 299.299 335.466C298.171 336.596 296.721 338.21 294.949 340.309C293.177 342.408 291.244 344.587 289.15 346.847C279.646 321.501 271.753 299.949 265.47 282.191L257.013 259.428L239.857 276.622L208.445 306.891L203.854 311.492V317.546C203.693 320.613 203.693 327.878 203.854 339.34V352.417L204.096 352.659L204.579 352.901C203.612 351.287 202.968 350.157 202.646 349.511L201.196 347.331C191.853 332.479 186.376 323.681 184.765 320.936L182.59 317.788L179.449 315.609C168.495 308.99 157.622 302.209 146.829 295.268C146.99 295.268 147.151 295.429 147.312 295.752L147.554 295.994H163.864L166.159 296.115L168.697 296.236H182.59L188.873 295.994L193.222 291.635L223.668 260.155L240.824 242.962L218.11 234.728C200.552 228.271 178.885 220.199 153.111 210.513C155.367 208.253 157.501 206.235 159.515 204.459C161.528 202.683 163.179 201.311 164.468 200.342L166.159 199.374H166.643C167.77 199.374 182.268 200.261 210.136 202.037C240.582 204.136 260.637 205.427 270.303 205.912L277.31 206.396L333.127 150.458C339.087 144.485 345.531 141.498 352.458 141.498ZM352.458 126C347.464 126 342.349 127.09 337.114 129.269C331.879 131.449 326.925 134.879 322.254 139.561L271.269 190.414C266.114 190.091 258.986 189.647 249.885 189.082C240.783 188.517 231.722 187.952 222.701 187.387C213.68 186.822 204.982 186.257 196.605 185.692C188.228 185.127 181.342 184.683 175.946 184.36C170.549 184.037 167.69 183.875 167.368 183.875H166.159C165.193 183.875 164.186 183.956 163.139 184.118C162.092 184.279 160.763 184.683 159.152 185.328C157.541 185.974 156.011 186.943 154.561 188.234L136.922 204.217C133.861 207.284 132.573 210.593 133.056 214.145C133.378 217.697 135.472 220.28 139.338 221.894C149.487 225.93 173.972 235.051 212.794 249.258L182.349 280.738H177.516C174.133 280.738 168.777 280.698 161.448 280.617C154.118 280.536 149.648 280.496 148.037 280.496H144.533L143.325 280.617L141.755 280.98L139.822 281.828L137.405 283.16L134.627 284.976L131.364 287.519L130.64 288.245C128.384 290.667 127.176 293.25 127.015 295.994C126.854 298.739 127.982 301.079 130.398 303.017C133.942 305.923 147.634 314.559 171.475 328.927C173.247 331.833 179.127 341.197 189.114 357.018C193.625 364.444 196.041 368.399 196.363 368.883C197.974 371.466 200.31 372.839 203.371 373H203.612C206.512 373 209.331 371.628 212.07 368.883C213.197 367.592 214.204 366.341 215.09 365.13C215.976 363.919 216.661 362.829 217.144 361.861L218.352 359.439L218.956 357.381L219.198 355.807V354.596L219.077 353.87C219.238 352.255 219.278 346.686 219.198 337.161C219.117 327.636 219.157 321.259 219.318 318.03L250.731 287.519C254.436 297.689 259.671 311.976 266.437 330.38C273.202 348.784 276.988 358.874 277.793 360.65C279.243 364.363 281.74 366.462 285.284 366.946H286.492C287.942 366.946 289.432 366.583 290.962 365.856C292.493 365.13 293.902 364.121 295.191 362.829C295.996 362.022 297.084 360.892 298.453 359.439C299.822 357.986 301.916 355.686 304.735 352.538C307.554 349.39 309.689 346.928 311.139 345.152C314.36 341.277 315.81 336.919 315.488 332.075C315.488 331.753 315.125 325.134 314.401 312.219C313.676 299.304 312.79 284.169 311.743 266.814C310.696 249.46 309.93 236.827 309.447 228.917L360.431 177.822C364.62 173.463 367.882 168.821 370.218 163.898C372.553 158.974 373.802 154.413 373.963 150.216C374.124 146.018 373.761 142.225 372.875 138.834C371.99 135.444 370.661 132.942 368.889 131.327C365.345 127.776 359.868 126 352.458 126Z" fill="white"/>
 				</g>
 				</svg>
-			</div>
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border"  id="minimum" style="display:none;">
-			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>MINIMUM VIABLE PRODUCT</h2>
 				<p>A minimum viable product (MVP) is a concept from Lean Startup that stresses the impact of learning in new product development. Eric Ries, defined an MVP as that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort. This validated learning comes in the form of whether your customers will actually purchase your product.</p>
 				<p> A key premise behind the idea of MVP is that you produce an actual product (which may be no more than a landing page, or a service with an appearance of automation, but which is fully manual behind the scenes) that you can offer to customers and observe their actual behavior with the product or service. Seeing what people actually do with respect to a product is much more reliable than asking people what they would do. Read more</p>
@@ -191,7 +164,6 @@
 				<path d="M222.044 357.756C225.339 354.463 225.339 349.374 222.044 346.082L153.143 277.231C149.848 273.939 144.755 273.939 141.46 277.231C140.861 277.83 140.262 278.728 139.962 279.327C121.689 306.867 116.896 340.394 127.98 366.737C128.279 367.635 128.878 368.533 129.777 369.431C130.676 370.329 131.574 370.927 132.473 371.227C158.835 382.303 192.387 377.513 219.947 359.253C220.846 358.953 221.445 358.355 222.044 357.756ZM142.059 357.157C135.768 338.598 138.165 316.446 148.949 296.39L202.872 350.272C182.801 361.049 160.633 363.444 142.059 357.157Z" fill="white"/>
 				</g>
 				</svg>
-			</div>
 		</div>
 		</div>
 </section>
@@ -201,18 +173,12 @@
   	<div class="row">
 	<div class="col-sm-12 col-md-12 col-lg-12">
 	  
-	  <div class="row">
-	  
-		<div id="serv" class="col-sm-12"style="border:none; background:none;">
-		  <div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-12">
+
+			<div id="serv" class="col-sm-12 col-md-12 col-lg-12">
 			  <h3 class="yellow">WE OFFER OUR KNOW - HOW</h3>
 			  <h1>Consulting </h1>
-			</div>
-		  </div>
 		</div>
 
-  	</div>
   	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 		<p> Adipisicing cupidatat aliquip sunt ullamco cillum nulla adipisicing in aute enim. Et veniam in aliqua aute ex cupidatat. Commodo laborum laborum voluptate exercitation id do non. Consequat ipsum eu eu nisi veniam tempor id ullamco. Culpa velit eu sint cillum voluptate dolor incididunt proident non do. Nulla est ullamco eu amet ad exercitation et eu.</p>
 	</div>
@@ -220,31 +186,30 @@
 		<p> Occaecat laborum culpa mollit tempor reprehenderit enim voluptate eu ex irure minim cillum quis. Aliqua laboris anim voluptate non commodo proident elit. Non adipisicing et culpa minim non esse ut officia commodo laboris exercitation sunt consectetur. Minim reprehenderit cupidatat sunt esse velit do voluptate proident et. </p>
 	</div>
 
-	<div class="row consulting-display">
+	<div class="col-xs-12" style="margin-top:65px;">
 		<div class="col-sm-4 col-md-4 col-lg-4 sof-pro-soc-int">
-			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
+			<div class="col-xs-5 col-sm-12 col-md-12 col-lg-12">
 				<button id="c7" class="software" value="showSoftware" onclick="showSoftware()">
 					<h0> Software Development </h0>
 				</button>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
+			<div class="col-xs-5 col-sm-12 col-md-12 col-lg-12">
 				<button id="c8" class="product" value="showProductDesign" onclick="showProductDesign()">
 					<h0> Product Design </h0>
 				</button>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
+			<div class="col-xs-5 col-sm-12 col-md-12 col-lg-12">
 				<button id="c9" class="social" value="showSocial" onclick="showSocial()">
 					<h0> Social Media </h0>
 				</button>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-12" style="width: 100%">
+			<div class="col-xs-5 col-sm-12 col-md-12 col-lg-12">
 				<button id="c10" class="interim" value="showInterim" onclick="showInterim()">
 					<h0> Interim CTO </h0>
 				</button>
 			</div>
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="software">
-			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>SOFTWARE DEV CONSULTING</h2>
 				<p>Building a usable software that’s loved by many is hard, but our experts can guide you along the way, helping you with:</p>
 					<ol><li> <p> Best software development practices, methodologies and procedures </p></li></ol>
@@ -261,11 +226,8 @@
 					<path d="M262.61 183.393L262.61 183.394L228.474 253.05C228.474 253.05 228.473 253.05 228.473 253.05C227.127 255.725 228.285 258.779 230.97 260.113C231.737 260.493 232.506 260.685 233.278 260.685C235.201 260.685 237.12 259.541 238.08 257.825L238.08 257.825L238.083 257.82L272.219 187.975L272.219 187.976L272.221 187.971C273.372 185.305 272.225 182.062 269.721 180.913C267.028 179.577 263.953 180.726 262.61 183.393Z" fill="white" stroke="white" stroke-width="0.2"/>
 					</g>
 					</svg>
-
-			</div>
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="product-d" style="display:none;">
-			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>PRODUCT DESIGN CONSULTING</h2>
 				<p>Creating an exhilarating application that will be loved and used by many largely depends on the UX/UI design of the application, since that is the first thing users interact with, this is a crucial step to get right from the get go.</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-30rem; margin-left:15rem;">
@@ -280,11 +242,8 @@
 				</g>
 				</g>
 				</svg>
-
-			</div>
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="social" style="display:none;">
-			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>SOCIAL MEDIA CONSULTING</h2>
 				<p>Nowadays your presence on the internet is a paramount. With out a strong, consistent and ever growing social media channels it’s like you don’t even exist. How to gain more followers, how to engage more, how to grow. We can answer all of those.</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-30rem; margin-left:15rem;">
@@ -294,11 +253,8 @@
 				<path d="M277.37 195.134C283.545 195.07 290.688 195.229 296.99 197.019C303.377 198.834 308.923 202.331 311.715 208.986C316.051 218.869 316.97 232.463 314.399 245.248C311.827 258.033 305.758 270.048 296.076 276.74L296.076 276.741C286.129 283.562 271.934 287.532 257.041 287.532H257.038C254.634 287.532 252.219 287.532 249.379 287.248C249.379 287.248 249.379 287.248 249.379 287.248L249.399 287.049C230.858 285.209 219.252 282.237 213.308 277.708L277.37 195.134ZM277.37 195.134C278.066 190.298 278.721 184.62 278.878 179.438C278.958 176.805 278.909 174.297 278.671 172.088C278.433 169.883 278.006 167.964 277.319 166.52C274.598 160.791 269.013 157.07 262.574 156.64L262.574 156.64H262.561H262.559H262.556H262.554H262.551H262.549H262.546H262.544H262.541H262.538H262.536H262.533H262.531H262.528H262.526H262.523H262.521H262.518H262.516H262.513H262.511H262.508H262.506H262.503H262.5H262.498H262.495H262.493H262.49H262.488H262.485H262.482H262.48H262.477H262.475H262.472H262.469H262.467H262.464H262.462H262.459H262.456H262.454H262.451H262.449H262.446H262.443H262.441H262.438H262.435H262.433H262.43H262.428H262.425H262.422H262.42H262.417H262.414H262.412H262.409H262.406H262.404H262.401H262.398H262.396H262.393H262.39H262.388H262.385H262.382H262.38H262.377H262.374H262.372H262.369H262.366H262.364H262.361H262.358H262.355H262.353H262.35H262.347H262.345H262.342H262.339H262.336H262.334H262.331H262.328H262.326H262.323H262.32H262.317H262.315H262.312H262.309H262.306H262.304H262.301H262.298H262.295H262.293H262.29H262.287H262.284H262.282H262.279H262.276H262.273H262.271H262.268H262.265H262.262H262.259H262.257H262.254H262.251H262.248H262.246H262.243H262.24H262.237H262.234H262.232H262.229H262.226H262.223H262.22H262.218H262.215H262.212H262.209H262.206H262.204H262.201H262.198H262.195H262.192H262.19H262.187H262.184H262.181H262.178H262.175H262.173H262.17H262.167H262.164H262.161H262.159H262.156H262.153H262.15H262.147H262.144H262.141H262.139H262.136H262.133H262.13H262.127H262.124H262.122H262.119H262.116H262.113H262.11H262.107H262.104H262.102H262.099H262.096H262.093H262.09H262.087H262.084H262.082H262.079H262.076H262.073H262.07H262.067H262.064H262.062H262.059H262.056H262.053H262.05H262.047H262.044H262.041H262.039H262.036H262.033H262.03H262.027H262.024H262.021H262.018H262.016H262.013H262.01H262.007H262.004H262.001H261.998H261.995H261.992H261.99H261.987H261.984H261.981H261.978H261.975H261.972H261.969H261.966H261.964H261.961H261.958H261.955H261.952H261.949H261.946H261.943H261.94H261.937H261.935H261.932H261.929H261.926H261.923H261.92H261.917H261.914H261.911H261.908H261.906H261.903H261.9H261.897H261.894H261.891H261.888H261.885H261.882H261.879H261.877H261.874H261.871H261.868H261.865H261.862H261.859H261.856H261.853H261.85H261.848H261.845H261.842H261.839H261.836H261.833H261.83H261.827H261.824H261.821H261.819H261.816H261.813H261.81H261.807H261.804H261.801H261.798H261.795H261.792H261.79H261.787H261.784H261.781H261.778H261.775H261.772H261.769H261.766H261.763H261.761H261.758H261.755H261.752H261.749H261.746H261.743H261.74H261.737H261.734H261.732H261.729H261.726H261.723H261.72H261.717H261.714H261.711H261.708H261.706H261.703H261.7H261.697H261.694H261.691H261.688H261.685H261.683H261.68H261.677H261.674H261.671H261.668H261.665H261.662H261.66H261.657H261.654H261.651H261.648H261.645H261.642H261.639H261.637H261.634H261.631H261.628H261.625H261.622H261.619H261.617H261.614H261.611H261.608H261.605H261.602H261.599H261.597H261.594H261.591H261.588H261.585H261.582H261.579H261.577H261.574H261.571H261.568H261.565H261.562H261.56H261.557H261.554H261.551H261.548H261.545H261.543H261.54H261.537H261.534H261.531H261.528H261.526H261.523H261.52H261.517H261.514H261.512H261.509H261.506H261.503H261.5H261.497H261.495H261.492H261.489H261.486H261.483H261.481H261.478H261.475H261.472H261.469H261.467H261.464H261.461H261.458H261.456H261.453H261.45H261.447H261.444H261.442H261.439H261.436H261.433H261.431H261.428H261.425H261.422H261.42H261.417H261.414H261.411H261.409H261.406H261.403H261.4H261.398H261.395H261.392H261.389H261.387H261.384H261.381H261.378H261.376H261.373H261.37H261.368H261.365H261.362H261.359H261.357H261.354H261.351H261.349H261.346H261.343H261.34H261.338H261.335H261.332H261.33H261.327H261.324H261.322H261.319H261.316H261.314H261.311H261.308H261.306H261.303H261.3H261.298H261.295H261.292H261.29H261.287H261.284H261.282H261.279H261.277H261.274H261.271H261.269H261.266H261.263H261.261H261.258H261.256H261.253H261.25H261.248H261.245H261.242H261.24H261.237H261.235H261.232H261.229H261.227H261.224H261.222H261.219H261.217H261.214H261.211H261.209H261.206H261.204H261.201H261.199H261.196H261.194H261.191H261.188H261.186H261.183H261.181H261.178H261.176H261.173H261.171H261.168H261.166H261.163H261.161H261.158H261.156H261.153H261.151H261.148H261.146C254.988 156.64 249.545 159.792 246.396 165.229C239.043 177.249 232.257 186.013 226.871 191.947C224.177 194.914 221.835 197.172 219.948 198.776C218.064 200.376 216.647 201.311 215.793 201.656C215.497 201.732 215.24 201.843 215.011 201.949C214.964 201.97 214.92 201.991 214.876 202.011C214.712 202.088 214.566 202.156 214.421 202.208C214.326 202.195 214.232 202.181 214.139 202.168C213.286 202.044 212.504 201.93 211.609 201.93H194.909C186.586 201.93 179.848 208.817 179.848 217.274V262.989C179.848 271.308 186.589 278.05 194.909 278.05H211.609H211.62C212.15 278.05 212.704 278.05 213.262 277.925L277.37 195.134ZM218.603 209.398L218.614 209.394C220.272 208.782 222.362 207.474 224.788 205.496C227.217 203.516 229.993 200.855 233.023 197.523C239.083 190.861 246.167 181.509 253.532 169.541L253.532 169.54C255.478 166.344 258.522 164.688 262.121 164.965C265.733 165.243 268.64 167.184 270.165 170.372L270.166 170.375C270.537 171.116 270.792 172.4 270.92 174.15C271.047 175.893 271.048 178.073 270.924 180.59C270.677 185.622 269.935 191.982 268.733 198.84L268.732 198.844L268.025 203.373L267.989 203.604H268.222L274.167 203.604L274.172 203.604C279.412 203.462 285.972 203.322 291.733 204.397C297.501 205.473 302.402 207.754 304.412 212.4C307.93 220.561 308.57 232.3 306.381 243.348C304.192 254.399 299.185 264.706 291.461 270.042C282.869 275.958 270.316 279.348 257.041 279.348C254.634 279.348 252.664 279.348 250.271 279.066L250.267 279.066C229.804 277.104 221.737 273.755 218.603 271.658V209.398ZM194.909 210.114H210.419V269.865H194.909C191.056 269.865 188.032 266.841 188.032 262.989V217.274C188.032 213.272 191.064 210.114 194.909 210.114Z" fill="white" stroke="white" stroke-width="0.4"/>
 				</g>
 				</svg>
-
-			</div>
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="interim" style="display:none;">
-			<div class="col-sm-12 col-md-12 col-lg-12">
 				<h2>INTERIM CTO CONSULTING</h2>
 				<p>Now days it’s hard to find a technical co-founder. Someone with technical background, life experience and enough games under the belt. While many startups loose valuable time finding the right talent fit, we can jump right in and provide an interim CTO, who can advise the Board on all technical aspects of application development, security, tooling, etc. We can tailor fit the role to your needs.</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-40rem; margin-left:15rem;">
@@ -308,8 +264,6 @@
 				<path d="M344.135 243.75H323.049C322.268 243.75 321.682 243.165 321.682 242.384V239.26V192.791V187.324V184.2C321.682 183.419 322.268 182.834 323.049 182.834H344.135C347.064 182.834 349.602 180.491 349.602 177.367C349.602 174.243 347.064 172.29 344.135 172.29H323.049C317.191 172.29 312.31 176.586 311.139 182.053H280.095L265.647 172.095C261.546 169.362 256.86 167.8 251.979 167.8H237.141C231.283 167.8 225.621 169.557 220.74 173.071L208.049 182.053C205.901 183.419 204.339 185.372 202.973 187.52H192.234V179.319C192.234 175.414 189.305 172.29 185.596 172.29H162.557C159.628 172.29 157.09 174.633 157.09 177.757C157.09 180.881 159.433 183.224 162.557 183.224H181.496V244.336H162.557C159.628 244.336 157.09 246.679 157.09 249.803C157.09 252.927 159.433 255.27 162.557 255.27H185.596C189.305 255.27 192.234 252.146 192.234 248.241V239.455H193.796C193.601 240.431 193.601 241.407 193.406 242.384C193.406 242.579 193.406 242.774 193.406 242.969V243.165V243.36C193.406 243.36 193.406 243.36 193.406 243.555V243.75C193.601 249.803 195.944 253.708 200.239 255.27C200.63 255.66 200.825 256.051 201.215 256.441C202.777 258.003 204.535 259.37 206.487 260.151C206.878 263.665 208.244 266.789 210.782 269.328C213.711 272.452 217.616 274.209 221.911 274.404C222.497 274.404 222.888 274.404 223.473 274.404C224.059 275.38 224.84 276.356 225.621 277.333C228.55 280.457 232.455 282.214 236.75 282.409C236.945 282.409 237.141 282.409 237.531 282.409C238.117 283.581 238.898 284.752 239.874 285.728C242.803 288.852 246.708 290.609 251.003 290.805H251.589C255.689 290.805 259.594 289.243 262.523 286.509L306.843 244.531H310.944C312.115 250.194 316.996 254.294 322.854 254.294H343.94C346.869 254.294 349.407 251.951 349.407 248.827C349.407 245.703 347.064 243.75 344.135 243.75ZM194.187 198.258H196.139C196.139 198.258 196.53 198.258 196.725 198.258C200.044 198.649 209.22 199.625 211.173 196.11C211.368 195.72 211.563 195.134 211.563 194.744C211.954 193.182 212.93 191.62 214.297 190.644L227.183 181.467C230.112 179.319 233.626 178.148 237.336 178.148H252.175C254.908 178.148 257.446 178.929 259.594 180.491L281.071 195.329C282.242 196.11 282.438 197.282 282.633 197.868C282.633 198.453 282.633 199.625 281.657 200.601L279.899 202.554C274.823 208.411 273.261 207.435 269.551 204.897L253.932 194.548H253.346C250.222 192.791 246.512 193.182 243.974 195.525C242.412 196.891 217.616 219.149 203.949 231.645C203.754 231.255 203.558 231.059 203.363 230.669C201.996 229.107 200.239 228.326 198.287 228.326H194.382V198.258H194.187ZM255.103 277.918C254.127 278.895 252.956 279.285 251.589 279.285H251.394C250.027 279.285 248.66 278.699 247.684 277.528C246.903 276.747 246.512 275.771 246.317 274.794L245.731 270.694C245.536 269.523 244.365 268.742 243.193 269.132L239.288 270.694C238.703 270.89 237.922 271.085 237.336 271.085C235.969 271.085 234.602 270.499 233.626 269.328C232.845 268.547 232.455 267.57 232.259 266.594L231.479 262.299C231.283 261.127 229.917 260.346 228.745 260.932L224.645 262.689C223.864 263.08 223.083 263.08 222.302 263.08C220.935 263.08 219.569 262.494 218.592 261.323C217.616 260.346 217.03 258.98 217.226 257.613C217.226 257.222 218.202 252.927 218.202 252.927C218.397 251.755 217.616 250.584 216.445 250.584L212.54 250.194C211.173 249.998 210.001 249.413 209.22 248.632C208.83 248.241 205.511 245.117 205.511 245.117C214.687 236.526 242.608 211.535 249.441 205.287L263.499 214.659C269.942 218.954 277.947 221.883 287.709 210.559L289.271 208.997C290.638 207.63 291.809 205.873 292.395 204.116C293.762 200.211 293.567 196.501 292.005 193.182H310.748V234.183H302.743L255.103 277.918Z" fill="white"/>
 				</g>
 				</svg>
-
-			</div>
 		</div>
 </div>
 </section>
@@ -344,9 +298,9 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
 	  
-	  			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 service-travel-photo"></div>
-
-					<div id="travel" class="col-xs-12 col-sm-12 col-md-6 col-lg-6 travel" style="margin-top:0rem;border:none; background: none !important;">
+				  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mobile">
+				  <img class="img-fluid" src="<?php echo get_template_directory_uri().'/imgs/Background_ Image_mobile.png'?>" alt="Republish"></div>
+					<div id="travel" class="col-xs-12 col-sm-12 col-md-6 col-lg-6 travel">
 		  				<div class="row">
 							<div class="col-md-12">
 								<h3 class="yellow">WHAT WE ARE REALLY GOOD AT</h3>
@@ -377,6 +331,8 @@
 							</div>
 		  				</div>
 					</div>
+					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 d-flex desktop">
+				  <img class="img-fluid" src="<?php echo get_template_directory_uri().'/imgs/Background_ Image_mobile.png'?>" alt="Republish"></div>
 			</div>
 		</div>
 </div></section>
@@ -386,8 +342,10 @@
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
 	  
-	 			 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 finance-photo"></div>
-	  
+	 			 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 desktop">
+				  <img class="img-fluid" src="<?php echo get_template_directory_uri().'/imgs/Finance_image_mobile.png'?>" alt="Republish"></div>
+				  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mobile">
+				  <img class="img-fluid" src="<?php echo get_template_directory_uri().'/imgs/Finance_image_mobile.png'?>" alt="Republish"></div>
 					<div id="finance" class="col-xs-12 col-sm-12 col-md-6 col-lg-6 finance"style="border:none; background: none !important;">
 						<div class="row">
 							<div class="col-md-12">
@@ -397,10 +355,10 @@
 								<p class="travel-text">Our Solutions</p>
 								<p class="travel-p"> In esse ad ut esse voluptate. Consectetur quis id quis quis exercitation voluptate occaecat ea dolore cupidatat tempor culpa.</p>
 								<div class="col-xs-12 col-md-12">
-									<div class="col-xs-12 col-sm-12 col-md-6">
+									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 										<button class="behaving-wealthy">
 									</div>
-									<div class="col-xs-12 col-sm-12 col-md-6" style="margin-bottom:15rem;">
+									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6" style="margin-bottom:15rem;">
 										<button class="bitcoin">
 									</div>
 								</div>

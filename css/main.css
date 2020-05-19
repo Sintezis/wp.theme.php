@@ -32,7 +32,7 @@ html, body, .snt-container {
 }
 
 .ambassador-city-icons {
-	margin-top: 50px;
+	margin-top: 30px;
 }
 
 .snt-nav-bar {
@@ -129,7 +129,7 @@ html, body, .snt-container {
 }
 
 .snt-btn:hover {
-	color: white;
+	color: white !important;
 	background: #FB178A !important;
     border: 2px solid #FB178A;
 	transition: all 0.2s ease-in-out;
@@ -237,7 +237,7 @@ html, body, .snt-container {
 	}
 	.behaving-wealthy {
 		width: 122% !important;
-		left: -10px;
+		left: -20px;
 		right: 0;
 	}
 }
@@ -331,11 +331,27 @@ html, body, .snt-container {
 	.booking-photo {
 		width: 100% !important;
 	}
-	.behaving-wealthy {
-		width: 100% !important;
-	}
 	.bitcoin {
 		width: 100% !important;
+		margin-top: 60px;
+	}
+	.border {
+		margin-left: 10rem !important;
+		width: 54%;
+		border-left: groove #C319E1;
+		padding-left: 50px;
+		height: 500px;
+	}
+	.service-travel-photo {
+		padding: 0%;
+		display: table;
+		margin: 0;
+		max-width: none;
+		height: 100vh;
+		left: 530px !important;
+	}
+	.finance-photo {
+		left: -40px !important;
 	}
 }
 
@@ -381,7 +397,7 @@ html, body, .snt-container {
 .snt-services-welcome-section button:hover {
 	border: 4px solid #EC009C;
 	box-shadow: 0px 0px 20px #C319E1;
-	color: #EC009C !important;
+	color: #EC009C;
 }
 
 
@@ -666,11 +682,15 @@ h1 {
     right: 0;
 }
 
+.img-fluid {
+	width: 100%;  
+}
+
 .service-travel-photo {
 	background: url(../imgs/Background\ Image.png) no-repeat top right;
     position: inherit;
     height: 760px;
-    left: 840px;
+    left: 810px;
     right: 0;
 }
 .finance {
@@ -679,7 +699,6 @@ h1 {
 
 .travel {
 	float: left;
-	position: absolute;
 }
 
 .amadeus-photo {
@@ -1268,6 +1287,7 @@ h4 {
     background-color: rgba(0, 0, 0, 0.9);
     padding-right: 150px;
 	margin-left: -2rem;
+	margin-top: 100px;
 }
 
 .snt-logo {
@@ -1625,7 +1645,7 @@ img.snt-team-pic.center-block {
 }
 
 .snt-cta-section h1 {
-	font-size: 46px;
+	font-size: 40px;
 	text-align: center;
 	margin-top: 100px;
 }
@@ -1704,9 +1724,6 @@ img.snt-team-pic.center-block {
 	display: block-inline;
 }
 
-svg.locations {
-	margin-left: -15rem;
-}
 .mobile {
     display: none;
 }
@@ -1732,6 +1749,12 @@ svg.locations {
 	div#btn1 {
 		margin-top: 0rem !important;
 		text-align: center !important;
+		margin-left: -1rem;
+	}
+	div#btn2 {
+		margin-top: 0rem !important;
+		margin-left: -1rem !important;
+		text-align: center !important;
 	}
 	.finance-photo {
 		left: 0px !important;
@@ -1746,16 +1769,16 @@ svg.locations {
 		margin-left: 10px !important;
 		margin-right: 10px !important;
 	}
+	div#btn2 {
+		margin-top: 0rem !important;
+		margin-left: 0rem !important;
+		text-align: center !important;
+	}
 }
 
 @media screen and (max-width: 992px) {
 	.service-page-photo {
 		background-size: auto !important;
-	}
-	div#btn2 {
-		margin-top: 0rem !important;
-		margin-left: 0rem !important;		
-		text-align: center !important;
 	}
 	.service-button {
 		width: 260px;
@@ -1818,86 +1841,92 @@ svg.locations {
 		height: 17rem !important;
 		margin-bottom: -10rem;
 		background-position-x: center !important;
-		width: 100% !important;
 	}
 	.vector {
 		height: 17rem !important;
 		margin-bottom: -10rem;
 		background-position-x: center !important;
-		width: 100% !important;
 	}
 	.mouse {
 		height: 17rem !important;
 		margin-bottom: -10rem;
 		background-position-x: center !important;
-		width: 100% !important;
 	}
 	.plane {
 		height: 17rem !important;
 		margin-bottom: -10rem;
 		background-position-x: center !important;
-		width: 100% !important;
 	}
 	.airplane {
 		height: 17rem !important;
 		margin-bottom: -10rem;
 		background-position-x: center !important;
-		width: 100% !important;
 	}
 	.rocket {
 		height: 17rem !important;
 		margin-bottom: -10rem;
 		background-position-x: center !important;
-		width: 100% !important;
 	}
 	.software {
 		height: 17rem !important;
 		margin-bottom: -10rem;
 		background-position-x: center !important;
-		width: 100% !important;
 	}
 	.product {
 		height: 17rem !important;
 		margin-bottom: -10rem;
 		background-position-x: center !important;
-		width: 100% !important;
 	}
 	.social {
 		height: 17rem !important;
 		margin-bottom: -10rem;
 		background-position-x: center !important;
-		width: 100% !important;
 	}
 	.interim {
 		height: 17rem !important;
 		margin-bottom: -10rem;
 		background-position-x: center !important;
-		width: 100% !important;
 	}
 	.product-h1 {
 		text-align: left;
 	}
 	.des-ux-int {
-		margin-bottom: 75px;
+		padding-left: 0rem;
+		padding-bottom: 55px;
+		padding-right: 3rem;
 		display: flex;
 		width: 100% !important;
+		border-bottom: groove #C319E1;
+		white-space: inherit !important;
 	}
 	.pro-pro-min {
-		margin-bottom: 75px;
+		padding-left: 0rem;
+		padding-bottom: 55px;
+		padding-right: 3rem;
 		display: flex;
 		width: 100% !important;
+		border-bottom: groove #C319E1;
+		white-space: inherit !important;
 	}
 	.sof-pro-soc-int {
-		margin-bottom: 75px;
+		padding-left: 0rem;
+		padding-bottom: 55px;
+		padding-right: 3rem;
 		display: flex;
 		width: 100% !important;
 		overflow-y: hidden;
+		border-bottom: groove #C319E1;
+		white-space: inherit !important;
 	}
 	.border {
-		margin-left: 3rem !important;
+		margin-left: 0rem !important;
 		width: auto !important;
-		border-top: groove #C319E1;
 		border-left: none !important;
+		padding-left: 0px !important;
+		height: auto !important;
+	}
+	.snt-services-page-section h2 {
+		font-size: 32px !important;
 	}
 	.snt-services-page-section li {
 		width: 100% !important;
@@ -1911,7 +1940,7 @@ svg.locations {
         display: block;
     }
     .desktop {
-        display: none;
+        display: none !important;
     }
 	button.snt-btn.mobile {
 		margin-top: 10px;
@@ -2274,7 +2303,7 @@ svg.locations {
 		display: none;
 	}
 	.snt-footer-section {
-		background: url(../imgs/charlota-blunarova-hmzKFGDeOV4-unsplash\ copy.png) bottom no-repeat !important;
+		background: url(../imgs/charlota-blunarova-hmzKFGDeOV4-unsplash\ 2.png) bottom no-repeat !important;
 	}
 	h1 {
 		font-family: Overpass;
@@ -2797,11 +2826,21 @@ cite {
 }
 
 .border {
-	margin-left: 8rem;
+	margin-left: 5rem;
 	width: 54%;
 	border-left: groove #C319E1;
+	padding-left: 50px;
+	height: 500px;
 }
-
+.des-ux-int {
+	white-space: pre-line;
+}
+.pro-pro-min {
+	white-space: pre-line;
+}
+.sof-pro-soc-int {
+	white-space: pre-line;
+}
 .booking {
 	margin-bottom: 12rem;
 }

@@ -26,7 +26,7 @@
     <div class="row">
       <div class="col-md-12">
         <!-- carousel -->
-        <div id="portfolio-slider" class="snt-carousel carousel slide"> 
+        <div id="portfolio-slider" class="snt-carousel carousel slide" data-ride="carousel"> 
           
           <div class="snt-carousel-content carousel-inner" role="listbox">
             
@@ -37,12 +37,12 @@
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Elude iOS App</h3>
-					<p>Travel on a budget, you define it and Elude app finds it. The Elude app lets you find the best travel arrangements within your budget by searching the best flights and hotels for the destination of your choosing.</p>
-          <div class="col-md-12 apple-btn">
-            <button class="apple_store">
-              <p class="apple_p">APPLE STORE</p>
-            </button>
-          </div>
+                      <p>Travel on a budget, you define it and Elude app finds it. The Elude app lets you find the best travel arrangements within your budget by searching the best flights and hotels for the destination of your choosing.</p>
+                      <div class="col-md-12 apple-btn">
+                        <button class="apple_store">
+                          <p class="apple_p">APPLE STORE</p>
+                        </button>
+                      </div>
                   </div>
                 </div>
               </div>
@@ -57,11 +57,11 @@
                     <h3>Republish iOS App</h3>
                     <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling “Your Digest”. </p>
                     <div class="col-md-12 apple-btn">
-            <button class="apple_store">
-              <p class="apple_p">APPLE STORE</p>
-            </button>
-          </div>
-				</div>
+                      <button class="apple_store">
+                        <p class="apple_p">APPLE STORE</p>
+                      </button>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -73,18 +73,16 @@
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Fooc iOS App</h3>
-					<p>If you need to find a buddy for your football or basketball game, Fooc can help you with that. Select the number of players you are looking for, put the game court on the map and wait a while. Someone will join in.</p>
-					<div class="col-md-12 apple-btn">
-            <button class="apple_store">
-              <p class="apple_p">APPLE STORE</p>
-            </button>
-          </div>
-				</div>
+                    <p>If you need to find a buddy for your football or basketball game, Fooc can help you with that. Select the number of players you are looking for, put the game court on the map and wait a while. Someone will join in.</p>
+                    <div class="col-md-12 apple-btn">
+                      <button class="apple_store">
+                        <p class="apple_p">APPLE STORE</p>
+                      </button>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
-			</div>
-          </div>
 
           <!-- Previous/Next controls -->
           <a class="left carousel-control" href="#portfolio-slider" role="button" data-slide="prev">
@@ -99,7 +97,7 @@
 
           <!-- Indicators -->
           <ol class="carousel-indicators" style="bottom: -40px;">
-            <li data-target="#portfolio-slider" data-slide-to="0"></li>
+            <li data-target="#portfolio-slider" data-slide-to="0" class="active"></li>
             <li data-target="#portfolio-slider" data-slide-to="1"></li>
             <li data-target="#portfolio-slider" data-slide-to="2"></li>
           </ol>

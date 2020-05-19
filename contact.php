@@ -17,7 +17,7 @@
 		<div class="col-sm-12 col-md-4 col-lg-4">
 		  <div class="row">
 			<div class="col-xs-3 col-sm-3 col-md-2">
-			  <img src="/wp-content/themes/wp.theme.php/imgs/layer101.png" alt="" class="ambassador-city-icons">
+			  <img src="<?php echo get_template_directory_uri().'/imgs/layer101.png'?>" alt="" class="ambassador-city-icons">
 			</div>
 			<div id="dublin" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">HEADQUARTERS</h3>
@@ -31,7 +31,7 @@
 		<div class="col-sm-12 col-md-4 col-lg-4">
 		  <div class="row">
 			<div class="col-xs-3 col-sm-3 col-md-2">
-			  <img src="/wp-content/themes/wp.theme.php/imgs/Zagreb.png" alt="" class="ambassador-city-icons">
+			  <img src="<?php echo get_template_directory_uri().'/imgs/Zagreb.png'?>" alt="" class="ambassador-city-icons">
 			  </div>
 			<div id="zagreb" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
@@ -45,7 +45,7 @@
 		<div class="col-sm-12 col-md-4 col-lg-4">
 		  <div class="row">
 			<div class="col-xs-3 col-sm-3 col-md-2">
-			  <img src="/wp-content/themes/wp.theme.php/imgs/Bern.png" alt="" class="ambassador-city-icons">
+			  <img src="<?php echo get_template_directory_uri().'/imgs/Bern.png'?>" alt="" class="ambassador-city-icons">
 			</div>
 			<div id="bern" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
@@ -64,7 +64,7 @@
 <section class="text-center snt-contact-page-section" style="margin-top:100px; margin-bottom:100px;">
 <div class="container">
 
-  <svg class="locations" width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M137.369 146.768V143.658C137.369 142.774 138.086 142.058 138.969 142.058H142.08C142.963 142.058 143.68 142.774 143.68 143.658V146.768C143.68 147.651 142.963 148.368 142.08 148.368H138.969C138.086 148.368 137.369 147.653 137.369 146.768Z" fill="url(#paint0_diamond)"/>
 <path d="M169.303 154.678V151.568C169.303 150.685 170.02 149.968 170.903 149.968H174.013C174.896 149.968 175.613 150.685 175.613 151.568V154.678C175.613 155.561 174.896 156.278 174.013 156.278H170.903C170.02 156.278 169.303 155.563 169.303 154.678Z" fill="url(#paint1_diamond)"/>
 <path d="M145.279 146.768V143.658C145.279 142.774 145.996 142.058 146.879 142.058H150.282C151.166 142.058 151.882 142.774 151.882 143.658V146.768C151.882 147.651 151.166 148.368 150.282 148.368H146.879C145.996 148.368 145.279 147.653 145.279 146.768Z" fill="url(#paint2_diamond)"/>
@@ -16090,11 +16090,11 @@
 <section id="contact" class="snt-contact-message-section">
 	  <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-1">
+      <div class="col-md-6">
         <h4>FIRST CONTACT</h4>
         <h1>Send Us a Message</h1>
       </div>
-      <div class="col-md-7 col-md-offset-2" style="margin-top:60px;">
+      <div class="col-md-7 col-md-offset-1" style="margin-top:60px;">
         <p>Ready to talk? Contact us for a free consult and we’ll get back to you in 24 hours. You’re contact information is kept private and we will never send you spam.</p>
       </div>
 		  </div>
