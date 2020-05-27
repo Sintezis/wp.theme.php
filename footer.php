@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row snt-footer-section" style="padding-top: 43.5%;">
 		<div class="col-xs-12 mobile">
-    <img src="http://localhost:8099/wp-content/themes/wp.theme.php/imgs/logomark.png" class="navbar-brand" height="50" alt="" style="padding: 3px 2px;">
+    <img src="<?php echo get_template_directory_uri().'/imgs/logomark.png'?>" class="navbar-brand" height="50" alt="" style="padding: 3px 2px;">
     </div>
       <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="snt-address-container">

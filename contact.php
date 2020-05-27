@@ -15982,11 +15982,22 @@
 	  
 	  <div class="row">
 	  
-		<div class="col-md-3 col-sm-12">
-		  <img src="<?php echo get_template_directory_uri().'/imgs/question_mark.png'?>" class="ambassador-block" alt="">
+	  <div class="col-md-3 col-sm-12">
+		  <img src="/wp-content/themes/wp.theme.php/imgs/question_mark.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">You?</h3>
 		  <div style="text-align-last:center;">
 			<p>San Francisco, CA, USA</p>
+		  </div>
+		  
+		  <div class="row">
+			<div class="text-center" style="margin-bottom:100px;">
+			  <div style="width: 100%">
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
+				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
+			  </div>
+			</div>
+		  </div>		   
 		</div>
 	  </div>
 </section>
