@@ -21,8 +21,8 @@
 			</div>
 			<div id="dublin" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">HEADQUARTERS</h3>
-			  <h1>Dublin </h1>
-			  <p>Ground floor 8-9, Marino Mart,<br>  Dublin 3, D03P590,<br> Ireland</p>
+			  <h1>Dublin</h1>
+			  <p>Ground floor 8-9, Marino Mart,<br>Dublin 3, D03P590,<br> Ireland</p>
 			  <p> contact@sintezis.co<br> +35314311025 </p>
 			</div>
 		  </div>

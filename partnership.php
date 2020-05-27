@@ -14,7 +14,7 @@
 		 <div class="container">
 	  <div class="col-sm-6 col-md-6 col-lg-6">
 		<p class="hero-p">As much as we are engineers, we are entrepreneurs, we like to build apps and we like to build companies. To build any of those things you need quality people, who know their jobs and who you can trust, you need partners.</p>
-		Aside from standard Client – Agency relationship we do partner up with people of interest in several ways. Until now we mostly invested our development time and technical expertise in projects we think are interesting in exchange for equity in those projects. We are also interested in various forms of investment either in our main LTD or in one of the projects in our investment portfolio.</p>
+		<p class="hero-p">Aside from standard Client – Agency relationship we do partner up with people of interest in several ways. Until now we mostly invested our development time and technical expertise in projects we think are interesting in exchange for equity in those projects. We are also interested in various forms of investment either in our main LTD or in one of the projects in our investment portfolio.</p>
 	</div>
 	<div class="col-sm-6 col-md-6 col-lg-6">
 		<p class="hero-p">Every now and then there comes a project that has a cool team behind it, has huge market potential, but not enough funding to get it beyond the prototype phase. In such scenarios we estimate the amount of work we need to do in order to get a project to a certain monetary viable phase. Based on our standard prices we assign a dollar value to our work and instead of submitting fees for our development work we receive equity shares in the project.</p>
