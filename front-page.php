@@ -128,7 +128,7 @@
 			  <button class="welcome-services-button" onclick="window.location.href='/services/#product-design'">
 				<img src="<?php echo get_template_directory_uri().'/imgs/Vector_desktop.png'?>" class="center-block" alt="" style="margin-bottom:59px;">
 				<h0 style="margin-top: 40px;">Product Design</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet libero eu lectus lobortis scelerisque. Etiam congue eget mauris ac auctor.</p>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">We imagine, create, and iterate products that solve your problems and address specific needs in your market.</p>
 			  </button>
           </div>
         
@@ -136,7 +136,7 @@
 		 	 <button class="welcome-services-button" onclick="window.location.href='/services/#product-development'">
 				<img src="<?php echo get_template_directory_uri().'/imgs/Rocket_desktop.png'?>" class="center-block" alt="" style="margin-bottom:59px;">
 				<h0 style="margin-top: 40px;">Product Development</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Phasellus vel mattis purus. Fusce consequat urna in mattis tempor. In quis iaculis nunc. Fusce id felis ullamcorper lacus condimentum dapibus.</p>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">We get to know you and your users, competition and domain space. We sketch, we prototype and we design usable software keeping the business needs in mind.</p>
 			 </button>
           </div>
         
@@ -144,7 +144,7 @@
 			<button class="welcome-services-button" onclick="window.location.href='/services/#consulting'">
 				<img src="<?php echo get_template_directory_uri().'/imgs/Software_desktop.png'?>" class="center-block" alt="" style="margin-bottom:50px;">
 				<h0 style="margin-top: 30px;">Consulting</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Vivamus hendrerit, quam sit amet laoreet dictum, urna sem tristique massa, sit amet consequat ante ligula eu nisl. Nam et est aliquet, porttitor neque et, sollicitudin diam.</p>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Befor you jump in the deep end of the pool, get our expert input on all aspects of software development lifecycle.</p>
 			</button>
 		  </div>
 		  
@@ -173,103 +173,7 @@
 	  </div>
   </section>
 
-  <section id="testimonials" class="snt-testimonials-section" style="margin-top:100px; margin-bottom: 100px;">
-	  <div class="container">
-    <div class="row">
-      <div class="col-md-6 col-md-offset-2">
-        <h4>OUR CLIENTS ABOUT US</h4>
-        <h1>Testimonials</h1>
-		</div>
-      </div>
-    </div>
-
-	  <div class="container">
-     <div class="row">
-      <div class="col-md-12">
-
-	  <!-- carousel -->
-	  <div id="portfolio-slider" class="snt-carousel carousel slide" data-ride="carousel"> 
-          
-          <div class="snt-carousel-content carousel-inner" role="listbox">
-        
-        <div class="row">
-        
-          <div class="col-md-3 col-md-offset-1">
-            <p class="punctuation-up center-block"></p>
-            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-            <p class="punctuation-down center-block"></p>
-            <div class="row">
-              <div class="col-md-4">
-				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
-					<img src="<?php echo get_template_directory_uri().'/imgs/photo-silvije.png'?>" alt="">
-				<div style="margin-left:10px;">
-					<p class="name">Silvije S. Kranjčević</p>
-					<p class="position">CTO</p>
-				</div>
-			</div>
-              </div>
-            </div>
-			</div>
-        
-		  <div class="col-md-3">
-            <p class="punctuation-up center-block"></p>
-            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-            <p class="punctuation-down center-block"></p>
-            <div class="row">
-              <div class="col-md-4">
-				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
-					<img src="<?php echo get_template_directory_uri().'/imgs/photo-someone.png'?>" alt="">
-				<div style="margin-left:10px;">
-					<p class="name">Someone Elsić</p>
-					<p class="position">CTO</p>
-				</div>
-			</div>
-              </div>
-            </div>
-            
-          </div>
-        
-          <div class="col-md-3">
-            <p class="punctuation-up center-block"></p>
-            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-            <p class="punctuation-down center-block"></p>
-            <div class="row">
-              <div class="col-md-4">
-				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
-					<img src="<?php echo get_template_directory_uri().'/imgs/photo-loremka.png'?>" alt="">
-				<div style="margin-left:10px;">
-					<p class="name">Loremka Ipsumović</p>
-					<p class="position">CTO</p>
-				</div>
-			</div>
-              </div>
-            </div>
-            
-		  </div>
-		  
-		  <!-- Previous/Next controls -->
-          <a class="left carousel-control" href="#portfolio-slider" role="button" data-slide="prev">
-            <img class="snt-carousel-control-icon snt-carousel-control-prev" src="<?php echo get_template_directory_uri().'/imgs/arrow-left-grey.png'?>" alt="">
-            <span class="sr-only">Previous</span>
-          </a>
-          
-          <a class="right carousel-control" href="#portfolio-slider" role="button" data-slide="next">
-              <img class="snt-carousel-control-icon snt-carousel-control-next" src="<?php echo get_template_directory_uri().'/imgs/arrow-right-grey.png'?>" alt="">
-            <span class="sr-only">Next</span>
-          </a>
-
-          <!-- Indicators -->
-          <ol class="carousel-indicators" style="bottom: -40px;">
-            <li data-target="#portfolio-slider" data-slide-to="0" class="active"></li>
-            <li data-target="#portfolio-slider" data-slide-to="1"></li>
-            <li data-target="#portfolio-slider" data-slide-to="2"></li>
-          </ol>
-			  </div>
-		  </div>
-			  </div></div>
-		  </div>
-    </div>
-  </section>
+ 
 
 
   <?php get_template_part( 'content', get_post_format() ); ?>

@@ -36,8 +36,8 @@
 			<div id="zagreb" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
 			  <h1>Zagreb</h1>
-			  <p>Address Line 1 <br> 10000 Zagreb, <br> Croatia</p>
-			  <p> contact@sintezis.co<br> +01234567890 </p>
+			  <p>TBA<br> 10000 Zagreb, <br> Croatia</p>
+			  <p> contact@sintezis.co<br> +35314311025 </p>
 			</div>
 		  </div>
 		</div>
@@ -50,8 +50,8 @@
 			<div id="bern" class="col-xs-9 col-sm-9 col-md-10 ambassador-city-columns">
 			  <h3 id="office">OFFICE</h3>
 			  <h1>Bern</h1>
-			  <p>Address Line 1 <br> Bern, <br> Switzerland</p>
-			  <p> contact@sintezis.co<br> +01234567890 </p>
+			  <p>TBA<br> Bern, <br> Switzerland</p>
+			  <p> contact@sintezis.co<br> +35314311025 </p>
 			</div>
 		  </div>
 		
@@ -15983,13 +15983,11 @@
 	  <div class="row">
 	  
 		<div class="col-md-3 col-sm-12">
-		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_31.png'?>" class="ambassador-block" alt="">
-		  <h3 class="ambassador-name">Jennifer Doe Frankovic</h3>
+		  <img src="<?php echo get_template_directory_uri().'/imgs/question_mark.png'?>" class="ambassador-block" alt="">
+		  <h3 class="ambassador-name">You?</h3>
 		  <div style="text-align-last:center;">
 			<p>San Francisco, CA, USA</p>
-			<p>+123456789</p>
-			<p>jennifer.d.frankovic@sintezis.co</p>
-		  </div>
+		</div>
 		  
 		  <div class="row">
 			<div class="text-center" style="margin-bottom:100px;">
@@ -16001,77 +15999,6 @@
 			</div>
 		  </div>		   
 		</div>
-	  
-		<div class="col-md-3 col-sm-12">
-		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_32.png'?>" class="ambassador-block" alt="">
-		  <h3 class="ambassador-name">Klaus Muller</h3>
-		  <div style="text-align-last:center;">
-			<p>Leipzig, DE</p>
-			<p>+123456789</p>
-			<p>k-muller@sintezis.co</p>
-		  </div>
-
-		  <div class="row">
-			
-			<div class="text-center" style="margin-bottom:100px;">
-
-			  <div style="width: 100%">
-			  <a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-			  </div>
-			  
-			</div>
-
-		  </div>		   
-		</div>
-	  
-		<div class="col-md-3 col-sm-12">
-		  <img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_29.png'?>" class="ambassador-block" alt="">
-		  <h3 class="ambassador-name">Edith Piaf</h3>
-		  <div style="text-align-last:center;">
-			<p>London, UK</p>
-			<p>+123456789</p>
-			<p>edith.piaf@sintezis.co</p>
-		  </div>
-
-		  <div class="row">
-			
-			<div class="text-center" style="margin-bottom:100px;">
-
-			  <div style="width: 100%">
-				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-			  </div>
-			  
-			</div>
-			
-		  </div>		   
-		</div>
-	  
-		  <div class="col-md-3 col-sm-12">
-			<img src="<?php echo get_template_directory_uri().'/imgs/Rectangle_30.png'?>" class="ambassador-block" alt="">
-			<h3 class="ambassador-name">Hrvoje Horvat</h3>
-			<div style="text-align-last:center;">
-			  <p>Pula, Croatia</p>
-			  <p>123456789</p>
-			  <p>hrvoje.horvat@sintezis.co</p>
-			</div>
-
-			<div class="row">
-			
-			  <div class="text-center">
-
-				<div style="width: 100%">
-				  <a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-				  <a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-				  <a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-				</div>
-				
-			  </div>
-		  </div>
-			  </div>
 </section>
 
 <section class="text-center snt-contact-page-section" style="margin-top: 100px; margin-bottom:200px;">

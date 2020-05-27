@@ -13,14 +13,23 @@
 		 
 		 <div class="container">
 	  <div class="col-sm-6 col-md-6 col-lg-6">
-		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+		<p class="hero-p">As much as we are engineers, we are entrepreneurs, we like to build apps and we like to build companies. To build any of those things you need quality people, who know their jobs and who you can trust, you need partners.</p>
+		Aside from standard Client – Agency relationship we do partner up with people of interest in several ways. Until now we mostly invested our development time and technical expertise in projects we think are interesting in exchange for equity in those projects. We are also interested in various forms of investment either in our main LTD or in one of the projects in our investment portfolio.</p>
 	</div>
 	<div class="col-sm-6 col-md-6 col-lg-6">
-		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+		<p class="hero-p">Every now and then there comes a project that has a cool team behind it, has huge market potential, but not enough funding to get it beyond the prototype phase. In such scenarios we estimate the amount of work we need to do in order to get a project to a certain monetary viable phase. Based on our standard prices we assign a dollar value to our work and instead of submitting fees for our development work we receive equity shares in the project.</p>
 	</div>
 	</div>
 
 </div>
+
+<div class="container">
+    <div class="col-sm-12 col-md-12 col-sm-12 partnership">
+        <p class="quote">If opportunity doesn’t knock, build a door.</p>
+        <p class="quote-p">- Milton Berle</p>
+	</div>
+	</div>
+	
 </div>
 </section>
 
@@ -33,12 +42,7 @@
       </div>
     </div>
 
-	<div class="container">
-    <div class="col-sm-12 col-md-12 col-sm-12 partnership">
-        <p class="quote">If opportunity doesn’t knock, build a door.</p>
-        <p class="quote-p">- Milton Berle</p>
-	</div>
-	</div>
+	
 
 	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
 		<h2 class="introduction" style="margin-top:75px;">Introduction</h2>
@@ -89,12 +93,10 @@
 	  <div class="row">
 	  
 		<div class="col-md-3 col-sm-6">
-		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_31.png" class="ambassador-block" alt="">
-		  <h3 class="ambassador-name">Jennifer Doe Frankovic</h3>
+		  <img src="/wp-content/themes/wp.theme.php/imgs/question_mark.png" class="ambassador-block" alt="">
+		  <h3 class="ambassador-name">You?</h3>
 		  <div style="text-align-last:center;">
 			<p>San Francisco, CA, USA</p>
-			<p>+123456789</p>
-			<p><u>jennifer.d.frankovic@sintezis.co</u></p>
 		  </div>
 		  
 		  <div class="row">
@@ -107,77 +109,9 @@
 			</div>
 		  </div>		   
 		</div>
-	  
-		<div class="col-md-3 col-sm-6">
-		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_32.png" class="ambassador-block" alt="">
-		  <h3 class="ambassador-name">Klaus Muller</h3>
-		  <div style="text-align-last:center;">
-			<p>Leipzig, DE</p>
-			<p>+123456789</p>
-			<p><u>k-muller@sintezis.co</u></p>
-		  </div>
 
-		  <div class="row">
-			
-			<div class="text-center" style="margin-bottom:100px;">
 
-			  <div style="width: 100%">
-			  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
-			  </div>
-			  
-			</div>
 
-		  </div>		   
-		</div>
-	  
-		<div class="col-md-3 col-sm-6">
-		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_29.png" class="ambassador-block" alt="">
-		  <h3 class="ambassador-name">Edith Piaf</h3>
-		  <div style="text-align-last:center;">
-			<p>London, UK</p>
-			<p>+123456789</p>
-			<p><u>edith.piaf@sintezis.co</u></p>
-		  </div>
-
-		  <div class="row">
-			
-			<div class="text-center" style="margin-bottom:100px;">
-
-			  <div style="width: 100%">
-				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
-			  </div>
-			  
-			</div>
-			
-		  </div>		   
-		</div>
-	  
-		  <div class="col-md-3 col-sm-6">
-			<img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_30.png" class="ambassador-block" alt="">
-			<h3 class="ambassador-name">Hrvoje Horvat</h3>
-			<div style="text-align-last:center;">
-			  <p>Pula, Croatia</p>
-			  <p>123456789</p>
-			  <p><u>hrvoje.horvat@sintezis.co</u></p>
-			</div>
-
-			<div class="row">
-			
-			  <div class="text-center">
-
-				<div style="width: 100%">
-				  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
-				</div>
-				
-			  </div>
-		  </div>
-		  </div>
 </div></div></div></div></section>
 
 <section class="text-center snt-contact-page-section" style="margin-top:200px; margin-bottom: 200px;">

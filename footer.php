@@ -3,7 +3,7 @@
     <div class="row snt-footer-section" style="padding-top: 43.5%;">
       <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="snt-address-container">
-          <h3>Sintezis Startup Studio Ltd.</h3>
+          <h3>Sintezis Startup Studio Limited</h3>
           <p>Ground floor 8-9, Marino Mart</p>
           <p>Dublin 3, D03P590</p>
           <p>Ireland</p>
@@ -35,7 +35,7 @@
           <h3>Connect with Us</h3>
           <p>www.sintezis.co</p>
           <p>contact@sintezis.co</p>
-          <p>+01234567890</p>
+          <p>+35314311025</p>
           
         </div>
       </div>
