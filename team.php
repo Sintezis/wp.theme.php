@@ -8,14 +8,14 @@
 <div class="row">
 	    	  
 	  <div class="col-sm-12 col-md-12 col-lg-12">
-			  <h1 class="hero" style="margin-top: 100px; margin-bottom:40px;">Meet The Sintezis Team</h1>
+			  <h1 class="hero" style="margin-top: 100px; margin-bottom:40px;">About us</h1>
 			</div>
 		 
 	  <div class="col-sm-6 col-md-6 col-lg-6">
-		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+		<p class="hero-p">We are full-service digital agency, focusing on getting our clients to the next level of their success, increasing the overall value of their idea.</p>
 	</div>
 	<div class="col-sm-6 col-md-6 col-lg-6">
-		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+		<p class="hero-p">Our core strengths are made of industry professionals startup founders and the top talent in Product, UX/UI, Software development. Our various backgrounds blended with one vision: create a repeatable, proven process for delivering top notch apps.</p>
 </div>
 </div>
 </div>
@@ -43,7 +43,6 @@
                   <a href="https://www.linkedin.com/in/domagojbagaric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
 			  </div>
            
-            
           </div>
         
           <div class="col-md-4 col-sm-4">
@@ -58,35 +57,33 @@
 			  </div>
             
           </div>
-        
+
           <div class="col-md-4 col-sm-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" class="snt-team-pic center-block" alt="">
-            <h3>Gordon Cindric</h3>
-            <p>Lead Product Designer</p>
-			  <div class="text-center sm" style="margin-top: 30px;">    
-				  <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-				  <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-				  <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                
-			  </div>
-
-          </div>
-
-        </div>
-        <div class="row">
+              <div class="text-center">
+                    <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="snt-team-pic center-block" alt="">
+                    <h3>Zvonimir Tomesic</h3>
+                    <p>Lead Software Developer</p>
+                    <div class="text-center sm" style="margin-top: 30px;">
+                      <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                      <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                    </div>
+              </div>  
+            </div>
         
-            <div class="col-md-4 col-sm-4">
-				<div class="text-center">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Zvonimir Tomesic</h3>
-              <p>Lead Software Developer</p>
-				<div class="text-center sm" style="margin-top: 30px;">
-					                  <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-				</div>
-				</div>
-              
+          
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 col-sm-4">
+              <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" class="snt-team-pic center-block" alt="">
+              <h3>Gordon Cindric</h3>
+              <p>Lead Product Designer</p>
+              <div class="text-center sm" style="margin-top: 30px;">    
+                <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
+                <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+                      <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+              </div>
             </div>
           
             <div class="col-md-4 col-sm-4">
@@ -99,22 +96,7 @@
                   <a href="https://www.linkedin.com/in/hrvoje-medak-212a71136/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
 				</div>
 
-            </div>
-          
-            <div class="col-md-4 col-sm-4">
-				<div class="text-center">
-		
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_tkozacinski.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Tomislav Kozacinski</h3>
-              <p>Proudct Designer</p>
-				<div class="text-center sm" style="margin-top: 30px;">
-					  <a href="https://www.facebook.com/kozacinski" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-					                  <a href="https://www.instagram.com/universeceo/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://twitter.com/UniverseCEO" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/tomislav-kozacinski/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-					</div>
-				</div>
-            </div>
+        </div>
   
           </div>
 
@@ -149,11 +131,11 @@
       <div id="hire" class="col-sm-12 col-md-12 col-lg-12">
         <h4 class="yellow-hire">PASSION-DRIVEN and HARD-WORKING</h4>
 		<h1 class="hire-h1">We're Hiring</h1>
+		  </div>
 		<div class="col-md-8">
 			<p>Sintezis a remote, paperless office with flexibale work hours. We focus on organising our workflow and process to work in our favor, applying the "work smart, not hard" approach. Sound good to you?<br> Take a look at our open positions below. </p>
 		</div>
       </div>
-    </div>
 
     <div class="row">
       <div class="col-sm-12 col-md-8 col-lg-8 col-lg-offset-2 col-md-offset-2">

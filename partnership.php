@@ -4,41 +4,33 @@
 
 <section>
 <div class="container">
-<div class="row">
 	    	  
 	  		<div class="col-sm-12 col-md-12 col-lg-12" style="border:none; background:none; margin-top: 100px; margin-bottom: 100px;">
-
 			  <h1 class="hero">Partner-up With Sintezis</h1>
-			</div>
+	</div>
 		 
-		 <div class="container">
 	  <div class="col-sm-6 col-md-6 col-lg-6">
-		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+		<p class="hero-p">As much as we are engineers, we are entrepreneurs, we like to build apps and we like to build companies. To build any of those things you need quality people, who know their jobs and who you can trust, you need partners.</p>
+		<p class="hero-p">Aside from standard Client – Agency relationship we do partner up with people of interest in several ways. Until now we mostly invested our development time and technical expertise in projects we think are interesting in exchange for equity in those projects. We are also interested in various forms of investment either in our main LTD or in one of the projects in our investment portfolio.</p>
 	</div>
 	<div class="col-sm-6 col-md-6 col-lg-6">
-		<p class="hero-p">Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+		<p class="hero-p">Every now and then there comes a project that has a cool team behind it, has huge market potential, but not enough funding to get it beyond the prototype phase. In such scenarios we estimate the amount of work we need to do in order to get a project to a certain monetary viable phase. Based on our standard prices we assign a dollar value to our work and instead of submitting fees for our development work we receive equity shares in the project.</p>
 	</div>
+    <div class="col-sm-12 col-md-12 col-sm-12 partnership">
+        <p class="quote">If opportunity doesn’t knock, build a door.</p>
+        <p class="quote-p">- Milton Berle</p>
 	</div>
 
-</div>
 </div>
 </section>
 
 <section id="partnership" class="snt-partnership-section">
 	<div class="container">
-    <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-12 partnership-col">
         <h4 class="partnership-yellow">EARN WITH SINTEZIS</h4>
         <h1 class="partnership-h1" style="margin-bottom: 100px;">Brand Ambassador Programme</h1>
-      </div>
     </div>
 
-	<div class="container">
-    <div class="col-sm-12 col-md-12 col-sm-12 partnership">
-        <p class="quote">If opportunity doesn’t knock, build a door.</p>
-        <p class="quote-p">- Milton Berle</p>
-	</div>
-	</div>
 
 	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
 		<h2 class="introduction" style="margin-top:75px;">Introduction</h2>
@@ -74,23 +66,16 @@
 <section>
 	<div class="container">
 		
-  	<div class="row">
 		<div class="col-sm-12 col-md-12 col-lg-12 partnership-col brand">
 		<h3 class="yellow" style="text-align:left; margin-top: 100px;"> BRAND EVANGELISTS </h3>
 		<h1 class="ambassador" style="margin-bottom:60px;">Sintezis Ambassador</h1>
-		</div>
 	</div>
-	</div>
-	
-		<div class="container">
-   <div class="row">
+		
 	<div class="col-sm-12 col-md-12 col-lg-12">
 	  
-	  <div class="row">
-	  
-		<div class="col-md-3 col-sm-6">
-		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_31.png" class="ambassador-block" alt="">
-		  <h3 class="ambassador-name">Jennifer Doe Frankovic</h3>
+		<div class="col-md-3 col-sm-12">
+		  <img src="/wp-content/themes/wp.theme.php/imgs/question_mark.png" class="ambassador-block" alt="">
+		  <h3 class="ambassador-name">You?</h3>
 		  <div style="text-align-last:center;">
 			<p>San Francisco, CA, USA</p>
 			<p>+123456789</p>
@@ -107,78 +92,8 @@
 			</div>
 		  </div>		   
 		</div>
-	  
-		<div class="col-md-3 col-sm-6">
-		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_32.png" class="ambassador-block" alt="">
-		  <h3 class="ambassador-name">Klaus Muller</h3>
-		  <div style="text-align-last:center;">
-			<p>Leipzig, DE</p>
-			<p>+123456789</p>
-			<p><u>k-muller@sintezis.co</u></p>
 		  </div>
-
-		  <div class="row">
-			
-			<div class="text-center" style="margin-bottom:100px;">
-
-			  <div style="width: 100%">
-			  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
-			  </div>
-			  
-			</div>
-
-		  </div>		   
-		</div>
-	  
-		<div class="col-md-3 col-sm-6">
-		  <img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_29.png" class="ambassador-block" alt="">
-		  <h3 class="ambassador-name">Edith Piaf</h3>
-		  <div style="text-align-last:center;">
-			<p>London, UK</p>
-			<p>+123456789</p>
-			<p><u>edith.piaf@sintezis.co</u></p>
-		  </div>
-
-		  <div class="row">
-			
-			<div class="text-center" style="margin-bottom:100px;">
-
-			  <div style="width: 100%">
-				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				<a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
-			  </div>
-			  
-			</div>
-			
-		  </div>		   
-		</div>
-	  
-		  <div class="col-md-3 col-sm-6">
-			<img src="/wp-content/themes/wp.theme.php/imgs/Rectangle_30.png" class="ambassador-block" alt="">
-			<h3 class="ambassador-name">Hrvoje Horvat</h3>
-			<div style="text-align-last:center;">
-			  <p>Pula, Croatia</p>
-			  <p>123456789</p>
-			  <p><u>hrvoje.horvat@sintezis.co</u></p>
-			</div>
-
-			<div class="row">
-			
-			  <div class="text-center">
-
-				<div style="width: 100%">
-				  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_fb.png"></a>
-				  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_tw.png"></a>
-				  <a style="margin:10px;" target="_blank"><img src="/wp-content/themes/wp.theme.php/imgs/icon_social_li.png"></a>
-				</div>
-				
-			  </div>
-		  </div>
-		  </div>
-</div></div></div></div></section>
+</div></div></section>
 
 <section class="text-center snt-contact-page-section" style="margin-top:200px; margin-bottom: 200px;">
   <div class="container">
@@ -195,8 +110,8 @@
 	</div>
 </section>
 	
-<section id="testimonials" class="snt-testimonials-section">
-	<div class="container">
+<section id="testimonials" class="snt-testimonials-section" style="margin-top:100px; margin-bottom: 100px;">
+<div class="container">
 		
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-12 partnership-col">
@@ -205,100 +120,140 @@
       </div>
     </div>
 
-     <div class="row">
-      <div class="col-sm-12 col-md-12 col-lg-12">
-
-	  <!-- carousel -->
-	  <div id="portfolio-slider" class="snt-carousel carousel slide" data-ride="carousel"> 
-          
+    <div class="row">
+      <div class="col-md-12">
+        <!-- carousel -->
+        <div id="testimonial-slider" class="snt-carousel carousel slide"> 
+              
           <div class="snt-carousel-content carousel-inner" role="listbox">
-        
-        <div class="row">
-        
-          <div class="col-md-3 col-md-offset-1">
-            <p class="punctuation-up center-block"></p>
-            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-            <p class="punctuation-down center-block"></p>
-            <div class="row">
-              <div class="col-md-4 testimonial-mobile">
-				<div class="snt-social-block center-block" style="display: inline-flex; margin-top: 20px;">
-					<img src="/wp-content/themes/wp.theme.php/imgs/photo-silvije.png" alt="">
-				<div style="margin-left:10px;">
-					<p class="name-test testimonial-cyan">Silvije S. Kranjčević</p>
-					<p class="position">CTO</p>
-				</div>
-			</div>
-              </div>
-            </div>
+             <!-- Slide 1 -->
+              <div class="snt-carousel-item item active">
+                <div class="col-md-3 col-md-offset-1">
+                  <p class="punctuation-up center-block"></p>
+                  <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+                  <p class="punctuation-down center-block"></p>
+                  <div class="row">
+                    <div class="col-md-12 img">
+                      <div class="snt-social-block center-block" style="display: inline-flex;">
+                        <img src="<?php echo get_template_directory_uri().'/imgs/photo-silvije.png'?>" alt="">
+                          <div style="margin-left:10px;">
+                            <p class="name-test testimonial-cyan">Silvije S. Kranjčević</p>
+                            <p class="position">CTO</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                <div class="col-md-3">
+                      <p class="punctuation-up center-block"></p>
+                      <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+                      <p class="punctuation-down center-block"></p>
+                      <div class="row">
+                        <div class="col-md-12 img">
+                          <div class="snt-social-block center-block" style="display: inline-flex;">
+                            <img src="<?php echo get_template_directory_uri().'/imgs/photo-someone.png'?>" alt="">
+                          <div style="margin-left:10px;">
+                            <p class="name-test testimonial-cyan">Someone Elsić</p>
+                            <p class="position">CTO</p>
+                          </div>
+                        </div>  
+                        </div>
+                      </div>
+                    </div>
             
+                <div class="col-md-3">
+                  <p class="punctuation-up center-block"></p>
+                  <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+                  <p class="punctuation-down center-block"></p>
+                  <div class="row">
+                    <div class="col-md-12 img">
+                      <div class="snt-social-block center-block" style="display: inline-flex;">
+                        <img src="<?php echo get_template_directory_uri().'/imgs/photo-loremka.png'?>" alt="">
+                      <div style="margin-left:10px;">
+                        <p class="name-test testimonial-cyan">Loremka Ipsumović</p>
+                        <p class="position">CTO</p>
+                      </div>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+             <!-- Slide 2 -->
+              <div class="snt-carousel-item item">
+                    <div class="col-md-3 col-md-offset-1">
+                      <p class="punctuation-up center-block"></p>
+                      <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+                      <p class="punctuation-down center-block"></p>
+                      <div class="row">
+                        <div class="col-md-12 img">
+                          <div class="snt-social-block center-block" style="display: inline-flex;">
+                            <img src="<?php echo get_template_directory_uri().'/imgs/photo-silvije.png'?>" alt="">
+                          <div style="margin-left:10px;">
+                            <p class="name-test testimonial-cyan">Silvije S. Kranjčević</p>
+                            <p class="position">CTO</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+            
+                <div class="col-md-3">
+                      <p class="punctuation-up center-block"></p>
+                      <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+                      <p class="punctuation-down center-block"></p>
+                      <div class="row">
+                        <div class="col-md-12 img">
+                          <div class="snt-social-block center-block" style="display: inline-flex;">
+                            <img src="<?php echo get_template_directory_uri().'/imgs/photo-someone.png'?>" alt="">
+                          <div style="margin-left:10px;">
+                            <p class="name-test testimonial-cyan">Someone Elsić</p>
+                            <p class="position">CTO</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+            
+                <div class="col-md-3">
+                  <p class="punctuation-up center-block"></p>
+                  <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+                  <p class="punctuation-down center-block"></p>
+                  <div class="row">
+                    <div class="col-md-12 img">
+                      <div class="snt-social-block center-block" style="display: inline-flex;">
+                        <img src="<?php echo get_template_directory_uri().'/imgs/photo-loremka.png'?>" alt="">
+                      <div style="margin-left:10px;">
+                        <p class="name-test testimonial-cyan">Loremka Ipsumović</p>
+                        <p class="position">CTO</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
           </div>
-        
-		  <div class="col-md-3">
-            <p class="punctuation-up center-block"></p>
-            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-            <p class="punctuation-down center-block"></p>
-            <div class="row">
-              <div class="col-md-4 testimonial-mobile">
-				<div class="snt-social-block center-block" style="display: inline-flex; margin-top: 20px;">
-					<img src="/wp-content/themes/wp.theme.php/imgs/photo-someone.png" alt="">
-				<div style="margin-left:10px;">
-					<p class="name-test testimonial-cyan">Someone Elsić</p>
-					<p class="position">CTO</p>
-				</div>
-			</div>
-              </div>
-            </div>
-            
-          </div>
-        
-          <div class="col-md-3">
-            <p class="punctuation-up center-block"></p>
-            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-            <p class="punctuation-down center-block"></p>
-            <div class="row">
-              <div class="col-md-4 testimonial-mobile">
-				<div class="snt-social-block center-block" style="display: inline-flex; margin-top: 20px;">
-					<img src="/wp-content/themes/wp.theme.php/imgs/photo-loremka.png" alt="">
-				<div style="margin-left:10px;">
-					<p class="name-test testimonial-cyan">Loremka Ipsumović</p>
-					<p class="position">CTO</p>
-				</div>
-			</div>
-              </div>
-            </div>
-            
-		  </div>
 		  
-		  <!-- Previous/Next controls -->
-          <a class="left carousel-control" href="#portfolio-slider" role="button" data-slide="prev">
-            <img class="snt-carousel-control-icon snt-carousel-control-prev" src="/wp-content/themes/wp.theme.php/imgs/arrow-left-grey.png" alt="">
-            <span class="sr-only">Previous</span>
-          </a>
-          
-          <a class="right carousel-control" href="#portfolio-slider" role="button" data-slide="next">
-              <img class="snt-carousel-control-icon snt-carousel-control-next" src="/wp-content/themes/wp.theme.php/imgs/arrow-right-grey.png" alt="">
-            <span class="sr-only">Next</span>
-          </a>
+            <a class="left carousel-control" href="#testimonial-slider" role="button" data-slide="prev" style="margin-top:20%;">
+              <img class="snt-carousel-control-icon snt-carousel-control-prev" src="<?php echo get_template_directory_uri().'/imgs/arrow-left-grey.png'?>" alt="">
+              <span class="sr-only">Previous</span>
+            </a>
+            
+            <a class="right carousel-control" href="#testimonial-slider" role="button" data-slide="next" style="margin-top:20%;">
+                <img class="snt-carousel-control-icon snt-carousel-control-next" src="<?php echo get_template_directory_uri().'/imgs/arrow-right-grey.png'?>" alt="">
+              <span class="sr-only">Next</span>
+            </a>
 
-          <!-- Indicators -->
-          <ol class="carousel-indicators" style="bottom: -40px;">
-            <li data-target="#portfolio-slider" data-slide-to="0" class=""></li>
-            <li data-target="#portfolio-slider" data-slide-to="1"></li>
-            <li data-target="#portfolio-slider" data-slide-to="2"></li>
-          </ol>
-
-        </div>
+            <ol class="carousel-indicators car-ind">
+              <li data-target="#testimonial-slider" data-slide-to="0" class="active"></li>
+              <li data-target="#testimonial-slider" data-slide-to="1"></li>
+            </ol>
+			  </div>
 		  </div>
     </div>
-  </div></div></div></section>
+  </div>
+</section>
 
   <section id="product-design" class="snt-services-page-section" style="margin-top:100px;">
 <div class="container">
-		
-  	<div class="row">
-	    <div class="col-sm-12 col-md-12 col-lg-12">
-	  
-	  <div class="row">
 	  
 		<div class="col-sm-12 col-md-12 col-lg-12" style="border:none; background:none;">
 		  <div class="row">
@@ -309,17 +264,26 @@
 		  </div>
 		</div>
 
-  	</div>
 
-	<div class="row">
-		<div id="product" class="col-md-4 des-ux-int">
+		<div id="product" class="col-md-4 equ-inv">
 			<div class="col-sm-12 col-md-12 col-lg-12" style="width:100%;">
-				<button class="equity" id="c1" value="showEquity" onclick="showEquity()">
+			<button class="equity" id="c1" value="showEquity" onclick="showEquity()" style="color:#26D0E5; fill:#26D0E5;">
+			<svg id="icon" width="50" height="50" viewBox="0 0 50 50">
+				<path fill="currentColor" d="M26 14.9C27.9591 14.5023 29.5023 12.9591 29.9 11H31H43C43.5523 11 44 10.5523 44 10C44 9.44772 43.5523 9 43 9H31H29.9C29.4367 6.71776 27.419 5 25 5C22.581 5 20.5633 6.71776 20.1 9H7C6.44772 9 6 9.44772 6 10C6 10.5523 6.44772 11 7 11H20.1C20.4977 12.9591 22.0409 14.5023 24 14.9L24 42H14C13.4477 42 13 42.4477 13 43C13 43.5523 13.4477 44 14 44H36C36.5523 44 37 43.5523 37 43C37 42.4477 36.5523 42 36 42H26L26 14.9ZM25 13C26.3062 13 27.4175 12.1652 27.8293 11C27.9398 10.6872 28 10.3506 28 10C28 8.34315 26.6569 7 25 7C23.3431 7 22 8.34315 22 10C22 10.3506 22.0602 10.6872 22.1707 11C22.5825 12.1652 23.6938 13 25 13Z" fill="white"/>
+				<path fill="currentColor" d="M15.3926 31.5758C15.3981 31.5688 15.4038 31.5619 15.4098 31.5551C15.6059 31.3343 15.7143 31.0493 15.7143 30.754V29.9297C15.7143 29.4405 15.608 28.9573 15.4027 28.5133L9.69975 16.1781C9.36767 15.4598 8.64847 15 7.85714 15C7.06582 15 6.34661 15.4598 6.01453 16.1781L0.326639 28.4807C0.111452 28.9461 0 29.4528 0 29.9656V30.938C0 31.1853 0.0914691 31.4239 0.256805 31.6078L0.256919 31.6079C1.21959 32.6779 2.38786 33.5315 3.68779 34.1152C4.98776 34.6988 6.39141 35 7.81027 35H7.8465C9.26921 34.9949 10.6756 34.687 11.9764 34.0955C13.2722 33.5064 14.4354 32.6486 15.3926 31.5758ZM13.7842 30.261C13.7845 30.3712 13.7416 30.477 13.6648 30.5553C12.1212 32.1296 10.0294 33.0134 7.84832 33.0105H7.76857C5.63702 33.0135 3.58895 32.1689 2.05522 30.6569C2.05186 30.6537 2.04855 30.6504 2.04528 30.647L2.04345 30.6452C1.95434 30.554 1.91538 30.4318 1.92645 30.3135V29.7314C1.92645 29.6706 1.93966 29.6106 1.96514 29.5555L7.47954 17.6294C7.54743 17.4826 7.69362 17.3887 7.85439 17.3887C8.01515 17.3887 8.16134 17.4826 8.22924 17.6294L13.7436 29.5555C13.7689 29.6101 13.7821 29.6697 13.7823 29.73L13.7842 30.261Z" fill="white"/>
+				<path fill="currentColor" d="M49.3926 31.5758C49.3981 31.5688 49.4038 31.5619 49.4098 31.5551C49.6059 31.3343 49.7143 31.0493 49.7143 30.754V29.9297C49.7143 29.4405 49.608 28.9573 49.4027 28.5133L43.6998 16.1781C43.3677 15.4598 42.6485 15 41.8571 15C41.0658 15 40.3466 15.4598 40.0145 16.1781L34.3266 28.4807C34.1115 28.9461 34 29.4528 34 29.9656V30.938C34 31.1853 34.0915 31.4239 34.2568 31.6078L34.2569 31.6079C35.2196 32.6779 36.3879 33.5315 37.6878 34.1152C38.9878 34.6988 40.3914 35 41.8103 35H41.8465C43.2692 34.9949 44.6756 34.687 45.9764 34.0955C47.2722 33.5064 48.4354 32.6486 49.3926 31.5758ZM47.7842 30.261C47.7845 30.3712 47.7416 30.477 47.6648 30.5553C46.1212 32.1296 44.0294 33.0134 41.8483 33.0105H41.7686C39.637 33.0135 37.589 32.1689 36.0552 30.6569C36.0519 30.6537 36.0486 30.6504 36.0453 30.647L36.0434 30.6452C35.9543 30.554 35.9154 30.4318 35.9265 30.3135V29.7314C35.9265 29.6706 35.9397 29.6106 35.9651 29.5555L41.4795 17.6294C41.5474 17.4826 41.6936 17.3887 41.8544 17.3887C42.0151 17.3887 42.1613 17.4826 42.2292 17.6294L47.7436 29.5555C47.7689 29.6101 47.7821 29.6697 47.7823 29.73L47.7842 30.261Z" fill="white"/>
+			</svg>
+
 					<h0> Equity Sharing </h0>
 				</button>
+
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-12" style="width:100%;">
 				<button id="c2" class="investing" value="showInvesting" onclick="showInvesting()">
+				<svg id="icon" width="51" height="51" viewBox="0 0 51 51">
+					<path fill="currentColor" d="M43.9059 30.3914L43.9082 30.3908C46.4003 29.7198 48.9462 31.1555 49.7654 33.6076C50.1493 34.9063 50.0044 36.2504 49.3804 37.4024C48.7571 38.5531 47.7025 39.3685 46.4543 39.7045L46.4542 39.7045L46.451 39.7054L33.401 43.4554L33.4005 43.4556L30.3005 44.3556L30.2988 44.3561C28.8193 44.8 27.2888 44.9977 25.8062 44.9977C23.2874 44.9977 20.7693 44.405 18.4988 43.2203L18.4957 43.2188L17.2957 42.6188L17.1668 42.5543L17.0648 42.6562L17.0148 42.7062C16.3008 43.4203 15.301 43.8477 14.3062 43.8477H5.60625C3.56506 43.8477 1.85625 42.1856 1.85625 40.0977V29.0977C1.85625 27.0048 3.51997 25.2977 5.60625 25.2977H14.2563C15.9184 25.2977 17.295 26.3413 17.8178 27.8145L17.865 27.9477H18.0063H27.5562C30.0444 27.9477 32.0062 29.9567 32.0062 32.3977C32.0062 32.7017 32.0056 32.9313 31.9601 33.1584L31.8977 33.4704L32.2059 33.3914L43.9059 30.3914ZM45.8122 37.4897L45.8124 37.4901L45.8246 37.4856C46.4075 37.2737 46.9527 36.8969 47.2818 36.2934C47.6038 35.7031 47.7135 35.0019 47.5503 34.3491L47.5481 34.3404L47.5452 34.332C47.1109 33.0834 45.8073 32.3787 44.5077 32.7036L44.5063 32.704L30.3563 36.354L30.3062 36.3669L30.2687 36.4025C29.3556 37.2675 28.1047 37.7977 26.7062 37.7977H23.8563C23.1667 37.7977 22.6562 37.2872 22.6562 36.5977C22.6562 35.9127 23.212 35.3977 23.8563 35.3977H26.7062C28.3143 35.3977 29.6562 34.1105 29.6562 32.4477C29.6562 31.2872 28.7167 30.3477 27.5562 30.3477H18.2563H18.0562V30.5477V40.0977V40.098V40.0982V40.0985V40.0988V40.0991V40.0994V40.0997V40.1V40.1003V40.1006V40.1009V40.1012V40.1015V40.1018V40.1021V40.1023V40.1026V40.1029V40.1032V40.1035V40.1038V40.1041V40.1044V40.1047V40.105V40.1053V40.1056V40.1059V40.1062V40.1064V40.1067V40.107V40.1073V40.1076V40.1079V40.1082V40.1085V40.1088V40.1091V40.1094V40.1097V40.11V40.1103V40.1105V40.1108V40.1111V40.1114V40.1117V40.112V40.1123V40.1126V40.1129V40.1132V40.1135V40.1138V40.1141V40.1144V40.1147V40.1149V40.1152V40.1155V40.1158V40.1161V40.1164V40.1167V40.117V40.1173V40.1176V40.1179V40.1182V40.1185V40.1188V40.119V40.1193V40.1196V40.1199V40.1202V40.1205V40.1208V40.1211V40.1214V40.1217V40.122V40.1223V40.1226V40.1229V40.1231V40.1234V40.1237V40.124V40.1243V40.1246V40.1249V40.1252V40.1255V40.1258V40.1261V40.1264V40.1267V40.127V40.1272V40.1275V40.1278V40.1281V40.1284V40.1287V40.129V40.1293V40.1296V40.1299V40.1302V40.1305V40.1308V40.1311V40.1313V40.1316V40.1319V40.1322V40.1325V40.1328V40.1331V40.1334V40.1337V40.134V40.1343V40.1346V40.1349V40.1352V40.1355V40.1357V40.136V40.1363V40.1366V40.1369V40.1372V40.1375V40.1378V40.1381V40.1384V40.1387V40.139V40.1393V40.1396V40.1398V40.1401V40.1404V40.1407V40.141V40.1413V40.1416V40.1419V40.1422V40.1425V40.1428V40.1431V40.1434V40.1437V40.1439V40.1442V40.1445V40.1448V40.1451V40.1454V40.1457V40.146V40.1463V40.1466V40.1469V40.1472V40.1475V40.1478V40.148V40.1483V40.1486V40.1489V40.1492V40.1495V40.1498V40.1501V40.1504V40.1507V40.151V40.1513V40.1516V40.1519V40.1522V40.1524V40.1527V40.153V40.1533V40.1536V40.1539V40.1542V40.1545V40.1548V40.1551V40.1554V40.1557V40.156V40.1563V40.1565V40.1568V40.1571V40.1574V40.1577V40.158V40.1583V40.1586V40.1589V40.1592V40.1595V40.1598V40.1601V40.1604V40.1606V40.1609V40.1612V40.1615V40.1618V40.1621V40.1624V40.1627V40.163V40.1633V40.1636V40.1639V40.1642V40.1645V40.1647V40.165V40.1653V40.1656V40.1659V40.1662V40.1665V40.1668V40.1671V40.1674V40.1677V40.168V40.1683V40.1686V40.1688V40.1691V40.1694V40.1697V40.17V40.1703V40.1706V40.1709V40.1712V40.1715V40.1718V40.1721V40.1724V40.1727V40.1729V40.1732V40.1735V40.1738V40.1741V40.1744V40.1747V40.175V40.1753V40.1756V40.1759V40.1762V40.1765V40.1768V40.1771V40.1773V40.1776V40.1779V40.1782V40.1785V40.1788V40.1791V40.1794V40.1797V40.18V40.1803V40.1806V40.1809V40.1812V40.1814V40.1817V40.182V40.1823V40.1826V40.1829V40.1832V40.1835V40.1838V40.1841V40.1844V40.1847V40.185V40.1853V40.1855V40.1858V40.1861V40.1864V40.1867V40.187V40.1873V40.1876V40.1879V40.1882V40.1885V40.1888V40.1891V40.1894V40.1896V40.1899V40.1902V40.1905V40.1908V40.1911V40.1914V40.1917V40.192V40.1923V40.1926V40.1929V40.1932V40.1935V40.1938V40.194V40.1943V40.1946V40.1949V40.1952V40.1955V40.1958V40.1961V40.1964V40.1967V40.197V40.1973V40.1976V40.1979V40.1981V40.1984V40.1987V40.199V40.1993V40.1996V40.1999V40.2002V40.2005V40.2008V40.2011V40.2014V40.2017V40.202V40.2022V40.2025V40.2028V40.2031V40.2034V40.2037V40.204V40.2043V40.2046V40.2049V40.2052V40.2055V40.2058V40.2061V40.2063V40.2066V40.2069V40.2072V40.2075V40.2078V40.2081V40.2084V40.2087V40.209V40.2093V40.2096V40.2099V40.2102V40.2104V40.2107V40.211V40.2113V40.2116V40.2119V40.2122V40.2125V40.2128V40.2131V40.2134V40.2137V40.214V40.2143V40.2146V40.2148V40.2151V40.2154V40.2157V40.216V40.2163V40.2166V40.2169V40.2172V40.2175V40.2178V40.2181V40.2184V40.2187V40.2189V40.2192V40.2195V40.2198V40.2201V40.2204V40.2207V40.221V40.2213V40.2216V40.2219V40.2222V40.2225V40.2228V40.223V40.2233V40.2236V40.2239V40.2242V40.2245V40.2248V40.2251V40.2254V40.2257V40.226V40.2263V40.2266V40.2269V40.2271V40.2274V40.2277V40.228V40.2283V40.2286V40.2289V40.2292V40.2295V40.2298V40.2301V40.2304V40.2307V40.231V40.2312V40.2315V40.2318V40.2321V40.2324V40.2327V40.233V40.2333V40.2336V40.2339V40.2342V40.2345V40.2348V40.2351V40.2354V40.2356V40.2359V40.2362V40.2365V40.2368V40.2371V40.2374V40.2377V40.238V40.2383V40.2386V40.2389V40.2392V40.2395V40.2397V40.24V40.2403V40.2406V40.2409V40.2412V40.2415V40.2418V40.2421V40.2424V40.2427V40.243V40.2433V40.2436V40.2438V40.2441V40.2444V40.2447V40.245V40.2453V40.2456V40.2459V40.2462V40.2465V40.2468V40.2471V40.2474V40.2477V40.3694L18.1644 40.4253L19.6144 41.1753L19.6156 41.176C22.7106 42.7488 26.2624 43.1038 29.6608 42.1401L29.6621 42.1397L41.9562 38.5641V38.6143L42.2122 38.5397L45.8122 37.4897ZM14.3562 41.4977C14.7035 41.4977 15.0562 41.3805 15.3477 41.0891C15.5837 40.853 15.7116 40.4976 15.6562 40.1792V29.1477C15.6562 28.3481 15.0773 27.6977 14.2563 27.6977H5.60625C4.8513 27.6977 4.20625 28.2818 4.20625 29.0977V40.0977C4.20625 40.8526 4.79037 41.4977 5.60625 41.4977H14.3562Z" fill="white" stroke="black" stroke-width="0.4"/>
+					<path fill="currentColor" d="M39.7561 21.6477V21.4477H39.5561H35.5561C34.8665 21.4477 34.3561 20.9372 34.3561 20.2477C34.3561 19.5627 34.9118 19.0477 35.5561 19.0477H40.8061H40.8063H40.8066H40.8069H40.8072H40.8075H40.8078H40.8081H40.8084H40.8086H40.8089H40.8092H40.8095H40.8098H40.81H40.8103H40.8106H40.8109H40.8111H40.8114H40.8117H40.812H40.8122H40.8125H40.8128H40.813H40.8133H40.8136H40.8138H40.8141H40.8144H40.8146H40.8149H40.8151H40.8154H40.8156H40.8159H40.8162H40.8164H40.8167H40.8169H40.8172H40.8174H40.8177H40.8179H40.8181H40.8184H40.8186H40.8189H40.8191H40.8194H40.8196H40.8198H40.8201H40.8203H40.8206H40.8208H40.821H40.8213H40.8215H40.8217H40.822H40.8222H40.8224H40.8227H40.8229H40.8231H40.8233H40.8236H40.8238H40.824H40.8242H40.8245H40.8247H40.8249H40.8251H40.8253H40.8256H40.8258H40.826H40.8262H40.8264H40.8266H40.8269H40.8271H40.8273H40.8275H40.8277H40.8279H40.8281H40.8283H40.8285H40.8287H40.829H40.8292H40.8294H40.8296H40.8298H40.83H40.8302H40.8304H40.8306H40.8308H40.831H40.8312H40.8314H40.8316H40.8318H40.832H40.8322H40.8324H40.8325H40.8327H40.8329H40.8331H40.8333H40.8335H40.8337H40.8339H40.8341H40.8343H40.8344H40.8346H40.8348H40.835H40.8352H40.8354H40.8356H40.8357H40.8359H40.8361H40.8363H40.8365H40.8367H40.8368H40.837H40.8372H40.8374H40.8375H40.8377H40.8379H40.8381H40.8383H40.8384H40.8386H40.8388H40.839H40.8391H40.8393H40.8395H40.8396H40.8398H40.84H40.8402H40.8403H40.8405H40.8407H40.8408H40.841H40.8412H40.8413H40.8415H40.8417H40.8418H40.842H40.8422H40.8423H40.8425H40.8427H40.8428H40.843H40.8431H40.8433H40.8435H40.8436H40.8438H40.844H40.8441H40.8443H40.8444H40.8446H40.8448H40.8449H40.8451H40.8452H40.8454H40.8455H40.8457H40.8459H40.846H40.8462H40.8463H40.8465H40.8466H40.8468H40.847H40.8471H40.8473H40.8474H40.8476H40.8477H40.8479H40.848H40.8482H40.8483H40.8485H40.8486H40.8488H40.8489H40.8491H40.8492H40.8494H40.8495H40.8497H40.8498H40.85H40.8501H40.8503H40.8504H40.8506H40.8507H40.8509H40.851H40.8512H40.8513H40.8515H40.8516H40.8518H40.8519H40.8521H40.8522H40.8524H40.8525H40.8527H40.8528H40.853H40.8531H40.8533H40.8534H40.8536H40.8537H40.8539H40.854H40.8542H40.8543H40.8544H40.8546H40.8547H40.8549H40.855H40.8552H40.8553H40.8555H40.8556H40.8558H40.8559H40.8561H40.8562H40.8563H40.8565H40.8566H40.8568H40.8569H40.8571H40.8572H40.8574H40.8575H40.8577H40.8578H40.858H40.8581H40.8583H40.8584H40.8586H40.8587H40.8588H40.859H40.8591H40.8593H40.8594H40.8596H40.8597H40.8599H40.86H40.8602H40.8603H40.8605H40.8606H40.8608H40.8609H40.8611H40.8612H40.8614H40.8615H40.8617H40.8618H40.862H40.8621H40.8623H40.8624H40.8626H40.8627H40.8629H40.863H40.8632H40.8633H40.8635H40.8636H40.8638H40.8639H40.8641H40.8642H40.8644H40.8645H40.8647H40.8649H40.865H40.8652H40.8653H40.8655H40.8656H40.8658H40.8659H40.8661H40.8663H40.8664H40.8666H40.8667H40.8669H40.867H40.8672H40.8674H40.8675H40.8677H40.8678H40.868H40.8682H40.8683H40.8685H40.8686H40.8688H40.869H40.8691H40.8693H40.8695H40.8696H40.8698H40.8699H40.8701H40.8703H40.8704H40.8706H40.8708H40.8709H40.8711H40.8713H40.8714H40.8716H40.8718H40.872H40.8721H40.8723H40.8725H40.8726H40.8728H40.873H40.8732H40.8733H40.8735H40.8737H40.8739H40.874H40.8742H40.8744H40.8746H40.8747H40.8749H40.8751H40.8753H40.8755H40.8756H40.8758H40.876H40.8762H40.8764H40.8766H40.8767H40.8769H40.8771H40.8773H40.8775H40.8777H40.8779H40.878H40.8782H40.8784H40.8786H40.8788H40.879H40.8792H40.8794H40.8796H40.8798H40.88H40.8802H40.8803H40.8805H40.8807H40.8809H40.8811H40.8813H40.8815H40.8817H40.8819H40.8821H40.8823H40.8825H40.8827H40.883H40.8832H40.8834H40.8836H40.8838H40.884H40.8842H40.8844H40.8846H40.8848H40.885H40.8853H40.8855H40.8857H40.8859H40.8861H40.8863H40.8865H40.8868H40.887H40.8872H40.8874H40.8877H40.8879H40.8881H40.8883H40.8885H40.8888H40.889H40.8892H40.8895H40.8897H40.8899H40.8901H40.8904H40.8906H40.8908H40.8911H40.8913H40.8915H40.8918H40.892H40.8923H40.8925H40.8927H40.893H40.8932H40.8935H40.8937H40.894H40.8942H40.8945H40.8947H40.895H40.8952H40.8955H40.8957H40.896H40.8962H40.8965H40.8967H40.897H40.8972H40.8975H40.8978H40.898H40.8983H40.8985H40.8988H40.8991H40.8993H40.8996H40.8999H40.9001H40.9004H40.9007H40.901H40.9012H40.9015H40.9018H40.9021H40.9023H40.9026H40.9029H40.9032H40.9035H40.9037H40.904H40.9043H40.9046H40.9049H40.9052H40.9055H40.9058H40.9061H40.9063H40.9066H40.9069H40.9072H40.9075H40.9078H40.9081H40.9084H40.9086H40.9089H40.9092H40.9095H40.9098H40.91H40.9103H40.9106H40.9109H40.9111H40.9114H40.9117H40.912H40.9122H40.9125H40.9128H40.913H40.9133H40.9136H40.9138H40.9141H40.9143H40.9146H40.9149H40.9151H40.9154H40.9156H40.9159H40.9161H40.9164H40.9167H40.9169H40.9172H40.9174H40.9177H40.9179H40.9181H40.9184H40.9186H40.9189H40.9191H40.9194H40.9196H40.9198H40.9201H40.9203H40.9206H40.9208H40.921H40.9213H40.9215H40.9217H40.922H40.9222H40.9224H40.9227H40.9229H40.9231H40.9233H40.9236H40.9238H40.924H40.9242H40.9245H40.9247H40.9249H40.9251H40.9253H40.9256H40.9258H40.926H40.9262H40.9264H40.9266H40.9269H40.9271H40.9273H40.9275H40.9277H40.9279H40.9281H40.9283H40.9285H40.9287H40.929H40.9292H40.9294H40.9296H40.9298H40.93H40.9302H40.9304H40.9306H40.9308H40.931H40.9312H40.9314H40.9316H40.9318H40.932H40.9322H40.9323H40.9325H40.9327H40.9329H40.9331H40.9333H40.9335H40.9337H40.9339H40.9341H40.9343H40.9344H40.9346H40.9348H40.935H40.9352H40.9354H40.9356H40.9357H40.9359H40.9361H40.9363H40.9365H40.9367H40.9368H40.937H40.9372H40.9374H40.9375H40.9377H40.9379H40.9381H40.9383H40.9384H40.9386H40.9388H40.939H40.9391H40.9393H40.9395H40.9396H40.9398H40.94H40.9402H40.9403H40.9405H40.9407H40.9408H40.941H40.9412H40.9413H40.9415H40.9417H40.9418H40.942H40.9422H40.9423H40.9425H40.9427H40.9428H40.943H40.9431H40.9433H40.9435H40.9436H40.9438H40.944H40.9441H40.9443H40.9444H40.9446H40.9448H40.9449H40.9451H40.9452H40.9454H40.9455H40.9457H40.9459H40.946H40.9462H40.9463H40.9465H40.9466H40.9468H40.947H40.9471H40.9473H40.9474H40.9476H40.9477H40.9479H40.948H40.9482H40.9483H40.9485H40.9486H40.9488H40.9489H40.9491H40.9492H40.9494H40.9495H40.9497H40.9498H40.95H40.9501H40.9503H40.9504H40.9506H40.9507H40.9509H40.951H40.9512H40.9513H40.9515H40.9516H40.9518H40.9519H40.9521H40.9522H40.9524H40.9525H40.9527H40.9528H40.953H40.9531H40.9533H40.9534H40.9536H40.9537H40.9539H40.954H40.9541H40.9543H40.9544H40.9546H40.9547H40.9549H40.955H40.9552H40.9553H40.9555H40.9556H40.9558H40.9559H40.9561H40.9562H40.9563H40.9565H40.9566H40.9568H40.9569H40.9571H40.9572H40.9574H40.9575H40.9577H40.9578H40.958H40.9581H40.9583H40.9584H40.9585H40.9587H40.9588H40.959H40.9591H40.9593H40.9594H40.9596H40.9597H40.9599H40.96H40.9602H40.9603H40.9605H40.9606H40.9608H40.9609H40.9611H40.9612H40.9614H40.9615H40.9617H40.9618H40.962H40.9621H40.9623H40.9624H40.9626H40.9627H40.9629H40.963H40.9632H40.9633H40.9635H40.9636H40.9638H40.9639H40.9641H40.9642H40.9644H40.9645H40.9647H40.9649H40.965H40.9652H40.9653H40.9655H40.9656H40.9658H40.9659H40.9661H40.9662H40.9664H40.9666H40.9667H40.9669H40.967H40.9672H40.9674H40.9675H40.9677H40.9678H40.968H40.9682H40.9683H40.9685H40.9686H40.9688H40.969H40.9691H40.9693H40.9695H40.9696H40.9698H40.9699H40.9701H40.9703H40.9704H40.9706H40.9708H40.9709H40.9711H40.9713H40.9714H40.9716H40.9718H40.972H40.9721H40.9723H40.9725H40.9726H40.9728H40.973H40.9732H40.9733H40.9735H40.9737H40.9739H40.974H40.9742H40.9744H40.9746H40.9747H40.9749H40.9751H40.9753H40.9755H40.9756H40.9758H40.976H40.9762H40.9764H40.9766H40.9767H40.9769H40.9771H40.9773H40.9775H40.9777H40.9778H40.978H40.9782H40.9784H40.9786H40.9788H40.979H40.9792H40.9794H40.9796H40.9798H40.98H40.9801H40.9803H40.9805H40.9807H40.9809H40.9811H40.9813H40.9815H40.9817H40.9819H40.9821H40.9823H40.9825H40.9827H40.983H40.9832H40.9834H40.9836H40.9838H40.984H40.9842H40.9844H40.9846H40.9848H40.985H40.9853H40.9855H40.9857H40.9859H40.9861H40.9863H40.9865H40.9868H40.987H40.9872H40.9874H40.9876H40.9879H40.9881H40.9883H40.9885H40.9888H40.989H40.9892H40.9895H40.9897H40.9899H40.9901H40.9904H40.9906H40.9908H40.9911H40.9913H40.9915H40.9918H40.992H40.9923H40.9925H40.9927H40.993H40.9932H40.9935H40.9937H40.994H40.9942H40.9945H40.9947H40.995H40.9952H40.9955H40.9957H40.996H40.9962H40.9965H40.9967H40.997H40.9972H40.9975H40.9978H40.998H40.9983H40.9985H40.9988H40.9991H40.9993H40.9996H40.9999H41.0001H41.0004H41.0007H41.001H41.0012H41.0015H41.0018H41.0021H41.0023H41.0026H41.0029H41.0032H41.0035H41.0037H41.004H41.0043H41.0046H41.0049H41.0052H41.0055H41.0058H41.0061H43.2061C44.5665 19.0477 45.6561 17.9581 45.6561 16.5977C45.6561 15.2372 44.5665 14.1477 43.2061 14.1477H37.9061C35.3165 14.1477 33.1561 12.0372 33.1561 9.34766C33.1561 8.09979 33.6356 6.90093 34.5475 5.98908L34.5475 5.98913L34.5512 5.98521C35.4102 5.07852 36.606 4.59766 37.9061 4.59766H39.5061H39.7061V4.39766V2.99766C39.7061 2.30811 40.2165 1.79766 40.9061 1.79766C41.591 1.79766 42.1061 2.35343 42.1061 2.99766V4.39766V4.59766H42.3061H45.6061C46.2602 4.59766 46.8061 5.07215 46.8061 5.74766C46.8061 6.43257 46.2503 6.94766 45.6061 6.94766H37.9061C37.2543 6.94766 36.603 7.21784 36.1646 7.65624L36.1644 7.65599L36.1566 7.66478C35.7306 8.14403 35.4561 8.73964 35.4561 9.39766C35.4561 10.7581 36.5456 11.8477 37.9061 11.8477H43.2561C45.8956 11.8477 48.0561 14.0081 48.0561 16.6477C48.0561 19.2872 45.8956 21.4477 43.2561 21.4477H42.3561H42.1561V21.6477V22.9977C42.1561 23.6872 41.6456 24.1977 40.9561 24.1977C40.2711 24.1977 39.7561 23.6419 39.7561 22.9977V21.6477Z" fill="white" stroke="black" stroke-width="0.4"/>
+					</svg>
 					<h0> Investing </h0>
 				</button>
 			</div>
@@ -355,9 +319,41 @@
 		</div>
 		
 			</div>
-</div></div></div></section>
+	</section>
 
+	<section id="contact" class="snt-contact-message-section">
+	  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h4 class="desktop">FIRST CONTACT</h4>
+		  <h4 class="mobile">JOIN OUR TEAM</h4>
+        <h1 class="desktop">Send Us a Message</h1>
+		  <h1 class="mobile">Drop Us a Message</h1>
+      </div>
+      <div class="col-md-7 col-md-offset-1" style="margin-top:60px;">
+        <p>Ready to talk? Contact us for a free consult and we’ll get back to you in 24 hours. You’re contact information is kept private and we will never send you spam.</p>
+      </div>
+		  </div>
+    </div>
+
+	  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <?php echo do_shortcode("[wpforms id='23' title='false' description='false']")?>
+      </div>
+		  </div>
+    </div>
+	</section>
 <script>
+var c1 = document.getElementById('c1')
+c1.addEventListener('click', function () {
+	this.classList.toggle('is-playing')
+})
+
+var c2 = document.getElementById('c2')
+c2.addEventListener('click', function () {
+	this.classList.toggle('is-playing')
+})
 
 function showEquity() {
 	var x = document.getElementById("equity");
@@ -366,15 +362,14 @@ function showEquity() {
 	if (x.style.display === "none") {
 		x.style.display = "block";
 		c1.style.color = "#26D0E5";
-		c1.style.background = "url(/wp-content/themes/wp.theme.php/imgs/equity_active.png) no-repeat";
-		c2.style.color = "";   
+		c1.style.fill = "#26D0E5";
+		c2.style.color = "white";   
 		c2.style.background = "";
 		y.style.display = "none";
 	} else {
 		x.style.display = "block";
 		c1.style.color = "white";
-		c1.style.background = "url(/wp-content/themes/wp.theme.php/imgs/equity.png) no-repeat";
-
+		c1.style.fill = "white";
 	}
 }
 
@@ -384,16 +379,13 @@ function showInvesting() {
 	var c2 = document.getElementById("c2");
 	if (x.style.display === "none") {
 		x.style.display = "block";
-		c1.style.color = "";   
-		c1.style.background = "";
+		c1.style.color = "white";   
+		c1.style.fill = "white";
 		c2.style.color = "#26D0E5";
-		c2.style.background = "url(/wp-content/themes/wp.theme.php/imgs/revenue_active.png) no-repeat";
 		y.style.display = "none";
 	} else {
 		x.style.display = "none";
 		c2.style.color = "white";
-		c2.style.background = "url(/wp-content/themes/wp.theme.php/imgs/revenue.png) no-repeat";
-
 	}
 }
 
