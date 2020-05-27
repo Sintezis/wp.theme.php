@@ -57,7 +57,6 @@
 			  </div>
             
           </div>
-<<<<<<< HEAD
 
           <div class="col-md-4 col-sm-4">
               <div class="text-center">
@@ -86,40 +85,6 @@
                       <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
               </div>
             </div>
-=======
-
-          <div class="col-md-4 col-sm-4">
-        <div class="text-center">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Zvonimir Tomesic</h3>
-              <p>Lead Software Developer</p>
-        <div class="text-center sm" style="margin-top: 30px;">
-                            <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-        </div>
-        </div>
-              
-            </div>
-        
-          
-        </div>
-        <div class="row">
-        
-            <div class="col-md-4 col-sm-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" class="snt-team-pic center-block" alt="">
-            <h3>Gordon Cindric</h3>
-            <p>Lead Product Designer</p>
-        <div class="text-center sm" style="margin-top: 30px;">    
-          <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-          <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-          <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                
-        </div>
-
-          </div>
-
->>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
           
             <div class="col-md-4 col-sm-4">
               <img src="<?php echo get_template_directory_uri().'/imgs/photo_medak.png'?>" class="snt-team-pic center-block" alt="">
@@ -131,13 +96,7 @@
                   <a href="https://www.linkedin.com/in/hrvoje-medak-212a71136/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
 				</div>
 
-<<<<<<< HEAD
         </div>
-=======
-            </div>
-          
-            
->>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
   
           </div>
 

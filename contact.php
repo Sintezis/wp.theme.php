@@ -15988,21 +15988,7 @@
 		  <div style="text-align-last:center;">
 			<p>San Francisco, CA, USA</p>
 		</div>
-<<<<<<< HEAD
 	  </div>
-=======
-		  
-		  <div class="row">
-			<div class="text-center" style="margin-bottom:100px;">
-			  <div style="width: 100%">
-				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-				<a style="margin:10px;" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-			  </div>
-			</div>
-		  </div>		   
-		</div>
->>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
 </section>
 
 <section class="text-center snt-contact-page-section" style="margin-top: 100px; margin-bottom:200px;">

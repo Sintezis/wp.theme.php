@@ -142,11 +142,7 @@
 			<button class="welcome-services-button" onclick="window.location.href='/services/#consulting'">
 				<img src="<?php echo get_template_directory_uri().'/imgs/Software_desktop.png'?>" class="center-block" alt="" style="margin-bottom:50px;">
 				<h0 style="margin-top: 30px;">Consulting</h0>
-<<<<<<< HEAD
 				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Before you jump in the deep end of the pool, get our expert input on all aspects of software development lifecycle.</p>
-=======
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Befor you jump in the deep end of the pool, get our expert input on all aspects of software development lifecycle.</p>
->>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
 			</button>
 		  </div>
 		  
@@ -175,11 +171,6 @@
 	  </div>
   </section>
 
-<<<<<<< HEAD
-=======
- 
-
->>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
 
   <?php get_template_part( 'content', get_post_format() ); ?>
 

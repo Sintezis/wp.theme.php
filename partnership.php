@@ -22,18 +22,6 @@
 	</div>
 
 </div>
-<<<<<<< HEAD
-=======
-
-<div class="container">
-    <div class="col-sm-12 col-md-12 col-sm-12 partnership">
-        <p class="quote">If opportunity doesn’t knock, build a door.</p>
-        <p class="quote-p">- Milton Berle</p>
-	</div>
-	</div>
-	
-</div>
->>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
 </section>
 
 <section id="partnership" class="snt-partnership-section">
@@ -43,10 +31,6 @@
         <h1 class="partnership-h1" style="margin-bottom: 100px;">Brand Ambassador Programme</h1>
     </div>
 
-<<<<<<< HEAD
-=======
-	
->>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
 
 	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
 		<h2 class="introduction" style="margin-top:75px;">Introduction</h2>
@@ -89,13 +73,7 @@
 		
 	<div class="col-sm-12 col-md-12 col-lg-12">
 	  
-<<<<<<< HEAD
 		<div class="col-md-3 col-sm-12">
-=======
-	  <div class="row">
-	  
-		<div class="col-md-3 col-sm-6">
->>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
 		  <img src="/wp-content/themes/wp.theme.php/imgs/question_mark.png" class="ambassador-block" alt="">
 		  <h3 class="ambassador-name">You?</h3>
 		  <div style="text-align-last:center;">
@@ -112,15 +90,8 @@
 			</div>
 		  </div>		   
 		</div>
-<<<<<<< HEAD
 		  </div>
 </div></div></section>
-=======
-
-
-
-</div></div></div></div></section>
->>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
 
 <section class="text-center snt-contact-page-section" style="margin-top:200px; margin-bottom: 200px;">
   <div class="container">
