@@ -15987,9 +15987,10 @@
 		  <h3 class="ambassador-name">You?</h3>
 		  <div style="text-align-last:center;">
 			<p>San Francisco, CA, USA</p>
-			<p>+123456789</p>
-			<p>jennifer.d.frankovic@sintezis.co</p>
-		  </div>
+		</div>
+<<<<<<< HEAD
+	  </div>
+=======
 		  
 		  <div class="row">
 			<div class="text-center" style="margin-bottom:100px;">
@@ -16001,7 +16002,7 @@
 			</div>
 		  </div>		   
 		</div>
-	  </div>
+>>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
 </section>
 
 <section class="text-center snt-contact-page-section" style="margin-top: 100px; margin-bottom:200px;">

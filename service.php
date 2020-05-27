@@ -2,27 +2,8 @@
 /*Template Name: Services */?>
 
 
-<section id="product-design" class="snt-services-page-section">
-<div class="container">
-			<div class="col-sm-12 col-md-12 col-lg-12">
-			<h1 class="hero" style="margin-top: 100px; margin-bottom: 100px;">Our Services</h1>
-	  </div>
-	</div>
-	
-	<div class="container">
-	  
-	  
-			<div id="serv" class="col-md-12">
-			  <h3 class="yellow">FLOW, FORM and function</h3>
-			  <h1 class="product-h1" style="margin-top: 10px; margin-bottom: 40px;">Product Design </h1>
-			</div>
-  	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-		<p> Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
-	</div>
-	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-		<p> Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
-	</div>
 
+<<<<<<< HEAD
 	<div class="col-xs-12" style="margin-top:65px;">
 		<div class="col-sm-4 col-md-4 col-lg-4 des-ux-int">
 			<div class="col-xs-4 col-sm-12 col-md-12 col-lg-12">
@@ -101,6 +82,8 @@
 </div>
 
 </section>
+=======
+>>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
 
 <section id="product-development" class="snt-services-page-section" style="margin-top: 100px;">
 	<div class="container">
@@ -159,7 +142,7 @@
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border"  id="proof">
 				<h2>PROOF OF CONCEPT</h2>
-				<p>A Proof of Concept is a small exercise to test the design idea or assumption. The main purpose of developing a POC is to demonstrate the functionality and to verify a certain concept or theory that can be achieved in development.</p>
+				<p>A Proof of Concept is a small exercise to test the design idea or assumption. The main purpose of developing a PoC is to demonstrate the functionality and to verify a certain concept or theory that can be achieved in development.</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-30rem; margin-left:15rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
@@ -194,6 +177,91 @@
 		</div>
 </section>
 
+<section id="product-design" class="snt-services-page-section">
+<div class="container">
+			<div class="col-sm-12 col-md-12 col-lg-12">
+			<h1 class="hero" style="margin-top: 100px; margin-bottom: 100px;">Our Services</h1>
+	  </div>
+	</div>
+	
+	<div class="container">
+	  
+	  
+			<div id="serv" class="col-md-12">
+			  <h3 class="yellow">FLOW, FORM and function</h3>
+			  <h1 class="product-h1" style="margin-top: 10px; margin-bottom: 40px;">Product Design </h1>
+			</div>
+  	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+		<p>We imagine, create, and iterate products that solve your problems and address specific needs in your market.</p>
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+		<p> Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+	</div>
+
+	<div class="col-xs-12" style="margin-top:65px;">
+		<div class="col-sm-4 col-md-4 col-lg-4 des-ux-int">
+			<div class="col-xs-4 col-sm-12 col-md-12 col-lg-12">
+				<button class="thunder" id="c1" value="showDesign" onclick="showDesign()" style="color: rgb(195, 25, 225); background: url(&quot;/wp-content/themes/wp.theme.php/imgs/Thunder_active.png&quot;) no-repeat;">
+					<h0> Design Sprint </h0>
+				</button>
+			</div>
+			<div class="col-xs-4 col-sm-12 col-md-12 col-lg-12">
+				<button id="c2" class="vector" value="showUx" onclick="showUx()" style="">
+					<h0> UX/UI Design </h0>
+				</button>
+			</div>
+			<div class="col-xs-4 col-sm-12 col-md-12 col-lg-12">
+				<button id="c3" class="mouse" value="showInteraction" onclick="showInteraction()" style="">
+					<h0> Interaction Design </h0>
+				</button>
+			</div>
+		</div>
+		<div class="col-sm-8 col-md-8 col-lg-8 border" id="design" style="display: block;">
+				<h2>DESIGN SPRINT</h2>
+				<p>The Design Sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. Developed at Google Ventures, it’s a “greatest hits” of business strategy, innovation, behavior science, design thinking, and more—packaged into a battle-tested process that any team can use.</p>
+				<p> Working together in a sprint, you can shortcut the endless-debate cycle and compress months of time into a single week. Instead of waiting to launch a minimal product to understand if an idea is any good, you’ll get clear data from a realistic prototype. The sprint gives you a superpower: You can fast-forward into the future to see your finished product and customer reactions, before making any expensive commitments. Read More</p>
+				<p> We facilitate Design Sprints on-site or remote.</p>
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:15rem;">
+				<g opacity="0.05">
+				<rect width="500" height="500" fill="black" fill-opacity="0.25"></rect>
+				<path d="M154.58 246.34C152.633 243.866 152.597 240.081 153.863 236.99C153.863 236.989 153.864 236.989 153.864 236.988L199.708 127.834C201.208 124.278 204.703 121.75 208.679 121.75H292.25C295.484 121.75 298.73 123.526 300.472 126.308C302.216 129.093 302.469 132.647 301.221 135.698C301.22 135.7 301.22 135.702 301.219 135.704L276.86 191.07L276.551 191.771H277.317H290.678C294.41 191.771 297.646 193.786 299.399 197.349L299.402 197.356L299.406 197.363C301.139 200.634 300.655 204.688 298.398 207.747C298.398 207.747 298.397 207.747 298.397 207.748L178.944 366.947C178.943 366.949 178.942 366.95 178.941 366.952C176.936 369.495 174.199 370.75 171.478 370.75C170.007 370.75 168.254 370.248 166.732 369.476C162.517 367.205 160.755 362.411 162.261 357.558C162.261 357.557 162.262 357.555 162.262 357.554L197.365 251.332L197.582 250.675H196.89H162.833C159.612 250.675 156.603 248.909 154.58 246.34ZM168.659 236.605L168.368 237.298H169.12H216.109L183.054 337.547L183.929 338.004L282.695 206.214L283.294 205.415H282.295H255.818L286.42 136.362L286.731 135.659H285.963H211.299H210.966L210.838 135.966L168.659 236.605Z" fill="white" stroke="white"></path>
+				<path d="M279.489 380C278.703 380 277.786 379.734 277 379.334C274.773 378.136 273.856 375.607 274.642 373.078L292.195 319.963H275.166C273.463 319.963 271.892 319.031 270.844 317.7C269.796 316.368 269.796 314.372 270.451 312.774L293.374 258.195C294.16 256.331 295.994 255 298.089 255H339.875C341.578 255 343.281 255.932 344.198 257.396C345.115 258.86 345.246 260.724 344.591 262.322L332.409 290.011H339.089C341.054 290.011 342.757 291.076 343.674 292.939C344.591 294.67 344.329 296.8 343.15 298.397L283.419 378.003C282.371 379.334 280.93 380 279.489 380ZM278.31 312.774H302.15L285.514 363.227L334.897 297.332H321.275L336.731 262.455H299.399L278.31 312.774Z" fill="white"></path>
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M276.811 379.686C274.397 378.387 273.425 375.65 274.261 372.959L274.263 372.952L291.642 320.362H275.167C273.316 320.362 271.636 319.352 270.53 317.947C269.364 316.465 269.392 314.303 270.081 312.622L270.082 312.619L293.005 258.04C293.849 256.039 295.821 254.6 298.09 254.6H339.875C341.715 254.6 343.547 255.602 344.537 257.183C345.525 258.761 345.663 260.761 344.961 262.473L344.957 262.482L333.022 289.61H339.089C341.211 289.61 343.048 290.765 344.03 292.757C345.024 294.638 344.73 296.93 343.472 298.634L343.47 298.637L283.733 378.25C282.613 379.674 281.058 380.4 279.489 380.4C278.624 380.4 277.645 380.11 276.819 379.691L276.811 379.686ZM343.674 292.939C342.757 291.075 341.054 290.01 339.089 290.01H332.409L344.591 262.321C345.246 260.724 345.115 258.86 344.198 257.396C343.281 255.931 341.578 255 339.875 255H298.09C295.994 255 294.16 256.331 293.374 258.194L270.451 312.774C269.796 314.371 269.796 316.368 270.844 317.699C271.892 319.03 273.464 319.962 275.167 319.962H292.195L274.643 373.077C273.857 375.607 274.774 378.136 277.001 379.334C277.786 379.733 278.703 380 279.489 380C280.93 380 282.371 379.334 283.419 378.003L343.15 298.397C344.329 296.799 344.591 294.669 343.674 292.939ZM336.732 262.454H299.4L278.31 312.774H302.15L285.515 363.226L334.898 297.332H321.275L336.732 262.454ZM334.098 297.732H320.66L336.117 262.854H299.666L278.912 312.374H302.704L286.66 361.032L334.098 297.732Z" fill="white"></path>
+				</g>
+				</svg>
+		</div>
+		<div class="col-sm-8 col-md-8 col-lg-8 border" id="ux" style="display: none;">
+				<h2>UX/UI DESIGN</h2>
+				<p>User eXperience (UX) design is the process of manipulating user behavior through usability, usefulness, and desirability provided in the interaction with a product. User experience design encompasses traditional human–computer interaction design and extends it by addressing all aspects of a product or service as perceived by users. </p>
+				<p><u>Read more</u></p>
+				<p class="p-ux-design"> "UX design is like telling a joke, if you have to explain it: you’ve failed."</p>
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-48rem; margin-left:15rem;">
+				<g opacity="0.05">
+				<rect width="500" height="500" fill="black" fill-opacity="0.25"></rect>
+				<path d="M373.348 146.233C371.825 145.315 369.936 145.219 368.326 145.98L327.047 165.209C312.493 171.987 302.726 185.956 301.452 201.814L300.387 214.855L278.999 249.986V234.986C278.999 234.937 278.973 234.896 278.973 234.843C278.965 234.327 278.882 233.814 278.721 233.322L268.77 203.798L289.089 163.624C289.981 161.836 289.775 159.701 288.556 158.111L256.61 115.988C254.675 113.662 251.199 113.329 248.845 115.243C248.57 115.466 248.318 115.717 248.092 115.988L216.144 158.111C214.934 159.707 214.738 161.84 215.638 163.624L235.957 203.798L226.006 233.322C225.845 233.814 225.762 234.327 225.754 234.843V234.986V256L192.583 206.21C192.541 206.153 192.478 206.12 192.44 206.069C192.119 205.63 191.734 205.243 191.296 204.92C191.195 204.847 191.104 204.763 190.997 204.694C190.892 204.626 190.874 204.589 190.806 204.551L171.286 193.389L163.183 181.226L151.469 163.64C150.124 161.624 147.565 160.772 145.261 161.572L124.543 168.758C121.773 169.732 120.324 172.742 121.309 175.481C121.452 175.883 121.644 176.264 121.882 176.618L136.529 198.608L144.606 210.765L147.267 232.912C147.281 232.982 147.299 233.053 147.321 233.122C147.345 233.233 147.372 233.345 147.406 233.453C147.527 234.01 147.739 234.545 148.035 235.033C148.072 235.086 148.072 235.155 148.11 235.208C148.148 235.259 227.289 353.883 227.672 354.204C231.566 364.32 241.374 371.004 252.319 371C254.492 370.998 256.657 370.737 258.767 370.222C265.627 368.557 271.53 364.251 275.16 358.257L345.974 242.084L357.155 235.086C363.03 231.392 367.959 226.406 371.564 220.516C376.138 213.024 378.362 204.355 377.952 195.612L375.876 150.531C375.813 148.77 374.865 147.156 373.348 146.233ZM334.784 240.061L326.545 253.588L299.183 237.267L307.432 223.739L334.784 240.061ZM236.404 319.848V240.251H268.35V267.452L236.404 319.848ZM245.568 208.659H259.187L266.284 229.72H238.47L245.568 208.659ZM252.377 171.801C249.436 171.801 247.053 169.444 247.053 166.536C247.053 163.628 249.436 161.272 252.377 161.272C255.317 161.272 257.702 163.628 257.702 166.536C257.702 169.444 255.317 171.801 252.377 171.801ZM252.377 127.925L278.089 161.824L259.735 198.128H257.7V181.363C266.018 178.456 270.378 169.43 267.436 161.205C264.495 152.98 255.371 148.67 247.053 151.578C238.735 154.485 234.377 163.511 237.318 171.736C238.926 176.234 242.504 179.773 247.053 181.363V198.128H245.019L226.664 161.824L252.377 127.925ZM178.012 209.4L176.445 210.422L156.836 223.196L155.032 208.275C154.932 207.463 154.645 206.687 154.189 206.004L148.334 197.212L157.225 191.42L163.082 200.212C163.538 200.895 164.146 201.461 164.86 201.871L178.012 209.4ZM144.866 172.854L151.362 182.61L142.471 188.403L134.484 176.452L144.866 172.854ZM173.283 225.082L186.595 216.388L225.754 275.135V332.563L159.945 233.78L173.283 225.082ZM266.056 352.787C261.541 360.282 251.738 362.741 244.158 358.277C236.578 353.814 234.094 344.118 238.606 336.622C238.64 336.569 238.672 336.518 238.704 336.465L278.908 270.527H278.999V270.386L293.683 246.296L307.362 254.468L321.061 262.607L266.056 352.787ZM362.469 215.057C359.723 219.543 355.963 223.343 351.486 226.155L342.028 232.078L326.589 222.886L311.147 213.692L312.026 202.636C313.001 190.546 320.446 179.899 331.54 174.728L365.615 158.864L366.293 173.538C365.76 173.481 365.221 173.503 364.695 173.607L351.799 176.767C339.798 179.665 330.507 189.057 327.84 200.987C327.198 203.824 329.002 206.638 331.871 207.273C332.254 207.361 332.644 207.406 333.037 207.406C335.527 207.402 337.684 205.693 338.228 203.289C340.028 195.267 346.276 188.952 354.345 186.997L366.783 183.948L367.342 196.059C367.654 202.728 365.958 209.34 362.469 215.057Z" fill="white"></path>
+				</g>
+				</svg>
+		</div>
+		<div class="col-sm-8 col-md-8 col-lg-8 border" id="interaction" style="display: none;">
+				<h2>INTERACTION DESIGN</h2>
+				<p>Once we have a solid UX/UI foundation from the previous section, we can implement the next level of creativity adding animations, interactions and additional "states" to existing elements.</p>
+				<p>For instance how a button reacts when mouse cursor goes over it, or what's the difference between web (mouse) and touch (mobile/tablet) versions?</p>
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-40rem; margin-left:15rem;">
+				<g opacity="0.05">
+				<rect width="500" height="500" fill="black" fill-opacity="0.25"></rect>
+				<path d="M282.109 276.608C279.073 276.608 276.608 279.073 276.608 282.109C276.608 285.146 279.073 287.611 282.109 287.611C285.146 287.611 287.611 285.146 287.611 282.109C287.611 279.073 285.146 276.608 282.109 276.608Z" fill="white" stroke="white" stroke-width="0.3"></path>
+				<path d="M233.945 144.959C192.465 144.959 158.873 178.528 158.873 220.031V312.078C158.873 353.473 192.551 387.15 233.945 387.15C275.34 387.15 309.017 353.473 309.017 312.078V220.031C309.017 178.637 275.34 144.959 233.945 144.959ZM233.945 219.881C228.127 219.881 223.392 215.147 223.392 209.328V198.625C223.392 192.796 228.116 188.072 233.945 188.072C239.764 188.072 244.498 192.806 244.498 198.625V209.328C244.498 215.147 239.764 219.881 233.945 219.881ZM228.444 230.173V255.202H169.877V220.031C169.877 186.062 196.057 158.935 228.444 156.197V177.776C219.433 180.141 212.389 188.394 212.389 198.625V209.328C212.389 219.313 219.213 227.734 228.444 230.173ZM233.945 376.147C198.618 376.147 169.877 347.405 169.877 312.078V266.205H298.014V312.078C298.014 347.405 269.273 376.147 233.945 376.147ZM298.014 255.202H239.447V230.173C248.677 227.734 255.502 219.315 255.502 209.328V198.625C255.502 188.638 248.677 180.219 239.447 177.78V156.201C272.209 159 298.014 186.557 298.014 220.031V255.202Z" fill="white" stroke="white" stroke-width="0.3"></path>
+				<path d="M257.639 347.537L257.639 347.537C255.116 349.231 254.442 352.648 256.135 355.171C257.828 357.696 261.245 358.369 263.768 356.677L263.685 356.553L263.768 356.677C278.698 346.665 287.612 329.993 287.612 312.078V303.516C287.612 300.477 285.149 298.014 282.11 298.014C279.071 298.014 276.609 300.477 276.609 303.516V312.078C276.609 326.318 269.518 339.573 257.639 347.537Z" fill="white" stroke="white" stroke-width="0.3"></path>
+				<path d="M335.625 177.369C338.664 177.369 341.127 174.906 341.127 171.867C341.127 139.326 314.651 112.85 282.109 112.85C279.071 112.85 276.608 115.313 276.608 118.352C276.608 121.39 279.071 123.853 282.109 123.853C308.584 123.853 330.123 145.393 330.123 171.867C330.123 174.906 332.586 177.369 335.625 177.369Z" fill="white" stroke="white" stroke-width="0.3"></path>
+				<path d="M314.219 177.369C317.257 177.369 319.72 174.906 319.72 171.867C319.72 151.129 302.848 134.256 282.109 134.256C279.071 134.256 276.608 136.719 276.608 139.758C276.608 142.797 279.071 145.259 282.109 145.259C296.781 145.259 308.717 157.196 308.717 171.867C308.717 174.906 311.18 177.369 314.219 177.369Z" fill="white" stroke="white" stroke-width="0.3"></path>
+				</g>
+				</svg>
+		</div></div>
+
+</div>
+
+</section>
+
 <section id="consulting" class="snt-services-page-section" style="margin-top: 100px;">
 	<div class="container">
   	<div class="row">
@@ -209,7 +277,11 @@
 		<p>Before you jump in the deep end of the pool, get our expert input on all aspects of software development lifecycle: ranging from UX/UI, web & mobile development, back ends, DevOps, Social media, etc. Consider it a mini school on successfull app development, especially if you have not done it in the past.</p>
 	</div>
 	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+<<<<<<< HEAD
 		<p>Sometimes this step is overlooked, but it is really important to clearly define goals and expetations from the get go. As they say: "measure twice, cut once", for every cent that is not invested in the "measuring", ends up costing multiple times over once we "cut".</p>
+=======
+		<p>Sometimes this step is overlooked, but it is really important to clearly define goals and expetations from the get go. As they say: "measure twice, cut once", for every cent that is not invested in the "measuring", ends up costing multiple times over once we "cut". </p>
+>>>>>>> 46b4e0256f1bf1d8f021420154553b8c02bb1dca
 	</div>
 
 	<div class="col-xs-12" style="margin-top:65px;">
@@ -348,7 +420,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-12">
 	  
 				  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mobile">
-				  <img class="img-fluid" src="<?php echo get_template_directory_uri().'/imgs/Background_ Image_mobile.png'?>" alt="Republish"></div>
+				  <img class="img-fluid" src="<?php echo get_template_directory_uri().'/imgs/Background_Image_mobile.png'?>"></div>
 					<div id="travel" class="col-xs-12 col-sm-12 col-md-6 col-lg-6 travel">
 		  				<div class="row">
 							<div class="col-md-12">
@@ -403,9 +475,6 @@
 								<p>From Point of Sales apps to bitcoin monitoring, we have a vast knowledge in the finance industry coupled togheter with our own accounting, management, financial experience, we've got you covered.</p>
 								<p class="travel-text">Our Solutions</p>
 								<div class="col-xs-12 col-md-12">
-									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-										<button class="behaving-wealthy">
-									</div>
 									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6" style="margin-bottom:15rem;">
 										<button class="bitcoin">
 									</div>
