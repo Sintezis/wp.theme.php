@@ -21,10 +21,6 @@
 	<div class="col-sm-6 col-md-6 col-lg-6">
 		<p class="hero-p">Every now and then there comes a project that has a cool team behind it, has huge market potential, but not enough funding to get it beyond the prototype phase. In such scenarios we estimate the amount of work we need to do in order to get a project to a certain monetary viable phase. Based on our standard prices we assign a dollar value to our work and instead of submitting fees for our development work we receive equity shares in the project.</p>
 	</div>
-    <div class="col-sm-12 col-md-12 col-sm-12 partnership">
-        <p class="quote">If opportunity doesn’t knock, build a door.</p>
-        <p class="quote-p">- Milton Berle</p>
-	</div>
 
 </div>
 </section>
@@ -33,7 +29,8 @@
 	<div class="container">
       <div class="col-sm-12 col-md-12 col-lg-12 partnership-col">
         <h4 class="partnership-yellow">EARN WITH SINTEZIS</h4>
-        <h1 class="partnership-h1" style="margin-bottom: 100px;">Brand Ambassador Programme</h1>
+		<h1 class="partnership-h1" style="margin-bottom: 100px;">Brand Ambassador Programme</h1>
+		<img src="/wp-content/themes/wp.theme.php/imgs/Sintezis Brand Ambassador Journey.png" class="ambassador-block" alt="">
     </div>
 
 

@@ -124,7 +124,7 @@
         
         <div class="welcome-col-md-4 col-md-4 col-sm-4">
 			  <button class="welcome-services-button" onclick="window.location.href='/services/#product-design'">
-				<img src="<?php echo get_template_directory_uri().'/imgs/icon_designsprint.png'?>" class="center-block" alt="" style="margin-bottom:59px;">
+				<img src="<?php echo get_template_directory_uri().'/imgs/icon_designsprint.png'?>" class="center-block" alt="" style="margin-bottom:50px;">
 				<h0 style="margin-top: 40px;">Product Design</h0>
 				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">We imagine, create, and iterate products that solve your problems and address specific needs in your market.</p>
 			  </button>
@@ -140,7 +140,7 @@
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
 			<button class="welcome-services-button" onclick="window.location.href='/services/#consulting'">
-				<img src="<?php echo get_template_directory_uri().'/imgs/icon_dev.png'?>" class="center-block" alt="" style="margin-bottom:50px;">
+				<img src="<?php echo get_template_directory_uri().'/imgs/icon_dev.png'?>" class="center-block" alt="" style="margin-bottom:59px;">
 				<h0 style="margin-top: 30px;">Consulting</h0>
 				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Before you jump in the deep end of the pool, get our expert input on all aspects of software development lifecycle.</p>
 			</button>
