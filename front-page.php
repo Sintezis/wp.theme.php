@@ -29,7 +29,7 @@
           <div class="snt-carousel-content carousel-inner" role="listbox">
             
             <!-- Slide 1 -->
-            <div class="snt-carousel-item item active">
+            <div class="snt-carousel-item item">
               <div class="row row-eq-height">
                 <div class="col-md-6 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-elude.png'?>" alt="Republish"></div>
                 <div class="snt-protfolio-content col-md-5">
@@ -47,7 +47,7 @@
             </div>
     
             <!-- Slide 2 -->
-            <div class="snt-carousel-item item">
+            <div class="snt-carousel-item item active">
               <div class="row row-eq-height">
                 <div class="col-md-6 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.png'?>" alt="Republish"></div>
                 <div class="snt-protfolio-content col-md-5">
@@ -55,7 +55,7 @@
                     <h3>Republish iOS App</h3>
                     <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling “Your Digest”. </p>
                     <div class="col-md-12 apple-btn">
-                      <button class="apple_store">
+                      <button class="apple_store" onclick="window.location.href='https://apps.apple.com/hr/app/republish/id1460364335'">
                         <p class="apple_p">APPLE STORE</p>
                       </button>
                     </div>
@@ -122,7 +122,7 @@
         
         <div class="row">
         
-          <div class="welcome-col-md-4 col-md-4 col-sm-4">
+        <div class="welcome-col-md-4 col-md-4 col-sm-4">
 			  <button class="welcome-services-button" onclick="window.location.href='/services/#product-design'">
 				<img src="<?php echo get_template_directory_uri().'/imgs/icon_designsprint.png'?>" class="center-block" alt="" style="margin-bottom:59px;">
 				<h0 style="margin-top: 40px;">Product Design</h0>

@@ -8,7 +8,12 @@
 	  		<div class="col-sm-12 col-md-12 col-lg-12" style="border:none; background:none; margin-top: 100px; margin-bottom: 100px;">
 			  <h1 class="hero">Partner-up With Sintezis</h1>
 	</div>
-		 
+
+
+    <div class="col-sm-12 col-md-12 col-sm-12 partnership">
+        <p class="quote">If opportunity doesn’t knock, build a door.</p>
+        <p class="quote-p">- Milton Berle</p>
+	</div>
 	  <div class="col-sm-6 col-md-6 col-lg-6">
 		<p class="hero-p">As much as we are engineers, we are entrepreneurs, we like to build apps and we like to build companies. To build any of those things you need quality people, who know their jobs and who you can trust, you need partners.</p>
 		<p class="hero-p">Aside from standard Client – Agency relationship we do partner up with people of interest in several ways. Until now we mostly invested our development time and technical expertise in projects we think are interesting in exchange for equity in those projects. We are also interested in various forms of investment either in our main LTD or in one of the projects in our investment portfolio.</p>
@@ -108,147 +113,6 @@
 	</div>
 </section>
 	
-<section id="testimonials" class="snt-testimonials-section" style="margin-top:100px; margin-bottom: 100px;">
-<div class="container">
-		
-    <div class="row">
-      <div class="col-sm-12 col-md-12 col-lg-12 partnership-col">
-        <h4 class="testimonial-cyan">OUR PARTNERS ABOUT US</h4>
-        <h1 class="testimonial-cyan-h1" style="margin-bottom:60px;">What Our Partners Say</h1>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-12">
-        <!-- carousel -->
-        <div id="testimonial-slider" class="snt-carousel carousel slide"> 
-              
-          <div class="snt-carousel-content carousel-inner" role="listbox">
-             <!-- Slide 1 -->
-              <div class="snt-carousel-item item active">
-                <div class="col-md-3 col-md-offset-1">
-                  <p class="punctuation-up center-block"></p>
-                  <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-                  <p class="punctuation-down center-block"></p>
-                  <div class="row">
-                    <div class="col-md-12 img">
-                      <div class="snt-social-block center-block" style="display: inline-flex;">
-                        <img src="<?php echo get_template_directory_uri().'/imgs/photo-silvije.png'?>" alt="">
-                          <div style="margin-left:10px;">
-                            <p class="name-test testimonial-cyan">Silvije S. Kranjčević</p>
-                            <p class="position">CTO</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                <div class="col-md-3">
-                      <p class="punctuation-up center-block"></p>
-                      <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-                      <p class="punctuation-down center-block"></p>
-                      <div class="row">
-                        <div class="col-md-12 img">
-                          <div class="snt-social-block center-block" style="display: inline-flex;">
-                            <img src="<?php echo get_template_directory_uri().'/imgs/photo-someone.png'?>" alt="">
-                          <div style="margin-left:10px;">
-                            <p class="name-test testimonial-cyan">Someone Elsić</p>
-                            <p class="position">CTO</p>
-                          </div>
-                        </div>  
-                        </div>
-                      </div>
-                    </div>
-            
-                <div class="col-md-3">
-                  <p class="punctuation-up center-block"></p>
-                  <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-                  <p class="punctuation-down center-block"></p>
-                  <div class="row">
-                    <div class="col-md-12 img">
-                      <div class="snt-social-block center-block" style="display: inline-flex;">
-                        <img src="<?php echo get_template_directory_uri().'/imgs/photo-loremka.png'?>" alt="">
-                      <div style="margin-left:10px;">
-                        <p class="name-test testimonial-cyan">Loremka Ipsumović</p>
-                        <p class="position">CTO</p>
-                      </div>
-                    </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-             <!-- Slide 2 -->
-              <div class="snt-carousel-item item">
-                    <div class="col-md-3 col-md-offset-1">
-                      <p class="punctuation-up center-block"></p>
-                      <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-                      <p class="punctuation-down center-block"></p>
-                      <div class="row">
-                        <div class="col-md-12 img">
-                          <div class="snt-social-block center-block" style="display: inline-flex;">
-                            <img src="<?php echo get_template_directory_uri().'/imgs/photo-silvije.png'?>" alt="">
-                          <div style="margin-left:10px;">
-                            <p class="name-test testimonial-cyan">Silvije S. Kranjčević</p>
-                            <p class="position">CTO</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-            
-                <div class="col-md-3">
-                      <p class="punctuation-up center-block"></p>
-                      <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-                      <p class="punctuation-down center-block"></p>
-                      <div class="row">
-                        <div class="col-md-12 img">
-                          <div class="snt-social-block center-block" style="display: inline-flex;">
-                            <img src="<?php echo get_template_directory_uri().'/imgs/photo-someone.png'?>" alt="">
-                          <div style="margin-left:10px;">
-                            <p class="name-test testimonial-cyan">Someone Elsić</p>
-                            <p class="position">CTO</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-            
-                <div class="col-md-3">
-                  <p class="punctuation-up center-block"></p>
-                  <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-                  <p class="punctuation-down center-block"></p>
-                  <div class="row">
-                    <div class="col-md-12 img">
-                      <div class="snt-social-block center-block" style="display: inline-flex;">
-                        <img src="<?php echo get_template_directory_uri().'/imgs/photo-loremka.png'?>" alt="">
-                      <div style="margin-left:10px;">
-                        <p class="name-test testimonial-cyan">Loremka Ipsumović</p>
-                        <p class="position">CTO</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-          </div>
-		  
-            <a class="left carousel-control" href="#testimonial-slider" role="button" data-slide="prev" style="margin-top:20%;">
-              <img class="snt-carousel-control-icon snt-carousel-control-prev" src="<?php echo get_template_directory_uri().'/imgs/arrow-left-grey.png'?>" alt="">
-              <span class="sr-only">Previous</span>
-            </a>
-            
-            <a class="right carousel-control" href="#testimonial-slider" role="button" data-slide="next" style="margin-top:20%;">
-                <img class="snt-carousel-control-icon snt-carousel-control-next" src="<?php echo get_template_directory_uri().'/imgs/arrow-right-grey.png'?>" alt="">
-              <span class="sr-only">Next</span>
-            </a>
-
-            <ol class="carousel-indicators car-ind">
-              <li data-target="#testimonial-slider" data-slide-to="0" class="active"></li>
-              <li data-target="#testimonial-slider" data-slide-to="1"></li>
-            </ol>
-			  </div>
-		  </div>
-    </div>
-  </div>
-</section>
 
   <section id="product-design" class="snt-services-page-section" style="margin-top:100px;">
 <div class="container">
@@ -289,7 +153,7 @@
 		<div class="col-md-8 partner-model" id="equity">
 			<div class="col-md-10">
 				<h2>EQUITY SHARING</h2>
-				<p>Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+				<p>Every now and then there comes a project that has a cool team behind it, has high market potential, but not enough funding to get it beyond the prototype phase. In such scenarios we estimate the amount of work we need to do in order to get a project to a certain monetary viable phase. Based on our standard prices we assign a dollar value to our work and instead of submitting fees for our development work we receive equity shares in the project.</p>
 				<button style="margin-top:5rem;" class="snt-btn"> FIND OUT MORE</button>
 				<svg width="501" height="500" viewBox="0 0 501 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -35rem; margin-left: 30rem;">
 				<g opacity="0.05">
@@ -304,7 +168,8 @@
 		<div class="col-md-8 partner-model" id="investing" style="display:none;">
 			<div class="col-md-10">
 				<h2>INVESTING</h2>
-				<p>Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+				<p>Sintezis is structured as an LTD with HQ located in Dublin IRE, with 3 co-founders owning 100% of the company. The LTD is owner of multiple smaller startup companies and their projects in variable amount of equity.
+				<br>We are open for investors to invest in our main LTD and/or any of the startups we have in our portfolio, to get a look at our Investment deck please contact our CEO Domagoj Bagaric via email dom@sintezis.co or phone: +41 79 692 69</br></p>
 				<button style="margin-top:5rem;" class="snt-btn"> FIND OUT MORE</button>
 				<svg width="501" height="500" viewBox="0 0 501 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -35rem; margin-left: 30rem;">
 				<g opacity="0.05">

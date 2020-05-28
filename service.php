@@ -177,8 +177,8 @@
 		</div>
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="interaction" style="display: none;">
 				<h2>INTERACTION DESIGN</h2>
-				<p>Reprehenderit elit officia reprehenderit commodo consectetur irure adipisicing non ex aliqua adipisicing velit sunt amet. Veniam qui tempor cupidatat Lorem nostrud eu culpa laboris eu.</p>
-				<p> Fugiat occaecat reprehenderit cupidatat fugiat in proident anim pariatur pariatur sunt. Anim reprehenderit fugiat voluptate ex nisi non labore anim proident. Labore magna fugiat qui ad eiusmod.</p>
+				<p>Once we have a solid UX/UI foundation from the previous section, we can implement the next level of creativity adding animations, interactions and additional "states" to existing elements.</p>
+				<p>For instance how a button reacts when mouse cursor goes over it, or what's the difference between web (mouse) and touch (mobile/tablet) versions?</p>
 				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-40rem; margin-left:15rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"></rect>
@@ -405,7 +405,7 @@
 								<p class="travel-text">Our Solutions</p>
 								<div class="col-xs-12 col-md-12">
 									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-										<button class="behaving-wealthy">
+										<button class="republish">
 									</div>
 									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6" style="margin-bottom:15rem;">
 										<button class="bitcoin">

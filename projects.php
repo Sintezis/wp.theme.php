@@ -40,7 +40,7 @@
                     <h1 class="projectsh1">Elude</h1>
 					<p class="projects-page-p">Travel on a budget, you define it and Elude app finds it. The Elude app lets you find the best travel arrangements within your budget by searching the best flights and hotels for the destination of your choosing.</p>
 					<div class="col-md-12 apple-btn-projects">
-                      <button class="apple_store_projects" style="margin-top:56px; margin-bottom:57px; width:100%;">
+                      <button class="apple_store_projects" style="margin-top:56px; margin-bottom:57px; width:100%;" onclick="window.location.href='https://apps.apple.com/hr/app/republish/id1460364335'">
                         <p class="apple_p">APPLE STORE</p>
                       </button>
                     </div>

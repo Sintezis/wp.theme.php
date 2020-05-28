@@ -610,24 +610,20 @@ h1 {
 }
 
 .service-button {
-	width: 260px;
-	height: 57px;
-	left: 575px;
-	top: 2546px;
-	border-width: 1px;
-	border-style: solid;
-	box-sizing: border-box;
-	border-radius: 4px;
-	color: white;
-	background: transparent url(../imgs/Rectangle\ 3.png);
+    width: 260px;
+    padding: 0;
+    height: 57px;
+    left: 575px;
+    top: 2546px;
+    border: 2px solid white;
+    color: white;
+    background: transparent;
 }
 
 .service-button:hover {
-	border-width: 1px !important;
-    border-style: solid !important;
-    box-sizing: border-box;
-    border-radius: 4px;
-    color: white !important;
+	border: 4px solid #EC009C !important;
+    box-shadow: 0px 0px 20px #C319E1;
+    color: #EC009C !important;
 }
 
 .travel-btn {
@@ -784,10 +780,10 @@ h1 {
 	background-position: center;
 }
 
-.behaving-wealthy {
-	background: url(../imgs/behaving_wealthy.png) no-repeat;
+.republish {
+	background: url(../imgs/Republish.png) no-repeat;
     position: absolute;
-    width: 110%;
+    width: 100%;
     height: 50px;
     top: 0px;
     border: none;
@@ -1396,7 +1392,8 @@ h4 {
     border: none;
     height: 5rem;
     width: 20rem;
-    margin-top: 30px;
+	margin-top: 30px;
+	outline: none;
 }
 
 .apple_store_projects {
@@ -1538,6 +1535,7 @@ img.snt-team-pic.center-block {
 .partnership {
 	border-left: groove rgba(255, 199, 0, 0.75);
 	margin-left: 2rem;
+	margin-bottom: 20px;
 }
 
 .partnership-yellow {
