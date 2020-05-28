@@ -30,33 +30,33 @@
       <div class="col-sm-12 col-md-12 col-lg-12 partnership-col">
         <h4 class="partnership-yellow">EARN WITH SINTEZIS</h4>
 		<h1 class="partnership-h1" style="margin-bottom: 100px;">Brand Ambassador Programme</h1>
-		<img src="/wp-content/themes/wp.theme.php/imgs/Sintezis Brand Ambassador Journey.png" class="ambassador-block" alt="">
+		<img src="/wp-content/themes/wp.theme.php/imgs/Sintezis Brand Ambassador Journey.png" class="sintezis-journey" alt="">
     </div>
 
 
-	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
+	<div class="col-sm-12 col-md-12 col-lg-12">
 		<h2 class="introduction" style="margin-top:75px;">Introduction</h2>
-		<p class="introduction-p"> <b>Sintezis Startup Studio Limited</b> is product development &amp; design studio founded by IT experts, located between Bern, Dublin, London and Zagreb specialised in solving problems by building first class digital products. </p>
+		<p class="introduction-p"> <b style="color:white;font-weight: bolder;">Sintezis Startup Studio Limited</b> is product development &amp; design studio founded by IT experts, located between Bern, Dublin, London and Zagreb specialised in solving problems by building first class digital products. </p>
 		<p class="introduction-p">Our clients are startups that need to transform their ideas into objects of reality (MVP, be it iOS, Android or web application). First step in our mutual cooperation is to discover each other. This is where our Brand Ambassadors come into play. We offer simple, transparent &amp; lucrative way for any lead generation.</p>
 	</div>
 
-	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
+	<div class="col-sm-12 col-md-12 col-lg-12">
 		<h2 class="introduction" style="margin-top:63px;">Brand Ambassadors</h2>
 		<h3 class="partnership-h3">Who can be a Sintezis Ambassador?</h3>
 		<p class="introduction-p">Anyone, meeting a small set of required skill/affinities, can be our Brand Ambassador. Anyone with some soft skills, savoir faire, basic understanding about software development (we provide step-by-step instructions about our SW development process, so no worries here), knowledge of Startup scene,..</p>
 	</div>
 
-	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
+	<div class="col-sm-12 col-md-12 col-lg-12">
 		<h3 class="partnership-h3">Benefits and opportunities</h3>
 		<p class="introduction-p">We offer various levels of compensation (reimbursement for organising meetups, giving talks, etc), but our tour de force is 10% commission fee for the project that Brand Ambassador brings onboard. Another option is to uplift our initial offer, and keep the difference.</p>
 	</div>
 
-	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
+	<div class="col-sm-12 col-md-12 col-lg-12">
 		<h3 class="partnership-h3">How to join?</h3>
 		<p class="introduction-p">Simply send us an email to dom@sintezis.co with some basic details (link to your web page, LinkedIn profile, etc), and we’ll take it from there.</p>
 	</div>
 
-	<div class="col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
+	<div class="col-sm-12 col-md-12 col-lg-12">
 		<h3 class="partnership-h3">Training?</h3>
 		<p class="introduction-p">We will showcase you our approach to Sales, from initial contact, discussing about the scope of the project, basic project development methodologies (design sprints, product development, agile), technology stack, tools, etc, to our prices (per day, project, etc).</p>
 		<p class="introduction-p"> We also provide pitch decks, company brief, templates (email, word, excel, etc), case studies, etc. Or if there is a special need, we can always create bespoke materials.</p>
@@ -93,7 +93,7 @@
 		  </div>		   
 		</div>
 		  </div>
-</div></div></section>
+</div></section>
 
 <section class="text-center snt-contact-page-section" style="margin-top:200px; margin-bottom: 200px;">
   <div class="container">

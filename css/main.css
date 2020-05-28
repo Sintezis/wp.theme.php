@@ -1543,7 +1543,7 @@ img.snt-team-pic.center-block {
 .partnership {
 	border-left: groove rgba(255, 199, 0, 0.75);
 	margin-left: 2rem;
-	margin-bottom: 20px;
+	margin-bottom: 100px;
 }
 
 .partnership-yellow {
@@ -1568,10 +1568,9 @@ img.snt-team-pic.center-block {
 .introduction-p {
 	font-family: Barlow;
 	font-style: normal;
-	font-weight: 900;
 	font-size: 18px;
 	line-height: 26px;
-	color: #F0F2FE;
+	color: #C0C0C0;
 }
 .partnership-h1 {
 	font-family: Overpass;
@@ -1829,6 +1828,9 @@ img.snt-team-pic.center-block {
 }
 
 @media screen and (max-width: 992px) {
+	.sintezis-journey {
+		max-inline-size: -webkit-fill-available;
+	}
 	.quote {
 		margin-left: 0px !important;
 	}
