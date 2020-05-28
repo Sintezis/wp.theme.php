@@ -2452,6 +2452,10 @@ img.snt-team-pic.center-block {
 	font-weight: normal;
 }
 
+.snt-pages-container {
+	float: right;
+}
+
 .snt-pages-container a{
 	color: white;
 	display: block;
