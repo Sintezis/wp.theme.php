@@ -16009,7 +16009,7 @@
     <img class="ambassador-photo">
 	 <h3 class="contact-h3">TAKE ACTION</h3>
       <h2 class="ambassador-h2">Interested in becoming a Sintezis Ambassador?</h2>
-      <button class="snt-btn" onclick="window.location.href='/contact/#contact'"> APPLY NOW</button>
+	  <button class="snt-btn ambassador-button" onclick="window.location.href='/contact/#contact'"> APPLY NOW</button>
       </div>
     </div>
 	</div>
