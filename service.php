@@ -329,13 +329,13 @@
 					<h2 class="service-h2">You have an abstract software idea that needs some Sintezis?</h2>
 					<p class="service-page-photo-p">Let's talk about it</p>
 				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6 desktop">
-					<button class="service-button"> VIEW OUR WORK</button>
+					<button class="service-button" onclick="window.location.href='/projects'> VIEW OUR WORK</button>
 				</div>
 				<div id="btn2" class="col-sm-6 col-md-6 col-lg-6">
-					<button class="snt-get-in-touch-btn"> GET IN TOUCH </button>
+					<button class="snt-get-in-touch-btn" onclick="window.location.href='/contact/#contact'"> GET IN TOUCH </button>
 				</div>
 				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6 mobile">
-					<button class="service-button"> VIEW OUR WORK</button>
+					<button class="service-button" onclick="window.location.href='/projects'> VIEW OUR WORK</button>
 				</div>
 </div>
 			</div>
@@ -404,10 +404,7 @@
 								<p>From Point of Sales apps to bitcoin monitoring, we have a vast knowledge in the finance industry coupled togheter with our own accounting, management, financial experience, we've got you covered.</p>
 								<p class="travel-text">Our Solutions</p>
 								<div class="col-xs-12 col-md-12">
-									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-										<button class="republish">
-									</div>
-									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6" style="margin-bottom:15rem;">
+									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-bottom:15rem;">
 										<button class="bitcoin">
 									</div>
 								</div>

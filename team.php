@@ -117,8 +117,8 @@
         <h2 class="hire-h2 desktop">Ready to hire an awesome design & development team?</h2>
 		 <h2 class="hire-h2 mobile">You want to hire this awesome team?</h2>
         <p class="hire-p">Let us know!</p>
-        <button class="snt-get-in-touch-btn"> GET IN TOUCH </button>
-		 <button class="snt-btn mobile"> VIEW OUR WORK </button>
+        <button class="snt-get-in-touch-btn" onclick="window.location.href='/contact/#contact'"> GET IN TOUCH </button>
+		    <button class="snt-btn mobile" onclick="window.location.href='/projects'"> VIEW OUR WORK </button>
       </div>
 	  </div>
 	  </div>
@@ -150,7 +150,7 @@
           </div>
 
           <div class="col-sm-6 col-lg-6 jobs"> 
-            <button class="btn snt-btn" onclick="window.location.href='/careers/#Frontend_Web_Developer'">
+            <button class="btn snt-btn" onclick="window.location.href='/careers/#UIUX_designer'">
               <span>UX Designer</span> <br>
               <p>2y, Sketch, Figma, Zeplin</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
@@ -162,7 +162,7 @@
         <div class="row">
           
         <div class="col-sm-6 col-lg-6 jobs">
-            <button class="btn snt-btn" onclick="window.location.href='careers/#iOs_Developer'">
+            <button class="btn snt-btn" onclick="window.location.href='careers/#Frontend_Web_Developer'">
               <span>Junior Frontend Developer</span> <br>
               <p>1y, HTML/CSS, Javascript, Bootstrap</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
@@ -170,7 +170,7 @@
           </div>
 
           <div class="col-sm-6 col-lg-6 jobs">
-            <button class="btn snt-btn" onclick="window.location.href='/careers/UIUX_designer'">
+            <button class="btn snt-btn" onclick="window.location.href='/careers/#Frontend_Web_Developer'">
               <span>Frontend Developer</span> <br>
               <p>2y, HTML/CSS, LESS, Typescript</p>
               <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
