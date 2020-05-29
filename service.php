@@ -113,7 +113,7 @@
 		<p>We imagine, create, and iterate products that solve your problems and address specific needs in your market.</p>
 	</div>
 	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-		<p> Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+		<p>With our systematic approach, together we'll conceptualize, evaluate ideas and create new products. It's a combination of art, science, and technology to create successful new products that people can use!</p>
 	</div>
 
 	<div class="col-xs-12" style="margin-top:65px;">
