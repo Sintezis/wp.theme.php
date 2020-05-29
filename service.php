@@ -329,7 +329,7 @@
 					<h2 class="service-h2">You have an abstract software idea that needs some Sintezis?</h2>
 					<p class="service-page-photo-p">Let's talk about it</p>
 				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6 desktop">
-					<button class="service-button" onclick="window.location.href='/projects'> VIEW OUR WORK</button>
+					<button class="service-button" onclick="window.location.href='/projects'"> VIEW OUR WORK</button>
 				</div>
 				<div id="btn2" class="col-sm-6 col-md-6 col-lg-6">
 					<button class="snt-get-in-touch-btn" onclick="window.location.href='/contact/#contact'"> GET IN TOUCH </button>

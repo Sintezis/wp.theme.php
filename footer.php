@@ -26,7 +26,7 @@
       <div class="col-md-2" style="padding-top:2.5%;">
         <div class="snt-pages-container">
           <a href="/services/#travel"><u> Solutions </u></a>
-          <a href="/team"><u> Career </u></a>
+          <a href="/carrers"><u> Career </u></a>
           <a href="/partnership"><u> Partnership </u></a>
           <a href="/blog"><u> Blog </u></a>
           <a href="/privacy-policy"><u> Privacy policy </u></a>
