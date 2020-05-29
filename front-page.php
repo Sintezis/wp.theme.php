@@ -5,14 +5,9 @@
                 <div class="col-md-7 col-md-offset-4 col-lg-6 col-lg-offset-5">
                 <img class="snt-logo" src="http://www.sintezis.co/wp-content/themes/wp.theme.php/imgs/logo-white.png" alt="">
                 <h2>Transforming abstract ideas into digital products</h2>
-<<<<<<< HEAD
-                <p class="subtitle">We bring order to your creative chaos and make things fit perfectly together. We build, so you can dream.</p>
-                <button class="snt-btn btn" onclick="window.location.href='#projects'" >SEE OUR WORK <img src="<?php echo get_template_directory_uri().'/imgs/arrow-bottom.png' ?>" width="24" height="24" alt=""></button>
-=======
                 <p class="subtitle">We bring order to your creative chaos and make things fit perfectly togeather. We build, so you can dream.</p>
                 <button class="snt-btn btn" onclick="window.location.href='#projects'">SEE OUR WORK <img src="http://www.sintezis.co/wp-content/themes/wp.theme.php/imgs/arrow-bottom.png" width="24" height="24" alt=""></button>
         </div></div>
->>>>>>> dev
               </div>
     <div class="snt-waypoint"></div>
   </section>
@@ -58,16 +53,12 @@
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Republish iOS App</h3>
-<<<<<<< HEAD
-                    <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline. </p>
-=======
                     <p>A clean and stylish iOS applications that you can use to share interesting content with friends. No need to search for everybody because you are automatically connected with all your phone contacts, even if you don’t sign in! Forget about clutter and ads, just content in a beautiful, centralized timeline we are calling “Your Digest”. </p>
                     <div class="col-md-12 apple-btn">
                       <button class="apple_store" onclick="window.location.href='https://apps.apple.com/hr/app/republish/id1460364335'">
                         <p class="apple_p">APPLE STORE</p>
                       </button>
                     </div>
->>>>>>> dev
                   </div>
                 </div>
               </div>
@@ -172,220 +163,14 @@
         <h4>TAKE ACTION</h4>
         <h1>You have an abstract software idea <br> that needs some Sintezis?</h1>
         <p>Let's talk about it</p>
-<<<<<<< HEAD
-        <button class="btn snt-btn center-block" onclick="window.location.href='#contact'">GET IN TOUCH</button>
-      </div>
-    </div>
-  </section>
-
-  <section id="team" class="snt-team-section">
-    <div class="row">
-      <div class="col-md-6 col-md-offset-3">
-        <h4>FACES BEHIND THE CODE</h4>
-        <h1>Meet the Team</h1>
-      </div>
-    </div>
-
-     <div class="row">
-      <div class="col-md-10 col-md-offset-1">
-        
-        <div class="row">
-        
-          <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" class="snt-team-pic center-block" alt="">
-            <h3>Domagoj Bagaric</h3>
-            <p>CEO</p>
-            
-            <div class="row">
-              <div class="col-md-2 col-md-offset-5">
-                <div class="snt-social-block center-block" style="width: 60px">
-                  <a href="https://twitter.com/bagijaner" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/domagojbagaric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                </div>
-              </div>
-            </div>
-            
-          </div>
-        
-          <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_sstrukan.png'?>" class="snt-team-pic center-block" alt="">
-            <h3>Simun Strukan</h3>
-            <p>CTO</p>
-
-            <div class="row">
-              
-              <div class="col-md-4 col-md-offset-4">
-
-                <div class="snt-social-block center-block" style="width: 90px">
-                  <a href="https://www.instagram.com/struki84/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/struki84" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/šimun-strukan-91a68169/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                </div>
-                
-              </div>
-
-            </div>
-            
-          </div>
-        
-          <div class="col-md-4">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" class="snt-team-pic center-block" alt="">
-            <h3>Gordon Cindric</h3>
-            <p>Lead Product Designer</p>
-
-            <div class="row">
-              
-              <div class="col-md-4 col-md-offset-4">
-
-                <div class="snt-social-block center-block" style="width: 120px">
-                  <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                  <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                </div>
-                
-              </div>
-              
-            </div>
-
-          </div>
-
-        </div>
-        <div class="row">
-        
-            <div class="col-md-4">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Zvonimir Tomesic</h3>
-              <p>Capo Programmatore</p>
-
-              <div class="row">
-              
-                <div class="col-md-2 col-md-offset-5">
-  
-                  <div class="snt-social-block center-block" style="width: 120px">
-                    <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                    <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                  </div>
-                  
-                </div>
-                
-              </div>
-              
-            </div>
-          
-            <div class="col-md-4">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_medak.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Hrvoje Medak</h3>
-              <p>Junior Web Developer</p>
-
-              <div class="row">
-              
-                <div class="col-md-2 col-md-offset-5">
-  
-                  <div class="snt-social-block center-block" style="width: 120px">
-                  <a href="https://www.facebook.com/profile.php?id=100011644028318" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/hrvoje-medak-212a71136/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                  </div>
-                  
-                </div>
-                
-              </div>
-
-            </div>
-          
-            <div class="col-md-4">
-              <img src="<?php echo get_template_directory_uri().'/imgs/photo_tkozacinski.png'?>" class="snt-team-pic center-block" alt="">
-              <h3>Tomislav Kozacinski</h3>
-              <p>Product Designer</p>
-
-              <div class="row">
-              
-                <div class="col-md-4 col-md-offset-4">
-  
-                  <div class="snt-social-block center-block" style="width: 120px">
-                  <a href="https://www.instagram.com/universeceo/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
-                  <a href="https://www.facebook.com/kozacinski" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                  <a href="https://www.linkedin.com/in/tomislav-kozacinski/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                  <a href="https://twitter.com/UniverseCEO" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                  </div>
-                  
-                </div>
-                
-              </div>
-
-            </div>
-  
-          </div>
-
-=======
         <div class="col-md-12 text-center">
 <button class="btn snt-get-in-touch-btn" onclick="window.location.href='#contact'">GET IN TOUCH</button>
 </div>
->>>>>>> dev
       </div>
     </div>
 	  </div>
   </section>
 
-<<<<<<< HEAD
-  <section id="careers" class="snt-jobs-section">
-    <div class="row">
-      <div class="col-md-6 col-md-offset-3">
-        <h4>PASSION DRIVEN, HARD-WORKING, SMART</h4>
-        <h1>We are Hiring</h1>
-        <p>Sintezis is a remote, paperless office with flexible work hours. We focus on organising our workflow and process to work in our favor, applying the "work smart, not hard" approach. Sound good to you? Take a look at our open positions below. </p>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-6 col-md-offset-3">
-
-        <div class="row">
-          <div class="col-lg-6"> 
-            <button class="btn snt-btn" onclick="window.location.href='/careers/#Backend_Web_Developer'">
-              <span>Backend Web Developer</span> <br>
-              <p>PHP:Laravel, Ruby:Sinatra, Java:SpringBoot</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="snt-career-arrow pull-right" alt="">
-            </button>
-          </div>
-
-          <div class="col-lg-6"> 
-            <button class="btn snt-btn" onclick="window.location.href='/careers/#Frontend_Web_Developer'">
-              <span>Frontend Web Developer</span> <br>
-              <p>HTML, CSS, JS:Vue.js, AngularJS, ReactJS</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="snt-career-arrow pull-right" alt="">
-            </button>
-          </div>
-
-        </div>
-
-        <div class="row">
-          
-        <div class="col-lg-6">
-            <button class="btn snt-btn" onclick="window.location.href='careers/#iOs_Developer'">
-              <span>iOS Developer</span> <br>
-              <p>Swift, VIPER, RxSwift</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="snt-career-arrow pull-right" alt="">
-            </button>
-          </div>
-
-          <div class="col-lg-6">
-            <button class="btn snt-btn" onclick="window.location.href='/careers/UIUX_designer'">
-              <span>UI/UX Designer</span> <br>
-              <p>Sketch, Figma, Zeplin, Invision</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="snt-career-arrow pull-right" alt="">
-            </button>
-          </div>
-
-        </div>
-
-      </div>
-      
-    </div>
-
-  </section>
-=======
->>>>>>> dev
 
   <?php get_template_part( 'content', get_post_format() ); ?>
 
