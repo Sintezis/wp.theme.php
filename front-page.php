@@ -29,24 +29,6 @@
           <div class="snt-carousel-content carousel-inner" role="listbox">
             
             <!-- Slide 1 -->
-            <div class="snt-carousel-item item">
-              <div class="row row-eq-height">
-                <div class="col-md-6 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-elude.png'?>" alt="Republish"></div>
-                <div class="snt-protfolio-content col-md-5">
-                  <div class="snt-portfolio-item-txt">
-                    <h3>Elude iOS App</h3>
-                      <p>Travel on a budget, you define it and Elude app finds it. The Elude app lets you find the best travel arrangements within your budget by searching the best flights and hotels for the destination of your choosing.</p>
-                      <div class="col-md-12 apple-btn">
-                        <button class="apple_store">
-                          <p class="apple_p">APPLE STORE</p>
-                        </button>
-                      </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-    
-            <!-- Slide 2 -->
             <div class="snt-carousel-item item active">
               <div class="row row-eq-height">
                 <div class="col-md-6 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.png'?>" alt="Republish"></div>
@@ -59,6 +41,25 @@
                         <p class="apple_p">APPLE STORE</p>
                       </button>
                     </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+    
+            <!-- Slide 2 -->
+            <div class="snt-carousel-item item">
+              <div class="row row-eq-height">
+                <div class="col-md-6 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-elude.png'?>" alt="Republish"></div>
+                <div class="snt-protfolio-content col-md-5">
+                  <div class="snt-portfolio-item-txt">
+                    <h3>Elude iOS App</h3>
+                      <p>Travel on a budget, you define it and Elude app finds it. The Elude app lets you find the best travel arrangements within your budget by searching the best flights and hotels for the destination of your choosing.</p>
+                      <div class="col-md-12 apple-btn">
+                        <button class="apple_store">
+                          <p class="apple_p">APPLE STORE</p>
+                        </button>
+                      </div>
                   </div>
                 </div>
               </div>
