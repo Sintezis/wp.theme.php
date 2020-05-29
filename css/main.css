@@ -567,7 +567,7 @@ h1 {
 	box-sizing: border-box;
 	border-radius: 4px;
 	color: white;
-	background: transparent url(../imgs/Rectangle\ 3.png);
+	background: transparent;
 	margin-top: 2rem;
 	font-size: 20px;
 }
