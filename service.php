@@ -335,7 +335,7 @@
 					<button class="snt-get-in-touch-btn" onclick="window.location.href='/contact/#contact'"> GET IN TOUCH </button>
 				</div>
 				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6 mobile">
-					<button class="service-button" onclick="window.location.href='/projects'> VIEW OUR WORK</button>
+					<button class="service-button" onclick="window.location.href='/projects'"> VIEW OUR WORK</button>
 				</div>
 </div>
 			</div>
