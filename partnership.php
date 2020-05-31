@@ -69,7 +69,7 @@
 			<div class="col-md-10">
 				<h2>INVESTING</h2>
 				<p>Sintezis is structured as an LTD with HQ located in Dublin IRE, with 3 co-founders owning 100% of the company. The LTD is owner of multiple smaller startup companies and their projects in variable amount of equity.
-				<br>We are open for investors to invest in our main LTD and/or any of the startups we have in our portfolio, to get a look at our Investment deck please <u onclick="window.location.href='/contact/#contact'">contact us.</u></br></p>
+				<br>We are open for investors to invest in our main LTD and/or any of the startups we have in our portfolio, to get a look at our Investment deck please <u style="color:#FFC700;" onclick="window.location.href='/contact/#contact'">contact us.</u></br></p>
 				<button style="margin-top:5rem;" class="snt-btn"> FIND OUT MORE</button>
 				<svg width="501" height="500" viewBox="0 0 501 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -35rem; margin-left: 30rem;">
 				<g opacity="0.05">
