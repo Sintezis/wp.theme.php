@@ -376,7 +376,7 @@
 								<p class="travel-text"> Custom Built Software </p>
 								<p class="travel-p" x=""> Got a brand new travel tech idea? Need the muscle to bring it to the life? You are at the right place. Feel free to contact us and get a free quote!</p>
 								<div class="travel-btn">
-									<button class="snt-get-free-quote-btn"> GET FREE QUOTE</button>
+									<button class="snt-get-free-quote-btn" onclick="window.location.href='/?wpforms_form_preview=366'"> GET FREE QUOTE</button>
 								</div>
 							</div>
 		  				</div>
@@ -410,7 +410,7 @@
 								</div>
 								<p class="travel-p">Feel free to contact us for full portfolio of our financial software development services.</p>
 								<div class="travel-btn">
-									<button class="finance-cyan-btn"> GET FREE QUOTE</button>
+									<button class="finance-cyan-btn" onclick="window.location.href='/?wpforms_form_preview=366'"> GET FREE QUOTE</button>
 								</div>
 							</div>
 						</div>

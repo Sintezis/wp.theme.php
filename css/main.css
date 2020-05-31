@@ -3018,3 +3018,64 @@ div#consulting {
 		margin-left: 10rem;		
 	}
 }
+
+li.choice-1.depth-1 {
+    width: 20%;
+	display: block;
+}
+li.choice-2.depth-1 {
+    width: 20%;
+	display: block;
+}
+li.choice-3.depth-1 {
+    width: 20%;
+	display: block;
+}
+li.choice-4.depth-1 {
+    width: 20%;
+	display: block;
+}
+li.choice-5.depth-1 {
+    width: 20%;
+	display: block;
+}
+li.choice-6.depth-1 {
+    width: 20%;
+	display: block;
+}
+li.choice-7.depth-1 {
+    width: 20%;
+	display: block;
+}
+li.choice-8.depth-1 {
+    width: 20%;
+	display: block;
+}
+li.choice-9.depth-1 {
+    width: 20%;
+	display: block;
+}
+li.choice-10.depth-1 {
+    width: 20%;
+	display: block;
+}
+ul#wpforms-366-field_9 {
+	display:flex;
+}
+ul#wpforms-366-field_5 {
+	display:flex;
+}
+ul#wpforms-366-field_6 {
+	display:flex;
+}
+ul#wpforms-366-field_8 {
+	display:flex;
+}
+ul#wpforms-366-field_2{
+	display:flex;
+}
+label.wpforms-field-label {
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
