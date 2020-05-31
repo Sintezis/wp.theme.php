@@ -1,7 +1,7 @@
 
 <?php get_header(); the_post();?>
 
-	<div class="row">
+	<div class="container">
 		<div class="col-md-12">
 			<img src="<?php header_image(); ?>" width="<?php echo get_custom_header()->width; ?>" alt="image description" class="custom_header" />	
 		</div>

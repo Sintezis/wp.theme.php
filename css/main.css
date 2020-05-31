@@ -572,6 +572,10 @@ h1 {
 	font-size: 20px;
 }
 
+.custom_header {
+	width: inherit;
+}
+
 .row.consulting-display {
     width: 100%;
     display: inline-table;

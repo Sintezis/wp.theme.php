@@ -4,10 +4,8 @@
 
 <section id="projects" class="snt-portfolio-section">
 <div class="container">
-		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">
 			<h1 class="hero" style="margin-top: 80px; margin-bottom: 100px;">Projects</h1>
-			</div>
 	  </div>
 	  </div>
 

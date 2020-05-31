@@ -5,7 +5,7 @@
 <section id="product-development" class="snt-services-page-section" style="margin-top: 100px;">
 <div class="container">
 			<div class="col-sm-12 col-md-12 col-lg-12">
-			<h1 class="hero" style="margin-top: 100px; margin-bottom: 100px;">Our Services</h1>
+			<h1 class="hero" style="margin-top: 100px; margin-bottom: 100px;">Services</h1>
 	  </div>
 	</div>
 	
