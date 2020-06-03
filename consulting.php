@@ -203,17 +203,11 @@
                     </div>
               </div>  
             </div>
-        
-          
+            </div>
         </div>
-  
-          </div>
-
-      </div>
-
-	</div>
     </div>
-  </section>
+</div>
+</section>
 
 <section class="text-center snt-hire-section" style="margin-top: 100px; margin-bottom:200px;">
 	<div class="container">
