@@ -80,7 +80,7 @@
 
         <div class="row">
 
-          <div class="col-md-3 col-md-offset-1">
+          <div class="col-md-4">
             <p class="punctuation-up center-block"></p>
             <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
             <p class="punctuation-down center-block"></p>
@@ -97,7 +97,7 @@
             </div>
 			</div>
 
-		  <div class="col-md-3">
+		  <div class="col-md-4">
             <p class="punctuation-up center-block"></p>
             <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
             <p class="punctuation-down center-block"></p>
@@ -115,7 +115,7 @@
 
           </div>
 
-          <div class="col-md-3">
+          <div class="col-md-4">
             <p class="punctuation-up center-block"></p>
             <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
             <p class="punctuation-down center-block"></p>
@@ -132,24 +132,6 @@
             </div>
 
 		  </div>
-
-		  <!-- Previous/Next controls -->
-          <a class="left carousel-control" href="#portfolio-slider" role="button" data-slide="prev">
-            <img class="snt-carousel-control-icon snt-carousel-control-prev" src="<?php echo get_template_directory_uri().'/imgs/arrow-left-grey.png'?>" alt="">
-            <span class="sr-only">Previous</span>
-          </a>
-
-          <a class="right carousel-control" href="#portfolio-slider" role="button" data-slide="next">
-              <img class="snt-carousel-control-icon snt-carousel-control-next" src="<?php echo get_template_directory_uri().'/imgs/arrow-right-grey.png'?>" alt="">
-            <span class="sr-only">Next</span>
-          </a>
-
-          <!-- Indicators -->
-          <ol class="carousel-indicators" style="bottom: -40px;">
-            <li data-target="#portfolio-slider" data-slide-to="0" class="active"></li>
-            <li data-target="#portfolio-slider" data-slide-to="1"></li>
-            <li data-target="#portfolio-slider" data-slide-to="2"></li>
-          </ol>
 			  </div>
 		  </div>
 			  </div></div>
@@ -248,4 +230,6 @@
         </div>
 	</div>
 </section>
+
+
   <?php get_footer(); ?>
