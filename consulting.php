@@ -214,7 +214,7 @@
         <div class="text-center">  
             <div class="service-section">
                 <img class="hire-photo">
-                <h3 class="hire-h3">TAKE ACTION</h3>
+                <h3 class="hire-h3">TAKE ACTIONs</h3>
                 <h2 class="hire-h2 desktop">Ready to hire an awesome design & development team?</h2>
                 <h2 class="hire-h2 mobile">You want to hire this awesome team?</h2>
                 <p class="hire-p">Let us know!</p>
