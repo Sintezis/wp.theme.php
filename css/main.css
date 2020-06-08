@@ -9,6 +9,7 @@
 }
 
 /* GENERAL ELEMENTS */
+
 .modal-dialog {
 	width: 80%;
 	margin: 100px auto;
@@ -155,29 +156,6 @@
   .fa-user:hover {
 	color: #eee;
   }
-
-.bg-img {
-  height: 100%;
-  position: relative;
-	margin-bottom: -260px;
-}
-.bg-img img {
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-  display: block;
-}
-.bg-img:before {
-  content: '';
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 17.32%, #000000 83.82%);
-  opacity: 1;
-}
-
 
 html, body, .snt-container { 
 	height: 100%;
@@ -582,6 +560,20 @@ html, body, .snt-container {
 .welcome-col-md-4 {
 	border: none;
 	margin-top: 10rem;
+}
+
+.consulting-services-button {
+	background: transparent;
+	border: 4px solid black;
+	margin: 0;
+	color: white;
+	outline: none;
+}
+
+.consulting-services-button:hover {
+	border: 4px solid black !important;
+	box-shadow: none !important;
+	color: white !important;
 }
 
 .welcome-services-button {
@@ -1997,9 +1989,6 @@ img.snt-team-pic.center-block {
 }
 
 @media screen and (max-width: 992px) {
-	.bg_img {
-		margin-bottom: -100px;
-	}
 	.sintezis-journey {
 		max-inline-size: -webkit-fill-available;
 	}
