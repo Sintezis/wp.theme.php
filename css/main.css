@@ -3279,3 +3279,11 @@ label.wpforms-field-label {
     color: white;
     margin-bottom: 20px;
 }
+
+
+input[type=checkbox] {
+	transform: scale(2);
+    text-align: center !important;
+    -moz-appearance: none;
+    width: 0px !important;
+}
