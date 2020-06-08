@@ -269,7 +269,7 @@
               <div class="item active" id="modal1">
 
               <div class="row row-eq-height" style="margin-bottom:100px;">
-                      <div class="col-md-4 col-md-offset-1" style="text-align:center;"><img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" alt="Republish" style="width:60%;"><h3>Domagoj Bagaric</h3>
+                      <div class="col-md-4 col-md-offset-1" style="text-align:center;"><img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" alt="Republish" class="modal-img"><h3>Domagoj Bagaric</h3>
                         <p>CEO</p>
                         <div class="text-center sm" style="margin-top: 30px;">
                             <a href="https://twitter.com/bagijaner" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
@@ -302,7 +302,7 @@
               <!-- 2nd Modal in Timeline -->
               <div class="item" id="modal2">
               <div class="row row-eq-height" style="margin-bottom:100px;">
-                      <div class="col-md-4 col-md-offset-1" style="text-align:center;"><img src="<?php echo get_template_directory_uri().'/imgs/photo_sstrukan.png'?>" alt="Republish" style="width:60%;"><h3>Simun Strukan</h3>
+                      <div class="col-md-4 col-md-offset-1" style="text-align:center;"><img src="<?php echo get_template_directory_uri().'/imgs/photo_sstrukan.png'?>" alt="Republish" class="modal-img"><h3>Simun Strukan</h3>
                         <p>CTO</p>
                           <div class="text-center sm" style="margin-top: 30px;">
                             <a href="https://www.facebook.com/struki84" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>  
@@ -336,7 +336,8 @@
               <!-- 3rd Modal in Timeline -->
               <div class="item" id="modal3">
                 <div class="row row-eq-height" style="margin-bottom:100px;">
-                      <div class="col-md-4 col-md-offset-1" style="text-align:center;"><img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#mymodal">
+                      <div class="col-md-4 col-md-offset-1" style="text-align:center;">
+                      <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" alt="Republish" class="modal-img">
                           <h3>Zvonimir Tomesic</h3>
                           <p>Lead Software Developer</p>
                           <div class="text-center sm" style="margin-top: 30px;">

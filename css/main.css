@@ -14,7 +14,9 @@
 	width: 80%;
 	margin: 100px auto;
 }
-
+.modal-img {
+	width: 60%;
+}
 .modal-body {
 	position: relative;
     padding: 15px;
@@ -1989,6 +1991,9 @@ img.snt-team-pic.center-block {
 }
 
 @media screen and (max-width: 992px) {
+	.modal-img {
+		width: 100%;
+	}
 	.snt-protfolio-content-modal.col-md-6 {
 		border-top: 2px #2DEC98 solid;
 		border-left: none !important;
