@@ -2004,6 +2004,10 @@ img.snt-team-pic.center-block {
 }
 
 @media screen and (max-width: 992px) {
+	.overlay {
+		left: 50px !important;
+		right: 50px !important;
+	}
 	.modal-body {
 		margin-top: 0px !important;
 	}
