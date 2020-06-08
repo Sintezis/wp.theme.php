@@ -9,6 +9,152 @@
 }
 
 /* GENERAL ELEMENTS */
+.modal-dialog {
+	width: 80%;
+	margin: 100px auto;
+}
+
+.modal-body {
+	position: relative;
+    padding: 15px;
+    margin-top: 100px;
+}
+
+.modal-body .carousel-indicators li {
+	display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: black;
+    border: 2px solid #2DEC9B;
+    border-radius: 10px;
+}
+
+.modal-body .carousel-indicators .active {
+	width: 12px;
+    height: 12px;
+    margin: 0;
+    background-color: #2DEC9B;
+}
+
+.modal-body .carousel-indicators {
+	position: absolute;
+    bottom: 10px;
+    left: 50%;
+    z-index: 15;
+    width: 60%;
+    padding-left: 0;
+    margin-left: -30%;
+    text-align: center;
+    list-style: none;
+}
+
+.modal-content {
+	position: relative;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	width: 100%;
+	pointer-events: auto;
+	background-color: black;
+	background-clip: padding-box;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	border-radius: 0.3rem;
+	outline: 0;
+}
+
+.modal-header {
+	border-bottom: none;
+}
+
+.modal-footer {
+	border-top: none;
+}
+
+.snt-protfolio-content-modal.col-md-6 {
+	border-left: 2px #2DEC98 solid;    
+	padding-left: 40px;
+	margin-left: -30px;
+}
+
+.snt-portfolio-item-txt-modal p {
+	text-align: left !important;
+}
+  
+.snt-portfolio-item-txt-modal li {
+	background: url(../imgs/Green_eclipse.png) no-repeat;
+	flex: none;
+	margin: 14px 0px;
+	color: transparent;
+	background-position-y: center;
+	margin-top: auto;
+	width: 110%;
+	margin-left: -15px;
+}
+
+.snt-portfolio-item-txt-modal li p {
+	color: #A6AAC8;
+	padding-left: 20px;
+    margin-top: -20px;
+}
+
+.modal-title {
+	color: #2DEC9B;  
+}
+
+.close {
+    float: right;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1;
+    color: white !important;
+	text-shadow: 0 1px 0 #fff;
+	opacity: 1;
+}
+
+
+  .image {
+	display: block;
+	width: 100%;
+	height: auto;
+  }
+  
+  .overlay {
+	position: absolute;
+    top: 0;
+    bottom: 135px;
+    left: 70px;
+    right: 70px;
+    opacity: 0;
+    transition: .3s ease;
+	background-color: #2DEC9B;
+  }
+  
+  .fa-search {
+	  color: black;
+  }
+
+  .overlay:hover {
+	opacity: 0.4;
+  }
+  
+  .icon {
+	color: white;
+	font-size: 100px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	text-align: center;
+  }
+  
+  .fa-user:hover {
+	color: #eee;
+  }
 
 .bg-img {
   height: 100%;
