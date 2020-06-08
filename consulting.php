@@ -12,8 +12,8 @@
         <h1>You have an abstract software idea <br> that needs some Sintezis?</h1>
         <p>Let's talk about it</p>
         <div class="col-md-12 text-center">
-<button class="btn snt-get-in-touch-btn" onclick="window.location.href='#contact'">GET IN TOUCH</button>
-</div>
+        <button class="btn snt-get-in-touch-btn" onclick="window.location.href='#contact'">GET IN TOUCH</button>
+        </div>
       </div>
     </div>
 	  </div>
@@ -21,17 +21,17 @@
 
   <section id="services" class="snt-services-welcome-section" style="margin-top: 100px;">
 	  <div class="container">
-    <div class="row">
-      <div class="col-md-6 col-md-offset-2">
-        <h4>WHAT WE EXCEL AT</h4>
-        <h1>Services we offer</h1>
-      </div>
-    </div>
+        <div class="row">
+        <div class="col-md-6 col-md-offset-2">
+            <h4>WHAT WE EXCEL AT</h4>
+            <h1>Services we offer</h1>
+        </div>
+        </div>
 	  </div>
 
-	  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
+	<div class="container">
+        <div class="row">           
+        <div class="col-md-12">
         
         <div class="row">
         
@@ -55,15 +55,15 @@
 				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Before you jump in the deep end of the pool, get our expert input on all aspects of software development lifecycle.</p>
 			</button>
           </div>
-</div>
-          <div class="row">
+        </div>
+        <div class="row">
         
         <div class="welcome-col-md-4 col-md-4 col-sm-4">
 			  <button class="consulting-services-button" onclick="window.location.href='/services/#product-design'">
 				<h0>Product Design</h0>
 				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">We imagine, create, and iterate products that solve your problems and address specific needs in your market.</p>
 			  </button>
-          </div>
+        </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
 		 	 <button class="consulting-services-button" onclick="window.location.href='/services/#product-development'">
@@ -83,7 +83,6 @@
 		  	<button class="snt-btn" onclick="window.location.href='/services'"=>SEE ALL SERVICES</button>
 		  </div>
         </div>
-
       </div>
 		  </div>
     </div>
@@ -388,9 +387,6 @@
           </div>
 
       </div>
-
-	</div>
-    </div>
   </section>
 
 <section class="text-center snt-hire-section" style="margin-top: 100px; margin-bottom:200px;">
@@ -410,9 +406,9 @@
 </section>
 
 
-  <?php get_footer(); ?>
+<?php get_footer(); ?>
 
-  <script>
+<script>
 
 // Timeline Modal
 $(function() {

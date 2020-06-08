@@ -133,7 +133,7 @@
     transition: .3s ease;
 	background-color: #2DEC9B;
   }
-  
+
   .fa-search {
 	  color: black;
   }
@@ -1989,6 +1989,13 @@ img.snt-team-pic.center-block {
 }
 
 @media screen and (max-width: 992px) {
+	.snt-protfolio-content-modal.col-md-6 {
+		border-top: 2px #2DEC98 solid;
+		border-left: none !important;
+		padding-left: 40px;
+		margin-left: 0px !important;
+		padding-top: 20px;
+	}
 	.sintezis-journey {
 		max-inline-size: -webkit-fill-available;
 	}
