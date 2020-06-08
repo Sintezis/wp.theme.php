@@ -53,7 +53,20 @@
     text-align: center;
     list-style: none;
 }
-
+.carousel-control-modal {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 15%;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    background-color: rgba(0,0,0,0);
+    filter: alpha(opacity=50);
+    opacity: 1;
+}
 .modal-content {
 	position: relative;
 	display: -ms-flexbox;
@@ -118,7 +131,6 @@
 	opacity: 1;
 }
 
-
   .image {
 	display: block;
 	width: 100%;
@@ -129,8 +141,8 @@
 	position: absolute;
     top: 0;
     bottom: 135px;
-    left: 70px;
-    right: 70px;
+    left: 50px;
+    right: 50px;
     opacity: 0;
     transition: .3s ease;
 	background-color: #2DEC9B;
@@ -195,6 +207,7 @@ html, body, .snt-container {
 
 .snt-nav-bar {
 	display: none;
+	position: absolute;
 }
 
 .snt-nav-bar li a {
@@ -1991,6 +2004,19 @@ img.snt-team-pic.center-block {
 }
 
 @media screen and (max-width: 992px) {
+	.modal-body {
+		margin-top: 0px !important;
+	}
+	.modal-dialog {
+		width: 100% !important;
+	}
+	.snt-nav-bar {
+		position: fixed !important;
+	}
+	.navbar-toggle {
+		margin-top: 10px !important;
+		height: 60px;
+	}
 	.modal-img {
 		width: 100%;
 	}

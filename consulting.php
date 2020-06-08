@@ -171,7 +171,7 @@
 
 <div class="container">
     <div class="row">
-	    <div class="col-sm-12 col-md-12 col-lg-12">
+	    <div class="col-sm-12 col-md-12 col-lg-12 col-md-offset-2">
 		    <h1 class="hero" style="margin-top: 100px; margin-bottom:40px;">About us</h1>
 	    </div>
         <div class="col-sm-6 col-md-6 col-lg-6">
@@ -187,7 +187,7 @@
 	<div class="container">
 		
     <div class="row">
-      <div class="col-sm-12 col-md-12 col-lg-12">
+      <div class="col-sm-12 col-md-12 col-lg-12 col-md-offset-2">
         <h4 class="yellow">FACES BEHIND THE CODE</h4>
         <h1>Meet The Team</h1>
       </div>
@@ -199,7 +199,7 @@
         <div class="row" style="margin-bottom:94px;">
         
           <div class="col-md-4 col-sm-4 flex-item1" data-slide="0">
-            <img src="<?php echo get_template_directory_uri().'/imgs/bagi.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#mymodal" data-slide-to="0">
+            <img src="<?php echo get_template_directory_uri().'/imgs/bagi.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="0">
             <div class="overlay">
               <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
@@ -214,7 +214,7 @@
           </div>
 
           <div class="col-md-4 col-sm-4 flex-item1" data-slide="1">
-            <img src="<?php echo get_template_directory_uri().'/imgs/simun.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#mymodal" data-slide-to="1">
+            <img src="<?php echo get_template_directory_uri().'/imgs/simun.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="1">
             <div class="overlay">
               <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
@@ -231,7 +231,7 @@
 
           <div class="col-md-4 col-sm-4 flex-item1" data-slide="2">
               <div class="text-center">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/zvone.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#mymodal" data-slide-to="2">
+                    <img src="<?php echo get_template_directory_uri().'/imgs/zvone.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="2">
                     <div class="overlay">
               <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
@@ -251,7 +251,7 @@
 </div>     
         
         <!-- Modal Code Start -->
-    <div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false" data-interval="false">
+    <div class="modal fade" id="Modal" role="dialog" aria-labelledby="ModalLabel" aria-hidden="false" data-interval="false">
       <div class="modal-dialog">
        <div class="modal-content">
         <div class="modal-header">
@@ -260,7 +260,7 @@
 
         <div class="modal-body">
           <!-- Indicators -->
-          <div class="carousel slide" data-interval="false" id="MyCarousel">
+          <div class="carousel slide" data-interval="false" id="Carousel">
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner timeline">
@@ -369,15 +369,15 @@
             </div>
 
             <!-- Controls -->
-            <a href="#MyCarousel" class="left carousel-control timeline" data-slide="prev"><img class="snt-carousel-control-icon snt-carousel-control-prev" src="<?php echo get_template_directory_uri().'/imgs/Group 414.png'?>" alt="">
+            <a href="#Carousel" class="left carousel-control timeline carousel-control-modal" data-slide="prev"><img class="snt-carousel-control-icon snt-carousel-control-prev" src="<?php echo get_template_directory_uri().'/imgs/Group 414.png'?>" alt="">
                   <span class="sr-only">Previous</span></a>
-            <a href="#MyCarousel" class="right carousel-control timeline" data-slide="next"><img class="snt-carousel-control-icon snt-carousel-control-next" src="<?php echo get_template_directory_uri().'/imgs/Group 413.png'?>" alt="">
+            <a href="#Carousel" class="right carousel-control timeline carousel-control-modal" data-slide="next"><img class="snt-carousel-control-icon snt-carousel-control-next" src="<?php echo get_template_directory_uri().'/imgs/Group 413.png'?>" alt="">
                   <span class="sr-only">Next</span></a>
 
           <ol class="carousel-indicators" style="bottom: -100px;">
-                  <li data-target="#MyCarousel" data-slide-to="0" class="active"></li>
-                  <li data-target="#MyCarousel" data-slide-to="1"></li>
-                  <li data-target="#MyCarousel" data-slide-to="2"></li>
+                  <li data-target="#Carousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#Carousel" data-slide-to="1"></li>
+                  <li data-target="#Carousel" data-slide-to="2"></li>
                 </ol>
             </div>
           </div>
@@ -416,9 +416,9 @@ $(function() {
   $('.flex-item1, .cd-read-more').on('click', function(event) {
     //Gets the Item that was clicked
     var $this = $(event.currentTarget);
-    $('#myModal').modal('show');
+    $('#Modal').modal('show');
     //Use the slide number of the clicked Item to open the slide on the carousel
-    $('#MyCarousel').carousel($this.data('slide'));
+    $('#Carousel').carousel($this.data('slide'));
   });
 });
 </script>
