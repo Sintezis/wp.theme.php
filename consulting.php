@@ -201,7 +201,7 @@
           <div class="col-md-4 col-sm-4 flex-item1" data-slide="0">
             <img src="<?php echo get_template_directory_uri().'/imgs/bagi.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#mymodal" data-slide-to="0">
             <div class="overlay">
-              <a href="#" class="icon" title="User Profile">
+              <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
               </a>
               </div>
@@ -216,7 +216,7 @@
           <div class="col-md-4 col-sm-4 flex-item1" data-slide="1">
             <img src="<?php echo get_template_directory_uri().'/imgs/simun.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#mymodal" data-slide-to="1">
             <div class="overlay">
-              <a href="#" class="icon" title="User Profile">
+              <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
               </a>
               </div>
@@ -233,7 +233,7 @@
               <div class="text-center">
                     <img src="<?php echo get_template_directory_uri().'/imgs/zvone.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#mymodal" data-slide-to="2">
                     <div class="overlay">
-              <a href="#" class="icon" title="User Profile">
+              <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
               </a>
               </div>
