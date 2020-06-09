@@ -22,12 +22,14 @@
   </div>
 <?php endwhile; endif; ?>
 
-<div class="container">
+<div class="container" style="margin-top:100px;">
     <div class="row">
       <div class="col-md-6 col-md-offset-3">
+      <h4 style="margin-bottom: 40px"> Would you like to be the first to read our newest posts? Signup here!</h4>
         <?php echo do_shortcode("[wpforms id='403']")?>
       </div>
 		  </div>
     </div>
+
 
 <?php get_footer(); ?>
