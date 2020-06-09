@@ -103,7 +103,7 @@
             <div class="row">
               <div class="col-md-4">
 				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
-					<img src="<?php echo get_template_directory_uri().'/imgs/as.jpg'?>" alt="">
+					<img src="<?php echo get_template_directory_uri().'/imgs/as.jpg'?>" alt="" style="height: 117px;">
 				<div style="margin-left:10px;">
 					<p class="name">Alex Simon</p>
 					<p class="position">Elude Today LLC, USA</p>
@@ -120,7 +120,7 @@
             <div class="row">
               <div class="col-md-4">
 				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
-					<img src="<?php echo get_template_directory_uri().'/imgs/fs.jpg'?>" alt="">
+					<img src="<?php echo get_template_directory_uri().'/imgs/fs.jpg'?>" alt="" style="height: 116px;">
 				<div style="margin-left:10px;">
 					<p class="name">Frankie Rozum</p>
 					<p class="position">Elude Today LLC, USA</p>
