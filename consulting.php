@@ -375,7 +375,7 @@
 <div class="container" style="margin-top:100px;">
     <div class="row">
       <div class="col-md-6 col-md-offset-3">
-      <h4 style="margin-bottom: 40px"> Would you like to be the first to read our newest posts? Signup here!</h4>
+      <h4 style="margin-bottom: 40px">Need some consulting? Get in touch!</h4>
         <?php echo do_shortcode("[wpforms id='407']")?>
       </div>
 		  </div>
