@@ -184,7 +184,7 @@
           </div>
 
           <div class="col-md-4 col-sm-4 flex-item1" data-slide="1">
-            <img src="<?php echo get_template_directory_uri().'/imgs/photo_sstukan.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="1">
+            <img src="<?php echo get_template_directory_uri().'/imgs/photo_sstrukan.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="1">
             <div class="overlay">
               <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
