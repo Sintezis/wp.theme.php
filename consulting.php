@@ -27,7 +27,7 @@
             <h1>Building your dream App from the ground up!</h1>
         </div>
         </div>
-	  </div>
+	  </div> 
 
 	<div class="container">
         <div class="row">           
