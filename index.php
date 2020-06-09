@@ -22,4 +22,12 @@
   </div>
 <?php endwhile; endif; ?>
 
+<div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <?php echo do_shortcode("[wpforms id='403']")?>
+      </div>
+		  </div>
+    </div>
+
 <?php get_footer(); ?>
