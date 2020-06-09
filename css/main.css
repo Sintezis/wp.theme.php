@@ -175,7 +175,6 @@ html, body, .snt-container {
 	height: 100%;
 	background-color: black;
 	padding: 0;
-	padding-top: 20px;
 }
 
 .navbar-brand {
@@ -208,6 +207,7 @@ html, body, .snt-container {
 
 .snt-nav-bar {
 	display: none;
+	position: absolute;
 }
 
 .snt-nav-bar li a {
