@@ -8,7 +8,7 @@
 	  <div class="container">
     <div class="row snt-cta-row-bg">
       <div class="col-md-12">
-        <h4>SINTEZIS CONSULTING/h4>
+        <h4>SINTEZIS CONSULTING</h4>
         <h1>You have a great App idea,<br>but just don't know to do it?</h1>
         <p>Let's talk about it</p>
         <div class="col-md-12 text-center">
