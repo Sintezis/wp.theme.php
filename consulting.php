@@ -8,8 +8,8 @@
 	  <div class="container">
     <div class="row snt-cta-row-bg">
       <div class="col-md-12">
-        <h4>TAKE ACTION</h4>
-        <h1>You have an abstract software idea <br> that needs some Sintezis?</h1>
+        <h4>SINTEZIS CONSULTING/h4>
+        <h1>You have a great App idea,<br>but just don't know to do it?</h1>
         <p>Let's talk about it</p>
         <div class="col-md-12 text-center">
         <button class="btn snt-get-in-touch-btn" onclick="window.location.href='#contact'">GET IN TOUCH</button>
@@ -19,12 +19,12 @@
 	  </div>
   </section>
 
-  <section id="services" class="snt-services-welcome-section" style="margin-top: 100px;">
+  <section id="services" class="snt-services-welcome-section" style="margin-top: 20px;">
 	  <div class="container">
         <div class="row">
         <div class="col-md-6 col-md-offset-2">
             <h4>WHAT WE EXCEL AT</h4>
-            <h1>Services we offer</h1>
+            <h1>Building your dream App from the ground up!</h1>
         </div>
         </div>
 	  </div>
@@ -36,52 +36,38 @@
         <div class="row">
         
         <div class="welcome-col-md-4 col-md-4 col-sm-4">
-			  <button class="consulting-services-button" onclick="window.location.href='/services/#product-design'">
+				<h0>Idea validation</h0>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Learn how to reduce risk, deliver faster at lower cost, before you spend a tens of thousands Euros/Dollars/Pounds.</p>
+          </div>
+        
+          <div class="welcome-col-md-4 col-md-4 col-sm-4">
 				<h0>Product Design</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">We imagine, create, and iterate products that solve your problems and address specific needs in your market.</p>
-			  </button>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Creating a new, attractive, useful product for specific target customers that creates stable revenue.</p>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-		 	 <button class="consulting-services-button" onclick="window.location.href='/services/#product-development'">
 				<h0>Product Development</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">We get to know you and your users, competition and domain space. We sketch, we prototype and we design usable software keeping the business needs in mind.</p>
-			 </button>
-          </div>
-        
-          <div class="welcome-col-md-4 col-md-4 col-sm-4">
-			<button class="consulting-services-button" onclick="window.location.href='/services/#consulting'">
-				<h0>Consulting</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Before you jump in the deep end of the pool, get our expert input on all aspects of software development lifecycle.</p>
-			</button>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Delivering your App through a well defined process, clear objectives will result in a timely delivery, so you can focus on business while we create new value for you.</p>
           </div>
         </div>
         <div class="row">
         
         <div class="welcome-col-md-4 col-md-4 col-sm-4">
-			  <button class="consulting-services-button" onclick="window.location.href='/services/#product-design'">
-				<h0>Product Design</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">We imagine, create, and iterate products that solve your problems and address specific needs in your market.</p>
-			  </button>
+				<h0>Proof of Concept - PoC</h0>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Demonstrate potential solution of your idea. App on the phone beats pdfs and sketches all day long.</p>
         </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-		 	 <button class="consulting-services-button" onclick="window.location.href='/services/#product-development'">
-				<h0>Product Development</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">We get to know you and your users, competition and domain space. We sketch, we prototype and we design usable software keeping the business needs in mind.</p>
-			 </button>
+				<h0>Prototype</h0>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Want to impress new investors? Showcase the App flow, benefits and potential market share all from the palm of the hand. </p>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-			<button class="consulting-services-button" onclick="window.location.href='/services/#consulting'">
-				<h0>Consulting</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Before you jump in the deep end of the pool, get our expert input on all aspects of software development lifecycle.</p>
-			</button>
+				<h0>Minimum Viable Product - MVP</h0>
+				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">With a clear focus on the Idea, be first to the market. Rapidly learn what your customers want. </p>
 		  </div>
 		  
-		  <div class="col-md-12 text-center service-btn" style="margin-bottom:100px;">
-		  	<button class="snt-btn" onclick="window.location.href='/services'"=>SEE ALL SERVICES</button>
-		  </div>
+		  
         </div>
       </div>
 		  </div>
@@ -112,15 +98,15 @@
 
           <div class="col-md-4">
             <p class="punctuation-up center-block"></p>
-            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+            <p class="punctuation-p">We had the pleasure of working with Sintezis team for the past year while developing our company & application. The Sintezis team provided us with their expert knowledge and consulting in all aspects of Application development: from mobile, web, to databases and third party APIs. Their technical process enabled us to quickly get a grasp of new technologies and make the best decisions to move forward. Lastly, the team is incredibly reliant and trustworthy. Not only are they experts on all things technical, but their fluid communication has kept us confident throughout our project.</p>
             <p class="punctuation-down center-block"></p>
             <div class="row">
               <div class="col-md-4">
 				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
-					<img src="<?php echo get_template_directory_uri().'/imgs/photo-silvije.png'?>" alt="">
+					<img src="<?php echo get_template_directory_uri().'/imgs/as.jpg'?>" alt="">
 				<div style="margin-left:10px;">
-					<p class="name">Silvije S. Kranjčević</p>
-					<p class="position">CTO</p>
+					<p class="name">Alex Simon</p>
+					<p class="position">USA</p>
 				</div>
 			</div>
               </div>
@@ -129,15 +115,15 @@
 
 		  <div class="col-md-4">
             <p class="punctuation-up center-block"></p>
-            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
+            <p class="punctuation-p">It’s rare that you come across incredible talent like this. We've been fortunate enough to find a long term partner for all our technical, UX/UI and software development needs. They're always quick to jump on any technical calls and support us in our business development, strategy and delivery for all projects.</p>
             <p class="punctuation-down center-block"></p>
             <div class="row">
               <div class="col-md-4">
 				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
-					<img src="<?php echo get_template_directory_uri().'/imgs/photo-someone.png'?>" alt="">
+					<img src="<?php echo get_template_directory_uri().'/imgs/fs.jpg'?>" alt="">
 				<div style="margin-left:10px;">
-					<p class="name">Someone Elsić</p>
-					<p class="position">CTO</p>
+					<p class="name">Frankie Rozum</p>
+					<p class="position">USA</p>
 				</div>
 			</div>
               </div>
@@ -145,23 +131,7 @@
 
           </div>
 
-          <div class="col-md-4">
-            <p class="punctuation-up center-block"></p>
-            <p class="punctuation-p">Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Lectus magna fringilla urna porttitor rhoncus. Eget dolor morbi non arcu risus quis. Dolor purus non enim praesent elementum facilisis. Id semper risus in hendrerit gravida rutrum quisque non.</p>
-            <p class="punctuation-down center-block"></p>
-            <div class="row">
-              <div class="col-md-4">
-				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
-					<img src="<?php echo get_template_directory_uri().'/imgs/photo-loremka.png'?>" alt="">
-				<div style="margin-left:10px;">
-					<p class="name">Loremka Ipsumović</p>
-					<p class="position">CTO</p>
-				</div>
-			</div>
-              </div>
-            </div>
-
-		  </div>
+          
 			  </div>
 		  </div>
 			  </div></div>
@@ -278,21 +248,21 @@
                       </div>
                       <div class="snt-protfolio-content-modal col-md-6">
                         <div class="snt-portfolio-item-txt-modal">
-                          <p>Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+                          <p>With 20+ years of professional IT experience, Dom had an opportunity to work with all types of software development projects: from small black&white mobile games (back in the day) to big, government projects on clustered servers. Ranging from development, management and consulting roles. </p>
                           <h4 class="modal-title">SUPERPOWERS</h4>
                           <div class="col-md-6">
-                            <li><p>Commodo qui aliqua.</p></li>
-                            <li><p>Officia ullamco in sunt quis.</p></li>
-                            <li><p>Proident laboris</p></li>
-                            <li><p>Anim proident laboris.</p></li>
-                            <li><p>Minim cillum minim labore.</p></li>
+                            <li><p>Timely project delivery</p></li>
+                            <li><p>Within budget and quality</p></li>
+                            <li><p>Team management</p></li>
+                            <li><p>Agile project management</p></li>
+                            <li><p>eCommerce</p></li>
                           </div>
                           <div class="col-md-6">
-                            <li><p>Commodo qui aliqua.</p></li>
-                            <li><p>Officia ullamco in sunt quis.</p></li>
-                            <li><p>Proident laboris</p></li>
-                            <li><p>Anim proident laboris.</p></li>
-                            <li><p>Minim cillum minim labore.</p></li>
+                            <li><p>Cloud based solutions</p></li>
+                            <li><p>Mobile/web development</p></li>
+                            <li><p>Cybersecurity</p></li>
+                            <li><p>Analytics and data management</p></li>
+                            <li><p>Systems and enterprise architecture</p></li>
                           </div>
                         </div>
                       </div>
@@ -312,21 +282,18 @@
                       </div>
                       <div class="snt-protfolio-content-modal col-md-6">
                         <div class="snt-portfolio-item-txt-modal">
-                          <p>Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+                          <p>After 10 years in software development, and a Bachelors degree in Mechanical Engineering specialized in CAD product development, Simun turned focus more on developing digital products by closing multiple science and engineering disciplines.</p>
                           <h4 class="modal-title">SUPERPOWERS</h4>
                           <div class="col-md-6">
-                            <li><p>Commodo qui aliqua.</p></li>
-                            <li><p>Officia ullamco in sunt quis.</p></li>
-                            <li><p>Proident laboris</p></li>
-                            <li><p>Anim proident laboris.</p></li>
-                            <li><p>Minim cillum minim labore.</p></li>
+                            <li><p>iOS Application development</p></li>
+                            <li><p>Back end development - Ruby, PHP</p></li>
+                            <li><p>Front end development - Angular, JavaScript</p></li>
+                            
                           </div>
                           <div class="col-md-6">
-                            <li><p>Commodo qui aliqua.</p></li>
-                            <li><p>Officia ullamco in sunt quis.</p></li>
-                            <li><p>Proident laboris</p></li>
-                            <li><p>Anim proident laboris.</p></li>
-                            <li><p>Minim cillum minim labore.</p></li>
+                            <li><p>Process management</p></li>
+                            <li><p>Source control & Versioning - Git</p></li>
+                            <li><p>DevOps - CI/CD, Linux, Unix</p></li>
                           </div>
                         </div>
                       </div>
@@ -337,31 +304,34 @@
               <div class="item" id="modal3">
                 <div class="row row-eq-height" style="margin-bottom:100px;">
                       <div class="col-md-4 col-md-offset-1" style="text-align:center;">
-                      <img src="<?php echo get_template_directory_uri().'/imgs/photo_ztomesic.png'?>" alt="Republish" class="modal-img">
-                          <h3>Zvonimir Tomesic</h3>
-                          <p>Lead Software Developer</p>
+                      <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" alt="Republish" class="modal-img">
+                          <h3>Gordon Cindric</h3>
+                          <p>Lead Product Designer</p>
                           <div class="text-center sm" style="margin-top: 30px;">
+                            <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="http://sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_insta.png"></a>
+                <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
+                      <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                             <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
                             <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                           </div>
                       </div>
                       <div class="snt-protfolio-content-modal col-md-6">
                         <div class="snt-portfolio-item-txt-modal">
-                          <p>Proident exercitation sunt aute pariatur consequat aliqua sint officia labore ullamco consequat duis mollit. Irure ipsum eiusmod sint nulla tempor id et esse enim eu anim. Ipsum eu velit velit aliqua. Officia sint non exercitation ipsum aute nostrud. Sint ipsum fugiat incididunt adipisicing ea nostrud sit nulla sint.</p>
+                          <p>Seasoned multidisciplinary designer focused on user experience and digital product design with over 10 years of professional experience. Passionate about technology and multimedia, Gordon has designed countless applications for mobile, the web and any form factor in between. He enjoys working with passionate teams focused on building quality products.</p>
                           <h4 class="modal-title">SUPERPOWERS</h4>
                           <div class="col-md-6">
-                            <li><p>Commodo qui aliqua.</p></li>
-                            <li><p>Officia ullamco in sunt quis.</p></li>
-                            <li><p>Proident laboris</p></li>
-                            <li><p>Anim proident laboris.</p></li>
-                            <li><p>Minim cillum minim labore.</p></li>
+                            <li><p>Interaction Design</p></li>
+                            <li><p>UI Animation</p></li>
+                            <li><p>Design Ops</p></li>
+                            <li><p>Copywriting</p></li>
+                            <li><p>Product Management</p></li>
                           </div>
                           <div class="col-md-6">
-                            <li><p>Commodo qui aliqua.</p></li>
-                            <li><p>Officia ullamco in sunt quis.</p></li>
-                            <li><p>Proident laboris</p></li>
-                            <li><p>Anim proident laboris.</p></li>
-                            <li><p>Minim cillum minim labore.</p></li>
+                            <li><p>Frontend Development</p></li>
+                            <li><p>Agile Design</p></li>
+                            <li><p>Team Leadership</p></li>
+                            <li><p>Design Mentorship</p></li>
                           </div>
                         </div>
                       </div>
