@@ -106,7 +106,7 @@
 					<img src="<?php echo get_template_directory_uri().'/imgs/as.jpg'?>" alt="">
 				<div style="margin-left:10px;">
 					<p class="name">Alex Simon</p>
-					<p class="position">USA</p>
+					<p class="position">Elude Today LLC, USA</p>
 				</div>
 			</div>
               </div>
@@ -123,7 +123,7 @@
 					<img src="<?php echo get_template_directory_uri().'/imgs/fs.jpg'?>" alt="">
 				<div style="margin-left:10px;">
 					<p class="name">Frankie Rozum</p>
-					<p class="position">USA</p>
+					<p class="position">Elude Today LLC, USA</p>
 				</div>
 			</div>
               </div>
@@ -207,10 +207,10 @@
                 <i class="fa fa-search"></i>
               </a>
               </div>
-              <h3>Zvonimir Tomesic</h3>
-                    <p>Lead Software Developer</p>
+              <h3>Gordon Cindric</h3>
+                    <p>Lead Product Designer</p>
                     <div class="text-center sm" style="margin-top: 30px;">
-                      <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                      <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>">
                       <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                     </div>
               </div>  
@@ -312,8 +312,8 @@
                 <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="http://sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_insta.png"></a>
                 <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
                       <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                            <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                            <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                            <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_ig.png'?>"></a>
+                            <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                           </div>
                       </div>
                       <div class="snt-protfolio-content-modal col-md-6">
