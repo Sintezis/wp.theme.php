@@ -8,7 +8,7 @@
 	  <div class="container">
     <div class="row snt-cta-row-bg">
       <div class="col-md-12">
-        <h4>SINTEZIS CONSULTING/h4>
+        <h4>SINTEZIS CONSULTING</h4>
         <h1>You have a great App idea,<br>but just don't know to do it?</h1>
         <p>Let's talk about it</p>
         <div class="col-md-12 text-center">
@@ -22,7 +22,7 @@
   <section id="services" class="snt-services-welcome-section" style="margin-top: 20px;">
 	  <div class="container">
         <div class="row">
-        <div class="col-md-6 col-md-offset-2">
+        <div class="col-md-8 col-md-offset-2">
             <h4>WHAT WE EXCEL AT</h4>
             <h1>Building your dream App from the ground up!</h1>
         </div>
@@ -37,34 +37,34 @@
         
         <div class="welcome-col-md-4 col-md-4 col-sm-4">
 				<h0>Idea validation</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Learn how to reduce risk, deliver faster at lower cost, before you spend a tens of thousands Euros/Dollars/Pounds.</p>
+				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Learn how to reduce risk, deliver faster at lower cost, before you spend a tens of thousands Euros/Dollars/Pounds.</p>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
 				<h0>Product Design</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Creating a new, attractive, useful product for specific target customers that creates stable revenue.</p>
+				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Creating a new, attractive, useful product for specific target customers that creates stable revenue.</p>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
 				<h0>Product Development</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Delivering your App through a well defined process, clear objectives will result in a timely delivery, so you can focus on business while we create new value for you.</p>
+				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Delivering your App through a well defined process, clear objectives will result in a timely delivery, so you can focus on business while we create new value for you.</p>
           </div>
         </div>
         <div class="row">
         
         <div class="welcome-col-md-4 col-md-4 col-sm-4">
 				<h0>Proof of Concept - PoC</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Demonstrate potential solution of your idea. App on the phone beats pdfs and sketches all day long.</p>
+				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Demonstrate potential solution of your idea. App on the phone beats pdfs and sketches all day long.</p>
         </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
 				<h0>Prototype</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">Want to impress new investors? Showcase the App flow, benefits and potential market share all from the palm of the hand. </p>
+				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Want to impress new investors? Showcase the App flow, benefits and potential market share all from the palm of the hand. </p>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
 				<h0>Minimum Viable Product - MVP</h0>
-				<p class="text-center" style="margin-left: 50px; margin-right: 50px; margin-top:6px;">With a clear focus on the Idea, be first to the market. Rapidly learn what your customers want. </p>
+				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">With a clear focus on the Idea, be first to the market. Rapidly learn what your customers want. </p>
 		  </div>
 		  
 		  
@@ -96,12 +96,12 @@
 
         <div class="row">
 
-          <div class="col-md-4">
+          <div class="col-md-6">
             <p class="punctuation-up center-block"></p>
             <p class="punctuation-p">We had the pleasure of working with Sintezis team for the past year while developing our company & application. The Sintezis team provided us with their expert knowledge and consulting in all aspects of Application development: from mobile, web, to databases and third party APIs. Their technical process enabled us to quickly get a grasp of new technologies and make the best decisions to move forward. Lastly, the team is incredibly reliant and trustworthy. Not only are they experts on all things technical, but their fluid communication has kept us confident throughout our project.</p>
             <p class="punctuation-down center-block"></p>
             <div class="row">
-              <div class="col-md-4">
+              <div class="col-md-12">
 				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
 					<img src="<?php echo get_template_directory_uri().'/imgs/as.jpg'?>" alt="">
 				<div style="margin-left:10px;">
@@ -113,12 +113,12 @@
             </div>
 			</div>
 
-		  <div class="col-md-4">
+		  <div class="col-md-6">
             <p class="punctuation-up center-block"></p>
             <p class="punctuation-p">It’s rare that you come across incredible talent like this. We've been fortunate enough to find a long term partner for all our technical, UX/UI and software development needs. They're always quick to jump on any technical calls and support us in our business development, strategy and delivery for all projects.</p>
             <p class="punctuation-down center-block"></p>
             <div class="row">
-              <div class="col-md-4">
+              <div class="col-md-12">
 				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
 					<img src="<?php echo get_template_directory_uri().'/imgs/fs.jpg'?>" alt="">
 				<div style="margin-left:10px;">
@@ -376,6 +376,14 @@
 	</div>
 </section>
 
+<div class="container" style="margin-top:100px;">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+      <h4 style="margin-bottom: 40px"> Would you like to be the first to read our newest posts? Signup here!</h4>
+        <?php echo do_shortcode("[wpforms id='407']")?>
+      </div>
+		  </div>
+    </div>
 
 <?php get_footer(); ?>
 
