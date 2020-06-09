@@ -188,7 +188,7 @@
               <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
               </a>
-              </div>
+              </div> 
               <h3>Simun Strukan</h3>
             <p>CTO</p>
             <div class="text-center sm" style="margin-top: 30px;">
