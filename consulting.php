@@ -12,7 +12,7 @@
         <h1>You have a great App idea,<br>but just don't know to do it?</h1>
         <p>Let's talk about it</p>
         <div class="col-md-12 text-center">
-        <button class="btn snt-get-in-touch-btn" onclick="window.location.href='#contact'">GET IN TOUCH</button>
+        <button class="btn snt-get-in-touch-btn" onclick="window.location.href='#contact-form'">GET IN TOUCH</button>
         </div>
       </div>
     </div>
@@ -47,7 +47,7 @@
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
 				<h0>Product Development</h0>
-				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Delivering your App through a well defined process, clear objectives will result in a timely delivery, so you can focus on business while we create new value for you.</p>
+				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Creating your App through a well defined process, clear objectives will result in a timely delivery, so you can focus on business while we create new value for you.</p>
           </div>
         </div>
         <div class="row">
@@ -145,7 +145,8 @@
 		    <h1 class="hero" style="margin-top: 100px; margin-bottom:40px;">About us</h1>
 	    </div>
         <div class="col-sm-6 col-md-6 col-lg-6">
-            <p class="hero-p">We are full-service digital agency, focusing on getting our clients to the next level of their success, increasing the overall value of their idea.</p>
+            <p class="hero-p">We are full-service, one stop digital agency, focusing on getting our clients to the next level of their success, increasing the overall value of their idea.</p>
+            <p class="hero-p">Our work will generate you more revenue, increase investments, unlock new opportunities.</p>
         </div>
         <div class="col-sm-6 col-md-6 col-lg-6">
             <p class="hero-p">Our core strengths are made of industry professionals startup founders and the top talent in Product, UX/UI, Software development. Our various backgrounds blended with one vision: create a repeatable, proven process for delivering top notch apps.</p>
@@ -176,7 +177,7 @@
               </a>
               </div>
             <h3>Domagoj Bagaric</h3>
-            <p>CEO</p>
+            <p>CEO, Consulting</p>
 			      <div class="text-center sm" style="margin-top: 30px;">
               <a href="https://www.linkedin.com/in/domagojbagaric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
             </div>
@@ -190,9 +191,8 @@
               </a>
               </div> 
               <h3>Simun Strukan</h3>
-            <p>CTO</p>
+            <p>CTO, Mobile Development</p>
             <div class="text-center sm" style="margin-top: 30px;">
-              <a href="https://www.facebook.com/struki84" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>  
               <a href="https://www.instagram.com/struki84/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>  
               <a href="https://www.linkedin.com/in/šimun-strukan-91a68169/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
             </div>
@@ -209,8 +209,8 @@
               <h3>Gordon Cindric</h3>
                     <p>Lead Product Designer</p>
                     <div class="text-center sm" style="margin-top: 30px;">
-                      <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>">
-                      <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                      <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
+                      <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                     </div>
               </div>  
             </div>
@@ -308,7 +308,7 @@
                           <p>Lead Product Designer</p>
                           <div class="text-center sm" style="margin-top: 30px;">
                           
-                            <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_ig.png'?>"></a>
+                            <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>
                             <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                           </div>
                       </div>
@@ -356,31 +356,29 @@
       </div>
   </section>
 
-<section class="text-center snt-hire-section" style="margin-top: 100px; margin-bottom:200px;">
+<section class="text-center snt-hire-section">
 	<div class="container">
         <div class="text-center">  
             <div class="service-section">
                 <img class="hire-photo">
                 <h3 class="hire-h3">TAKE ACTION</h3>
-                <h2 class="hire-h2 desktop">Ready to hire an awesome design & development team?</h2>
-                <h2 class="hire-h2 mobile">You want to hire this awesome team?</h2>
-                <p class="hire-p">Let us know!</p>
-                <button class="snt-get-in-touch-btn"> GET IN TOUCH </button>
-                <button class="snt-btn mobile"> VIEW OUR WORK </button>
+                <h2 class="hire-h2">Ready to hire an awesome development & design team?</h2>
+                <p class="hire-p">Let's get on a discovery call!</p>
             </div>
         </div>
 	</div>
 </section>
 
+<section id="contact-form">
 <div class="container" style="margin-top:100px;">
     <div class="row">
       <div class="col-md-6 col-md-offset-3">
-      <h4 style="margin-bottom: 40px">Need some consulting? Get in touch! </h4>
-        <?php echo do_shortcode("[wpforms id='407']")?>
+      <h4 style="margin-bottom: 40px">Need some consulting?</h4>
+        <?php echo do_shortcode("[wpforms id='408']")?>
       </div>
 		  </div>
     </div>
-
+</section>
 <?php get_footer(); ?>
 
 <script>
