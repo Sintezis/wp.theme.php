@@ -27,7 +27,7 @@
             <h1>Building your dream App from the ground up!</h1>
         </div>
         </div>
-	  </div>
+	  </div> 
 
 	<div class="container">
         <div class="row">           
@@ -103,10 +103,10 @@
             <div class="row">
               <div class="col-md-12">
 				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
-					<img src="<?php echo get_template_directory_uri().'/imgs/as.jpg'?>" alt="">
+					<img src="<?php echo get_template_directory_uri().'/imgs/as.jpg'?>" alt="" style="height: 117px;">
 				<div style="margin-left:10px;">
 					<p class="name">Alex Simon</p>
-					<p class="position">USA</p>
+					<p class="position">Elude Today LLC, USA</p>
 				</div>
 			</div>
               </div>
@@ -120,10 +120,10 @@
             <div class="row">
               <div class="col-md-12">
 				<div class="snt-social-block center-block" style="display: inline-flex; width:100%; margin-top: 20px;">
-					<img src="<?php echo get_template_directory_uri().'/imgs/fs.jpg'?>" alt="">
+					<img src="<?php echo get_template_directory_uri().'/imgs/fs.jpg'?>" alt="" style="height: 116px;">
 				<div style="margin-left:10px;">
 					<p class="name">Frankie Rozum</p>
-					<p class="position">USA</p>
+					<p class="position">Elude Today LLC, USA</p>
 				</div>
 			</div>
               </div>
@@ -169,7 +169,7 @@
         <div class="row" style="margin-bottom:94px;">
         
           <div class="col-md-4 col-sm-4 flex-item1" data-slide="0">
-            <img src="<?php echo get_template_directory_uri().'/imgs/bagi.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="0">
+            <img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="0">
             <div class="overlay">
               <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
@@ -178,18 +178,17 @@
             <h3>Domagoj Bagaric</h3>
             <p>CEO</p>
 			      <div class="text-center sm" style="margin-top: 30px;">
-              <a href="https://twitter.com/bagijaner" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
               <a href="https://www.linkedin.com/in/domagojbagaric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
             </div>
           </div>
 
           <div class="col-md-4 col-sm-4 flex-item1" data-slide="1">
-            <img src="<?php echo get_template_directory_uri().'/imgs/simun.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="1">
+            <img  src="<?php echo get_template_directory_uri().'/imgs/photo_sstrukan.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="1">
             <div class="overlay">
               <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
               </a>
-              </div>
+              </div> 
               <h3>Simun Strukan</h3>
             <p>CTO</p>
             <div class="text-center sm" style="margin-top: 30px;">
@@ -201,16 +200,16 @@
 
           <div class="col-md-4 col-sm-4 flex-item1" data-slide="2">
               <div class="text-center">
-                    <img src="<?php echo get_template_directory_uri().'/imgs/zvone.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="2">
+                    <img src="<?php echo get_template_directory_uri().'/imgs/photo_gcindric.png'?>" class="snt-team-pic center-block" alt="" data-toggle="modal" data-target="#modal" data-slide-to="2">
                     <div class="overlay">
               <a class="icon" title="User Profile">
                 <i class="fa fa-search"></i>
               </a>
               </div>
-              <h3>Zvonimir Tomesic</h3>
-                    <p>Lead Software Developer</p>
+              <h3>Gordon Cindric</h3>
+                    <p>Lead Product Designer</p>
                     <div class="text-center sm" style="margin-top: 30px;">
-                      <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
+                      <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>">
                       <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                     </div>
               </div>  
@@ -308,12 +307,9 @@
                           <h3>Gordon Cindric</h3>
                           <p>Lead Product Designer</p>
                           <div class="text-center sm" style="margin-top: 30px;">
-                            <a href="https://www.facebook.com/gordon.cindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img src="http://sintezis.co/wp-content/themes/wp.theme.php/imgs/icon_social_insta.png"></a>
-                <a href="https://twitter.com/gordoncindric" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
-                      <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
-                            <a href="https://www.facebook.com/zvonimir.tomesic" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>
-                            <a href="https://www.linkedin.com/in/zvonimir-tomešić-970624141/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
+                          
+                            <a href="https://www.instagram.com/gordoncindric/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_ig.png'?>"></a>
+                            <a href="https://www.linkedin.com/in/gordoncindric/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                           </div>
                       </div>
                       <div class="snt-protfolio-content-modal col-md-6">
