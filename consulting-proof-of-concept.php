@@ -65,7 +65,7 @@
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-    				<h0 class="text-center">Rinse&repeat</h0>
+    				<p class="hire-p">Rinse&repeat</p>
     				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">With the feedback and new knowledge it'll be far easier to plan the next steps.</p>
 		    </div> 
         </div>
