@@ -9,7 +9,7 @@
     <div class="row snt-cta-row-bg">
       <div class="col-md-12">
         <h4>SINTEZIS CONSULTING</h4>
-        <h1>Want to build a Proof of Concept (PoC),<br>but just don't know where/how to start?</h1>
+        <h1>Want to build a Proof of Concept (PoC) App,<br>but just don't know where/how to start?</h1>
         <p>Let's talk about it!</p>
         <div class="col-md-12 text-center">
         <button class="btn snt-get-in-touch-btn" onclick="window.location.href='#contact-form'">GET IN TOUCH</button>
