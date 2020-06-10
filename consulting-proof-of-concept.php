@@ -36,17 +36,17 @@
         <div class="row">
         
         <div class="welcome-col-md-4 col-md-4 col-sm-4">
-				<h0>Idea validation</h0>
+				<h0 class="text-center">Idea validation</h0>
 				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Before you go big and spend upwards to 100k Euros on development, take smaller steps and quickly validate your idea.</p>
           </div>
 
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-        <h0>Proof of Concept - PoC</h0>
+        <h0 class="text-center">Proof of Concept - PoC</h0>
         <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Demonstrate potential solution of your idea. App on the phone beats PDFs and sketches all day long.</p>
         </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-				<h0>Test Market Acceptance</h0>
+				<h0 class="text-center">Test Market Acceptance</h0>
 				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Not sure will the target market/consumers accept it or not.</p>
           </div>
         
@@ -55,17 +55,17 @@
         <div class="row">
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-            <h0>Gain traction</h0>
+            <h0 class="text-center">Gain traction</h0>
             <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Get the first wave of users, early adopters: all potential future ambassadors of your idea.</p>
           </div>
 
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-            <h0>Acquire knowledge</h0>
+            <h0 class="text-center">Acquire knowledge</h0>
             <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">With PoC you will learn intricate technical details for future development (without failing) and gather valuable insight from early adopters.</p>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-    				<h0>Rinse&repeat</h0>
+    				<h0 class="text-center">Rinse&repeat</h0>
     				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">With the feedback and new knowledge it'll be far easier to plan the next steps.</p>
 		    </div> 
         </div>
