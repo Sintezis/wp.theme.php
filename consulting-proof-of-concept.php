@@ -139,21 +139,23 @@
     </div>
   </section>
 
-<div class="container">
-    <div class="row">
-	    <div class="col-sm-12 col-md-12 col-lg-12 col-md-offset-2">
-        <h4 class="yellow">THE COMPANY</h4>
-		    <h1>About us</h1>
-	    </div>
-        <div class="col-sm-6 col-md-6 col-lg-6">
-            <p class="hero-p">We are full-service, one stop digital agency, focusing on getting our clients to the next level of their success, increasing the overall value of their idea.</p>
-            <p class="hero-p">Our work will generate you more revenue, increase investments, unlock new opportunities.</p>
-        </div>
-        <div class="col-sm-6 col-md-6 col-lg-6">
-            <p class="hero-p">Our core strengths are made of industry professionals startup founders and the top talent in Product, UX/UI, Software development. Our various backgrounds blended with one vision: create a repeatable, proven process for delivering top notch apps.</p>
-        </div>
-    </div>
-</div>
+<section id="about_company" class="snt-team-section" style="margin-bottom:40px;">
+  <div class="container">
+      <div class="row">
+  	    <div class="col-sm-12 col-md-12 col-lg-12 col-md-offset-2">
+          <h4 class="yellow">THE COMPANY</h4>
+  		    <h1>About us</h1>
+  	    </div>
+          <div class="col-sm-6 col-md-6 col-lg-6">
+              <p class="hero-p">We are full-service, one stop digital agency, focusing on getting our clients to the next level of their success, increasing the overall value of their idea.</p>
+              <p class="hero-p">Our work will generate you more revenue, increase investments, unlock new opportunities.</p>
+          </div>
+          <div class="col-sm-6 col-md-6 col-lg-6">
+              <p class="hero-p">Our core strengths are made of industry professionals startup founders and the top talent in Product, UX/UI, Software development. Our various backgrounds blended with one vision: create a repeatable, proven process for delivering top notch apps.</p>
+          </div>
+      </div>
+  </div>
+</section>
 
 <section id="team" class="snt-team-section" style="margin-top: 100px; margin-bottom:40px;">
 	<div class="container">
