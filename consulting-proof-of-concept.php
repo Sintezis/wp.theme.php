@@ -143,7 +143,7 @@
     <div class="row">
 	    <div class="col-sm-12 col-md-12 col-lg-12 col-md-offset-2">
         <h4 class="yellow">THE COMPANY</h4>
-		    <h1 class="hero" style="margin-top: 100px; margin-bottom:40px;">About us</h1>
+		    <h1>About us</h1>
 	    </div>
         <div class="col-sm-6 col-md-6 col-lg-6">
             <p class="hero-p">We are full-service, one stop digital agency, focusing on getting our clients to the next level of their success, increasing the overall value of their idea.</p>
