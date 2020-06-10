@@ -9,8 +9,8 @@
     <div class="row snt-cta-row-bg">
       <div class="col-md-12">
         <h4>SINTEZIS CONSULTING</h4>
-        <h1>You have a great App idea,<br>but just don't know to do it?</h1>
-        <p>Let's talk about it</p>
+        <h1>Want to build Proof of Concept (PoC),<br>but just don't know where/how to start?</h1>
+        <p>Let's talk about it!</p>
         <div class="col-md-12 text-center">
         <button class="btn snt-get-in-touch-btn" onclick="window.location.href='#contact-form'">GET IN TOUCH</button>
         </div>
@@ -142,6 +142,7 @@
 <div class="container">
     <div class="row">
 	    <div class="col-sm-12 col-md-12 col-lg-12 col-md-offset-2">
+        <h4 class="yellow">FACES BEHIND THE CODE</h4>
 		    <h1 class="hero" style="margin-top: 100px; margin-bottom:40px;">About us</h1>
 	    </div>
         <div class="col-sm-6 col-md-6 col-lg-6">
