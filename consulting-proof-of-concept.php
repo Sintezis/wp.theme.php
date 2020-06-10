@@ -1,4 +1,4 @@
-<?php
+<?php get_header('nomenu'); 
 /*Template Name: Consulting-proof-of-concept */
 ?>
 
