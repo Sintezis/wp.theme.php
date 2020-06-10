@@ -139,11 +139,10 @@
     </div>
   </section>
 
-<section id="about_company" class="snt-team-section" style="margin-bottom:40px;">
   <div class="container">
       <div class="row">
   	    <div class="col-sm-12 col-md-12 col-lg-12 col-md-offset-2">
-          <h4 class="yellow">THE COMPANY</h4>
+          <h4 class="yellow" style="font-size: 44px;">THE COMPANY</h4>
   		    <h1>About us</h1>
   	    </div>
           <div class="col-sm-6 col-md-6 col-lg-6">
@@ -155,7 +154,6 @@
           </div>
       </div>
   </div>
-</section>
 
 <section id="team" class="snt-team-section" style="margin-top: 100px; margin-bottom:40px;">
 	<div class="container">
