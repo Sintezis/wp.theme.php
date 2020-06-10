@@ -1,4 +1,4 @@
-<?php get_header(); 
+<?php
 /*Template Name: Consulting-proof-of-concept */
 ?>
 
@@ -56,18 +56,13 @@
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
             <h0>Gain traction</h0>
-            <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Get the first wave of users, early adopters: all potential future ambassadors of your idea.
-
-
-             </p>
+            <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Get the first wave of users, early adopters: all potential future ambassadors of your idea.</p>
           </div>
 
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
             <h0>Acquire knowledge</h0>
-            <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">With PoC you will learn intricate tehnical details for future development (without failing) and gather valuable insight from early adopters.</p>
+            <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">With PoC you will learn intricate technical details for future development (without failing) and gather valuable insight from early adopters.</p>
           </div>
-        
-          
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
     				<h0>Rinse&repeat</h0>
@@ -367,8 +362,8 @@
         <div class="text-center">  
             <div class="service-section">
                 <img class="hire-photo">
-                <h3 class="hire-h3">TAKE ACTION</h3>
-                <h2 class="hire-h2">Ready to hire an awesome development & design team?</h2>
+                <h3 class="hire-h3">LIMITED TIME OFFER</h3>
+                <h2 class="hire-h2">Ready to learn from awesome development & design team?</h2>
                 <p class="hire-p">Let's get on a discovery call!</p>
             </div>
         </div>
