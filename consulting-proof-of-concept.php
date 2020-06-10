@@ -23,8 +23,8 @@
 	  <div class="container">
         <div class="row">
         <div class="col-md-8 col-md-offset-2">
-            <h4>CRUCIAL BENEFITS</h4>
-            <h1>We'll turn your idea into an App!</h1>
+            <h4>LEARN TO WALK BEFORE YOU RUN</h4>
+            <h1>We'll advise on all aspects of a successful PoC development process!</h1>
         </div>
         </div>
 	  </div> 
