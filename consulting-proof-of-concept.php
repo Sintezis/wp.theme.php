@@ -36,17 +36,17 @@
         <div class="row">
         
         <div class="welcome-col-md-4 col-md-4 col-sm-4">
-				<p class="hire-p">Idea validation</p>
+				<p class="hire-p" style="margin-bottom: 0px;">Idea validation</p>
 				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Before you go big and spend upwards to 100k Euros on development, take smaller steps and quickly validate your idea.</p>
           </div>
 
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-        <p class="hire-p">Proof of Concept - PoC</p>
+        <p class="hire-p" style="margin-bottom: 0px;">Proof of Concept - PoC</p>
         <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Demonstrate potential solution of your idea. App on the phone beats PDFs and sketches all day long.</p>
         </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-				<p class="hire-p">Test Market Acceptance</p>
+				<p class="hire-p" style="margin-bottom: 0px;">Test Market Acceptance</p>
 				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Not sure will the target market/consumers accept it or not.</p>
           </div>
         
@@ -55,17 +55,17 @@
         <div class="row">
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-            <p class="hire-p">Gain traction</p>
+            <p class="hire-p" style="margin-bottom: 0px;">Gain traction</p>
             <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Get the first wave of users, early adopters: all potential future ambassadors of your idea.</p>
           </div>
 
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-            <p class="hire-p">Acquire knowledge</p>
+            <p class="hire-p" style="margin-bottom: 0px;">Acquire knowledge</p>
             <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">With PoC you will learn intricate technical details for future development (without failing) and gather valuable insight from early adopters.</p>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-    				<p class="hire-p">Rinse&repeat</p>
+    				<p class="hire-p" style="margin-bottom: 0px;">Rinse&repeat</p>
     				<p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">With the feedback and new knowledge it'll be far easier to plan the next steps.</p>
 		    </div> 
         </div>
