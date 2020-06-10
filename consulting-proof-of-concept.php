@@ -242,7 +242,6 @@
                       <div class="col-md-4 col-md-offset-1" style="text-align:center;"><img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" alt="Republish" class="modal-img"><h3>Dom Bagaric</h3>
                         <p>CEO, Consulting</p>
                         <div class="text-center sm" style="margin-top: 30px;">
-                            <a href="https://twitter.com/bagijaner" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
                             <a href="https://www.linkedin.com/in/domagojbagaric" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                         </div>
                       </div>
