@@ -376,7 +376,7 @@
       <div class="col-md-6 col-md-offset-3">
       <h4 style="margin-bottom: 40px">Schedule a introduction call</h4>
         <!-- Calendly inline widget begin -->
-          <div class="calendly-inline-widget" data-url="https://calendly.com/dom-bagaric/30min?background_color=000000&text_color=ffffff&primary_color=fb178a" style="min-width:320px;height:630px;"></div>
+          <div class="calendly-inline-widget" data-url="https://calendly.com/dom-bagaric/30min?background_color=000000&text_color=ffffff&primary_color=fb178a" style="min-width:320px;height:830px;"></div>
           <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
         <!-- Calendly inline widget end -->
       </div>
