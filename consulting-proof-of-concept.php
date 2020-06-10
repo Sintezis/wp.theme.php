@@ -106,7 +106,7 @@
 					<img src="<?php echo get_template_directory_uri().'/imgs/as.jpg'?>" alt="" style="height: 117px;">
 				<div style="margin-left:10px;">
 					<p class="name">Alex Simon</p>
-					<p class="position">Elude Today LLC, USA</p>
+					<p class="position">Elude Inc, California</p>
 				</div>
 			</div>
               </div>
@@ -123,7 +123,7 @@
 					<img src="<?php echo get_template_directory_uri().'/imgs/fs.jpg'?>" alt="" style="height: 116px;">
 				<div style="margin-left:10px;">
 					<p class="name">Frankie Rozum</p>
-					<p class="position">Elude Today LLC, USA</p>
+					<p class="position">Elude Inc, California</p>
 				</div>
 			</div>
               </div>
@@ -240,7 +240,7 @@
 
               <div class="row row-eq-height" style="margin-bottom:100px;">
                       <div class="col-md-4 col-md-offset-1" style="text-align:center;"><img src="<?php echo get_template_directory_uri().'/imgs/photo_dbagaric.png'?>" alt="Republish" class="modal-img"><h3>Dom Bagaric</h3>
-                        <p>CEO</p>
+                        <p>CEO, Consulting</p>
                         <div class="text-center sm" style="margin-top: 30px;">
                             <a href="https://twitter.com/bagijaner" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_tw.png'?>"></a>
                             <a href="https://www.linkedin.com/in/domagojbagaric" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
@@ -273,9 +273,8 @@
               <div class="item" id="modal2">
               <div class="row row-eq-height" style="margin-bottom:100px;">
                       <div class="col-md-4 col-md-offset-1" style="text-align:center;"><img src="<?php echo get_template_directory_uri().'/imgs/photo_sstrukan.png'?>" alt="Republish" class="modal-img"><h3>Simun Strukan</h3>
-                        <p>CTO</p>
+                        <p>CTO, Mobile development</p>
                           <div class="text-center sm" style="margin-top: 30px;">
-                            <a href="https://www.facebook.com/struki84" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_fb.png'?>"></a>  
                             <a href="https://www.instagram.com/struki84/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_insta.png'?>"></a>  
                             <a href="https://www.linkedin.com/in/šimun-strukan-91a68169/" target="_blank"><img style="width:auto;" src="<?php echo get_template_directory_uri().'/imgs/icon_social_li.png'?>"></a>
                           </div>
