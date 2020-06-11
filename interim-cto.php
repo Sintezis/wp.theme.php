@@ -362,7 +362,7 @@
                 <img class="hire-photo">
                 <h3 class="hire-h3">LIMITED TIME OFFER</h3>
                 <h2 class="hire-h2">Tell us your story, we'll assess your situation.<h2>
-                <p class="hire-p">For free.</p>
+                <p class="hire-p">We'll create a bespoke strategy, that will move your Idea forward!</p>
             </div>
         </div>
 	</div>
