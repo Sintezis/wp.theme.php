@@ -8,8 +8,8 @@
 	  <div class="container">
     <div class="row snt-cta-row-bg">
       <div class="col-md-12">
-        <h4>SINTEZIS CONSULTING</h4>
-        <h1>Struggling to find a CTO,<br>and your Idea on hold?</h1>
+        <h4>SINTEZIS INTERIM CTO</h4>
+        <h1>Struggling to find a CTO,<br>and your Idea is on hold?</h1>
         <p>Let's talk about it!</p>
         <div class="col-md-12 text-center">
         <button class="btn snt-get-in-touch-btn" onclick="window.location.href='#contact-form'">HIRE A TOP CTO NOW</button>
@@ -41,7 +41,7 @@
           </div>
 
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
-        <p class="hire-p" style="margin-bottom: 0px;">Flexibile Engagements</p>
+        <p class="hire-p" style="margin-bottom: 0px;">Flexible Engagements</p>
         <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">It's a tailor made engagement: full-time, part-time, retainer, hourly. What ever works for you.</p>
         </div>
         
@@ -56,12 +56,12 @@
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
             <p class="hire-p" style="margin-bottom: 0px;">Seamless process</p>
-            <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">While you concetrate on building your business, we'll cover the internal workload, organise projects, provide tools and methodologies.</p>
+            <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">While you concentrate on building your business, we'll cover the internal workload, organise projects, provide tools and methodologies.</p>
           </div>
 
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
             <p class="hire-p" style="margin-bottom: 0px;">Reduce risk</p>
-            <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Don't let the oportunity escape, comeptition to get ahead while you try to learn what took us decades to learn and master.</p>
+            <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Don't let the opportunity escape, competition to get ahead while you try to learn what took us decades to learn and master.</p>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
