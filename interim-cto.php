@@ -61,7 +61,7 @@
 
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
             <p class="hire-p" style="margin-bottom: 0px;">Reduce risk</p>
-            <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Don't let the opportunity escape, competition to get ahead while you try to learn what took us decades to learn and master.</p>
+            <p class="text-center" style="margin-left: 25px; margin-right: 25px; margin-top:6px;">Save up to $20k-30k (or more) by avoiding 3 major costly "wrongs": building wrong thing with wrong people and wrong technologies!</p>
           </div>
         
           <div class="welcome-col-md-4 col-md-4 col-sm-4">
