@@ -355,6 +355,9 @@ button.snt-btn:hover p{
 .social-ft a{
 	color:white;
 }
+.social-ft a:hover {
+	color: #FB178A;
+}
 
 .ft-social a {
 	color: white;
@@ -1595,12 +1598,17 @@ h4 {
 
 .apple_store {
 	margin-left: -10px;
-    background: url(../imgs/apple_store.png) no-repeat;
+    background: transparent;
     border: none;
+    text-align-last: left;
+    display: inline-flex;
     height: 5rem;
-    width: 20rem;
-	margin-top: 30px;
-	outline: none;
+    width: 100%;
+    margin-top: 30px;
+    outline: none;
+}
+.apple_store:hover {
+    color: #FB178A;
 }
 
 .apple_store_projects {
@@ -1619,16 +1627,19 @@ h4 {
     color: #FB178A;
 }
 .apple_p {
-	margin-top: 5px !important;
-	margin-left: 60px;
-	font-family: Overpass;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	line-height: 26px;
-	display: flex;
-	align-items: flex-end;
-	color: #FFFFFF;
+	margin-top: 10px !important;
+    margin-left: 20px;
+    font-family: Overpass;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+}
+.apple_store:hover p {
+    color: #FB178A;
 }
 .apple-btn {
 	text-align: left;
