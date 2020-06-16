@@ -704,7 +704,7 @@ h1 {
 
 .ambassador-photo {
     width: 100%;
-    background:url(../imgs/image\ 3.png) no-repeat;
+    background:url(../imgs/image\ 3.jpg) no-repeat;
 	padding-top: 55rem;
 	background-size: contain;
 }
@@ -907,14 +907,14 @@ h1 {
 }
 
 .service-page-photo {
-	background: url(../imgs/Background.png) no-repeat;
+	background: url(../imgs/Background.jpg) no-repeat;
     width: 100%;
 	padding-top: 55rem;
     background-size: contain;
 }
 
 .hire-photo {
-	background: url(../imgs/hire_background.png) no-repeat;
+	background: url(../imgs/hire_background.jpg) no-repeat;
     width: 100%;
 	padding-top: 55rem;
     background-size: contain;
@@ -1905,7 +1905,7 @@ img.snt-team-pic.center-block {
 /* CTA Section */
 
 .snt-cta-section {
-	background: url(../imgs/neon-party-bg.png) bottom center no-repeat black;
+	background: url(../imgs/neon-party-bg.jpg) bottom center no-repeat black;
 	background-size: cover;
 	height: initial;
 }
@@ -2044,7 +2044,7 @@ img.snt-team-pic.center-block {
 
 @media screen and (max-width: 992px) {
 	.snt-blog-header-lg h0 {
-		font-size: 40px;
+		font-size: 40px !important;
 	}
 	.social-ft svg {
 		display: block;
@@ -2652,7 +2652,7 @@ img.snt-team-pic.center-block {
 /* Footer Section */
 
 .snt-footer-section {
-	background: url(../imgs/charlota-blunarova-hmzKFGDeOV4-unsplash.png) top center no-repeat black;
+	background: url(../imgs/charlota-blunarova-hmzKFGDeOV4-unsplash.jpg) top center no-repeat black;
 	background-size: cover;
 }
 
