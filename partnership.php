@@ -5,8 +5,8 @@
 <section>
 <div class="container">
 	    	  
-	  		<div class="col-sm-12 col-md-12 col-lg-12 col-md-offset-2" style="margin-top: 80px; margin-bottom: 100px;">
-			  <h1 class="hero">Sintezis Blog</h1>
+	  		<div class="col-sm-12 col-md-12 col-lg-12" style="border:none; background:none; margin-top: 100px; margin-bottom: 100px;">
+			  <h1 class="hero">Partner-up With Sintezis</h1>
 	</div>
 
 

@@ -2851,10 +2851,6 @@ img.snt-team-pic.center-block {
 /* BLOG POSTS PAGE */
 
 
-.snt-blog-posts-container {
-	padding-top: 200px;
-}
-
 .snt-blog-thumb {
 	margin-top: 10px;
 	width: 100%;
@@ -2926,6 +2922,7 @@ img.snt-team-pic.center-block {
     text-align: left;
 	transition: 0.2s all ease-in-out;
 	width: 100%;
+	color: white;
 }
 .snt-blog-section button:hover {
     border: 4px solid #EC009C;

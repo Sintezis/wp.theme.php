@@ -1,6 +1,9 @@
 <?php get_header(); ?>
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
   <div class="snt-blog-posts-container">
+  <div class="col-sm-12 col-md-12 col-lg-12 col-md-offset-2" style="margin-top: 80px; margin-bottom: 100px;">
+			  <h1 class="hero">Sintezis Blog</h1>
+	</div>
 		<div class="row">
 			<div class="col-md-2 col-md-offset-2">
 				<img class="snt-blog-thumb" src="<?php echo get_template_directory_uri().'/imgs/blog-header-small-placholder-1.png'?>" alt="">
