@@ -6,7 +6,7 @@
 			<img src="<?php header_image(); ?>" width="<?php echo get_custom_header()->width; ?>" alt="image description" class="custom_header" />	
 		</div>
 			<div class="col-md-9">
-				<h4><?php echo apply_filters( 'plugins/wp_subtitle/get_subtitle', '') ?></h4>
+				<h4 style="color:#FFC700;"><?php echo apply_filters( 'plugins/wp_subtitle/get_subtitle', '') ?></h4>
 				<h2><?php the_title(); ?></h2>
 				<div class="snt-blog-content"><?php the_content() ?></div>
 			</div>

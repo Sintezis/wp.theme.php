@@ -6,7 +6,10 @@
                 <img class="snt-logo" src="http://www.sintezis.co/wp-content/themes/wp.theme.php/imgs/logo-white.png" alt="">
                 <h2>Transforming abstract ideas into digital products</h2>
                 <p class="subtitle">We bring order to your creative chaos and make things fit perfectly togeather. We build, so you can dream.</p>
-                <button class="snt-btn btn" onclick="window.location.href='#projects'">SEE OUR WORK <img src="http://www.sintezis.co/wp-content/themes/wp.theme.php/imgs/arrow-bottom.png" width="24" height="24" alt=""></button>
+                <button class="snt-btn btn" onclick="window.location.href='#projects'">SEE OUR WORK 
+                <svg width="20" height="20" viewBox="" fill="none" xmlns="http://www.w3.org/2000/svg" style="">
+                <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M8.00001 15.5858V0L10 0V15.5858L16.2929 9.29289L17.7071 10.7071L9.00001 19.4142L0.292908 10.7071L1.70712 9.29289L8.00001 15.5858Z"></path>
+                </svg></button>
         </div></div>
               </div>
     <div class="snt-waypoint"></div>
@@ -107,7 +110,7 @@
     </div>
   </section>
 
-  <section id="services" class="snt-services-welcome-section" style="margin-top: 100px;">
+  <section id="services" class="snt-services-welcome-section" style="margin-top:300px; margin-bottom:200px;">
 	  <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-2">

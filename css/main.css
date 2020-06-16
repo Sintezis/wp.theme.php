@@ -226,7 +226,9 @@ html, body, .snt-container {
 .snt-nav-bar a:hover {
 	color: #FB178A !important;
 }
-
+.snt-nav-bar a:active {
+    color: #FB178A !important;
+}
 .snt-get-quote-btn {
 	background: #FFC700 !important;
     border: 2px solid #FFC700;
@@ -299,6 +301,7 @@ html, body, .snt-container {
 
 .travel-btn .snt-get-free-quote-btn:hover {
 	color: black !important;
+	background-color: #E5B300 !important;
 }
 
 .snt-btn {
@@ -322,6 +325,9 @@ html, body, .snt-container {
 	border: 2px solid #EC009C !important;
     box-shadow: 0px 0px 20px #C319E1;
     color: #EC009C !important;
+}
+button.snt-btn:hover p{
+	color: #EC009C !important;
 }
 
 .snt-btn p {
@@ -795,6 +801,8 @@ h1 {
 }
 
 .service-button {
+	margin-right: 50px;
+	font-size: 20px;
     width: 260px;
     padding: 0;
     height: 57px;
@@ -852,6 +860,8 @@ h1 {
 
 .finance-cyan-btn:hover {
 	color: black !important;
+	background-color: #19B9CD;
+    border: #19B9CD;
 }
 
 .travel-text {
@@ -1463,7 +1473,7 @@ h2 {
 	font-weight: 900;
 	font-size: 50px;
 	line-height: 60px;
-	color: white
+	color: white;
 }
 
 h3 {
@@ -1583,13 +1593,20 @@ h4 {
 }
 
 .apple_store_projects {
-	background: url(../imgs/apple_store.png) no-repeat;
-	border: none;
-	height: 5rem;
-	width: 20rem;
-	outline: none;
+	background: transparent;
+    border: none;
+    height: 5rem;
+    width: 20rem;
+    outline: none;
+    color: white;
+    display: inline-flex;
 }
-
+.apple_store_projects:hover {
+	color: #FB178A;
+}
+.apple_store_projects:hover p {
+    color: #FB178A;
+}
 .apple_p {
 	margin-top: 5px !important;
 	margin-left: 60px;
@@ -1720,12 +1737,11 @@ img.snt-team-pic.center-block {
 
 /* Partnership section */
 .partnership {
-	border-left: groove rgba(255, 199, 0, 0.75);
+	border-left: groove #EC009C;
 	margin-left: 2rem;
-	margin-bottom: 100px;
 }
 
-.partnership-yellow {
+.partnership-cyan {
 	font-family: Telegrafico;
     font-style: normal;
     font-weight: normal;
@@ -1733,7 +1749,7 @@ img.snt-team-pic.center-block {
     line-height: 22px;
     text-align: left;
     letter-spacing: 8px;
-	color: #FFC700;
+	color: #EC009C;
 	margin-top: 10rem;
 }
 .introduction {
@@ -1776,7 +1792,7 @@ img.snt-team-pic.center-block {
 	font-weight: 600;
 	font-size: 28px;
 	line-height: 42px;
-	color: #FFC700;
+	color: #EC009C;
 	margin-left: 6rem;
 }
 .quote-p {
@@ -1785,7 +1801,7 @@ img.snt-team-pic.center-block {
 	font-weight: 300;
 	font-size: 28px;
 	line-height: 42px;
-	color: #FFC700;
+	color: #EC009C;
 	margin-left: 51rem;
 }
 
@@ -2007,6 +2023,10 @@ img.snt-team-pic.center-block {
 }
 
 @media screen and (max-width: 992px) {
+	.social-ft svg {
+		display: block;
+		margin-top: 60px;
+	}
 	.overlay {
 		left: 50px !important;
 		right: 50px !important;
@@ -2060,6 +2080,7 @@ img.snt-team-pic.center-block {
 		background: url(../imgs/Banner.png);
 	}
 	.service-button {
+		margin-right: 0px;
 		width: 260px;
 		margin-top: 10px;
 		border-width: 1px;
@@ -2397,21 +2418,19 @@ img.snt-team-pic.center-block {
     background: url(../imgs/blog-header-bg-lg-placeholder.png) top center no-repeat black;
     background-size: cover;
     height: 500px;
-    padding-top: 220px;
-    border: none;
-	transition: 1s;
+	padding-top: 150px;
+	color: white;
+    border: 4px solid black;
+	transition: 0.2s all ease-in-out;
 	width: 100%;
 }
 
-.snt-blog-header-lg:hover {
-	opacity: 0.8;
-    border-radius: 100px;
-    transition: 1s;
-}
-
-.snt-blog-header-lg h2 {
-	padding: 0 20px 10px 20px;
-	font-family: Overpass; 
+.snt-blog-header-lg h0 {
+	font-family: Campton;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 60px;
 }
 
 .snt-blog-header-lg p {
@@ -2429,7 +2448,7 @@ img.snt-team-pic.center-block {
 	font-weight: normal;
 	font-size: 18px;
 	line-height: 24px;
-	color: white;
+	color: #F0F2FE;
 	margin: 10px 0 10px 0;
 	padding: 0px 20px 10px 20px;
 }
@@ -2439,10 +2458,12 @@ img.snt-team-pic.center-block {
 	padding-top: 250px;
 }
 
-.snt-blog-header-md h2 {
-	font-size: 50px;
-	line-height: 60px;
-	padding: 0 20px 0px 20px;
+.snt-blog-header-md h0 {
+	font-family: Campton;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 60px;
 }
 
 .snt-blog-header-ph-1 {
@@ -2669,6 +2690,9 @@ img.snt-team-pic.center-block {
 	display: block;
 	margin-top: 10px;
 }
+.snt-pages-container a:hover {
+	color: #EC009C;
+}
 
 .snt-contact-container h3 {
 	font-family: Barlow;
@@ -2877,14 +2901,16 @@ img.snt-team-pic.center-block {
     border: none;
     outline: none;
     text-align: left;
-	transition: 1s;
+	transition: 0.2s all ease-in-out;
 	width: 100%;
 }
-.snt-blog-header-ph-2:hover {
-	border-radius: 100px;
-	opacity: 0.8;
-	transition: 1s;
+.snt-blog-section button:hover {
+    border: 4px solid #EC009C;
+    box-shadow: 0px 0px 20px #C319E1;
+    color: #EC009C;
+    transition: all 0.2s ease-in-out;
 }
+
 .snt-blog-header {
 	margin-top: 60px;
 }

@@ -67,7 +67,7 @@
 		<div class="col-sm-8 col-md-8 col-lg-8 border"  id="proof">
 				<h2>PROOF OF CONCEPT</h2>
 				<p>A Proof of Concept is a small exercise to test the design idea or assumption. The main purpose of developing a PoC is to demonstrate the functionality and to verify a certain concept or theory that can be achieved in development.</p>
-				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-30rem; margin-left:15rem;">
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-30rem; margin-left:25rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
 				<path d="M364.173 121.058C362.902 121.213 361.675 121.622 360.565 122.261L129.67 247.333C128.033 248.237 126.698 249.603 125.833 251.26C124.967 252.918 124.608 254.793 124.801 256.653C124.994 258.513 125.73 260.275 126.917 261.719C128.105 263.164 129.691 264.227 131.479 264.776L192.81 283.113C194.244 294.456 200.632 343.581 201.825 353.163C203.018 362.707 209.502 364.362 215.957 355.568C220.325 349.613 246.012 313.477 246.022 313.477L300.744 368.201C301.922 369.383 303.391 370.234 305.002 370.67C306.613 371.105 308.31 371.11 309.924 370.683C311.537 370.257 313.01 369.413 314.195 368.238C315.38 367.063 316.236 365.597 316.676 363.987L374.4 133.085C374.818 131.583 374.863 130.003 374.528 128.48C374.194 126.958 373.491 125.542 372.481 124.354C371.472 123.167 370.186 122.246 368.738 121.671C367.289 121.097 365.722 120.886 364.173 121.058ZM350.358 149.325L301.947 342.946L247.532 288.52L326.595 178.784L203.633 266.575L158.84 253.346L350.338 149.315L350.358 149.325Z" fill="white"/>
@@ -78,7 +78,7 @@
 				<h2>PROTOTYPE</h2>
 				<p>While PoC is focused on technical feasibility of the Idea, Prototype focuses more on the usability and desirability. It’s a interactive application that demonstrates the final product.</p>
 				<p> Albeit, the Prototype will not deliver actual functional business logic (nor is this needed at this stage), usable (“clickable”) application is delivered.</p>
-				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-35rem; margin-left:15rem;">
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-37rem; margin-left:25rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
 				<path d="M352.458 141.498C354.552 141.498 356.324 141.74 357.773 142.225C358.096 143.193 358.297 144.404 358.378 145.857C358.458 147.31 358.378 149.166 358.136 151.426C357.894 153.687 357.008 156.189 355.478 158.933C353.948 161.678 351.894 164.342 349.316 166.925L293.499 222.863L293.983 229.643C294.627 241.912 295.916 262.899 297.849 292.604C299.299 318.595 300.104 331.995 300.265 332.802C300.265 333.771 299.943 334.658 299.299 335.466C298.171 336.596 296.721 338.21 294.949 340.309C293.177 342.408 291.244 344.587 289.15 346.847C279.646 321.501 271.753 299.949 265.47 282.191L257.013 259.428L239.857 276.622L208.445 306.891L203.854 311.492V317.546C203.693 320.613 203.693 327.878 203.854 339.34V352.417L204.096 352.659L204.579 352.901C203.612 351.287 202.968 350.157 202.646 349.511L201.196 347.331C191.853 332.479 186.376 323.681 184.765 320.936L182.59 317.788L179.449 315.609C168.495 308.99 157.622 302.209 146.829 295.268C146.99 295.268 147.151 295.429 147.312 295.752L147.554 295.994H163.864L166.159 296.115L168.697 296.236H182.59L188.873 295.994L193.222 291.635L223.668 260.155L240.824 242.962L218.11 234.728C200.552 228.271 178.885 220.199 153.111 210.513C155.367 208.253 157.501 206.235 159.515 204.459C161.528 202.683 163.179 201.311 164.468 200.342L166.159 199.374H166.643C167.77 199.374 182.268 200.261 210.136 202.037C240.582 204.136 260.637 205.427 270.303 205.912L277.31 206.396L333.127 150.458C339.087 144.485 345.531 141.498 352.458 141.498ZM352.458 126C347.464 126 342.349 127.09 337.114 129.269C331.879 131.449 326.925 134.879 322.254 139.561L271.269 190.414C266.114 190.091 258.986 189.647 249.885 189.082C240.783 188.517 231.722 187.952 222.701 187.387C213.68 186.822 204.982 186.257 196.605 185.692C188.228 185.127 181.342 184.683 175.946 184.36C170.549 184.037 167.69 183.875 167.368 183.875H166.159C165.193 183.875 164.186 183.956 163.139 184.118C162.092 184.279 160.763 184.683 159.152 185.328C157.541 185.974 156.011 186.943 154.561 188.234L136.922 204.217C133.861 207.284 132.573 210.593 133.056 214.145C133.378 217.697 135.472 220.28 139.338 221.894C149.487 225.93 173.972 235.051 212.794 249.258L182.349 280.738H177.516C174.133 280.738 168.777 280.698 161.448 280.617C154.118 280.536 149.648 280.496 148.037 280.496H144.533L143.325 280.617L141.755 280.98L139.822 281.828L137.405 283.16L134.627 284.976L131.364 287.519L130.64 288.245C128.384 290.667 127.176 293.25 127.015 295.994C126.854 298.739 127.982 301.079 130.398 303.017C133.942 305.923 147.634 314.559 171.475 328.927C173.247 331.833 179.127 341.197 189.114 357.018C193.625 364.444 196.041 368.399 196.363 368.883C197.974 371.466 200.31 372.839 203.371 373H203.612C206.512 373 209.331 371.628 212.07 368.883C213.197 367.592 214.204 366.341 215.09 365.13C215.976 363.919 216.661 362.829 217.144 361.861L218.352 359.439L218.956 357.381L219.198 355.807V354.596L219.077 353.87C219.238 352.255 219.278 346.686 219.198 337.161C219.117 327.636 219.157 321.259 219.318 318.03L250.731 287.519C254.436 297.689 259.671 311.976 266.437 330.38C273.202 348.784 276.988 358.874 277.793 360.65C279.243 364.363 281.74 366.462 285.284 366.946H286.492C287.942 366.946 289.432 366.583 290.962 365.856C292.493 365.13 293.902 364.121 295.191 362.829C295.996 362.022 297.084 360.892 298.453 359.439C299.822 357.986 301.916 355.686 304.735 352.538C307.554 349.39 309.689 346.928 311.139 345.152C314.36 341.277 315.81 336.919 315.488 332.075C315.488 331.753 315.125 325.134 314.401 312.219C313.676 299.304 312.79 284.169 311.743 266.814C310.696 249.46 309.93 236.827 309.447 228.917L360.431 177.822C364.62 173.463 367.882 168.821 370.218 163.898C372.553 158.974 373.802 154.413 373.963 150.216C374.124 146.018 373.761 142.225 372.875 138.834C371.99 135.444 370.661 132.942 368.889 131.327C365.345 127.776 359.868 126 352.458 126Z" fill="white"/>
@@ -89,7 +89,7 @@
 				<h2>MINIMUM VIABLE PRODUCT</h2>
 				<p>A minimum viable product (MVP) is a concept from Lean Startup that stresses the impact of learning in new product development. Eric Ries, defined an MVP as that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort. This validated learning comes in the form of whether your customers will actually purchase your product.</p>
 				<p> A key premise behind the idea of MVP is that you produce an actual product (which may be no more than a landing page, or a service with an appearance of automation, but which is fully manual behind the scenes) that you can offer to customers and observe their actual behavior with the product or service. Seeing what people actually do with respect to a product is much more reliable than asking people what they would do.</p>
-				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:15rem;">
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:25rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
 				<path d="M303.526 383.5L342.47 344.884C344.866 342.489 346.065 339.197 345.765 335.904L341.271 280.524C381.414 233.227 396.991 173.657 380.515 124.564L379.317 120.672L375.422 119.475C326.293 103.011 266.679 118.577 219.347 158.989L163.927 154.199C160.631 153.9 157.336 155.097 154.94 157.492L116.295 196.108C114.198 198.203 113 201.197 113 204.19C113 205.388 113.3 206.585 113.599 208.082C115.097 212.273 118.692 215.266 123.185 215.865L169.918 221.553C164.825 231.431 160.631 241.609 157.336 252.086L157.037 253.283C156.437 255.379 157.037 257.774 158.534 259.27L240.916 341.591C242.414 343.088 244.81 343.687 246.907 343.088L247.806 342.789C258.291 339.496 268.476 335.305 278.362 330.216L284.054 376.914C284.653 381.405 287.649 384.997 291.843 386.494C296.037 387.691 300.53 386.793 303.526 383.5ZM135.168 200.598L165.125 170.663L203.47 173.956C193.884 183.835 185.795 194.611 178.606 205.687L135.168 200.598ZM174.412 252.086C183.099 226.641 198.377 202.394 218.748 181.739C261.287 139.232 320.002 120.373 366.136 133.843C379.616 179.943 360.743 238.615 318.205 281.123C297.534 301.778 273.269 317.045 247.806 325.426L174.412 252.086ZM293.94 321.535C305.024 314.351 315.808 305.969 325.694 296.689L328.989 335.006L299.032 364.941L293.94 321.535Z" fill="white"/>
@@ -154,7 +154,7 @@
 				<p>The Design Sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. Developed at Google Ventures, it’s a “greatest hits” of business strategy, innovation, behavior science, design thinking, and more—packaged into a battle-tested process that any team can use.</p>
 				<p> Working together in a sprint, you can shortcut the endless-debate cycle and compress months of time into a single week. Instead of waiting to launch a minimal product to understand if an idea is any good, you’ll get clear data from a realistic prototype. The sprint gives you a superpower: You can fast-forward into the future to see your finished product and customer reactions, before making any expensive commitments.</p>
 				<p> We facilitate Design Sprints on-site or remote.</p>
-				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:15rem;">
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:30rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"></rect>
 				<path d="M154.58 246.34C152.633 243.866 152.597 240.081 153.863 236.99C153.863 236.989 153.864 236.989 153.864 236.988L199.708 127.834C201.208 124.278 204.703 121.75 208.679 121.75H292.25C295.484 121.75 298.73 123.526 300.472 126.308C302.216 129.093 302.469 132.647 301.221 135.698C301.22 135.7 301.22 135.702 301.219 135.704L276.86 191.07L276.551 191.771H277.317H290.678C294.41 191.771 297.646 193.786 299.399 197.349L299.402 197.356L299.406 197.363C301.139 200.634 300.655 204.688 298.398 207.747C298.398 207.747 298.397 207.747 298.397 207.748L178.944 366.947C178.943 366.949 178.942 366.95 178.941 366.952C176.936 369.495 174.199 370.75 171.478 370.75C170.007 370.75 168.254 370.248 166.732 369.476C162.517 367.205 160.755 362.411 162.261 357.558C162.261 357.557 162.262 357.555 162.262 357.554L197.365 251.332L197.582 250.675H196.89H162.833C159.612 250.675 156.603 248.909 154.58 246.34ZM168.659 236.605L168.368 237.298H169.12H216.109L183.054 337.547L183.929 338.004L282.695 206.214L283.294 205.415H282.295H255.818L286.42 136.362L286.731 135.659H285.963H211.299H210.966L210.838 135.966L168.659 236.605Z" fill="white" stroke="white"></path>
@@ -167,7 +167,7 @@
 				<h2>UX/UI DESIGN</h2>
 				<p>User eXperience (UX) design is the process of manipulating user behavior through usability, usefulness, and desirability provided in the interaction with a product. User experience design encompasses traditional human–computer interaction design and extends it by addressing all aspects of a product or service as perceived by users. </p>
 				<p class="p-ux-design"> "UX design is like telling a joke, if you have to explain it: you’ve failed."</p>
-				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-48rem; margin-left:15rem;">
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-45rem; margin-left:25rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"></rect>
 				<path d="M373.348 146.233C371.825 145.315 369.936 145.219 368.326 145.98L327.047 165.209C312.493 171.987 302.726 185.956 301.452 201.814L300.387 214.855L278.999 249.986V234.986C278.999 234.937 278.973 234.896 278.973 234.843C278.965 234.327 278.882 233.814 278.721 233.322L268.77 203.798L289.089 163.624C289.981 161.836 289.775 159.701 288.556 158.111L256.61 115.988C254.675 113.662 251.199 113.329 248.845 115.243C248.57 115.466 248.318 115.717 248.092 115.988L216.144 158.111C214.934 159.707 214.738 161.84 215.638 163.624L235.957 203.798L226.006 233.322C225.845 233.814 225.762 234.327 225.754 234.843V234.986V256L192.583 206.21C192.541 206.153 192.478 206.12 192.44 206.069C192.119 205.63 191.734 205.243 191.296 204.92C191.195 204.847 191.104 204.763 190.997 204.694C190.892 204.626 190.874 204.589 190.806 204.551L171.286 193.389L163.183 181.226L151.469 163.64C150.124 161.624 147.565 160.772 145.261 161.572L124.543 168.758C121.773 169.732 120.324 172.742 121.309 175.481C121.452 175.883 121.644 176.264 121.882 176.618L136.529 198.608L144.606 210.765L147.267 232.912C147.281 232.982 147.299 233.053 147.321 233.122C147.345 233.233 147.372 233.345 147.406 233.453C147.527 234.01 147.739 234.545 148.035 235.033C148.072 235.086 148.072 235.155 148.11 235.208C148.148 235.259 227.289 353.883 227.672 354.204C231.566 364.32 241.374 371.004 252.319 371C254.492 370.998 256.657 370.737 258.767 370.222C265.627 368.557 271.53 364.251 275.16 358.257L345.974 242.084L357.155 235.086C363.03 231.392 367.959 226.406 371.564 220.516C376.138 213.024 378.362 204.355 377.952 195.612L375.876 150.531C375.813 148.77 374.865 147.156 373.348 146.233ZM334.784 240.061L326.545 253.588L299.183 237.267L307.432 223.739L334.784 240.061ZM236.404 319.848V240.251H268.35V267.452L236.404 319.848ZM245.568 208.659H259.187L266.284 229.72H238.47L245.568 208.659ZM252.377 171.801C249.436 171.801 247.053 169.444 247.053 166.536C247.053 163.628 249.436 161.272 252.377 161.272C255.317 161.272 257.702 163.628 257.702 166.536C257.702 169.444 255.317 171.801 252.377 171.801ZM252.377 127.925L278.089 161.824L259.735 198.128H257.7V181.363C266.018 178.456 270.378 169.43 267.436 161.205C264.495 152.98 255.371 148.67 247.053 151.578C238.735 154.485 234.377 163.511 237.318 171.736C238.926 176.234 242.504 179.773 247.053 181.363V198.128H245.019L226.664 161.824L252.377 127.925ZM178.012 209.4L176.445 210.422L156.836 223.196L155.032 208.275C154.932 207.463 154.645 206.687 154.189 206.004L148.334 197.212L157.225 191.42L163.082 200.212C163.538 200.895 164.146 201.461 164.86 201.871L178.012 209.4ZM144.866 172.854L151.362 182.61L142.471 188.403L134.484 176.452L144.866 172.854ZM173.283 225.082L186.595 216.388L225.754 275.135V332.563L159.945 233.78L173.283 225.082ZM266.056 352.787C261.541 360.282 251.738 362.741 244.158 358.277C236.578 353.814 234.094 344.118 238.606 336.622C238.64 336.569 238.672 336.518 238.704 336.465L278.908 270.527H278.999V270.386L293.683 246.296L307.362 254.468L321.061 262.607L266.056 352.787ZM362.469 215.057C359.723 219.543 355.963 223.343 351.486 226.155L342.028 232.078L326.589 222.886L311.147 213.692L312.026 202.636C313.001 190.546 320.446 179.899 331.54 174.728L365.615 158.864L366.293 173.538C365.76 173.481 365.221 173.503 364.695 173.607L351.799 176.767C339.798 179.665 330.507 189.057 327.84 200.987C327.198 203.824 329.002 206.638 331.871 207.273C332.254 207.361 332.644 207.406 333.037 207.406C335.527 207.402 337.684 205.693 338.228 203.289C340.028 195.267 346.276 188.952 354.345 186.997L366.783 183.948L367.342 196.059C367.654 202.728 365.958 209.34 362.469 215.057Z" fill="white"></path>
@@ -178,7 +178,7 @@
 				<h2>INTERACTION DESIGN</h2>
 				<p>Once we have a solid UX/UI foundation from the previous section, we can implement the next level of creativity adding animations, interactions and additional "states" to existing elements.</p>
 				<p>For instance how a button reacts when mouse cursor goes over it, or what's the difference between web (mouse) and touch (mobile/tablet) versions?</p>
-				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-40rem; margin-left:15rem;">
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-36rem; margin-left:30rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"></rect>
 				<path d="M282.109 276.608C279.073 276.608 276.608 279.073 276.608 282.109C276.608 285.146 279.073 287.611 282.109 287.611C285.146 287.611 287.611 285.146 287.611 282.109C287.611 279.073 285.146 276.608 282.109 276.608Z" fill="white" stroke="white" stroke-width="0.3"></path>
@@ -266,7 +266,7 @@
 					<ol><li> <p> Who, when and how to hire developers, designers, testers and other roles </p></li></ol>
 					<ol><li> <p> Security </p></li></ol>
 					<ol><li> <p> Technology </p></li></ol>
-					<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:15rem;">
+					<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-50rem; margin-left:25rem;">
 					<g opacity="0.05">
 					<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
 					<path d="M385.25 113H115.25C114.145 113 113.25 113.895 113.25 115V330.672C113.25 331.777 114.145 332.672 115.25 332.672H158.299C158.935 332.672 159.533 332.975 159.91 333.486L197.707 384.813C198.507 385.899 200.129 385.899 200.928 384.813L238.726 333.486C239.103 332.975 239.701 332.672 240.336 332.672H385.25C386.355 332.672 387.25 331.777 387.25 330.672V115C387.25 113.895 386.355 113 385.25 113Z" stroke="white" stroke-width="10"/>
@@ -279,7 +279,7 @@
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="product-d" style="display:none;">
 				<h2>PRODUCT DESIGN CONSULTING</h2>
 				<p>Creating an exhilarating application that will be loved and used by many largely depends on the UX/UI design of the application, since that is the first thing users interact with, this is a crucial step to get right from the get go.</p>
-				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-30rem; margin-left:15rem;">
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-37rem; margin-left:25rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
 				<path d="M385.25 132.36H115.25C114.145 132.36 113.25 133.256 113.25 134.36V350.033C113.25 351.137 114.145 352.033 115.25 352.033H158.299C158.935 352.033 159.533 352.335 159.91 352.847L197.707 404.173C198.507 405.259 200.129 405.259 200.928 404.173L238.726 352.847C239.103 352.335 239.701 352.033 240.336 352.033H385.25C386.355 352.033 387.25 351.137 387.25 350.033V134.36C387.25 133.256 386.355 132.36 385.25 132.36Z" stroke="white" stroke-width="10"/>
@@ -295,7 +295,7 @@
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="social" style="display:none;">
 				<h2>SOCIAL MEDIA CONSULTING</h2>
 				<p>Your presence on the internet is a paramount. With out a strong, consistent and ever growing social media channels it’s like you don’t even exist. How to gain more followers, how to engage more, how to grow your business. We can answer all of those.</p>
-				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-30rem; margin-left:15rem;">
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-30rem; margin-left:25rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
 				<path d="M385.25 113H115.25C114.145 113 113.25 113.895 113.25 115V330.672C113.25 331.777 114.145 332.672 115.25 332.672H158.299C158.935 332.672 159.533 332.975 159.91 333.486L197.707 384.813C198.507 385.899 200.129 385.899 200.928 384.813L238.726 333.486C239.103 332.975 239.701 332.672 240.336 332.672H385.25C386.355 332.672 387.25 331.777 387.25 330.672V115C387.25 113.895 386.355 113 385.25 113Z" stroke="white" stroke-width="10"/>
@@ -306,7 +306,7 @@
 		<div class="col-sm-8 col-md-8 col-lg-8 border" id="interim" style="display:none;">
 				<h2>INTERIM CTO CONSULTING</h2>
 				<p>Now days it’s hard to find a technical co-founder. Someone with technical background, life experience and enough games under the belt. While many startups loose valuable time finding the right talent fit, we can jump right in and provide an interim CTO, who can advise the Board on all technical aspects of application development, security, tooling, etc. We can tailor fit the role to your needs.</p>
-				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-40rem; margin-left:15rem;">
+				<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:-36rem; margin-left:25rem;">
 				<g opacity="0.05">
 				<rect width="500" height="500" fill="black" fill-opacity="0.25"/>
 				<path d="M385.25 113H115.25C114.145 113 113.25 113.895 113.25 115V330.672C113.25 331.777 114.145 332.672 115.25 332.672H158.299C158.935 332.672 159.533 332.975 159.91 333.486L197.707 384.813C198.507 385.899 200.129 385.899 200.928 384.813L238.726 333.486C239.103 332.975 239.701 332.672 240.336 332.672H385.25C386.355 332.672 387.25 331.777 387.25 330.672V115C387.25 113.895 386.355 113 385.25 113Z" stroke="white" stroke-width="10"/>
@@ -327,16 +327,11 @@
 					<h3 class="contact-service-h3">TAKE ACTION</h3>
 					<h2 class="service-h2">You have an abstract software idea that needs some Sintezis?</h2>
 					<p class="service-page-photo-p">Let's talk about it</p>
-				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6 desktop">
-					<button class="service-button" onclick="window.location.href='/projects'"> VIEW OUR WORK</button>
-				</div>
-				<div id="btn2" class="col-sm-6 col-md-6 col-lg-6">
-					<button class="snt-get-in-touch-btn" onclick="window.location.href='/contact/#contact'"> GET IN TOUCH </button>
-				</div>
-				<div id="btn1" class="col-sm-6 col-md-6 col-lg-6 mobile">
-					<button class="service-button" onclick="window.location.href='/projects'"> VIEW OUR WORK</button>
-				</div>
-</div>
+					<div class="col-md-12">
+						<button class="service-button desktop" onclick="window.location.href='/projects'"> VIEW OUR WORK</button>
+						<button class="snt-get-in-touch-btn" onclick="window.location.href='/contact/#contact'"> GET IN TOUCH </button>
+						<button class="service-button mobile" onclick="window.location.href='/projects'"> VIEW OUR WORK</button></div>
+					</div>
 			</div>
 	</div>
     </div>
@@ -386,7 +381,7 @@
 		</div>
 </div></section>
 
-<section id="service-travel" class="snt-services-finance-page-section" style="margin-top: 200px; margin-bottom: 100px;">
+<section id="service-travel" class="snt-services-finance-page-section" style="margin-top: 100px;">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-12 col-lg-12">

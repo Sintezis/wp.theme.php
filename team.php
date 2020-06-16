@@ -8,7 +8,7 @@
 <div class="row">
 	    	  
 	  <div class="col-sm-12 col-md-12 col-lg-12">
-			  <h1 class="hero" style="margin-top: 100px; margin-bottom:40px;">About us</h1>
+			  <h1 class="hero" style="margin-top: 80px !important; margin-bottom:100px;">About us</h1>
 			</div>
 		 
 	  <div class="col-sm-6 col-md-6 col-lg-6">
@@ -106,7 +106,7 @@
     </div>
   </section>
 
-  <section class="text-center snt-hire-section" style="margin-top: 100px; margin-bottom:200px;">
+  <section class="text-center snt-hire-section" style="margin-top: 200px; margin-bottom:200px;">
 	  <div class="container">
 		  
     <div class="text-center">
@@ -145,7 +145,9 @@
             <button class="btn snt-btn" onclick="window.location.href='/careers/#Backend_Web_Developer'">
               <span>Senior Backend Developer</span> <br>
               <p>5y, Java, Spring, PostgreSQL</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+              <svg id="icon" width="270" height="22" viewBox="0 0 24 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M18.6834 12.1666L0.5 12.1666L0.5 9.83331L18.6834 9.83331L11.3417 2.4916L12.9916 0.841682L23.1499 11L12.9916 21.1583L11.3417 19.5083L18.6834 12.1666Z"></path>
+              </svg>
             </button>
           </div>
 
@@ -153,7 +155,9 @@
             <button class="btn snt-btn" onclick="window.location.href='/careers/#UIUX_designer'">
               <span>UX Designer</span> <br>
               <p>2y, Sketch, Figma, Zeplin</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+              <svg id="icon" width="320" height="22" viewBox="0 0 24 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M18.6834 12.1666L0.5 12.1666L0.5 9.83331L18.6834 9.83331L11.3417 2.4916L12.9916 0.841682L23.1499 11L12.9916 21.1583L11.3417 19.5083L18.6834 12.1666Z"></path>
+              </svg>
             </button>
           </div>
 
@@ -165,7 +169,9 @@
             <button class="btn snt-btn" onclick="window.location.href='careers/#Frontend_Web_Developer'">
               <span>Junior Frontend Developer</span> <br>
               <p>1y, HTML/CSS, Javascript, Bootstrap</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+              <svg id="icon" width="180" height="22" viewBox="0 0 24 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M18.6834 12.1666L0.5 12.1666L0.5 9.83331L18.6834 9.83331L11.3417 2.4916L12.9916 0.841682L23.1499 11L12.9916 21.1583L11.3417 19.5083L18.6834 12.1666Z"></path>
+              </svg>
             </button>
           </div>
 
@@ -173,7 +179,9 @@
             <button class="btn snt-btn" onclick="window.location.href='/careers/#Frontend_Web_Developer'">
               <span>Frontend Developer</span> <br>
               <p>2y, HTML/CSS, LESS, Typescript</p>
-              <img src="<?php echo get_template_directory_uri().'/imgs/arrow-right.png'?>" width="24" height="24" class="pull-right" alt="">
+              <svg id="icon" width="230" height="22" viewBox="0 0 24 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M18.6834 12.1666L0.5 12.1666L0.5 9.83331L18.6834 9.83331L11.3417 2.4916L12.9916 0.841682L23.1499 11L12.9916 21.1583L11.3417 19.5083L18.6834 12.1666Z"></path>
+              </svg>
             </button>
           </div>
 
