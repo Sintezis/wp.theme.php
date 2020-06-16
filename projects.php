@@ -15,7 +15,7 @@
       <div class="col-md-12">
             
 			<div class="row row-eq-height projects-columns">
-             <div class="col-sm-6"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.jpg'?>" alt="Republish" style="width:100%;"></div>
+             <div class="col-sm-6"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.png'?>" alt="Republish" style="width:100%;"></div>
                 <div class="col-sm-6">
 				<p class="projects-p">IOS APP</p>
                     <h1 class="projectsh1">Republish</h1>
@@ -60,7 +60,7 @@
                     </button>
                   </div>                
                 </div>
-			 <div class="col-sm-6"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-elude.jpg'?>" alt="Republish" style="width:100%;"></div>
+			 <div class="col-sm-6"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-elude.png'?>" alt="Republish" style="width:100%;"></div>
 			 <div class="col-sm-6 elude-mob">
 			<p class="projects-p">IOS APP</p>
                     <h1 class="projectsh1">Elude</h1>
@@ -86,7 +86,7 @@
 				
 
 			<div class="row row-eq-height">
-            <div class="col-sm-6"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-fooc.jpg'?>" alt="Republish" style="width:100%;"></div>
+            <div class="col-sm-6"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-fooc.png'?>" alt="Republish" style="width:100%;"></div>
                 <div class="col-sm-6">
 				<p class="projects-p">IOS APP</p>
                     <h1 class="projectsh1">Fooc</h1>

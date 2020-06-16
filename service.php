@@ -343,7 +343,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-12">
 	  
 				  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mobile">
-				  <img class="img-fluid" src="<?php echo get_template_directory_uri().'/imgs/Background_ Image_mobile.png'?>"></div>
+				  <img class="img-fluid" src="<?php echo get_template_directory_uri().'/imgs/Background_ Image_mobile.jpg'?>"></div>
 					<div id="travel" class="col-xs-12 col-sm-12 col-md-6 col-lg-6 travel">
 		  				<div class="row">
 							<div class="col-md-12">
@@ -376,7 +376,7 @@
 		  				</div>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 d-flex desktop">
-				  <img class="img-fluid" src="<?php echo get_template_directory_uri().'/imgs/Background_ Image_mobile.png'?>" alt="Travel"></div>
+				  <img class="img-fluid" src="<?php echo get_template_directory_uri().'/imgs/Background_ Image_mobile.jpg'?>" alt="Travel"></div>
 			</div>
 		</div>
 </div></section>

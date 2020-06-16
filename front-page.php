@@ -34,7 +34,7 @@
             <!-- Slide 1 -->
             <div class="snt-carousel-item item active">
               <div class="row row-eq-height">
-                <div class="col-md-6 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.jpg'?>" alt="Republish"></div>
+                <div class="col-md-6 col-md-offset-1"><img src="<?php echo get_template_directory_uri().'/imgs/portfolio-republish.png'?>" alt="Republish"></div>
                 <div class="snt-protfolio-content col-md-5">
                   <div class="snt-portfolio-item-txt">
                     <h3>Republish iOS App</h3>
