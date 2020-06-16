@@ -352,6 +352,17 @@ button.snt-btn:hover p{
 	display: none;
 }
 
+.social-ft a{
+	color:white;
+}
+
+.ft-social a {
+	color: white;
+}
+.ft-social a:hover {
+	color: #FB178A;
+}
+
 @media (max-width: 767px){
 	.snt-nav-bar ul {
 		margin: 10px auto;
