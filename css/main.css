@@ -374,9 +374,6 @@ button.snt-btn:hover p{
 }
 
 @media (min-width: 0px) and (max-width: 1023px){
-	.apple_p {
-		margin-left: 60px !important;
-	}
 	.apple-btn {
 		text-align: center !important;
 	}
@@ -2046,6 +2043,9 @@ img.snt-team-pic.center-block {
 }
 
 @media screen and (max-width: 992px) {
+	.snt-blog-header-lg h0 {
+		font-size: 40px;
+	}
 	.social-ft svg {
 		display: block;
 		margin-top: 60px;
@@ -2279,6 +2279,9 @@ img.snt-team-pic.center-block {
 		display: block !important;
 		width: 100%;
 		margin-bottom: 20px;
+	}
+	svg#needed {
+		display: initial !important;
 	}
 	svg#social-media {
 		display: block !important;
