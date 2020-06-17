@@ -2043,6 +2043,9 @@ img.snt-team-pic.center-block {
 }
 
 @media screen and (max-width: 992px) {
+	.snt-nav-bar li a {
+		place-content: center;
+	}
 	.snt-blog-author.row {
 		text-align: center;
 	}
