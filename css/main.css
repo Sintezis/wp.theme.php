@@ -378,7 +378,7 @@ button.snt-btn:hover p{
 		text-align: center !important;
 	}
 	img.custom_header{
-		margin-top: 5rem;
+		margin-top: 80px;
 		width: 100%
 	}
 	.locations {
@@ -2043,6 +2043,47 @@ img.snt-team-pic.center-block {
 }
 
 @media screen and (max-width: 992px) {
+	.snt-blog-author.row {
+		text-align: center;
+	}
+	.snt-blog-author h4 {
+		text-align: left;
+	}
+	.snt-contact-message-section {
+		margin-bottom: 100px;
+	}
+	section.text-center.snt-contact-page-section {
+		margin-top: 0px !important;
+		margin-bottom: 100px !important;
+	}
+	.snt-portfolio-section {
+		margin-top: 80px;
+	}
+	.snt-services-page-section {
+		margin-top: 100px !important;
+	}
+	.snt-team-section .col-md-4 {
+		margin-bottom: 80px !important;
+	}
+	.snt-contact-section {
+		margin-top: 100px !important;
+	}
+	.snt-blog-section {
+		margin-top: 200px !important;
+	}
+	.snt-services-welcome-section h1 {
+		margin-bottom: 90px;
+	}
+	.welcome-col-md-4 {
+		margin-top: 30px !important;
+	}
+	.snt-services-welcome-section {
+		margin-top: 200px !important;
+		margin-bottom: 100px !important;
+	}
+	.snt-portfolio-section {
+		margin-top: 200px;
+	}
 	.snt-blog-header-lg h0 {
 		font-size: 40px !important;
 	}

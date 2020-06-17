@@ -8,7 +8,7 @@
 </div>
 
 <div class="snt-page-container">
-	<div class="row">
+	<div class="container-fluid">
 		<div class="col-md-6 col-md-offset-2">
 			<span class="snt-page-subtitle"><?php echo apply_filters( 'plugins/wp_subtitle/get_subtitle', '') ?></span>
 			<h1><?php the_title(); ?></h1>
