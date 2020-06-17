@@ -58,12 +58,22 @@ style guide rules end -->
         <a class="hidden-md hidden-sm hidden-xs" href="<?php echo get_home_url(); ?>"><img src="<?php echo get_template_directory_uri().'/imgs/logo-white.png'; ?>" class="navbar-brand" height="50" alt=""></a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
-        <ul class="nav navbar-nav navbar-right">
+        <ul class="nav navbar-nav navbar-right desktop">
           <li><a href="<?php echo get_home_url().'/' ?>">Home</a></li>
           <li><a href="<?php echo get_home_url().'/team' ?>">About Us</a></li>
           <li><a href="<?php echo get_home_url() .'/services'?>">Services</a></li>
           <li><a href="<?php echo get_home_url() .'/projects'?>">Projects</a></li>
           <li><a href="<?php echo get_home_url() .'/contact'?>">Contact</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right mobile">
+          <li><a href="<?php echo get_home_url().'/' ?>">Home</a></li>
+          <li><a href="<?php echo get_home_url().'/team' ?>">About Us</a></li>
+          <li><a href="<?php echo get_home_url() .'/services'?>">Services</a></li>
+          <li><a href="<?php echo get_home_url() .'/projects'?>">Projects</a></li>
+          <li><a href="<?php echo get_home_url() .'/contact'?>">Contact</a></li>
+          <li><a href="<?php echo get_home_url() .'/career'?>">Career</a></li>
+          <li><a href="<?php echo get_home_url() .'/blog'?>">Blog</a></li>
+          <li><a href="<?php echo get_home_url() .'/partnersip'?>">Partnership</a></li>
         </ul>
       </div>
     </div>
