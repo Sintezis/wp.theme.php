@@ -73,7 +73,7 @@ style guide rules end -->
           <li><a href="<?php echo get_home_url() .'/contact'?>">Contact</a></li>
           <li><a href="<?php echo get_home_url() .'/career'?>">Career</a></li>
           <li><a href="<?php echo get_home_url() .'/blog'?>">Blog</a></li>
-          <li><a href="<?php echo get_home_url() .'/partnersip'?>">Partnership</a></li>
+          <li><a href="<?php echo get_home_url() .'/partnership'?>">Partnership</a></li>
         </ul>
       </div>
     </div>

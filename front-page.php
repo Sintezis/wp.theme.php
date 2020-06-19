@@ -3,7 +3,7 @@
 		  <div class="container-fluid">
               <div class="col-md-10 col-lg-10 snt-welcome-container">
                 <div class="col-md-7 col-md-offset-4 col-lg-6 col-lg-offset-5">
-                <img class="snt-logo" src="http://www.sintezis.co/wp-content/themes/wp.theme.php/imgs/logo-white.png" alt="">
+                <img class="snt-logo" src="<?php echo get_template_directory_uri().'/imgs/logo-white.png'; ?>" alt="">
                 <h2>Transforming abstract ideas into digital products</h2>
                 <p class="subtitle">We bring order to your creative chaos and make things fit perfectly togeather. We build, so you can dream.</p>
                 <button class="snt-btn btn" onclick="window.location.href='#projects'">SEE OUR WORK 
